@@ -547,7 +547,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_29202169",
@@ -593,7 +594,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_29202173",
@@ -663,7 +665,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_29202175",
@@ -728,7 +731,8 @@
           11.990427
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_50649703",
@@ -781,7 +785,8 @@
           11.985032
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327138778",
@@ -826,7 +831,8 @@
           11.975213
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327139062",
@@ -867,7 +873,8 @@
           11.973867
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_679241490",
@@ -888,7 +895,8 @@
           11.973251
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1239878172",
@@ -942,7 +950,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_29202171_1",

@@ -1207,7 +1207,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_4702282",
@@ -1269,7 +1270,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_24310196",
@@ -1359,7 +1361,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_24310198",
@@ -1412,7 +1415,8 @@
           11.81225
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_28461142",
@@ -1506,7 +1510,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_28461145",
@@ -1563,7 +1568,8 @@
           11.751714
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_28461146",
@@ -1616,7 +1622,8 @@
           11.751543
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_28461150",
@@ -1686,7 +1693,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_28461151",
@@ -1739,7 +1747,8 @@
           11.8022
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_28461152",
@@ -1825,7 +1834,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_28461153",
@@ -1895,7 +1905,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_29415727",
@@ -1972,7 +1983,8 @@
           11.735557
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_29428779",
@@ -2025,7 +2037,8 @@
           11.724122
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32212412",
@@ -2051,7 +2064,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32547882",
@@ -2096,7 +2110,8 @@
           11.80711
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49357308",
@@ -2189,7 +2204,8 @@
           11.759258
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49357309",
@@ -2242,7 +2258,8 @@
           11.733243
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49357314",
@@ -2296,7 +2313,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_49357315",
@@ -2361,7 +2379,8 @@
           11.763211
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49493344",
@@ -2414,7 +2433,8 @@
           11.814664
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_84653314",
@@ -2459,7 +2479,8 @@
           11.759406
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_84653315",
@@ -2480,7 +2501,8 @@
           11.769876
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_84658109",
@@ -2501,7 +2523,8 @@
           11.766651
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_145026784",
@@ -2550,7 +2573,8 @@
           11.804395
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_366561435",
@@ -2580,7 +2604,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1030955551",
@@ -2601,7 +2626,8 @@
           11.722542
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1464345944",
@@ -2631,7 +2657,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_24310197_2",
@@ -16443,6 +16470,33 @@
         [
           46.501591,
           11.757787
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Sellaronda Skibus Val di Fassa",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 7.81,
+      "duration": 19,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Sellaronda Skibus Val di Fassa",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          46.427655,
+          11.698408
+        ],
+        [
+          46.474183,
+          11.774745
         ]
       ]
     }

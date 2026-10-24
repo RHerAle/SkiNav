@@ -864,7 +864,8 @@
           10.809376
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_30286590",
@@ -962,7 +963,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_30286605",
@@ -1039,7 +1041,8 @@
           10.815315
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_37132695",
@@ -1088,7 +1091,8 @@
           10.827372
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_39823167",
@@ -1158,7 +1162,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_42438171",
@@ -1215,7 +1220,8 @@
           10.831857
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445774",
@@ -1252,7 +1258,8 @@
           10.847296
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445776",
@@ -1273,7 +1280,8 @@
           10.843806
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445777",
@@ -1294,7 +1302,8 @@
           10.84383
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445778",
@@ -1343,7 +1352,8 @@
           10.827746
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445779",
@@ -1428,7 +1438,8 @@
           10.82695
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445781",
@@ -1481,7 +1492,8 @@
           10.837608
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42445782",
@@ -1526,7 +1538,8 @@
           10.837216
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_42690041",
@@ -1587,7 +1600,8 @@
           10.813511
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47099328",
@@ -1632,7 +1646,8 @@
           10.82506
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_50840884",
@@ -1706,7 +1721,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_50844355",
@@ -1759,7 +1775,8 @@
           10.837751
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94364347",
@@ -1848,7 +1865,8 @@
           10.812983
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94364355",
@@ -1918,7 +1936,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_94364358",
@@ -1964,7 +1983,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_107041756",
@@ -1985,7 +2005,8 @@
           10.815635
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_702183347",
@@ -2075,7 +2096,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_907693526",
@@ -2096,7 +2118,8 @@
           10.810868
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_907693527",
@@ -2117,7 +2140,8 @@
           10.811324
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_908011728",
@@ -2191,7 +2215,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1360625135",
@@ -2212,7 +2237,8 @@
           10.818974
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_10039585_4",
@@ -9553,6 +9579,33 @@
         [
           46.280401,
           10.831735
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_4",
+      "name": "Skibus Folgarida – Marilleva",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 1.61,
+      "duration": 4,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Skibus Folgarida – Marilleva",
+        "startTime": "08:15",
+        "endTime": "17:45",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          46.301484,
+          10.808362
+        ],
+        [
+          46.289636,
+          10.82033
         ]
       ]
     }

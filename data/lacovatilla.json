@@ -317,7 +317,8 @@
           -5.68893
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_93745678",
@@ -338,7 +339,8 @@
           -5.688871
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_93746275",
@@ -359,7 +361,8 @@
           -5.692597
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259592431",
@@ -380,7 +383,8 @@
           -5.692348
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_93780315_0",

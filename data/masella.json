@@ -1396,7 +1396,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_47976027",
@@ -1501,7 +1502,8 @@
           1.897203
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47976028",
@@ -1586,7 +1588,8 @@
           1.910216
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47976029",
@@ -1683,7 +1686,8 @@
           1.895694
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47976030",
@@ -1744,7 +1748,8 @@
           1.895152
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47976031",
@@ -1813,7 +1818,8 @@
           1.894991
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47976033",
@@ -1870,7 +1876,8 @@
           1.896292
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_98002551",
@@ -1931,7 +1938,8 @@
           1.900521
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_190514069",
@@ -2008,7 +2016,8 @@
           1.91246
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259992829",
@@ -2029,7 +2038,8 @@
           1.903116
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259993605",
@@ -2054,7 +2064,8 @@
           1.903519
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259993922",
@@ -2075,7 +2086,8 @@
           1.904208
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259994428",
@@ -2096,7 +2108,8 @@
           1.904158
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259994510",
@@ -2117,7 +2130,8 @@
           1.902294
         ]
       ],
-      "subtype": "rope_tow"
+      "subtype": "rope_tow",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259994817",
@@ -2138,7 +2152,8 @@
           1.902857
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259994818",
@@ -2159,7 +2174,8 @@
           1.903156
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259995352",
@@ -2196,7 +2212,8 @@
           1.909148
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259995353",
@@ -2233,7 +2250,8 @@
           1.909059
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259995397",
@@ -2254,7 +2272,8 @@
           1.905867
         ]
       ],
-      "subtype": "rope_tow"
+      "subtype": "rope_tow",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259996599",
@@ -2275,7 +2294,8 @@
           1.889218
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259999836",
@@ -2296,7 +2316,8 @@
           1.919112
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_260000026",
@@ -2333,7 +2354,8 @@
           1.919727
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_589088066",
@@ -2399,7 +2421,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_98002552_1",
@@ -14379,6 +14402,33 @@
         [
           42.331727,
           1.913337
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Ski Bus Alp 2500 (Masella - La Molina)",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 3.27,
+      "duration": 8,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Ski Bus Alp 2500 (Masella - La Molina)",
+        "startTime": "08:45",
+        "endTime": "17:00",
+        "frequencyMinutes": 20
+      },
+      "geometry": [
+        [
+          42.334685,
+          1.935008
+        ],
+        [
+          42.34937,
+          1.900581
         ]
       ]
     }

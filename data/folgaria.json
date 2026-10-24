@@ -1021,7 +1021,8 @@
           11.203245
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_31721172",
@@ -1094,7 +1095,8 @@
           11.199505
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_31721283",
@@ -1167,7 +1169,8 @@
           11.200541
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_31721286",
@@ -1236,7 +1239,8 @@
           11.179067
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47704960",
@@ -1301,7 +1305,8 @@
           11.205353
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_47704961",
@@ -1354,7 +1359,8 @@
           11.208034
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_50823787",
@@ -1407,7 +1413,8 @@
           11.200303
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_50823789",
@@ -1456,7 +1463,8 @@
           11.193917
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_67220309",
@@ -1549,7 +1557,8 @@
           11.175785
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_71376308",
@@ -1586,7 +1595,8 @@
           11.194488
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_96883645",
@@ -1607,7 +1617,8 @@
           11.25421
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_96883654",
@@ -1704,7 +1715,8 @@
           11.256158
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_96883666",
@@ -1725,7 +1737,8 @@
           11.259758
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_96887659",
@@ -1746,7 +1759,8 @@
           11.199785
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97166948",
@@ -1795,7 +1809,8 @@
           11.256001
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97177172",
@@ -1824,7 +1839,8 @@
           11.193116
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736969",
@@ -1845,7 +1861,8 @@
           11.213703
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736973",
@@ -1934,7 +1951,8 @@
           11.241918
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736975",
@@ -1987,7 +2005,8 @@
           11.235762
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736977",
@@ -2052,7 +2071,8 @@
           11.212839
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736981",
@@ -2105,7 +2125,8 @@
           11.218638
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_97736983",
@@ -2126,7 +2147,8 @@
           11.220945
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_258608509",
@@ -2147,7 +2169,8 @@
           11.200211
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_258608510",
@@ -2168,7 +2191,8 @@
           11.200378
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_312387754",
@@ -2189,7 +2213,8 @@
           11.178915
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327009381",
@@ -2210,7 +2235,8 @@
           11.196497
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327009382",
@@ -2259,7 +2285,8 @@
           11.198236
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327010032",
@@ -2280,7 +2307,8 @@
           11.20167
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_327010033",
@@ -2317,7 +2345,8 @@
           11.201313
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_751859443",
@@ -2338,7 +2367,8 @@
           11.193335
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1478606378",
@@ -2384,7 +2414,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_50364566_1",

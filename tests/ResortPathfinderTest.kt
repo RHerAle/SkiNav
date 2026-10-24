@@ -114,4 +114,161 @@ class ResortPathfinderTest {
         assertEquals("1h", ResortPathfinder.formatTime(60))
         assertEquals("1h 15m", ResortPathfinder.formatTime(75))
     }
+
+    @Test
+    fun testClosedEdgeIdsExclusion() {
+        val alpine = loadResort("alpine")
+        val normalPath = ResortPathfinder.findPath(alpine, "summit_main", "base")
+        assertNotNull(normalPath)
+        assertTrue(normalPath!!.isNotEmpty())
+
+        val closedEdgeId = normalPath.first().edge.id
+        val detourPath = ResortPathfinder.findPath(
+            alpine,
+            "summit_main",
+            "base",
+            RouteFilters(closedEdgeIds = setOf(closedEdgeId))
+        )
+        if (detourPath != null) {
+            assertTrue("Detour must not contain closed edge", detourPath.none { it.edge.id == closedEdgeId })
+        }
+
+        // Close all outgoing edges from summit_main to make it completely blocked
+        val allLeaving = alpine.edges
+            .filter { it.from == "summit_main" || (it.to == "summit_main" && it.bidirectional == true) }
+            .map { it.id }
+            .toSet()
+        val blockedPath = ResortPathfinder.findPath(
+            alpine,
+            "summit_main",
+            "base",
+            RouteFilters(closedEdgeIds = allLeaving)
+        )
+        assertNull("Path should be null when all exits are closed", blockedPath)
+    }
+
+    @Test
+    fun testBusScheduleAndWaitTimeCalculation() {
+        // Time parsing and formatting
+        assertEquals(510, ResortPathfinder.parseTimeMinutes("08:30"))
+        assertEquals(1050, ResortPathfinder.parseTimeMinutes("17:30"))
+        assertEquals("08:30", ResortPathfinder.formatTimeMinutes(510))
+        assertEquals("17:30", ResortPathfinder.formatTimeMinutes(1050))
+        assertNull(ResortPathfinder.parseTimeMinutes("invalid"))
+
+        val busEdge = ResortEdge(
+            id = "bus_test",
+            name = "Test Shuttle",
+            type = "bus",
+            from = "station_A",
+            to = "station_B",
+            distance = 4.0,
+            duration = 10.0,
+            schedule = BusSchedule(
+                lineName = "Test Shuttle Line",
+                startTime = "08:30",
+                endTime = "17:30",
+                frequencyMinutes = 15
+            )
+        )
+
+        // 1. Without departure time -> average wait (15 / 2 = 7)
+        val (avgWait, depNull) = ResortPathfinder.calculateBusWait(busEdge, null)
+        assertEquals(7, avgWait)
+        assertNull(depNull)
+
+        // 2. Exact departure match at 08:30 (510 min) -> 0 wait
+        val (exactWait, exactDep) = ResortPathfinder.calculateBusWait(busEdge, 510)
+        assertEquals(0, exactWait)
+        assertEquals("08:30", exactDep)
+
+        // 3. Arrive at 08:34 (514 min) -> next is 08:45 (525 min), wait is 11 min
+        val (wait11, dep45) = ResortPathfinder.calculateBusWait(busEdge, 514)
+        assertEquals(11, wait11)
+        assertEquals("08:45", dep45)
+
+        // 4. Test exact departures list
+        val exactScheduleBus = busEdge.copy(
+            schedule = BusSchedule(
+                lineName = "Exact Line",
+                startTime = "09:00",
+                endTime = "16:00",
+                exactDepartures = listOf("09:00", "11:30", "14:15", "16:00")
+            )
+        )
+        val (waitExactList, depExactList) = ResortPathfinder.calculateBusWait(exactScheduleBus, 9 * 60 + 10)
+        assertEquals(140, waitExactList)
+        assertEquals("11:30", depExactList)
+
+        // 5. Test pathfinding with real resort bus (baqueira)
+        val baqueira = loadResort("baqueira")
+        val busEdges = baqueira.edges.filter { it.type == "bus" }
+        assertTrue("Baqueira must have bus edges", busEdges.isNotEmpty())
+        val bus = busEdges.first()
+        assertNotNull("Bus must have schedule", bus.schedule)
+
+        // Departure at 09:04 (544 min)
+        val depTime = 9 * 60 + 4
+        val filtersWithTime = RouteFilters(departureTimeMinutes = depTime)
+        val path = ResortPathfinder.findPath(baqueira, bus.from, bus.to, filtersWithTime)
+        assertNotNull(path)
+        assertTrue(path!!.isNotEmpty())
+
+        val busStep = path.firstOrNull { it.edge.type == "bus" }
+        assertNotNull("Path should include a bus step", busStep)
+        assertTrue("Bus step waitMinutes must be > 0", busStep!!.waitMinutes > 0)
+        assertNotNull("Next departure time must be formatted", busStep.nextDepartureTime)
+
+        val stats = ResortPathfinder.calculateRouteStats(path)
+        assertTrue("Stats totalWaitMinutes must match bus step wait", stats.totalWaitMinutes >= busStep.waitMinutes)
+        assertTrue("Total time must include wait minutes", stats.timeMinutes >= busStep.waitMinutes)
+    }
+
+    @Test
+    fun testOutsideOperatingHoursExclusion() {
+        val liftEdge = ResortEdge(
+            id = "lift_1",
+            name = "Chairlift",
+            type = "lift",
+            from = "A",
+            to = "B",
+            operatingHours = "08:45-16:45"
+        )
+        val busEdge = ResortEdge(
+            id = "bus_1",
+            name = "Ski Bus",
+            type = "bus",
+            from = "A",
+            to = "B",
+            schedule = BusSchedule(startTime = "08:30", endTime = "17:30", frequencyMinutes = 15)
+        )
+
+        // Inside hours (12:00 = 720 min)
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(liftEdge, 12 * 60))
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(busEdge, 12 * 60))
+
+        // Outside hours evening (20:00 = 1200 min)
+        assertFalse(ResortPathfinder.isEdgeOperatingAt(liftEdge, 20 * 60))
+        assertFalse(ResortPathfinder.isEdgeOperatingAt(busEdge, 20 * 60))
+
+        // Outside hours early morning (06:00 = 360 min)
+        assertFalse(ResortPathfinder.isEdgeOperatingAt(liftEdge, 6 * 60))
+        assertFalse(ResortPathfinder.isEdgeOperatingAt(busEdge, 6 * 60))
+
+        // In a real resort (Formigal), at 20:00 all lifts and ski buses are closed
+        val formigal = loadResort("formigal")
+        val eveningFilters = RouteFilters(departureTimeMinutes = 20 * 60)
+        val stations = formigal.getSelectableLocations()
+        assertTrue(stations.size >= 2)
+
+        val baseSextas = stations.firstOrNull { it.name.contains("Base") || it.name.contains("Sextas") }?.id ?: stations[0].id
+        val summit = stations.firstOrNull { it.name.contains("Summit") || it.name.contains("Top") || it.name.contains("Cima") }?.id ?: stations[1].id
+        val eveningPath = ResortPathfinder.findPath(formigal, baseSextas, summit, eveningFilters)
+        if (eveningPath != null) {
+            assertTrue(
+                "No lift or bus should be open at 20:00",
+                eveningPath.none { it.edge.type == "lift" || it.edge.type == "bus" }
+            )
+        }
+    }
 }

@@ -1627,7 +1627,8 @@
           12.278793
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_25999818",
@@ -1717,7 +1718,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_54237694",
@@ -1738,7 +1740,8 @@
           12.37069
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_54237696",
@@ -1807,7 +1810,8 @@
           12.361223
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_54237697",
@@ -1860,7 +1864,8 @@
           12.361376
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_54237930",
@@ -1982,7 +1987,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_54239042",
@@ -2040,7 +2046,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_54359829",
@@ -2109,7 +2116,8 @@
           12.374449
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_54359830",
@@ -2162,7 +2170,8 @@
           12.372345
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_54457664",
@@ -2187,7 +2196,8 @@
           12.370864
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_89114409",
@@ -2252,7 +2262,8 @@
           12.336049
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_123178974",
@@ -2277,7 +2288,8 @@
           12.371652
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_245597671",
@@ -2306,7 +2318,8 @@
           12.275337
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_245597676",
@@ -2335,7 +2348,8 @@
           12.279
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_245597684",
@@ -2364,7 +2378,8 @@
           12.279424
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_303677814",
@@ -2438,7 +2453,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_325638659",
@@ -2459,7 +2475,8 @@
           12.330339
         ]
       ],
-      "subtype": "rope_tow"
+      "subtype": "rope_tow",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_776522170",
@@ -2525,7 +2542,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_776522176",
@@ -2546,7 +2564,8 @@
           12.38119
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_784239625",
@@ -2575,7 +2594,8 @@
           12.278929
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_831281054",
@@ -2653,7 +2673,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1233496282",
@@ -2687,7 +2708,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1323926009",
@@ -2708,7 +2730,8 @@
           12.372337
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_54237928_0",
@@ -27315,7 +27338,7 @@
     },
     {
       "id": "bus_sector_node_9_node_28",
-      "name": "Ski Bus Inter-Sector",
+      "name": "Skibus 3 Zinnen Dolomites",
       "type": "bus",
       "from": "node_9",
       "to": "node_28",
@@ -27332,7 +27355,13 @@
           46.728677,
           12.279205
         ]
-      ]
+      ],
+      "schedule": {
+        "lineName": "Skibus 3 Zinnen Dolomites",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      }
     }
   ]
 }

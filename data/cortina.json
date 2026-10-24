@@ -1439,7 +1439,8 @@
           12.186571
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_26780550",
@@ -1497,7 +1498,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32126945",
@@ -1546,7 +1548,8 @@
           12.016872
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32127068",
@@ -1571,7 +1574,8 @@
           12.015946
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32212852",
@@ -1672,7 +1676,8 @@
           12.04016
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32212855",
@@ -1713,7 +1718,8 @@
           12.031231
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33208987",
@@ -1834,7 +1840,8 @@
           12.071469
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33210677",
@@ -1883,7 +1890,8 @@
           12.076122
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33210680",
@@ -1944,7 +1952,8 @@
           12.094001
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_38434699",
@@ -1985,7 +1994,8 @@
           12.18603
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_46895206",
@@ -2054,7 +2064,8 @@
           12.183642
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49358894",
@@ -2107,7 +2118,8 @@
           12.078531
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49358900",
@@ -2176,7 +2188,8 @@
           12.097683
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_99343072",
@@ -2202,7 +2215,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_99343078",
@@ -2224,7 +2238,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_122961238",
@@ -2285,7 +2300,8 @@
           12.085277
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_144909784",
@@ -2330,7 +2346,8 @@
           12.190091
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_144909785",
@@ -2351,7 +2368,8 @@
           12.176387
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_144909787",
@@ -2404,7 +2422,8 @@
           12.182907
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_242948009",
@@ -2445,7 +2464,8 @@
           12.116183
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_352383907",
@@ -2475,7 +2495,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_850621640",
@@ -2540,7 +2561,8 @@
           12.040445
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_852327797",
@@ -2561,7 +2583,8 @@
           12.121328
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_900787867",
@@ -2626,7 +2649,8 @@
           12.04652
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1004286463",
@@ -2688,7 +2712,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1004286464",
@@ -2754,7 +2779,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1454106363",
@@ -2800,7 +2826,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1547744398",
@@ -2846,7 +2873,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_26497544_0",
@@ -15600,7 +15628,7 @@
     },
     {
       "id": "bus_sector_node_2_node_39",
-      "name": "Ski Bus Inter-Sector",
+      "name": "Skibus Cortina d'Ampezzo",
       "type": "bus",
       "from": "node_2",
       "to": "node_39",
@@ -15617,11 +15645,17 @@
           46.53797,
           12.140544
         ]
-      ]
+      ],
+      "schedule": {
+        "lineName": "Skibus Cortina d'Ampezzo",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      }
     },
     {
       "id": "bus_connect_node_55_node_2",
-      "name": "Ski Bus Inter-Sector",
+      "name": "Skibus Cortina d'Ampezzo",
       "type": "bus",
       "from": "node_55",
       "to": "node_2",
@@ -15638,7 +15672,13 @@
           46.545618,
           12.131481
         ]
-      ]
+      ],
+      "schedule": {
+        "lineName": "Skibus Cortina d'Ampezzo",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      }
     }
   ]
 }

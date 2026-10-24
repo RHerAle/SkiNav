@@ -80,7 +80,8 @@
           -2.77904
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259270183",
@@ -101,7 +102,8 @@
           -2.785999
         ]
       ],
-      "subtype": "rope_tow"
+      "subtype": "rope_tow",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_148769813_0",

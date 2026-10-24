@@ -911,7 +911,8 @@
           11.893788
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_24310341",
@@ -1016,7 +1017,8 @@
           11.892198
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_24310343",
@@ -1077,7 +1079,8 @@
           11.886549
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_24310345",
@@ -1134,7 +1137,8 @@
           11.860799
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_24310347",
@@ -1195,7 +1199,8 @@
           11.863109
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_25029207",
@@ -1256,7 +1261,8 @@
           11.88578
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_28461153",
@@ -1326,7 +1332,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_28461156",
@@ -1348,7 +1355,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32548266",
@@ -1374,7 +1382,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32548267",
@@ -1400,7 +1409,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_48832839",
@@ -1437,7 +1447,8 @@
           11.903643
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_151422774",
@@ -1471,7 +1482,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_199488366",
@@ -1540,7 +1552,8 @@
           11.866544
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_209187036",
@@ -1565,7 +1578,8 @@
           11.874154
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_255213779",
@@ -1614,7 +1628,8 @@
           11.855738
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_388035231",
@@ -1647,7 +1662,8 @@
           11.869168
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_465145724",
@@ -1701,7 +1717,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1012218193",
@@ -1722,7 +1739,8 @@
           11.871322
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1012218194",
@@ -1743,7 +1761,8 @@
           11.871118
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1054631065",
@@ -1764,7 +1783,8 @@
           11.881303
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1054631066",
@@ -1785,7 +1805,8 @@
           11.873485
         ]
       ],
-      "subtype": "t-bar"
+      "subtype": "t-bar",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_24310338_1",
@@ -11488,6 +11509,33 @@
         [
           46.495386,
           11.873486
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Sellaronda Skibus Arabba - Marmolada",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 2.88,
+      "duration": 7,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Sellaronda Skibus Arabba - Marmolada",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          46.470276,
+          11.89854
+        ],
+        [
+          46.445029,
+          11.906788
         ]
       ]
     }

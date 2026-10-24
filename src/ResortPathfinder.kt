@@ -103,7 +103,97 @@ object ResortPathfinder {
         return graph
     }
 
+    fun parseTimeMinutes(hhmm: String): Int? {
+        val parts = hhmm.trim().split(":")
+        if (parts.size != 2) return null
+        val h = parts[0].toIntOrNull() ?: return null
+        val m = parts[1].toIntOrNull() ?: return null
+        if (h !in 0..23 || m !in 0..59) return null
+        return h * 60 + m
+    }
+
+    fun formatTimeMinutes(minutes: Int): String {
+        val norm = ((minutes % 1440) + 1440) % 1440
+        val h = norm / 60
+        val m = norm % 60
+        return "%02d:%02d".format(java.util.Locale.US, h, m)
+    }
+
+    fun isEdgeOperatingAt(edge: ResortEdge, timeMinutes: Int): Boolean {
+        if (edge.type == "bus" && edge.schedule != null) {
+            val sched = edge.schedule
+            val startMin = parseTimeMinutes(sched.startTime) ?: (8 * 60 + 30)
+            val endMin = parseTimeMinutes(sched.endTime) ?: (17 * 60 + 30)
+            val exact = sched.exactDepartures
+            if (!exact.isNullOrEmpty()) {
+                val depMinutes = exact.mapNotNull { parseTimeMinutes(it) }.sorted()
+                if (timeMinutes < startMin - 30) return false
+                return depMinutes.any { it >= timeMinutes }
+            } else {
+                return timeMinutes in startMin..endMin
+            }
+        }
+        if (edge.operatingHours != null) {
+            val parts = edge.operatingHours.split("-")
+            if (parts.size == 2) {
+                val startMin = parseTimeMinutes(parts[0])
+                val endMin = parseTimeMinutes(parts[1])
+                if (startMin != null && endMin != null) {
+                    return timeMinutes in startMin..endMin
+                }
+            }
+        }
+        return true
+    }
+
+    fun calculateBusWait(edge: ResortEdge, departureTimeMinutes: Int?): Pair<Int, String?> {
+        if (edge.type != "bus" || edge.schedule == null) {
+            return Pair(0, null)
+        }
+        val sched = edge.schedule
+        val startMin = parseTimeMinutes(sched.startTime) ?: (8 * 60 + 30)
+        val endMin = parseTimeMinutes(sched.endTime) ?: (17 * 60 + 30)
+        val freq = if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15
+
+        if (departureTimeMinutes != null) {
+            val exact = sched.exactDepartures
+            if (!exact.isNullOrEmpty()) {
+                val depMinutes = exact.mapNotNull { parseTimeMinutes(it) }.sorted()
+                val nextDep = depMinutes.firstOrNull { it >= departureTimeMinutes }
+                return if (nextDep != null) {
+                    val wait = nextDep - departureTimeMinutes
+                    Pair(maxOf(0, wait), formatTimeMinutes(nextDep))
+                } else {
+                    Pair(0, null)
+                }
+            } else {
+                val nextMin = if (departureTimeMinutes <= startMin) {
+                    startMin
+                } else {
+                    val elapsed = departureTimeMinutes - startMin
+                    val k = ceil(elapsed.toDouble() / freq).toInt()
+                    startMin + k * freq
+                }
+                return if (nextMin <= endMin) {
+                    val wait = nextMin - departureTimeMinutes
+                    Pair(maxOf(0, wait), formatTimeMinutes(nextMin))
+                } else {
+                    Pair(0, null)
+                }
+            }
+        } else {
+            val avgWait = maxOf(1, freq / 2)
+            return Pair(avgWait, null)
+        }
+    }
+
     private fun shouldIncludeEdge(edge: ResortEdge, filters: RouteFilters): Boolean {
+        if (edge.id in filters.closedEdgeIds) {
+            return false
+        }
+        if (filters.departureTimeMinutes != null && !isEdgeOperatingAt(edge, filters.departureTimeMinutes)) {
+            return false
+        }
         if (edge.type == "bus" && !filters.includeBus) {
             return false
         }
@@ -136,6 +226,8 @@ object ResortPathfinder {
 
     private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters): Double {
         var cost = if (edge.duration > 0) edge.duration else 2.0
+        val (waitMins, _) = calculateBusWait(edge, filters.departureTimeMinutes)
+        cost += waitMins
         if (filters.fastestRoute) return cost
 
         when (edge.type) {
@@ -188,11 +280,18 @@ object ResortPathfinder {
                 val tentativeG = currentG + calculateEdgeCost(neighbor.edge, filters)
                 val prevG = gScore[neighbor.nodeId]
                 if (prevG == null || tentativeG < prevG) {
+                    val (waitMins, nextDep) = if (neighbor.edge.type == "bus") {
+                        calculateBusWait(neighbor.edge, filters.departureTimeMinutes)
+                    } else {
+                        Pair(0, null)
+                    }
                     cameFrom[neighbor.nodeId] = RouteStep(
                         from = current,
                         to = neighbor.nodeId,
                         edge = neighbor.edge,
-                        reverse = neighbor.reverse
+                        reverse = neighbor.reverse,
+                        waitMinutes = waitMins,
+                        nextDepartureTime = nextDep
                     )
                     gScore[neighbor.nodeId] = tentativeG
                     val f = tentativeG + heuristic(resort, neighbor.nodeId, endId)
@@ -229,12 +328,14 @@ object ResortPathfinder {
                 liftsCount = 0,
                 busesCount = 0,
                 walksCount = 0,
-                difficulties = emptyList()
+                difficulties = emptyList(),
+                totalWaitMinutes = 0
             )
         }
 
         var totalDistance = 0.0
         var totalTime = 0.0
+        var totalWait = 0
         var totalGain = 0.0
         var totalLoss = 0.0
         var slopes = 0
@@ -246,7 +347,8 @@ object ResortPathfinder {
         for (step in path) {
             val edge = step.edge
             totalDistance += edge.distance
-            totalTime += edge.duration
+            totalTime += edge.duration + step.waitMinutes
+            totalWait += step.waitMinutes
             when (edge.type) {
                 "slope" -> {
                     slopes++
@@ -263,7 +365,7 @@ object ResortPathfinder {
         }
 
         return RouteStats(
-            distanceKm = "%.1f".format( java.util.Locale.US, totalDistance),
+            distanceKm = "%.1f".format(java.util.Locale.US, totalDistance),
             timeMinutes = totalTime.roundToInt(),
             elevationGainMeters = totalGain.roundToInt(),
             elevationLossMeters = totalLoss.roundToInt(),
@@ -271,7 +373,8 @@ object ResortPathfinder {
             liftsCount = lifts,
             busesCount = buses,
             walksCount = walks,
-            difficulties = difficulties.toList()
+            difficulties = difficulties.toList(),
+            totalWaitMinutes = totalWait
         )
     }
 

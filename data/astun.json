@@ -794,7 +794,8 @@
           -0.50494
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741405",
@@ -863,7 +864,8 @@
           -0.505482
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741406",
@@ -884,7 +886,8 @@
           -0.503334
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741407",
@@ -905,7 +908,8 @@
           -0.50327
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741408",
@@ -974,7 +978,8 @@
           -0.491712
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741576",
@@ -995,7 +1000,8 @@
           -0.503069
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741577",
@@ -1072,7 +1078,8 @@
           -0.491393
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741578",
@@ -1093,7 +1100,8 @@
           -0.503067
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198741701",
@@ -1154,7 +1162,8 @@
           -0.483376
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_231104139",
@@ -1179,7 +1188,8 @@
           -0.510634
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259144824",
@@ -1200,7 +1210,8 @@
           -0.49486
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259144825",
@@ -1221,7 +1232,8 @@
           -0.494779
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259928812",
@@ -1242,7 +1254,8 @@
           -0.505427
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259929119",
@@ -1263,7 +1276,8 @@
           -0.509702
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259929410",
@@ -1284,7 +1298,8 @@
           -0.51093
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1074007005",
@@ -1305,7 +1320,8 @@
           -0.504773
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1387991144",
@@ -1331,7 +1347,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "piste_166430945_2",
@@ -8352,6 +8369,33 @@
         [
           42.810708,
           -0.486361
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Ski Bus Astún - Somport - Candanchú",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 0.41,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Ski Bus Astún - Somport - Candanchú",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 20
+      },
+      "geometry": [
+        [
+          42.809929,
+          -0.50437
+        ],
+        [
+          42.808609,
+          -0.50902
         ]
       ]
     }

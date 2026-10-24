@@ -26,6 +26,20 @@ data class ResortNode(
     val type: String = "station"
 )
 
+data class BusSchedule(
+    val lineName: String? = null,
+    val startTime: String = "08:30",
+    val endTime: String = "17:30",
+    val frequencyMinutes: Int = 15,
+    val exactDepartures: List<String>? = null
+)
+
+enum class EdgeStatus {
+    OPEN,
+    CLOSED,
+    ON_HOLD
+}
+
 data class ResortEdge(
     val id: String,
     val name: String,
@@ -38,7 +52,9 @@ data class ResortEdge(
     val difficulty: String? = null, // "green", "blue", "red", "black"
     val subtype: String? = null,    // "gondola", "cable_car", "chair_lift", "mixed_lift", "funicular"
     val bidirectional: Boolean? = null,
-    val geometry: List<List<Double>>? = null
+    val geometry: List<List<Double>>? = null,
+    val schedule: BusSchedule? = null,
+    val operatingHours: String? = null
 )
 
 data class SkiResort(
@@ -76,14 +92,18 @@ data class SkiResort(
 data class RouteFilters(
     val maxDifficulty: String = "black",
     val includeBus: Boolean = true,
-    val fastestRoute: Boolean = true
+    val fastestRoute: Boolean = true,
+    val closedEdgeIds: Set<String> = emptySet(),
+    val departureTimeMinutes: Int? = null
 )
 
 data class RouteStep(
     val from: String,
     val to: String,
     val edge: ResortEdge,
-    val reverse: Boolean = false
+    val reverse: Boolean = false,
+    val waitMinutes: Int = 0,
+    val nextDepartureTime: String? = null
 )
 
 data class RouteStats(
@@ -95,7 +115,8 @@ data class RouteStats(
     val liftsCount: Int,
     val busesCount: Int,
     val walksCount: Int,
-    val difficulties: List<String>
+    val difficulties: List<String>,
+    val totalWaitMinutes: Int = 0
 )
 
 data class RouteAlternative(

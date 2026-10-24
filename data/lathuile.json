@@ -1766,7 +1766,8 @@
           6.896646
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656202",
@@ -1851,7 +1852,8 @@
           6.893057
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656204",
@@ -1908,7 +1910,8 @@
           6.903296
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656205",
@@ -1965,7 +1968,8 @@
           6.925531
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656206",
@@ -2034,7 +2038,8 @@
           6.925395
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656209",
@@ -2119,7 +2124,8 @@
           6.91116
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656550",
@@ -2172,7 +2178,8 @@
           6.922538
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23656553",
@@ -2261,7 +2268,8 @@
           6.923358
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23713028",
@@ -2303,7 +2311,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_23713029",
@@ -2356,7 +2365,8 @@
           6.939322
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23713468",
@@ -2429,7 +2439,8 @@
           6.938767
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23855644",
@@ -2450,7 +2461,8 @@
           6.922319
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23855862",
@@ -2507,7 +2519,8 @@
           6.939206
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199643276",
@@ -2580,7 +2593,8 @@
           6.903695
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199643742",
@@ -2629,7 +2643,8 @@
           6.94312
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_242835988",
@@ -2650,7 +2665,8 @@
           6.946259
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_242835990",
@@ -2671,7 +2687,8 @@
           6.946868
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1264152174",
@@ -2724,7 +2741,8 @@
           6.916236
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_23819469_1",
@@ -28533,6 +28551,33 @@
         [
           45.6616,
           6.8797
+        ],
+        [
+          45.663531,
+          6.876549
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Navetta Skibus La Thuile",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 2.4,
+      "duration": 6,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Navetta Skibus La Thuile",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          45.684089,
+          6.886073
         ],
         [
           45.663531,

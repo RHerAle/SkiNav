@@ -1,1 +1,570 @@
-{"id":"alpine","name":"Alpine Valley Resort","country":"Demo","flag":"🏔️","bounds":[[46.2,7.4],[46.26,7.5]],"center":[46.23,7.44],"stats":{"slopes":"60 km","lifts":15,"elevation":"1550m - 2400m","drop":"850m"},"nodes":[{"id":"base","name":"Base Station (Village)","lat":46.215,"lng":7.425,"type":"station"},{"id":"mid_central","name":"Mid Mountain Hub","lat":46.23,"lng":7.44,"type":"station"},{"id":"mid_east","name":"East Ridge Station","lat":46.228,"lng":7.455,"type":"station"},{"id":"mid_west","name":"West Bowl Station","lat":46.232,"lng":7.43,"type":"station"},{"id":"summit_main","name":"Main Summit Peak","lat":46.248,"lng":7.445,"type":"station"},{"id":"summit_north","name":"North Peak Summit","lat":46.252,"lng":7.448,"type":"station"},{"id":"summit_south","name":"South Peak Summit","lat":46.245,"lng":7.46,"type":"station"},{"id":"beginner_area","name":"Beginner Zone Hub","lat":46.222,"lng":7.435,"type":"station"},{"id":"park_entry","name":"Terrain Park Entry","lat":46.235,"lng":7.458,"type":"intersection"},{"id":"scenic_point","name":"Scenic Overlook","lat":46.24,"lng":7.432,"type":"intersection"}],"edges":[{"id":"lift_base_mid","type":"lift","subtype":"gondola","from":"base","to":"mid_central","name":"Valley Gondola","distance":2.5,"duration":8,"capacity":8,"bidirectional":true,"geometry":[[46.215,7.425],[46.222,7.432],[46.23,7.44]]},{"id":"lift_base_beginner","type":"lift","subtype":"chairlift","from":"base","to":"beginner_area","name":"Bunny Slope Quad","distance":0.8,"duration":4,"capacity":4,"geometry":[[46.215,7.425],[46.222,7.435]]},{"id":"lift_mid_summit","type":"lift","subtype":"chairlift","from":"mid_central","to":"summit_main","name":"Summit Express 6-Pack","distance":2.2,"duration":7,"capacity":6,"geometry":[[46.23,7.44],[46.24,7.442],[46.248,7.445]]},{"id":"lift_mid_east","type":"lift","subtype":"chairlift","from":"mid_east","to":"summit_south","name":"East Ridge Quad","distance":1.8,"duration":6,"capacity":4,"geometry":[[46.228,7.455],[46.245,7.46]]},{"id":"lift_mid_west","type":"lift","subtype":"chairlift","from":"mid_west","to":"summit_north","name":"North Face Express","distance":2,"duration":6,"capacity":4,"geometry":[[46.232,7.43],[46.252,7.448]]},{"id":"slope_green_1","type":"slope","difficulty":"green","from":"beginner_area","to":"base","name":"Easy Street","distance":1.2,"duration":5,"elevation":-150,"geometry":[[46.222,7.435],[46.218,7.43],[46.215,7.425]]},{"id":"slope_green_2","type":"slope","difficulty":"green","from":"mid_central","to":"beginner_area","name":"Meadow Run","distance":1.8,"duration":7,"elevation":-200,"geometry":[[46.23,7.44],[46.225,7.438],[46.222,7.435]]},{"id":"slope_green_3","type":"slope","difficulty":"green","from":"mid_west","to":"mid_central","name":"Gentle Glide","distance":1,"duration":4,"elevation":-80,"geometry":[[46.232,7.43],[46.231,7.435],[46.23,7.44]]},{"id":"slope_blue_1","type":"slope","difficulty":"blue","from":"mid_central","to":"base","name":"Blue Heaven","distance":2.5,"duration":8,"elevation":-400,"geometry":[[46.23,7.44],[46.223,7.431],[46.215,7.425]]},{"id":"slope_blue_2","type":"slope","difficulty":"blue","from":"summit_main","to":"mid_central","name":"Cruiser","distance":2.8,"duration":9,"elevation":-500,"geometry":[[46.248,7.445],[46.238,7.442],[46.23,7.44]]},{"id":"slope_blue_3","type":"slope","difficulty":"blue","from":"summit_main","to":"scenic_point","name":"Vista Way","distance":1.5,"duration":5,"elevation":-300,"geometry":[[46.248,7.445],[46.244,7.438],[46.24,7.432]]},{"id":"slope_blue_4","type":"slope","difficulty":"blue","from":"scenic_point","to":"mid_west","name":"Ridge Runner","distance":1.2,"duration":4,"elevation":-200,"geometry":[[46.24,7.432],[46.235,7.431],[46.232,7.43]]},{"id":"slope_red_1","type":"slope","difficulty":"red","from":"summit_main","to":"mid_central","name":"Thunder Road","distance":2.3,"duration":6,"elevation":-500,"geometry":[[46.248,7.445],[46.239,7.443],[46.23,7.44]]},{"id":"slope_red_2","type":"slope","difficulty":"red","from":"summit_south","to":"park_entry","name":"Southern Exposure","distance":1.6,"duration":5,"elevation":-400,"geometry":[[46.245,7.46],[46.24,7.459],[46.235,7.458]]},{"id":"slope_red_3","type":"slope","difficulty":"red","from":"summit_north","to":"scenic_point","name":"North Face","distance":1.8,"duration":5,"elevation":-450,"geometry":[[46.252,7.448],[46.246,7.44],[46.24,7.432]]},{"id":"slope_black_1","type":"slope","difficulty":"black","from":"summit_main","to":"mid_west","name":"Black Diamond Chute","distance":1.9,"duration":5,"elevation":-500,"geometry":[[46.248,7.445],[46.24,7.436],[46.232,7.43]]},{"id":"slope_park_exit","type":"slope","difficulty":"blue","from":"park_entry","to":"mid_east","name":"Park Exit Run","distance":0.8,"duration":3,"elevation":-80,"geometry":[[46.235,7.458],[46.23,7.456],[46.228,7.455]]},{"id":"slope_blue_5","type":"slope","difficulty":"blue","from":"mid_east","to":"mid_central","name":"East Ridge Connector","distance":1.2,"duration":4,"elevation":-100,"geometry":[[46.228,7.455],[46.229,7.447],[46.23,7.44]]},{"id":"bus_shuttle","type":"bus","from":"base","to":"beginner_area","name":"Resort Shuttle","distance":2,"duration":6,"bidirectional":true,"geometry":[[46.215,7.425],[46.222,7.435]]}]}
+{
+  "id": "alpine",
+  "name": "Alpine Valley Resort",
+  "country": "Demo",
+  "flag": "🏔️",
+  "bounds": [
+    [
+      46.2,
+      7.4
+    ],
+    [
+      46.26,
+      7.5
+    ]
+  ],
+  "center": [
+    46.23,
+    7.44
+  ],
+  "stats": {
+    "slopes": "60 km",
+    "lifts": 15,
+    "elevation": "1550m - 2400m",
+    "drop": "850m"
+  },
+  "nodes": [
+    {
+      "id": "base",
+      "name": "Base Station (Village)",
+      "lat": 46.215,
+      "lng": 7.425,
+      "type": "station"
+    },
+    {
+      "id": "mid_central",
+      "name": "Mid Mountain Hub",
+      "lat": 46.23,
+      "lng": 7.44,
+      "type": "station"
+    },
+    {
+      "id": "mid_east",
+      "name": "East Ridge Station",
+      "lat": 46.228,
+      "lng": 7.455,
+      "type": "station"
+    },
+    {
+      "id": "mid_west",
+      "name": "West Bowl Station",
+      "lat": 46.232,
+      "lng": 7.43,
+      "type": "station"
+    },
+    {
+      "id": "summit_main",
+      "name": "Main Summit Peak",
+      "lat": 46.248,
+      "lng": 7.445,
+      "type": "station"
+    },
+    {
+      "id": "summit_north",
+      "name": "North Peak Summit",
+      "lat": 46.252,
+      "lng": 7.448,
+      "type": "station"
+    },
+    {
+      "id": "summit_south",
+      "name": "South Peak Summit",
+      "lat": 46.245,
+      "lng": 7.46,
+      "type": "station"
+    },
+    {
+      "id": "beginner_area",
+      "name": "Beginner Zone Hub",
+      "lat": 46.222,
+      "lng": 7.435,
+      "type": "station"
+    },
+    {
+      "id": "park_entry",
+      "name": "Terrain Park Entry",
+      "lat": 46.235,
+      "lng": 7.458,
+      "type": "intersection"
+    },
+    {
+      "id": "scenic_point",
+      "name": "Scenic Overlook",
+      "lat": 46.24,
+      "lng": 7.432,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_base_mid",
+      "type": "lift",
+      "subtype": "gondola",
+      "from": "base",
+      "to": "mid_central",
+      "name": "Valley Gondola",
+      "distance": 2.5,
+      "duration": 8,
+      "capacity": 8,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.215,
+          7.425
+        ],
+        [
+          46.222,
+          7.432
+        ],
+        [
+          46.23,
+          7.44
+        ]
+      ],
+      "operatingHours": "08:30-17:00"
+    },
+    {
+      "id": "lift_base_beginner",
+      "type": "lift",
+      "subtype": "chairlift",
+      "from": "base",
+      "to": "beginner_area",
+      "name": "Bunny Slope Quad",
+      "distance": 0.8,
+      "duration": 4,
+      "capacity": 4,
+      "geometry": [
+        [
+          46.215,
+          7.425
+        ],
+        [
+          46.222,
+          7.435
+        ]
+      ],
+      "operatingHours": "08:45-16:45"
+    },
+    {
+      "id": "lift_mid_summit",
+      "type": "lift",
+      "subtype": "chairlift",
+      "from": "mid_central",
+      "to": "summit_main",
+      "name": "Summit Express 6-Pack",
+      "distance": 2.2,
+      "duration": 7,
+      "capacity": 6,
+      "geometry": [
+        [
+          46.23,
+          7.44
+        ],
+        [
+          46.24,
+          7.442
+        ],
+        [
+          46.248,
+          7.445
+        ]
+      ],
+      "operatingHours": "08:45-16:45"
+    },
+    {
+      "id": "lift_mid_east",
+      "type": "lift",
+      "subtype": "chairlift",
+      "from": "mid_east",
+      "to": "summit_south",
+      "name": "East Ridge Quad",
+      "distance": 1.8,
+      "duration": 6,
+      "capacity": 4,
+      "geometry": [
+        [
+          46.228,
+          7.455
+        ],
+        [
+          46.245,
+          7.46
+        ]
+      ],
+      "operatingHours": "08:45-16:45"
+    },
+    {
+      "id": "lift_mid_west",
+      "type": "lift",
+      "subtype": "chairlift",
+      "from": "mid_west",
+      "to": "summit_north",
+      "name": "North Face Express",
+      "distance": 2,
+      "duration": 6,
+      "capacity": 4,
+      "geometry": [
+        [
+          46.232,
+          7.43
+        ],
+        [
+          46.252,
+          7.448
+        ]
+      ],
+      "operatingHours": "08:45-16:45"
+    },
+    {
+      "id": "slope_green_1",
+      "type": "slope",
+      "difficulty": "green",
+      "from": "beginner_area",
+      "to": "base",
+      "name": "Easy Street",
+      "distance": 1.2,
+      "duration": 5,
+      "elevation": -150,
+      "geometry": [
+        [
+          46.222,
+          7.435
+        ],
+        [
+          46.218,
+          7.43
+        ],
+        [
+          46.215,
+          7.425
+        ]
+      ]
+    },
+    {
+      "id": "slope_green_2",
+      "type": "slope",
+      "difficulty": "green",
+      "from": "mid_central",
+      "to": "beginner_area",
+      "name": "Meadow Run",
+      "distance": 1.8,
+      "duration": 7,
+      "elevation": -200,
+      "geometry": [
+        [
+          46.23,
+          7.44
+        ],
+        [
+          46.225,
+          7.438
+        ],
+        [
+          46.222,
+          7.435
+        ]
+      ]
+    },
+    {
+      "id": "slope_green_3",
+      "type": "slope",
+      "difficulty": "green",
+      "from": "mid_west",
+      "to": "mid_central",
+      "name": "Gentle Glide",
+      "distance": 1,
+      "duration": 4,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.232,
+          7.43
+        ],
+        [
+          46.231,
+          7.435
+        ],
+        [
+          46.23,
+          7.44
+        ]
+      ]
+    },
+    {
+      "id": "slope_blue_1",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "mid_central",
+      "to": "base",
+      "name": "Blue Heaven",
+      "distance": 2.5,
+      "duration": 8,
+      "elevation": -400,
+      "geometry": [
+        [
+          46.23,
+          7.44
+        ],
+        [
+          46.223,
+          7.431
+        ],
+        [
+          46.215,
+          7.425
+        ]
+      ]
+    },
+    {
+      "id": "slope_blue_2",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "summit_main",
+      "to": "mid_central",
+      "name": "Cruiser",
+      "distance": 2.8,
+      "duration": 9,
+      "elevation": -500,
+      "geometry": [
+        [
+          46.248,
+          7.445
+        ],
+        [
+          46.238,
+          7.442
+        ],
+        [
+          46.23,
+          7.44
+        ]
+      ]
+    },
+    {
+      "id": "slope_blue_3",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "summit_main",
+      "to": "scenic_point",
+      "name": "Vista Way",
+      "distance": 1.5,
+      "duration": 5,
+      "elevation": -300,
+      "geometry": [
+        [
+          46.248,
+          7.445
+        ],
+        [
+          46.244,
+          7.438
+        ],
+        [
+          46.24,
+          7.432
+        ]
+      ]
+    },
+    {
+      "id": "slope_blue_4",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "scenic_point",
+      "to": "mid_west",
+      "name": "Ridge Runner",
+      "distance": 1.2,
+      "duration": 4,
+      "elevation": -200,
+      "geometry": [
+        [
+          46.24,
+          7.432
+        ],
+        [
+          46.235,
+          7.431
+        ],
+        [
+          46.232,
+          7.43
+        ]
+      ]
+    },
+    {
+      "id": "slope_red_1",
+      "type": "slope",
+      "difficulty": "red",
+      "from": "summit_main",
+      "to": "mid_central",
+      "name": "Thunder Road",
+      "distance": 2.3,
+      "duration": 6,
+      "elevation": -500,
+      "geometry": [
+        [
+          46.248,
+          7.445
+        ],
+        [
+          46.239,
+          7.443
+        ],
+        [
+          46.23,
+          7.44
+        ]
+      ]
+    },
+    {
+      "id": "slope_red_2",
+      "type": "slope",
+      "difficulty": "red",
+      "from": "summit_south",
+      "to": "park_entry",
+      "name": "Southern Exposure",
+      "distance": 1.6,
+      "duration": 5,
+      "elevation": -400,
+      "geometry": [
+        [
+          46.245,
+          7.46
+        ],
+        [
+          46.24,
+          7.459
+        ],
+        [
+          46.235,
+          7.458
+        ]
+      ]
+    },
+    {
+      "id": "slope_red_3",
+      "type": "slope",
+      "difficulty": "red",
+      "from": "summit_north",
+      "to": "scenic_point",
+      "name": "North Face",
+      "distance": 1.8,
+      "duration": 5,
+      "elevation": -450,
+      "geometry": [
+        [
+          46.252,
+          7.448
+        ],
+        [
+          46.246,
+          7.44
+        ],
+        [
+          46.24,
+          7.432
+        ]
+      ]
+    },
+    {
+      "id": "slope_black_1",
+      "type": "slope",
+      "difficulty": "black",
+      "from": "summit_main",
+      "to": "mid_west",
+      "name": "Black Diamond Chute",
+      "distance": 1.9,
+      "duration": 5,
+      "elevation": -500,
+      "geometry": [
+        [
+          46.248,
+          7.445
+        ],
+        [
+          46.24,
+          7.436
+        ],
+        [
+          46.232,
+          7.43
+        ]
+      ]
+    },
+    {
+      "id": "slope_park_exit",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "park_entry",
+      "to": "mid_east",
+      "name": "Park Exit Run",
+      "distance": 0.8,
+      "duration": 3,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.235,
+          7.458
+        ],
+        [
+          46.23,
+          7.456
+        ],
+        [
+          46.228,
+          7.455
+        ]
+      ]
+    },
+    {
+      "id": "slope_blue_5",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "mid_east",
+      "to": "mid_central",
+      "name": "East Ridge Connector",
+      "distance": 1.2,
+      "duration": 4,
+      "elevation": -100,
+      "geometry": [
+        [
+          46.228,
+          7.455
+        ],
+        [
+          46.229,
+          7.447
+        ],
+        [
+          46.23,
+          7.44
+        ]
+      ]
+    },
+    {
+      "id": "bus_shuttle",
+      "type": "bus",
+      "from": "base",
+      "to": "beginner_area",
+      "name": "Resort Shuttle",
+      "distance": 2,
+      "duration": 6,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.215,
+          7.425
+        ],
+        [
+          46.222,
+          7.435
+        ]
+      ],
+      "schedule": {
+        "lineName": "Resort Shuttle",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 15
+      }
+    }
+  ]
+}

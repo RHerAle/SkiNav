@@ -388,7 +388,8 @@
           -5.408747
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_103076342",
@@ -409,7 +410,8 @@
           -5.389239
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_103076360",
@@ -430,7 +432,8 @@
           -5.396877
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973303",
@@ -487,7 +490,8 @@
           -5.39693
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973304",
@@ -540,7 +544,8 @@
           -5.397684
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973305",
@@ -609,7 +614,8 @@
           -5.397936
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973307",
@@ -674,7 +680,8 @@
           -5.397003
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973308",
@@ -699,7 +706,8 @@
           -5.397328
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194973309",
@@ -720,7 +728,8 @@
           -5.3935
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194983594",
@@ -769,7 +778,8 @@
           -5.381294
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194983595",
@@ -818,7 +828,8 @@
           -5.381194
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194983596",
@@ -847,7 +858,8 @@
           -5.38225
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_194983597",
@@ -876,7 +888,8 @@
           -5.385001
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1236289800",
@@ -897,7 +910,8 @@
           -5.389241
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_97026316_0",
@@ -4625,7 +4639,7 @@
     },
     {
       "id": "bus_sector_node_8_node_17",
-      "name": "Ski Bus Inter-Sector",
+      "name": "Ski Bus Cebolledo - Riopinos - Salencias",
       "type": "bus",
       "from": "node_8",
       "to": "node_17",
@@ -4642,7 +4656,13 @@
           43.057326,
           -5.381264
         ]
-      ]
+      ],
+      "schedule": {
+        "lineName": "Ski Bus Cebolledo - Riopinos - Salencias",
+        "startTime": "09:00",
+        "endTime": "17:00",
+        "frequencyMinutes": 20
+      }
     },
     {
       "id": "walk_connect_node_32_node_18",

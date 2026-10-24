@@ -532,7 +532,8 @@
           -3.972071
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860072",
@@ -581,7 +582,8 @@
           -3.972544
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860075",
@@ -602,7 +604,8 @@
           -3.963779
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860078",
@@ -643,7 +646,8 @@
           -3.978001
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860085",
@@ -716,7 +720,8 @@
           -3.975445
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860086",
@@ -777,7 +782,8 @@
           -3.977193
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860088",
@@ -834,7 +840,8 @@
           -3.972009
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_48860097",
@@ -875,7 +882,8 @@
           -3.974798
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923449",
@@ -896,7 +904,8 @@
           -3.969247
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923450",
@@ -917,7 +926,8 @@
           -3.970287
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923463",
@@ -966,7 +976,8 @@
           -3.963222
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923464",
@@ -987,7 +998,8 @@
           -3.96764
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923465",
@@ -1008,7 +1020,8 @@
           -3.966199
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_199923466",
@@ -1029,7 +1042,8 @@
           -3.971955
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259609798",
@@ -1050,7 +1064,8 @@
           -3.971995
         ]
       ],
-      "subtype": "rope_tow"
+      "subtype": "rope_tow",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_48860092_1",
@@ -8408,6 +8423,33 @@
         [
           40.797408,
           -3.972894
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_4",
+      "name": "Ski Bus Lanzadera Cotos - Valdesquí",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.72,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Ski Bus Lanzadera Cotos - Valdesquí",
+        "startTime": "08:30",
+        "endTime": "17:00",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          40.804202,
+          -3.97079
+        ],
+        [
+          40.797775,
+          -3.971844
         ]
       ]
     }

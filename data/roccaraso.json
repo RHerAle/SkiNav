@@ -1014,7 +1014,8 @@
           14.016773
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94132819",
@@ -1055,7 +1056,8 @@
           14.022941
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94132821",
@@ -1104,7 +1106,8 @@
           14.022994
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94136369",
@@ -1178,7 +1181,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_94136390",
@@ -1227,7 +1231,8 @@
           14.011019
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94140636",
@@ -1277,7 +1282,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_94140653",
@@ -1322,7 +1328,8 @@
           14.023273
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_94146657",
@@ -1392,7 +1399,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_111580740",
@@ -1457,7 +1465,8 @@
           14.003885
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_156615870",
@@ -1510,7 +1519,8 @@
           14.026166
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_156617229",
@@ -1555,7 +1565,8 @@
           14.009659
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_156633720",
@@ -1576,7 +1587,8 @@
           14.00346
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_198509252",
@@ -1646,7 +1658,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_238121252",
@@ -1711,7 +1724,8 @@
           13.998697
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238123645",
@@ -1748,7 +1762,8 @@
           14.032049
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238126538",
@@ -1817,7 +1832,8 @@
           14.025211
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238165597",
@@ -1854,7 +1870,8 @@
           14.03057
         ]
       ],
-      "subtype": "t-bar"
+      "subtype": "t-bar",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238165600",
@@ -1903,7 +1920,8 @@
           14.02383
         ]
       ],
-      "subtype": "t-bar"
+      "subtype": "t-bar",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238165601",
@@ -1952,7 +1970,8 @@
           14.023811
         ]
       ],
-      "subtype": "t-bar"
+      "subtype": "t-bar",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_238165603",
@@ -1993,7 +2012,8 @@
           14.028983
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_297367841",
@@ -2034,7 +2054,8 @@
           14.030789
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_297367848",
@@ -2059,7 +2080,8 @@
           14.038021
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_324616057",
@@ -2080,7 +2102,8 @@
           14.025628
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_324616305",
@@ -2101,7 +2124,8 @@
           14.037662
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_767912667",
@@ -2122,7 +2146,8 @@
           14.039714
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_767912669",
@@ -2180,7 +2205,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_767912670",
@@ -2234,7 +2260,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_1249547383",
@@ -2255,7 +2282,8 @@
           14.025266
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_94132512_0",
@@ -10849,7 +10877,7 @@
     },
     {
       "id": "bus_connect_node_115_node_43",
-      "name": "Ski Bus Inter-Sector",
+      "name": "Navetta Skibus Roccaraso – Aremogna",
       "type": "bus",
       "from": "node_115",
       "to": "node_43",
@@ -10866,7 +10894,13 @@
           41.810033,
           14.051911
         ]
-      ]
+      ],
+      "schedule": {
+        "lineName": "Navetta Skibus Roccaraso – Aremogna",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 15
+      }
     }
   ]
 }

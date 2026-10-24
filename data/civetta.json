@@ -1032,7 +1032,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_43117188",
@@ -1106,7 +1107,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_43117189",
@@ -1127,7 +1129,8 @@
           12.044473
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_43117219",
@@ -1172,7 +1175,8 @@
           12.068674
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_43117220",
@@ -1241,7 +1245,8 @@
           12.050222
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_43117221",
@@ -1286,7 +1291,8 @@
           12.045465
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_43117222",
@@ -1359,7 +1365,8 @@
           12.05191
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_43117223",
@@ -1424,7 +1431,8 @@
           12.085592
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246974",
@@ -1445,7 +1453,8 @@
           12.092551
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246975",
@@ -1466,7 +1475,8 @@
           12.093098
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246976",
@@ -1527,7 +1537,8 @@
           12.093537
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246977",
@@ -1612,7 +1623,8 @@
           12.092404
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246978",
@@ -1674,7 +1686,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_49246980",
@@ -1695,7 +1708,8 @@
           12.07316
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246981",
@@ -1724,7 +1738,8 @@
           12.073113
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246982",
@@ -1745,7 +1760,8 @@
           12.100526
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246983",
@@ -1798,7 +1814,8 @@
           12.09466
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246984",
@@ -1847,7 +1864,8 @@
           12.094271
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_49246985",
@@ -1868,7 +1886,8 @@
           12.069391
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_84526172",
@@ -1889,7 +1908,8 @@
           12.09138
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_321290561",
@@ -1930,7 +1950,8 @@
           12.043268
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_321290573",
@@ -1951,7 +1972,8 @@
           12.045996
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_325822844",
@@ -1972,7 +1994,8 @@
           12.046402
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_325826330",
@@ -1993,7 +2016,8 @@
           12.114225
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_325826331",
@@ -2014,7 +2038,8 @@
           12.113242
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1086800819",
@@ -2035,7 +2060,8 @@
           12.097923
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_38378150_0",
@@ -11031,6 +11057,33 @@
         [
           46.429994,
           12.050695
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Skibus Civetta (Alleghe - Pescul)",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 1.68,
+      "duration": 4,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Skibus Civetta (Alleghe - Pescul)",
+        "startTime": "08:00",
+        "endTime": "18:00",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          46.405467,
+          12.023451
+        ],
+        [
+          46.411431,
+          12.043641
         ]
       ]
     }

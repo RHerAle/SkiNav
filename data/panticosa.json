@@ -445,7 +445,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_23494306",
@@ -518,7 +519,8 @@
           -0.275981
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494325",
@@ -567,7 +569,8 @@
           -0.274561
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494326",
@@ -588,7 +591,8 @@
           -0.273014
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494330",
@@ -617,7 +621,8 @@
           -0.27244
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494347",
@@ -686,7 +691,8 @@
           -0.26364
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494348",
@@ -735,7 +741,8 @@
           -0.272019
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494349",
@@ -780,7 +787,8 @@
           -0.264381
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494350",
@@ -801,7 +809,8 @@
           -0.262301
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_23494351",
@@ -822,7 +831,8 @@
           -0.262272
         ]
       ],
-      "subtype": "drag_lift"
+      "subtype": "drag_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_27264909",
@@ -843,7 +853,8 @@
           -0.274366
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259234317",
@@ -864,7 +875,8 @@
           -0.274573
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259234319",
@@ -885,7 +897,8 @@
           -0.274916
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259234320",
@@ -906,7 +919,8 @@
           -0.275653
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_259656492",
@@ -927,7 +941,8 @@
           -0.273661
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_27263616_0",
@@ -3989,6 +4004,33 @@
         [
           42.711801,
           -0.276988
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Ski Bus Panticosa Pueblo - Telecabina",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 1.15,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Ski Bus Panticosa Pueblo - Telecabina",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 20
+      },
+      "geometry": [
+        [
+          42.721736,
+          -0.280398
+        ],
+        [
+          42.7116,
+          -0.277542
         ]
       ]
     }

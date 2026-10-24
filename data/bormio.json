@@ -1194,7 +1194,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32471907",
@@ -1287,7 +1288,8 @@
           10.405474
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32487407",
@@ -1333,7 +1335,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_32488148",
@@ -1418,7 +1421,8 @@
           10.411286
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_32488156",
@@ -1483,7 +1487,8 @@
           10.391726
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_99016135",
@@ -1560,7 +1565,8 @@
           10.397634
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_157911587",
@@ -1581,7 +1587,8 @@
           10.389292
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_157911588",
@@ -1606,7 +1613,8 @@
           10.392126
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322899224",
@@ -1627,7 +1635,8 @@
           10.3876
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322899641",
@@ -1648,7 +1657,8 @@
           10.390171
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322899642",
@@ -1669,7 +1679,8 @@
           10.390336
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322899859",
@@ -1690,7 +1701,8 @@
           10.39445
         ]
       ],
-      "subtype": "platter"
+      "subtype": "platter",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1454721107",
@@ -1711,7 +1723,8 @@
           10.398751
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1489081912",
@@ -1732,7 +1745,8 @@
           10.404755
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_32488306_1",
@@ -16597,6 +16611,33 @@
         [
           46.449051,
           10.392257
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_2",
+      "name": "Skibus Bormio Terme – Ciuk",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 2.34,
+      "duration": 6,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Skibus Bormio Terme – Ciuk",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          46.462143,
+          10.372591
+        ],
+        [
+          46.444431,
+          10.389101
         ]
       ]
     }

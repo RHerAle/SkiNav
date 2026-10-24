@@ -1043,7 +1043,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_33053522",
@@ -1104,7 +1105,8 @@
           7.769701
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33053530",
@@ -1169,7 +1171,8 @@
           7.758126
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33053550",
@@ -1299,7 +1302,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_33053558",
@@ -1389,7 +1393,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_33053561",
@@ -1434,7 +1439,8 @@
           7.847729
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33053598",
@@ -1488,7 +1494,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_33053610",
@@ -1557,7 +1564,8 @@
           7.831957
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33119968",
@@ -1622,7 +1630,8 @@
           7.759731
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33120843",
@@ -1648,7 +1657,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_33120858",
@@ -1753,7 +1763,8 @@
           7.782358
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_33202442",
@@ -1822,7 +1833,8 @@
           7.839245
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_34131067",
@@ -1900,7 +1912,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_51988856",
@@ -1977,7 +1990,8 @@
           7.780708
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_59410312",
@@ -2050,7 +2064,8 @@
           7.902219
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_68733921",
@@ -2076,7 +2091,8 @@
         ]
       ],
       "subtype": "cable_car",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_322721709",
@@ -2097,7 +2113,8 @@
           7.742187
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322745419",
@@ -2118,7 +2135,8 @@
           7.745902
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_322745420",
@@ -2139,7 +2157,8 @@
           7.7442
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_552160243",
@@ -2220,7 +2239,8 @@
           7.867544
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_648887133",
@@ -2270,7 +2290,8 @@
         ]
       ],
       "subtype": "gondola",
-      "bidirectional": true
+      "bidirectional": true,
+      "operatingHours": "08:30-17:00"
     },
     {
       "id": "lift_913828374",
@@ -2291,7 +2312,8 @@
           7.904274
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1094470238",
@@ -2312,7 +2334,8 @@
           7.802858
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1094470361",
@@ -2333,7 +2356,8 @@
           7.802213
         ]
       ],
-      "subtype": "magic_carpet"
+      "subtype": "magic_carpet",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1314725376",
@@ -2370,7 +2394,8 @@
           7.809174
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "lift_1547961889",
@@ -2411,7 +2436,8 @@
           7.751996
         ]
       ],
-      "subtype": "chair_lift"
+      "subtype": "chair_lift",
+      "operatingHours": "08:45-16:45"
     },
     {
       "id": "piste_33053513_2",
@@ -12943,6 +12969,33 @@
         [
           45.878376,
           7.867358
+        ]
+      ]
+    },
+    {
+      "id": "bus_node_0_node_6",
+      "name": "Navetta Skibus Monterosa (Gressoney - Alagna)",
+      "type": "bus",
+      "from": "node_0",
+      "to": "node_6",
+      "distance": 4.7,
+      "duration": 11,
+      "elevation": 0,
+      "bidirectional": true,
+      "schedule": {
+        "lineName": "Navetta Skibus Monterosa (Gressoney - Alagna)",
+        "startTime": "08:30",
+        "endTime": "17:30",
+        "frequencyMinutes": 15
+      },
+      "geometry": [
+        [
+          45.865595,
+          7.90393
+        ],
+        [
+          45.855461,
+          7.844989
         ]
       ]
     }
