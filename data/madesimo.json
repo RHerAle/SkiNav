@@ -1,0 +1,7225 @@
+{
+  "id": "madesimo",
+  "name": "Madesimo Valchiavenna",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.4093,
+      9.3498
+    ],
+    [
+      46.4464,
+      9.4213
+    ]
+  ],
+  "center": [
+    46.4263,
+    9.373
+  ],
+  "stats": {
+    "slopes": "34.7 km",
+    "lifts": 12,
+    "elevation": "1550m - 2948m",
+    "drop": "1398m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Larici (Base)",
+      "lat": 46.435666,
+      "lng": 9.359241,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Larici (Summit / Top)",
+      "lat": 46.43083,
+      "lng": 9.375245,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Groppera (Base)",
+      "lat": 46.415332,
+      "lng": 9.400493,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Groppera (Summit / Top)",
+      "lat": 46.424146,
+      "lng": 9.378967,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Val di Lei (Base)",
+      "lat": 46.42396,
+      "lng": 9.416295,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Val di Lei (Summit / Top)",
+      "lat": 46.414742,
+      "lng": 9.403029,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Montalto (Base)",
+      "lat": 46.439355,
+      "lng": 9.361878,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Montalto (Summit / Top)",
+      "lat": 46.433468,
+      "lng": 9.373022,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Motta (Base)",
+      "lat": 46.421401,
+      "lng": 9.354797,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Motta (Summit / Top)",
+      "lat": 46.417959,
+      "lng": 9.365945,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Serenissima (Base)",
+      "lat": 46.420789,
+      "lng": 9.365072,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Serenissima (Summit / Top)",
+      "lat": 46.416025,
+      "lng": 9.379726,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Colmenetta Est (Base)",
+      "lat": 46.426631,
+      "lng": 9.369584,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Colmenetta Est (Summit / Top)",
+      "lat": 46.418584,
+      "lng": 9.375592,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Cima Sole (Base)",
+      "lat": 46.429982,
+      "lng": 9.374949,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Lago Azzurro (Base)",
+      "lat": 46.43346,
+      "lng": 9.357368,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Lago Azzurro (Summit / Top)",
+      "lat": 46.425304,
+      "lng": 9.374185,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Palù (Base)",
+      "lat": 46.421875,
+      "lng": 9.35514,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Palù (Summit / Top)",
+      "lat": 46.422263,
+      "lng": 9.358229,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Baby Park Larici (Base)",
+      "lat": 46.430377,
+      "lng": 9.375077,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Arlecchino (Base)",
+      "lat": 46.440128,
+      "lng": 9.361839,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Arlecchino (Summit / Top)",
+      "lat": 46.441378,
+      "lng": 9.36579,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Skiweg Vanoni",
+      "lat": 46.427951,
+      "lng": 9.374662,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Skiweg Vanoni",
+      "lat": 46.428501,
+      "lng": 9.375492,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Skiweg Vanoni",
+      "lat": 46.427626,
+      "lng": 9.37416,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Reno Val di Lei",
+      "lat": 46.414349,
+      "lng": 9.405965,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Marmotta",
+      "lat": 46.415014,
+      "lng": 9.402771,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Marmotta",
+      "lat": 46.415821,
+      "lng": 9.403292,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Marmotta",
+      "lat": 46.416299,
+      "lng": 9.403804,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Marmotta",
+      "lat": 46.41787,
+      "lng": 9.405439,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Valsecchi",
+      "lat": 46.427102,
+      "lng": 9.368427,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Valsecchi",
+      "lat": 46.430433,
+      "lng": 9.360024,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Pianello",
+      "lat": 46.43176,
+      "lng": 9.375239,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Piani",
+      "lat": 46.419299,
+      "lng": 9.362469,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Piani",
+      "lat": 46.421354,
+      "lng": 9.355624,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Valsecchi",
+      "lat": 46.420755,
+      "lng": 9.375002,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Valsecchi",
+      "lat": 46.424015,
+      "lng": 9.372891,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Valsecchi",
+      "lat": 46.426484,
+      "lng": 9.37169,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Interpista",
+      "lat": 46.42521,
+      "lng": 9.378123,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Interpista",
+      "lat": 46.427403,
+      "lng": 9.374886,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Piani 2",
+      "lat": 46.418654,
+      "lng": 9.363492,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Skiweg Sky Express",
+      "lat": 46.426437,
+      "lng": 9.365299,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Serenissima",
+      "lat": 46.420365,
+      "lng": 9.36356,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Serenissima",
+      "lat": 46.42077,
+      "lng": 9.363084,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Serenissima",
+      "lat": 46.42114,
+      "lng": 9.363032,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Serenissima",
+      "lat": 46.422119,
+      "lng": 9.362557,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Pianello",
+      "lat": 46.437769,
+      "lng": 9.365692,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Pianello",
+      "lat": 46.438059,
+      "lng": 9.365406,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Interpista 2",
+      "lat": 46.428653,
+      "lng": 9.371037,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Lago Azzurro",
+      "lat": 46.425688,
+      "lng": 9.357335,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Vanoni",
+      "lat": 46.424054,
+      "lng": 9.380781,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Cascèe",
+      "lat": 46.416842,
+      "lng": 9.379506,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Cascèe",
+      "lat": 46.417243,
+      "lng": 9.374289,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Est",
+      "lat": 46.421838,
+      "lng": 9.373257,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Italo Pedroncelli",
+      "lat": 46.439751,
+      "lng": 9.362315,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: Lago Azzurro",
+      "lat": 46.43183,
+      "lng": 9.357829,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Canalone",
+      "lat": 46.420415,
+      "lng": 9.402114,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: Canalone",
+      "lat": 46.427223,
+      "lng": 9.386857,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Canalone",
+      "lat": 46.42964,
+      "lng": 9.381569,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: Skiweg Vanoni - Interpista",
+      "lat": 46.429812,
+      "lng": 9.37391,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Montalto",
+      "lat": 46.437328,
+      "lng": 9.365694,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Montalto",
+      "lat": 46.436081,
+      "lng": 9.360939,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Skiweg Baita Sole",
+      "lat": 46.427002,
+      "lng": 9.369711,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Scoiattolo",
+      "lat": 46.425828,
+      "lng": 9.38538,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Scoiattolo",
+      "lat": 46.428845,
+      "lng": 9.379124,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Serenissima",
+      "lat": 46.421536,
+      "lng": 9.356701,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: Cascèe",
+      "lat": 46.421095,
+      "lng": 9.373044,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: Cascèe",
+      "lat": 46.422174,
+      "lng": 9.370233,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Angiolezza",
+      "lat": 46.422455,
+      "lng": 9.373311,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction: Muro Vanoni",
+      "lat": 46.433814,
+      "lng": 9.364954,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction: Interpista",
+      "lat": 46.424022,
+      "lng": 9.379976,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction: Skiweg Madepark",
+      "lat": 46.434701,
+      "lng": 9.370388,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction: Montalto",
+      "lat": 46.437379,
+      "lng": 9.367338,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction: Skiweg Pianello - Vanoni",
+      "lat": 46.429758,
+      "lng": 9.37438,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction: Pianello",
+      "lat": 46.431687,
+      "lng": 9.372054,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction: Canalone",
+      "lat": 46.415189,
+      "lng": 9.401107,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction #77",
+      "lat": 46.439573,
+      "lng": 9.36226,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction #78",
+      "lat": 46.439346,
+      "lng": 9.362608,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction: EASY PIPE",
+      "lat": 46.432799,
+      "lng": 9.368356,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction: EASY PIPE",
+      "lat": 46.433937,
+      "lng": 9.368029,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction: Vanoni",
+      "lat": 46.431596,
+      "lng": 9.371136,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction: Pianello",
+      "lat": 46.434491,
+      "lng": 9.364312,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction: BALLOON",
+      "lat": 46.435282,
+      "lng": 9.364285,
+      "type": "intersection"
+    },
+    {
+      "id": "node_83",
+      "name": "Junction: Skiweg Madepark",
+      "lat": 46.433564,
+      "lng": 9.370929,
+      "type": "intersection"
+    },
+    {
+      "id": "node_84",
+      "name": "Junction: Skiweg Vanoni - Lago Azzurro",
+      "lat": 46.428565,
+      "lng": 9.372859,
+      "type": "intersection"
+    },
+    {
+      "id": "node_85",
+      "name": "Junction: Skiweg Vanoni - Lago Azzurro",
+      "lat": 46.427215,
+      "lng": 9.370382,
+      "type": "intersection"
+    },
+    {
+      "id": "node_86",
+      "name": "Junction: Skiweg Vanoni",
+      "lat": 46.427306,
+      "lng": 9.373839,
+      "type": "intersection"
+    },
+    {
+      "id": "node_87",
+      "name": "Junction: Skiweg Sky Express",
+      "lat": 46.426933,
+      "lng": 9.369869,
+      "type": "intersection"
+    },
+    {
+      "id": "node_88",
+      "name": "Junction #89",
+      "lat": 46.418894,
+      "lng": 9.375944,
+      "type": "intersection"
+    },
+    {
+      "id": "node_89",
+      "name": "Junction: Skiweg Cascèe",
+      "lat": 46.418477,
+      "lng": 9.376194,
+      "type": "intersection"
+    },
+    {
+      "id": "node_90",
+      "name": "Junction #91",
+      "lat": 46.418862,
+      "lng": 9.372712,
+      "type": "intersection"
+    },
+    {
+      "id": "node_91",
+      "name": "Junction: Angiolezza",
+      "lat": 46.417597,
+      "lng": 9.375352,
+      "type": "intersection"
+    },
+    {
+      "id": "node_92",
+      "name": "Junction: Angiolezza",
+      "lat": 46.417253,
+      "lng": 9.374857,
+      "type": "intersection"
+    },
+    {
+      "id": "node_93",
+      "name": "Junction: Cascèe",
+      "lat": 46.421851,
+      "lng": 9.369504,
+      "type": "intersection"
+    },
+    {
+      "id": "node_94",
+      "name": "Junction #95",
+      "lat": 46.421163,
+      "lng": 9.367196,
+      "type": "intersection"
+    },
+    {
+      "id": "node_95",
+      "name": "Junction #96",
+      "lat": 46.420825,
+      "lng": 9.365532,
+      "type": "intersection"
+    },
+    {
+      "id": "node_96",
+      "name": "Junction: Montalto",
+      "lat": 46.435365,
+      "lng": 9.359943,
+      "type": "intersection"
+    },
+    {
+      "id": "node_97",
+      "name": "Junction: Skiweg Scoiattolo - Vanoni",
+      "lat": 46.428628,
+      "lng": 9.375898,
+      "type": "intersection"
+    },
+    {
+      "id": "node_98",
+      "name": "Junction #99",
+      "lat": 46.429976,
+      "lng": 9.375918,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_128172363",
+      "name": "Larici",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.31,
+      "duration": 3,
+      "elevation": 288,
+      "geometry": [
+        [
+          46.435755,
+          9.359331
+        ],
+        [
+          46.4357,
+          9.35954
+        ],
+        [
+          46.435263,
+          9.361109
+        ],
+        [
+          46.435172,
+          9.361414
+        ],
+        [
+          46.434947,
+          9.362116
+        ],
+        [
+          46.434422,
+          9.36365
+        ],
+        [
+          46.433837,
+          9.365529
+        ],
+        [
+          46.433334,
+          9.367098
+        ],
+        [
+          46.432931,
+          9.368459
+        ],
+        [
+          46.432464,
+          9.370003
+        ],
+        [
+          46.431934,
+          9.371689
+        ],
+        [
+          46.431142,
+          9.374332
+        ],
+        [
+          46.430965,
+          9.374892
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_227217473",
+      "name": "Groppera",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.91,
+      "duration": 5,
+      "elevation": 420,
+      "geometry": [
+        [
+          46.415332,
+          9.400493
+        ],
+        [
+          46.417991,
+          9.393944
+        ],
+        [
+          46.423916,
+          9.378845
+        ]
+      ],
+      "subtype": "cable_car",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_227217475",
+      "name": "Val di Lei",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.43,
+      "duration": 5,
+      "elevation": 314,
+      "geometry": [
+        [
+          46.424004,
+          9.416159
+        ],
+        [
+          46.423974,
+          9.416116
+        ],
+        [
+          46.423935,
+          9.41606
+        ],
+        [
+          46.42358,
+          9.415534
+        ],
+        [
+          46.423172,
+          9.414978
+        ],
+        [
+          46.422594,
+          9.414195
+        ],
+        [
+          46.422089,
+          9.413476
+        ],
+        [
+          46.42195,
+          9.413282
+        ],
+        [
+          46.421342,
+          9.412435
+        ],
+        [
+          46.421105,
+          9.412106
+        ],
+        [
+          46.420504,
+          9.411269
+        ],
+        [
+          46.42002,
+          9.410597
+        ],
+        [
+          46.419801,
+          9.410291
+        ],
+        [
+          46.419453,
+          9.409803
+        ],
+        [
+          46.419418,
+          9.409755
+        ],
+        [
+          46.418777,
+          9.408867
+        ],
+        [
+          46.418165,
+          9.408009
+        ],
+        [
+          46.417836,
+          9.407556
+        ],
+        [
+          46.417622,
+          9.407259
+        ],
+        [
+          46.417097,
+          9.406464
+        ],
+        [
+          46.416826,
+          9.406059
+        ],
+        [
+          46.416783,
+          9.405997
+        ],
+        [
+          46.416415,
+          9.405469
+        ],
+        [
+          46.415887,
+          9.404755
+        ],
+        [
+          46.41515,
+          9.403822
+        ],
+        [
+          46.415075,
+          9.40372
+        ],
+        [
+          46.414732,
+          9.40325
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206577",
+      "name": "Montalto",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.07,
+      "duration": 4,
+      "elevation": 235,
+      "geometry": [
+        [
+          46.439227,
+          9.361843
+        ],
+        [
+          46.439161,
+          9.36198
+        ],
+        [
+          46.439141,
+          9.362027
+        ],
+        [
+          46.438653,
+          9.362992
+        ],
+        [
+          46.438053,
+          9.364121
+        ],
+        [
+          46.437406,
+          9.365434
+        ],
+        [
+          46.436614,
+          9.366966
+        ],
+        [
+          46.436125,
+          9.367908
+        ],
+        [
+          46.435595,
+          9.368893
+        ],
+        [
+          46.43531,
+          9.369499
+        ],
+        [
+          46.434688,
+          9.370696
+        ],
+        [
+          46.433915,
+          9.372218
+        ],
+        [
+          46.433623,
+          9.372759
+        ],
+        [
+          46.433597,
+          9.372803
+        ],
+        [
+          46.433442,
+          9.373072
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206578",
+      "name": "Motta",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.94,
+      "duration": 3,
+      "elevation": 206,
+      "geometry": [
+        [
+          46.421538,
+          9.354782
+        ],
+        [
+          46.42146,
+          9.355023
+        ],
+        [
+          46.421145,
+          9.356065
+        ],
+        [
+          46.420667,
+          9.357608
+        ],
+        [
+          46.420163,
+          9.359174
+        ],
+        [
+          46.419776,
+          9.360387
+        ],
+        [
+          46.419447,
+          9.361364
+        ],
+        [
+          46.419158,
+          9.362192
+        ],
+        [
+          46.418519,
+          9.364242
+        ],
+        [
+          46.418131,
+          9.365389
+        ],
+        [
+          46.417964,
+          9.365904
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206579",
+      "name": "Serenissima",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 1.24,
+      "duration": 4,
+      "elevation": 272,
+      "geometry": [
+        [
+          46.420739,
+          9.364992
+        ],
+        [
+          46.420669,
+          9.365234
+        ],
+        [
+          46.420642,
+          9.365306
+        ],
+        [
+          46.420441,
+          9.365861
+        ],
+        [
+          46.420296,
+          9.366288
+        ],
+        [
+          46.419877,
+          9.367527
+        ],
+        [
+          46.41951,
+          9.368844
+        ],
+        [
+          46.41949,
+          9.368922
+        ],
+        [
+          46.419075,
+          9.37011
+        ],
+        [
+          46.418464,
+          9.371991
+        ],
+        [
+          46.418341,
+          9.372364
+        ],
+        [
+          46.417868,
+          9.373738
+        ],
+        [
+          46.41785,
+          9.373794
+        ],
+        [
+          46.417318,
+          9.375439
+        ],
+        [
+          46.417051,
+          9.376323
+        ],
+        [
+          46.41703,
+          9.376381
+        ],
+        [
+          46.416884,
+          9.37688
+        ],
+        [
+          46.416673,
+          9.37771
+        ],
+        [
+          46.416184,
+          9.379102
+        ],
+        [
+          46.416167,
+          9.37914
+        ],
+        [
+          46.416149,
+          9.379182
+        ],
+        [
+          46.416023,
+          9.379583
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206584",
+      "name": "Colmenetta Est",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.98,
+      "duration": 3,
+      "elevation": 215,
+      "geometry": [
+        [
+          46.426546,
+          9.369542
+        ],
+        [
+          46.426396,
+          9.369641
+        ],
+        [
+          46.425879,
+          9.370019
+        ],
+        [
+          46.425326,
+          9.370417
+        ],
+        [
+          46.424563,
+          9.370956
+        ],
+        [
+          46.423547,
+          9.371685
+        ],
+        [
+          46.42315,
+          9.371972
+        ],
+        [
+          46.422762,
+          9.372235
+        ],
+        [
+          46.422407,
+          9.372489
+        ],
+        [
+          46.42167,
+          9.373023
+        ],
+        [
+          46.420913,
+          9.373557
+        ],
+        [
+          46.420286,
+          9.374007
+        ],
+        [
+          46.419647,
+          9.374453
+        ],
+        [
+          46.418999,
+          9.374905
+        ],
+        [
+          46.418887,
+          9.374982
+        ],
+        [
+          46.418614,
+          9.375166
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206585",
+      "name": "Cima Sole",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_3",
+      "distance": 0.7,
+      "duration": 2,
+      "elevation": 154,
+      "geometry": [
+        [
+          46.429847,
+          9.375141
+        ],
+        [
+          46.42973,
+          9.375243
+        ],
+        [
+          46.429679,
+          9.375291
+        ],
+        [
+          46.428929,
+          9.375806
+        ],
+        [
+          46.428114,
+          9.376376
+        ],
+        [
+          46.427533,
+          9.37678
+        ],
+        [
+          46.426956,
+          9.37717
+        ],
+        [
+          46.426215,
+          9.377688
+        ],
+        [
+          46.425507,
+          9.378176
+        ],
+        [
+          46.424579,
+          9.378813
+        ],
+        [
+          46.424529,
+          9.378849
+        ],
+        [
+          46.424158,
+          9.379095
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_232206586",
+      "name": "Lago Azzurro",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 1.57,
+      "duration": 6,
+      "elevation": 345,
+      "geometry": [
+        [
+          46.433526,
+          9.357483
+        ],
+        [
+          46.433452,
+          9.357681
+        ],
+        [
+          46.433438,
+          9.357713
+        ],
+        [
+          46.433083,
+          9.358532
+        ],
+        [
+          46.432492,
+          9.359771
+        ],
+        [
+          46.432053,
+          9.360673
+        ],
+        [
+          46.431734,
+          9.361266
+        ],
+        [
+          46.431171,
+          9.362491
+        ],
+        [
+          46.430733,
+          9.363383
+        ],
+        [
+          46.430037,
+          9.364839
+        ],
+        [
+          46.429152,
+          9.366699
+        ],
+        [
+          46.428488,
+          9.368006
+        ],
+        [
+          46.427963,
+          9.369112
+        ],
+        [
+          46.427357,
+          9.37038
+        ],
+        [
+          46.426732,
+          9.371737
+        ],
+        [
+          46.42637,
+          9.37248
+        ],
+        [
+          46.426203,
+          9.372821
+        ],
+        [
+          46.425683,
+          9.373957
+        ],
+        [
+          46.425668,
+          9.37399
+        ],
+        [
+          46.42551,
+          9.374375
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_301587177",
+      "name": "Palù",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.24,
+      "duration": 2,
+      "elevation": 52,
+      "geometry": [
+        [
+          46.421972,
+          9.355125
+        ],
+        [
+          46.422012,
+          9.355468
+        ],
+        [
+          46.422115,
+          9.356375
+        ],
+        [
+          46.422195,
+          9.357199
+        ],
+        [
+          46.422242,
+          9.357954
+        ],
+        [
+          46.422263,
+          9.358229
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_322975429",
+      "name": "Baby Park Larici",
+      "type": "lift",
+      "from": "node_19",
+      "to": "node_1",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.430353,
+          9.374968
+        ],
+        [
+          46.430865,
+          9.375277
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_554559097",
+      "name": "Arlecchino",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.34,
+      "duration": 2,
+      "elevation": 74,
+      "geometry": [
+        [
+          46.440234,
+          9.36173
+        ],
+        [
+          46.440324,
+          9.36198
+        ],
+        [
+          46.440426,
+          9.362229
+        ],
+        [
+          46.440658,
+          9.362999
+        ],
+        [
+          46.441007,
+          9.364193
+        ],
+        [
+          46.441299,
+          9.365138
+        ],
+        [
+          46.441465,
+          9.365632
+        ],
+        [
+          46.441511,
+          9.365775
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_124541724_1",
+      "name": "Skiweg Vanoni",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.428012,
+          9.374765
+        ],
+        [
+          46.428244,
+          9.375212
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_227217470_0",
+      "name": "Reno Val di Lei",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_25",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.414732,
+          9.40325
+        ],
+        [
+          46.414354,
+          9.404283
+        ],
+        [
+          46.414269,
+          9.404576
+        ],
+        [
+          46.414223,
+          9.405083
+        ],
+        [
+          46.414238,
+          9.405673
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217470_3",
+      "name": "Reno Val di Lei",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_4",
+      "distance": 1.48,
+      "duration": 2,
+      "elevation": -236,
+      "geometry": [
+        [
+          46.414453,
+          9.406239
+        ],
+        [
+          46.414783,
+          9.40694
+        ],
+        [
+          46.41493,
+          9.407662
+        ],
+        [
+          46.414956,
+          9.408247
+        ],
+        [
+          46.414943,
+          9.408615
+        ],
+        [
+          46.415051,
+          9.408936
+        ],
+        [
+          46.415358,
+          9.409275
+        ],
+        [
+          46.415735,
+          9.409541
+        ],
+        [
+          46.416053,
+          9.409595
+        ],
+        [
+          46.416449,
+          9.40952
+        ],
+        [
+          46.417126,
+          9.40936
+        ],
+        [
+          46.417542,
+          9.409498
+        ],
+        [
+          46.417978,
+          9.410131
+        ],
+        [
+          46.418275,
+          9.410638
+        ],
+        [
+          46.418661,
+          9.411015
+        ],
+        [
+          46.419077,
+          9.41141
+        ],
+        [
+          46.419429,
+          9.411862
+        ],
+        [
+          46.419547,
+          9.412342
+        ],
+        [
+          46.419564,
+          9.412805
+        ],
+        [
+          46.419558,
+          9.413344
+        ],
+        [
+          46.419646,
+          9.413882
+        ],
+        [
+          46.420072,
+          9.41465
+        ],
+        [
+          46.42041,
+          9.414834
+        ],
+        [
+          46.422556,
+          9.41548
+        ],
+        [
+          46.422953,
+          9.415641
+        ],
+        [
+          46.423222,
+          9.415815
+        ],
+        [
+          46.423572,
+          9.416182
+        ],
+        [
+          46.423894,
+          9.416499
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217471_0",
+      "name": "Marmotta",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414752,
+          9.402808
+        ],
+        [
+          46.415014,
+          9.402771
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217471_1",
+      "name": "Marmotta",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.415014,
+          9.402771
+        ],
+        [
+          46.415543,
+          9.403118
+        ],
+        [
+          46.415821,
+          9.403292
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217471_2",
+      "name": "Marmotta",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.415821,
+          9.403292
+        ],
+        [
+          46.416299,
+          9.403804
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217471_3",
+      "name": "Marmotta",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.416299,
+          9.403804
+        ],
+        [
+          46.416673,
+          9.404204
+        ],
+        [
+          46.417414,
+          9.404881
+        ],
+        [
+          46.417667,
+          9.405108
+        ],
+        [
+          46.417768,
+          9.405277
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_227217471_7",
+      "name": "Marmotta",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_4",
+      "distance": 1.18,
+      "duration": 2,
+      "elevation": -188,
+      "geometry": [
+        [
+          46.418027,
+          9.405768
+        ],
+        [
+          46.418397,
+          9.405937
+        ],
+        [
+          46.418682,
+          9.406121
+        ],
+        [
+          46.418899,
+          9.406332
+        ],
+        [
+          46.419392,
+          9.407121
+        ],
+        [
+          46.419937,
+          9.408204
+        ],
+        [
+          46.42027,
+          9.409002
+        ],
+        [
+          46.420522,
+          9.40942
+        ],
+        [
+          46.420833,
+          9.409693
+        ],
+        [
+          46.421416,
+          9.410269
+        ],
+        [
+          46.421915,
+          9.410896
+        ],
+        [
+          46.4226,
+          9.411504
+        ],
+        [
+          46.422798,
+          9.411573
+        ],
+        [
+          46.422944,
+          9.411787
+        ],
+        [
+          46.423045,
+          9.412107
+        ],
+        [
+          46.423208,
+          9.412691
+        ],
+        [
+          46.423632,
+          9.413979
+        ],
+        [
+          46.423929,
+          9.414847
+        ],
+        [
+          46.42415,
+          9.415511
+        ],
+        [
+          46.424333,
+          9.416135
+        ],
+        [
+          46.424368,
+          9.416387
+        ],
+        [
+          46.424338,
+          9.416541
+        ],
+        [
+          46.424251,
+          9.41658
+        ],
+        [
+          46.424004,
+          9.416159
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_232206583_3",
+      "name": "Arlecchino",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_20",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.441273,
+          9.365719
+        ],
+        [
+          46.441188,
+          9.365542
+        ],
+        [
+          46.441066,
+          9.365306
+        ],
+        [
+          46.440957,
+          9.365059
+        ],
+        [
+          46.440846,
+          9.364732
+        ],
+        [
+          46.440713,
+          9.364337
+        ],
+        [
+          46.440559,
+          9.363822
+        ],
+        [
+          46.440467,
+          9.363471
+        ],
+        [
+          46.440415,
+          9.363304
+        ],
+        [
+          46.440304,
+          9.362945
+        ],
+        [
+          46.440195,
+          9.362457
+        ],
+        [
+          46.440121,
+          9.362127
+        ],
+        [
+          46.440125,
+          9.361942
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563159_0",
+      "name": "Valsecchi",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          46.427223,
+          9.368352
+        ],
+        [
+          46.427512,
+          9.367677
+        ],
+        [
+          46.428385,
+          9.365248
+        ],
+        [
+          46.42873,
+          9.364427
+        ],
+        [
+          46.42893,
+          9.363894
+        ],
+        [
+          46.429042,
+          9.363303
+        ],
+        [
+          46.429238,
+          9.361977
+        ],
+        [
+          46.429396,
+          9.361436
+        ],
+        [
+          46.429867,
+          9.360789
+        ],
+        [
+          46.430433,
+          9.360024
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563160_0",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_32",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.433442,
+          9.373072
+        ],
+        [
+          46.433118,
+          9.37365
+        ],
+        [
+          46.432574,
+          9.374952
+        ],
+        [
+          46.432415,
+          9.375209
+        ],
+        [
+          46.432241,
+          9.375369
+        ],
+        [
+          46.432141,
+          9.375431
+        ],
+        [
+          46.432041,
+          9.37547
+        ],
+        [
+          46.43195,
+          9.375476
+        ],
+        [
+          46.431898,
+          9.375447
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563161_0",
+      "name": "Piani",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.419267,
+          9.362457
+        ],
+        [
+          46.419533,
+          9.362101
+        ],
+        [
+          46.419846,
+          9.361457
+        ],
+        [
+          46.420076,
+          9.360878
+        ],
+        [
+          46.420402,
+          9.359948
+        ],
+        [
+          46.420604,
+          9.35915
+        ],
+        [
+          46.420896,
+          9.357991
+        ],
+        [
+          46.421366,
+          9.35576
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563165_0",
+      "name": "Valsecchi",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.420755,
+          9.375002
+        ],
+        [
+          46.421547,
+          9.374619
+        ],
+        [
+          46.422329,
+          9.374157
+        ],
+        [
+          46.423104,
+          9.373811
+        ],
+        [
+          46.424096,
+          9.373055
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563165_1",
+      "name": "Valsecchi",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.424096,
+          9.373055
+        ],
+        [
+          46.425415,
+          9.372408
+        ],
+        [
+          46.426156,
+          9.371902
+        ],
+        [
+          46.426484,
+          9.37169
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563166_3",
+      "name": "Interpista",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_38",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.424252,
+          9.378719
+        ],
+        [
+          46.424627,
+          9.378436
+        ],
+        [
+          46.425162,
+          9.378149
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259563166_5",
+      "name": "Interpista",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.425282,
+          9.378085
+        ],
+        [
+          46.425497,
+          9.377948
+        ],
+        [
+          46.425706,
+          9.377927
+        ],
+        [
+          46.426084,
+          9.377984
+        ],
+        [
+          46.426253,
+          9.378009
+        ],
+        [
+          46.426412,
+          9.377962
+        ],
+        [
+          46.426507,
+          9.377798
+        ],
+        [
+          46.426623,
+          9.376781
+        ],
+        [
+          46.426653,
+          9.37649
+        ],
+        [
+          46.426711,
+          9.376171
+        ],
+        [
+          46.427093,
+          9.37534
+        ],
+        [
+          46.427333,
+          9.374916
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259563166_7",
+      "name": "Interpista",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_23",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.427507,
+          9.37484
+        ],
+        [
+          46.42767,
+          9.374845
+        ],
+        [
+          46.42805,
+          9.375376
+        ],
+        [
+          46.428308,
+          9.375504
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259563168_0",
+      "name": "Piani 2",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_34",
+      "distance": 0.66,
+      "duration": 1,
+      "elevation": -105,
+      "geometry": [
+        [
+          46.41869,
+          9.36334
+        ],
+        [
+          46.418984,
+          9.36221
+        ],
+        [
+          46.419282,
+          9.361187
+        ],
+        [
+          46.419753,
+          9.359677
+        ],
+        [
+          46.420078,
+          9.358666
+        ],
+        [
+          46.421024,
+          9.356105
+        ],
+        [
+          46.421212,
+          9.355613
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563168_1",
+      "name": "Piani 2",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.421212,
+          9.355613
+        ],
+        [
+          46.421307,
+          9.355059
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563170_0",
+      "name": "Skiweg Sky Express",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_18",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          46.426437,
+          9.365299
+        ],
+        [
+          46.426449,
+          9.364828
+        ],
+        [
+          46.426391,
+          9.364406
+        ],
+        [
+          46.426049,
+          9.363492
+        ],
+        [
+          46.425477,
+          9.362256
+        ],
+        [
+          46.425041,
+          9.361415
+        ],
+        [
+          46.424906,
+          9.361233
+        ],
+        [
+          46.42478,
+          9.361064
+        ],
+        [
+          46.424411,
+          9.360609
+        ],
+        [
+          46.424046,
+          9.360321
+        ],
+        [
+          46.423527,
+          9.360018
+        ],
+        [
+          46.423147,
+          9.359735
+        ],
+        [
+          46.422841,
+          9.359312
+        ],
+        [
+          46.422531,
+          9.358517
+        ],
+        [
+          46.422263,
+          9.358229
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563171_2",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_42",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          46.418034,
+          9.366296
+        ],
+        [
+          46.418113,
+          9.36643
+        ],
+        [
+          46.418302,
+          9.366481
+        ],
+        [
+          46.418469,
+          9.366321
+        ],
+        [
+          46.41862,
+          9.365708
+        ],
+        [
+          46.418718,
+          9.365281
+        ],
+        [
+          46.418856,
+          9.365023
+        ],
+        [
+          46.419146,
+          9.364732
+        ],
+        [
+          46.420051,
+          9.363844
+        ],
+        [
+          46.420301,
+          9.363551
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563171_3",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.420301,
+          9.363551
+        ],
+        [
+          46.420617,
+          9.363183
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563171_5",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.420873,
+          9.363019
+        ],
+        [
+          46.42114,
+          9.363032
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563171_6",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.42114,
+          9.363032
+        ],
+        [
+          46.421657,
+          9.362887
+        ],
+        [
+          46.421956,
+          9.362719
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563173_0",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.437769,
+          9.365692
+        ],
+        [
+          46.438059,
+          9.365406
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563174_0",
+      "name": "Interpista 2",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_24",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.427333,
+          9.374916
+        ],
+        [
+          46.427667,
+          9.374219
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563174_1",
+      "name": "Interpista 2",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_48",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.427667,
+          9.374219
+        ],
+        [
+          46.427839,
+          9.373801
+        ],
+        [
+          46.428039,
+          9.373063
+        ],
+        [
+          46.428085,
+          9.372779
+        ],
+        [
+          46.428134,
+          9.372483
+        ],
+        [
+          46.428253,
+          9.371945
+        ],
+        [
+          46.428296,
+          9.371781
+        ],
+        [
+          46.4284,
+          9.3715
+        ],
+        [
+          46.428616,
+          9.370989
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563174_2",
+      "name": "Interpista 2",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_31",
+      "distance": 0.98,
+      "duration": 1,
+      "elevation": -156,
+      "geometry": [
+        [
+          46.428616,
+          9.370989
+        ],
+        [
+          46.42905,
+          9.370186
+        ],
+        [
+          46.429252,
+          9.37001
+        ],
+        [
+          46.429499,
+          9.369653
+        ],
+        [
+          46.429936,
+          9.36879
+        ],
+        [
+          46.430159,
+          9.368061
+        ],
+        [
+          46.43039,
+          9.367337
+        ],
+        [
+          46.430749,
+          9.366386
+        ],
+        [
+          46.430909,
+          9.365922
+        ],
+        [
+          46.43101,
+          9.36543
+        ],
+        [
+          46.431179,
+          9.364498
+        ],
+        [
+          46.431241,
+          9.364072
+        ],
+        [
+          46.431294,
+          9.363514
+        ],
+        [
+          46.431494,
+          9.362918
+        ],
+        [
+          46.431565,
+          9.362552
+        ],
+        [
+          46.431536,
+          9.361951
+        ],
+        [
+          46.431108,
+          9.361126
+        ],
+        [
+          46.430699,
+          9.360603
+        ],
+        [
+          46.430433,
+          9.360024
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563176_0",
+      "name": "Lago Azzurro",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_49",
+      "distance": 0.9,
+      "duration": 1,
+      "elevation": -144,
+      "geometry": [
+        [
+          46.427223,
+          9.368352
+        ],
+        [
+          46.427262,
+          9.367725
+        ],
+        [
+          46.427293,
+          9.366758
+        ],
+        [
+          46.427347,
+          9.366084
+        ],
+        [
+          46.427352,
+          9.365594
+        ],
+        [
+          46.42733,
+          9.364825
+        ],
+        [
+          46.427419,
+          9.363425
+        ],
+        [
+          46.427451,
+          9.362683
+        ],
+        [
+          46.427418,
+          9.362448
+        ],
+        [
+          46.427322,
+          9.36206
+        ],
+        [
+          46.427197,
+          9.361719
+        ],
+        [
+          46.427016,
+          9.361414
+        ],
+        [
+          46.42681,
+          9.361106
+        ],
+        [
+          46.426621,
+          9.36081
+        ],
+        [
+          46.426564,
+          9.360627
+        ],
+        [
+          46.426534,
+          9.360357
+        ],
+        [
+          46.426511,
+          9.359938
+        ],
+        [
+          46.426401,
+          9.359455
+        ],
+        [
+          46.425681,
+          9.358075
+        ],
+        [
+          46.425597,
+          9.357763
+        ],
+        [
+          46.425604,
+          9.357455
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259563177_0",
+      "name": "Vanoni",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_23",
+      "distance": 0.74,
+      "duration": 1,
+      "elevation": -118,
+      "geometry": [
+        [
+          46.424105,
+          9.380914
+        ],
+        [
+          46.424794,
+          9.381205
+        ],
+        [
+          46.425191,
+          9.381168
+        ],
+        [
+          46.425462,
+          9.381143
+        ],
+        [
+          46.426189,
+          9.380532
+        ],
+        [
+          46.426833,
+          9.380082
+        ],
+        [
+          46.427054,
+          9.379829
+        ],
+        [
+          46.427182,
+          9.379516
+        ],
+        [
+          46.427386,
+          9.378868
+        ],
+        [
+          46.427723,
+          9.37795
+        ],
+        [
+          46.428116,
+          9.376922
+        ],
+        [
+          46.428308,
+          9.376436
+        ],
+        [
+          46.428495,
+          9.375966
+        ],
+        [
+          46.42866,
+          9.375494
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563180_0",
+      "name": "Cascèe",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_52",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.416835,
+          9.37957
+        ],
+        [
+          46.41673,
+          9.378891
+        ],
+        [
+          46.416697,
+          9.378556
+        ],
+        [
+          46.416674,
+          9.378263
+        ],
+        [
+          46.416764,
+          9.37704
+        ],
+        [
+          46.416903,
+          9.376272
+        ],
+        [
+          46.417231,
+          9.374488
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563184_0",
+      "name": "Est",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_53",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.420755,
+          9.375002
+        ],
+        [
+          46.421082,
+          9.374317
+        ],
+        [
+          46.421374,
+          9.373931
+        ],
+        [
+          46.421963,
+          9.373285
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259563187_1",
+      "name": "Italo Pedroncelli",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_54",
+      "distance": 1.1,
+      "duration": 1,
+      "elevation": -176,
+      "geometry": [
+        [
+          46.433578,
+          9.373116
+        ],
+        [
+          46.433779,
+          9.372994
+        ],
+        [
+          46.434007,
+          9.37264
+        ],
+        [
+          46.434358,
+          9.37197
+        ],
+        [
+          46.434645,
+          9.371367
+        ],
+        [
+          46.4352,
+          9.370417
+        ],
+        [
+          46.435805,
+          9.370045
+        ],
+        [
+          46.436245,
+          9.369528
+        ],
+        [
+          46.436807,
+          9.368836
+        ],
+        [
+          46.437373,
+          9.36797
+        ],
+        [
+          46.438344,
+          9.366699
+        ],
+        [
+          46.438904,
+          9.365485
+        ],
+        [
+          46.439449,
+          9.363787
+        ],
+        [
+          46.439643,
+          9.362965
+        ],
+        [
+          46.439719,
+          9.362442
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259563188_0",
+      "name": "Lago Azzurro",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_55",
+      "distance": 0.71,
+      "duration": 1,
+      "elevation": -113,
+      "geometry": [
+        [
+          46.425745,
+          9.357255
+        ],
+        [
+          46.426233,
+          9.357046
+        ],
+        [
+          46.427455,
+          9.356931
+        ],
+        [
+          46.42837,
+          9.357092
+        ],
+        [
+          46.428899,
+          9.357097
+        ],
+        [
+          46.429665,
+          9.357096
+        ],
+        [
+          46.430005,
+          9.35732
+        ],
+        [
+          46.430186,
+          9.357548
+        ],
+        [
+          46.430468,
+          9.35785
+        ],
+        [
+          46.430615,
+          9.357918
+        ],
+        [
+          46.430759,
+          9.357883
+        ],
+        [
+          46.43108,
+          9.357726
+        ],
+        [
+          46.43194,
+          9.35779
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259565738_0",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 1.63,
+      "duration": 2,
+      "elevation": -260,
+      "geometry": [
+        [
+          46.420415,
+          9.402114
+        ],
+        [
+          46.425524,
+          9.399216
+        ],
+        [
+          46.426746,
+          9.39758
+        ],
+        [
+          46.427312,
+          9.394596
+        ],
+        [
+          46.427165,
+          9.391257
+        ],
+        [
+          46.427286,
+          9.386789
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259565738_1",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.427286,
+          9.386789
+        ],
+        [
+          46.42964,
+          9.381569
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_264495717_2",
+      "name": "Skiweg Vanoni - Interpista",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_48",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.429682,
+          9.373668
+        ],
+        [
+          46.429599,
+          9.373537
+        ],
+        [
+          46.429482,
+          9.373151
+        ],
+        [
+          46.429341,
+          9.372734
+        ],
+        [
+          46.429261,
+          9.372484
+        ],
+        [
+          46.429138,
+          9.372232
+        ],
+        [
+          46.428969,
+          9.371942
+        ],
+        [
+          46.42889,
+          9.371621
+        ],
+        [
+          46.42887,
+          9.371503
+        ],
+        [
+          46.428821,
+          9.371349
+        ],
+        [
+          46.428708,
+          9.37111
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_331940853_0",
+      "name": "Montalto",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.437352,
+          9.365608
+        ],
+        [
+          46.437228,
+          9.365221
+        ],
+        [
+          46.437168,
+          9.364807
+        ],
+        [
+          46.43708,
+          9.364055
+        ],
+        [
+          46.436894,
+          9.362727
+        ],
+        [
+          46.436822,
+          9.362359
+        ],
+        [
+          46.436537,
+          9.361488
+        ],
+        [
+          46.436081,
+          9.360939
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_331940860_1",
+      "name": "Skiweg Baita Sole",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_10",
+      "distance": 0.78,
+      "duration": 1,
+      "elevation": -124,
+      "geometry": [
+        [
+          46.426901,
+          9.369586
+        ],
+        [
+          46.42677,
+          9.369189
+        ],
+        [
+          46.426592,
+          9.368858
+        ],
+        [
+          46.426323,
+          9.368347
+        ],
+        [
+          46.426181,
+          9.368185
+        ],
+        [
+          46.425687,
+          9.367745
+        ],
+        [
+          46.424629,
+          9.367199
+        ],
+        [
+          46.424283,
+          9.367073
+        ],
+        [
+          46.423184,
+          9.366628
+        ],
+        [
+          46.422075,
+          9.365886
+        ],
+        [
+          46.420808,
+          9.36512
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_338104112_2",
+      "name": "Serenissima 2",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_40",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.417973,
+          9.365634
+        ],
+        [
+          46.418116,
+          9.365224
+        ],
+        [
+          46.418206,
+          9.364981
+        ],
+        [
+          46.418342,
+          9.364531
+        ],
+        [
+          46.418474,
+          9.364066
+        ],
+        [
+          46.41848,
+          9.364051
+        ],
+        [
+          46.418602,
+          9.36372
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_365503193_3",
+      "name": "Scoiattolo",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_64",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          46.425961,
+          9.385361
+        ],
+        [
+          46.426144,
+          9.3851
+        ],
+        [
+          46.426234,
+          9.384923
+        ],
+        [
+          46.426303,
+          9.384772
+        ],
+        [
+          46.426352,
+          9.384599
+        ],
+        [
+          46.426392,
+          9.38426
+        ],
+        [
+          46.426448,
+          9.38402
+        ],
+        [
+          46.426666,
+          9.383804
+        ],
+        [
+          46.426907,
+          9.383538
+        ],
+        [
+          46.427117,
+          9.383283
+        ],
+        [
+          46.427273,
+          9.383092
+        ],
+        [
+          46.427512,
+          9.382784
+        ],
+        [
+          46.427715,
+          9.382582
+        ],
+        [
+          46.427995,
+          9.382328
+        ],
+        [
+          46.428079,
+          9.382152
+        ],
+        [
+          46.428152,
+          9.381989
+        ],
+        [
+          46.428185,
+          9.381849
+        ],
+        [
+          46.428233,
+          9.381633
+        ],
+        [
+          46.428285,
+          9.381344
+        ],
+        [
+          46.428393,
+          9.381102
+        ],
+        [
+          46.428671,
+          9.380298
+        ],
+        [
+          46.428833,
+          9.379771
+        ],
+        [
+          46.428862,
+          9.379272
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_555465435_0",
+      "name": "Skiweg Sky Express",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_41",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.42692,
+          9.368538
+        ],
+        [
+          46.426897,
+          9.36796
+        ],
+        [
+          46.426752,
+          9.367556
+        ],
+        [
+          46.42665,
+          9.367332
+        ],
+        [
+          46.426632,
+          9.367126
+        ],
+        [
+          46.426597,
+          9.36665
+        ],
+        [
+          46.426532,
+          9.366201
+        ],
+        [
+          46.426515,
+          9.365984
+        ],
+        [
+          46.426493,
+          9.36582
+        ],
+        [
+          46.426437,
+          9.365299
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718205_1",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_65",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.422227,
+          9.362449
+        ],
+        [
+          46.422453,
+          9.362041
+        ],
+        [
+          46.422538,
+          9.361798
+        ],
+        [
+          46.422571,
+          9.361591
+        ],
+        [
+          46.422578,
+          9.36136
+        ],
+        [
+          46.422506,
+          9.361106
+        ],
+        [
+          46.422319,
+          9.360581
+        ],
+        [
+          46.422163,
+          9.35977
+        ],
+        [
+          46.421947,
+          9.359202
+        ],
+        [
+          46.421578,
+          9.358684
+        ],
+        [
+          46.421454,
+          9.358266
+        ],
+        [
+          46.421366,
+          9.356769
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718205_2",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_34",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.421366,
+          9.356769
+        ],
+        [
+          46.421366,
+          9.35576
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718205_4",
+      "name": "Serenissima",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.421302,
+          9.355237
+        ],
+        [
+          46.421307,
+          9.355059
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718206_0",
+      "name": "Palù",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_65",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.422263,
+          9.358229
+        ],
+        [
+          46.421902,
+          9.35761
+        ],
+        [
+          46.421554,
+          9.357035
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718206_3",
+      "name": "Palù",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_34",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.42149,
+          9.356403
+        ],
+        [
+          46.421531,
+          9.355815
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718206_4",
+      "name": "Palù",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_17",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.421531,
+          9.355815
+        ],
+        [
+          46.421662,
+          9.355351
+        ],
+        [
+          46.421779,
+          9.355154
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718207_0",
+      "name": "Cascèe",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.421095,
+          9.373044
+        ],
+        [
+          46.421387,
+          9.372791
+        ],
+        [
+          46.421719,
+          9.372523
+        ],
+        [
+          46.422093,
+          9.372175
+        ],
+        [
+          46.422266,
+          9.37195
+        ],
+        [
+          46.422374,
+          9.371417
+        ],
+        [
+          46.422312,
+          9.370885
+        ],
+        [
+          46.422093,
+          9.37021
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_769718208_0",
+      "name": "Angiolezza",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_16",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.422455,
+          9.373311
+        ],
+        [
+          46.423104,
+          9.373811
+        ],
+        [
+          46.423364,
+          9.374001
+        ],
+        [
+          46.42376,
+          9.374251
+        ],
+        [
+          46.423937,
+          9.374293
+        ],
+        [
+          46.424183,
+          9.37422
+        ],
+        [
+          46.424508,
+          9.374058
+        ],
+        [
+          46.425259,
+          9.373997
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_769718210_0",
+      "name": "Muro Vanoni",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_0",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.433814,
+          9.364954
+        ],
+        [
+          46.434226,
+          9.363367
+        ],
+        [
+          46.434379,
+          9.36305
+        ],
+        [
+          46.435047,
+          9.362402
+        ],
+        [
+          46.4352,
+          9.361927
+        ],
+        [
+          46.435172,
+          9.361414
+        ],
+        [
+          46.434927,
+          9.360673
+        ],
+        [
+          46.434795,
+          9.360247
+        ],
+        [
+          46.434827,
+          9.359856
+        ],
+        [
+          46.434962,
+          9.359554
+        ],
+        [
+          46.435178,
+          9.359425
+        ],
+        [
+          46.43562,
+          9.359273
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_769718211_2",
+      "name": "Interpista",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_38",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.42415,
+          9.380027
+        ],
+        [
+          46.424324,
+          9.379957
+        ],
+        [
+          46.424453,
+          9.379839
+        ],
+        [
+          46.42465,
+          9.379534
+        ],
+        [
+          46.424809,
+          9.379237
+        ],
+        [
+          46.424938,
+          9.378699
+        ],
+        [
+          46.425162,
+          9.378149
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_769718215_1",
+      "name": "Piste 769718215",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_71",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.43341,
+          9.372829
+        ],
+        [
+          46.433541,
+          9.372385
+        ],
+        [
+          46.433804,
+          9.371623
+        ],
+        [
+          46.434212,
+          9.370871
+        ],
+        [
+          46.434701,
+          9.370388
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_769718215_2",
+      "name": "Piste 769718215",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.434701,
+          9.370388
+        ],
+        [
+          46.435694,
+          9.369412
+        ],
+        [
+          46.436242,
+          9.368915
+        ],
+        [
+          46.436733,
+          9.368382
+        ],
+        [
+          46.437078,
+          9.367914
+        ],
+        [
+          46.437379,
+          9.367338
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_769718216_1",
+      "name": "Piste 769718216",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.429784,
+          9.374438
+        ],
+        [
+          46.430135,
+          9.374427
+        ],
+        [
+          46.430062,
+          9.374766
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_769718217_0",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_74",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.431724,
+          9.375185
+        ],
+        [
+          46.431743,
+          9.37445
+        ],
+        [
+          46.431802,
+          9.374017
+        ],
+        [
+          46.431786,
+          9.37346
+        ],
+        [
+          46.431573,
+          9.372434
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124491953_0",
+      "name": "Caurga",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_29",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.415821,
+          9.403292
+        ],
+        [
+          46.416558,
+          9.403587
+        ],
+        [
+          46.417302,
+          9.403893
+        ],
+        [
+          46.417723,
+          9.40406
+        ],
+        [
+          46.418018,
+          9.404323
+        ],
+        [
+          46.418064,
+          9.404482
+        ],
+        [
+          46.418047,
+          9.404668
+        ],
+        [
+          46.417979,
+          9.404811
+        ],
+        [
+          46.417853,
+          9.4051
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124491954_0",
+      "name": "Piste 1124491954",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_75",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.415332,
+          9.400493
+        ],
+        [
+          46.415133,
+          9.401071
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124491954_1",
+      "name": "Piste 1124491954",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_5",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.415133,
+          9.401071
+        ],
+        [
+          46.414757,
+          9.401997
+        ],
+        [
+          46.414752,
+          9.402808
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124493892_3",
+      "name": "Piste 1124493892",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.439815,
+          9.362061
+        ],
+        [
+          46.439972,
+          9.361898
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124493893_0",
+      "name": "Piste 1124493893",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_77",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.438059,
+          9.365406
+        ],
+        [
+          46.438433,
+          9.36501
+        ],
+        [
+          46.438666,
+          9.364679
+        ],
+        [
+          46.438974,
+          9.363902
+        ],
+        [
+          46.439346,
+          9.362608
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124493893_1",
+      "name": "Piste 1124493893",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.439346,
+          9.362608
+        ],
+        [
+          46.439379,
+          9.362493
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124493893_2",
+      "name": "Piste 1124493893",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.439379,
+          9.362493
+        ],
+        [
+          46.439467,
+          9.362028
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498143_1",
+      "name": "Skiweg Pianello - Vanoni",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_73",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.431676,
+          9.375112
+        ],
+        [
+          46.431441,
+          9.374759
+        ],
+        [
+          46.431242,
+          9.374458
+        ],
+        [
+          46.431005,
+          9.374224
+        ],
+        [
+          46.430885,
+          9.374239
+        ],
+        [
+          46.430689,
+          9.374458
+        ],
+        [
+          46.430544,
+          9.374434
+        ],
+        [
+          46.430339,
+          9.374469
+        ],
+        [
+          46.430135,
+          9.374427
+        ],
+        [
+          46.429996,
+          9.374237
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498143_2",
+      "name": "Skiweg Pianello - Vanoni",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.429996,
+          9.374237
+        ],
+        [
+          46.429825,
+          9.373973
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498145_1",
+      "name": "EASY PIPE",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_79",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.432833,
+          9.368381
+        ],
+        [
+          46.433011,
+          9.36825
+        ],
+        [
+          46.433321,
+          9.368115
+        ],
+        [
+          46.433628,
+          9.368037
+        ],
+        [
+          46.433852,
+          9.368017
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124498146_1",
+      "name": "Vanoni",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_80",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.430039,
+          9.373749
+        ],
+        [
+          46.430131,
+          9.373549
+        ],
+        [
+          46.430482,
+          9.37288
+        ],
+        [
+          46.43079,
+          9.372528
+        ],
+        [
+          46.43116,
+          9.372114
+        ],
+        [
+          46.431421,
+          9.371746
+        ],
+        [
+          46.431596,
+          9.371136
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124498147_0",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_81",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.433814,
+          9.364954
+        ],
+        [
+          46.434009,
+          9.36462
+        ],
+        [
+          46.434346,
+          9.364331
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498148_0",
+      "name": "BALLOON",
+      "type": "slope",
+      "from": "node_82",
+      "to": "node_60",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.435408,
+          9.364281
+        ],
+        [
+          46.43589,
+          9.364413
+        ],
+        [
+          46.436459,
+          9.364738
+        ],
+        [
+          46.436951,
+          9.36523
+        ],
+        [
+          46.437352,
+          9.365608
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498149_2",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_82",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.434621,
+          9.364293
+        ],
+        [
+          46.434837,
+          9.364308
+        ],
+        [
+          46.435157,
+          9.36429
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498150_1",
+      "name": "Piste 1124498150",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_69",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.432846,
+          9.368203
+        ],
+        [
+          46.433524,
+          9.366124
+        ],
+        [
+          46.433814,
+          9.364954
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498151_0",
+      "name": "Piste 1124498151",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_78",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.431596,
+          9.371136
+        ],
+        [
+          46.432744,
+          9.368441
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124498152_0",
+      "name": "Pianello 2",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_60",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -67,
+      "geometry": [
+        [
+          46.433993,
+          9.368037
+        ],
+        [
+          46.434354,
+          9.368109
+        ],
+        [
+          46.434852,
+          9.368017
+        ],
+        [
+          46.435285,
+          9.367779
+        ],
+        [
+          46.435701,
+          9.367599
+        ],
+        [
+          46.436143,
+          9.367134
+        ],
+        [
+          46.436722,
+          9.366668
+        ],
+        [
+          46.436963,
+          9.366446
+        ],
+        [
+          46.437106,
+          9.366257
+        ],
+        [
+          46.437266,
+          9.36591
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124499991_0",
+      "name": "BALLOON",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.437352,
+          9.365608
+        ],
+        [
+          46.437769,
+          9.365692
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124685937_1",
+      "name": "Piste 1124685937",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_70",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.424124,
+          9.379188
+        ],
+        [
+          46.423935,
+          9.379903
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124685937_2",
+      "name": "Piste 1124685937",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.423935,
+          9.379903
+        ],
+        [
+          46.423977,
+          9.380581
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124686883_1",
+      "name": "Pianello",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_80",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.431488,
+          9.371972
+        ],
+        [
+          46.431596,
+          9.371136
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124686884_0",
+      "name": "Skiweg Madepark",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_83",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.431846,
+          9.371835
+        ],
+        [
+          46.432648,
+          9.37127
+        ],
+        [
+          46.433063,
+          9.370964
+        ],
+        [
+          46.433489,
+          9.370934
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124686884_2",
+      "name": "Skiweg Madepark",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_71",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.433675,
+          9.370921
+        ],
+        [
+          46.434701,
+          9.370388
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124687685_0",
+      "name": "Madepark",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_79",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.433489,
+          9.370934
+        ],
+        [
+          46.433993,
+          9.368037
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124759947_0",
+      "name": "Skiweg Vanoni - Lago Azzurro",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_84",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.42866,
+          9.375494
+        ],
+        [
+          46.428724,
+          9.37508
+        ],
+        [
+          46.428724,
+          9.374277
+        ],
+        [
+          46.428709,
+          9.374057
+        ],
+        [
+          46.428696,
+          9.37394
+        ],
+        [
+          46.428681,
+          9.373807
+        ],
+        [
+          46.428643,
+          9.373516
+        ],
+        [
+          46.428591,
+          9.373024
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124759948_2",
+      "name": "Skiweg Vanoni - Lago Azzurro",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_85",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.428534,
+          9.372677
+        ],
+        [
+          46.428479,
+          9.372411
+        ],
+        [
+          46.428253,
+          9.371945
+        ],
+        [
+          46.428009,
+          9.371548
+        ],
+        [
+          46.427786,
+          9.37119
+        ],
+        [
+          46.427578,
+          9.370993
+        ],
+        [
+          46.427481,
+          9.370914
+        ],
+        [
+          46.42732,
+          9.370714
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124759949_4",
+      "name": "Skiweg Vanoni - Lago Azzurro",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.427143,
+          9.370132
+        ],
+        [
+          46.427093,
+          9.369895
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124761740_0",
+      "name": "Vanoni",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_73",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.42866,
+          9.375494
+        ],
+        [
+          46.429582,
+          9.374437
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124761740_1",
+      "name": "Vanoni",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.429582,
+          9.374437
+        ],
+        [
+          46.429706,
+          9.374212
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124763472_0",
+      "name": "Piste 1124763472",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_55",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.430433,
+          9.360024
+        ],
+        [
+          46.430595,
+          9.359671
+        ],
+        [
+          46.431061,
+          9.35885
+        ],
+        [
+          46.431275,
+          9.358283
+        ],
+        [
+          46.431372,
+          9.35808
+        ],
+        [
+          46.431492,
+          9.357984
+        ],
+        [
+          46.431664,
+          9.357887
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124763473_0",
+      "name": "Piste 1124763473",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_15",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.43194,
+          9.35779
+        ],
+        [
+          46.432336,
+          9.357917
+        ],
+        [
+          46.432747,
+          9.358075
+        ],
+        [
+          46.432943,
+          9.358122
+        ],
+        [
+          46.433077,
+          9.358032
+        ],
+        [
+          46.433174,
+          9.357846
+        ],
+        [
+          46.43334,
+          9.35745
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124780304_0",
+      "name": "Skiweg Vanoni",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_86",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.425259,
+          9.373997
+        ],
+        [
+          46.425558,
+          9.37393
+        ],
+        [
+          46.425806,
+          9.373896
+        ],
+        [
+          46.42603,
+          9.373875
+        ],
+        [
+          46.426268,
+          9.373836
+        ],
+        [
+          46.426319,
+          9.373822
+        ],
+        [
+          46.426512,
+          9.373768
+        ],
+        [
+          46.426829,
+          9.373716
+        ],
+        [
+          46.427072,
+          9.373746
+        ],
+        [
+          46.427306,
+          9.373839
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124780304_1",
+      "name": "Skiweg Vanoni",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.427306,
+          9.373839
+        ],
+        [
+          46.427443,
+          9.373895
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124786998_0",
+      "name": "Piste 1124786998",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_87",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.426484,
+          9.37169
+        ],
+        [
+          46.426872,
+          9.370242
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124786998_4",
+      "name": "Piste 1124786998",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_30",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.427,
+          9.369564
+        ],
+        [
+          46.427075,
+          9.369074
+        ],
+        [
+          46.427223,
+          9.368352
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124786999_1",
+      "name": "Lago Azzurro",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_37",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.425319,
+          9.373886
+        ],
+        [
+          46.425619,
+          9.373604
+        ],
+        [
+          46.425942,
+          9.372963
+        ],
+        [
+          46.426267,
+          9.372345
+        ],
+        [
+          46.426484,
+          9.37169
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124787000_1",
+      "name": "Skiweg Motta Bassa - Lago Azzurro",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_49",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.421755,
+          9.356583
+        ],
+        [
+          46.422319,
+          9.356473
+        ],
+        [
+          46.422826,
+          9.356397
+        ],
+        [
+          46.423449,
+          9.356374
+        ],
+        [
+          46.423864,
+          9.356513
+        ],
+        [
+          46.424587,
+          9.357192
+        ],
+        [
+          46.42474,
+          9.357328
+        ],
+        [
+          46.424961,
+          9.357343
+        ],
+        [
+          46.42529,
+          9.357303
+        ],
+        [
+          46.425745,
+          9.357255
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124787765_4",
+      "name": "Piste 1124787765",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_88",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.418734,
+          9.375941
+        ],
+        [
+          46.418894,
+          9.375944
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124787765_5",
+      "name": "Piste 1124787765",
+      "type": "slope",
+      "from": "node_88",
+      "to": "node_35",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.418894,
+          9.375944
+        ],
+        [
+          46.419206,
+          9.37588
+        ],
+        [
+          46.41989,
+          9.375574
+        ],
+        [
+          46.420755,
+          9.375002
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124787766_0",
+      "name": "Piste 1124787766",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.421963,
+          9.373285
+        ],
+        [
+          46.422455,
+          9.373311
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124787767_0",
+      "name": "Est",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_36",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.422455,
+          9.373311
+        ],
+        [
+          46.422899,
+          9.373187
+        ],
+        [
+          46.424096,
+          9.373055
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124788528_2",
+      "name": "Cascèe",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_51",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.416048,
+          9.379893
+        ],
+        [
+          46.416163,
+          9.379994
+        ],
+        [
+          46.416331,
+          9.380087
+        ],
+        [
+          46.416531,
+          9.380079
+        ],
+        [
+          46.416714,
+          9.379928
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124788529_2",
+      "name": "Skiweg Cascèe",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_89",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.416924,
+          9.379207
+        ],
+        [
+          46.417001,
+          9.378927
+        ],
+        [
+          46.417184,
+          9.378629
+        ],
+        [
+          46.417347,
+          9.378444
+        ],
+        [
+          46.417555,
+          9.378401
+        ],
+        [
+          46.417713,
+          9.378459
+        ],
+        [
+          46.417901,
+          9.378585
+        ],
+        [
+          46.418071,
+          9.378604
+        ],
+        [
+          46.418194,
+          9.378453
+        ],
+        [
+          46.418314,
+          9.378162
+        ],
+        [
+          46.418427,
+          9.377754
+        ],
+        [
+          46.418484,
+          9.377413
+        ],
+        [
+          46.418522,
+          9.376837
+        ],
+        [
+          46.418533,
+          9.3766
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788531_2",
+      "name": "Piste 1124788531",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_90",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.417254,
+          9.374075
+        ],
+        [
+          46.417272,
+          9.373675
+        ],
+        [
+          46.417361,
+          9.373393
+        ],
+        [
+          46.417451,
+          9.373241
+        ],
+        [
+          46.417503,
+          9.373153
+        ],
+        [
+          46.417735,
+          9.373004
+        ],
+        [
+          46.417927,
+          9.372935
+        ],
+        [
+          46.418248,
+          9.372843
+        ],
+        [
+          46.418431,
+          9.372754
+        ],
+        [
+          46.418687,
+          9.372708
+        ],
+        [
+          46.418746,
+          9.372703
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788532_0",
+      "name": "Piste 1124788532",
+      "type": "slope",
+      "from": "node_90",
+      "to": "node_66",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.418978,
+          9.37272
+        ],
+        [
+          46.420025,
+          9.372732
+        ],
+        [
+          46.421095,
+          9.373044
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788533_1",
+      "name": "Angiolezza",
+      "type": "slope",
+      "from": "node_91",
+      "to": "node_92",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.417442,
+          9.375229
+        ],
+        [
+          46.417323,
+          9.375049
+        ],
+        [
+          46.417253,
+          9.374857
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788533_2",
+      "name": "Angiolezza",
+      "type": "slope",
+      "from": "node_92",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.417253,
+          9.374857
+        ],
+        [
+          46.417231,
+          9.374488
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788534_0",
+      "name": "Angiolezza",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_53",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.421095,
+          9.373044
+        ],
+        [
+          46.42165,
+          9.373217
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788535_0",
+      "name": "Cascèe",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_93",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.422093,
+          9.37021
+        ],
+        [
+          46.421861,
+          9.369551
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124788537_1",
+      "name": "Piste 1124788537",
+      "type": "slope",
+      "from": "node_93",
+      "to": "node_94",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.421766,
+          9.36929
+        ],
+        [
+          46.421606,
+          9.368764
+        ],
+        [
+          46.421436,
+          9.368204
+        ],
+        [
+          46.421272,
+          9.367645
+        ],
+        [
+          46.421204,
+          9.367362
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788539_2",
+      "name": "Skiweg Motta",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_45",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.420826,
+          9.365
+        ],
+        [
+          46.420956,
+          9.364708
+        ],
+        [
+          46.421127,
+          9.364476
+        ],
+        [
+          46.421618,
+          9.363955
+        ],
+        [
+          46.421822,
+          9.363677
+        ],
+        [
+          46.421892,
+          9.363508
+        ],
+        [
+          46.422227,
+          9.362449
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788540_1",
+      "name": "Piste 1124788540",
+      "type": "slope",
+      "from": "node_94",
+      "to": "node_95",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.421119,
+          9.367025
+        ],
+        [
+          46.421053,
+          9.366778
+        ],
+        [
+          46.421031,
+          9.366693
+        ],
+        [
+          46.420921,
+          9.366128
+        ],
+        [
+          46.420825,
+          9.365532
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124788540_2",
+      "name": "Piste 1124788540",
+      "type": "slope",
+      "from": "node_95",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.420825,
+          9.365532
+        ],
+        [
+          46.420809,
+          9.365404
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124789732_1",
+      "name": "Skiweg Cascèe",
+      "type": "slope",
+      "from": "node_89",
+      "to": "node_13",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.418523,
+          9.37603
+        ],
+        [
+          46.418565,
+          9.375904
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124789733_2",
+      "name": "Piste 1124789733",
+      "type": "slope",
+      "from": "node_89",
+      "to": "node_91",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.418354,
+          9.376029
+        ],
+        [
+          46.418198,
+          9.375921
+        ],
+        [
+          46.418106,
+          9.375858
+        ],
+        [
+          46.418017,
+          9.37578
+        ],
+        [
+          46.417857,
+          9.37564
+        ],
+        [
+          46.417656,
+          9.375429
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1124790756_1",
+      "name": "Angiolezza",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_91",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.418372,
+          9.375355
+        ],
+        [
+          46.418041,
+          9.37546
+        ],
+        [
+          46.417781,
+          9.375427
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124791283_1",
+      "name": "Skiweg Motta",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_67",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.423888,
+          9.372644
+        ],
+        [
+          46.423671,
+          9.372495
+        ],
+        [
+          46.423432,
+          9.372208
+        ],
+        [
+          46.423117,
+          9.371641
+        ],
+        [
+          46.422946,
+          9.3713
+        ],
+        [
+          46.422815,
+          9.371013
+        ],
+        [
+          46.42248,
+          9.370494
+        ],
+        [
+          46.422256,
+          9.370257
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124791283_2",
+      "name": "Skiweg Motta",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_93",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.422256,
+          9.370257
+        ],
+        [
+          46.42192,
+          9.369648
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124792005_0",
+      "name": "Skiweg Sky Express",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_30",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.427,
+          9.369564
+        ],
+        [
+          46.42692,
+          9.368538
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1124792507_1",
+      "name": "Valsecchi",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.426837,
+          9.369867
+        ],
+        [
+          46.426715,
+          9.369626
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125228260_0",
+      "name": "Serenissima 2",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_33",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.41869,
+          9.36334
+        ],
+        [
+          46.41894,
+          9.362772
+        ],
+        [
+          46.419117,
+          9.362514
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125228260_3",
+      "name": "Serenissima 2",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_43",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.419529,
+          9.362443
+        ],
+        [
+          46.419998,
+          9.362558
+        ],
+        [
+          46.420873,
+          9.363019
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125230056_1",
+      "name": "Skiweg Motta Alta - Serenissima",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_10",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.42046,
+          9.363574
+        ],
+        [
+          46.420675,
+          9.363673
+        ],
+        [
+          46.420817,
+          9.364005
+        ],
+        [
+          46.420817,
+          9.364381
+        ],
+        [
+          46.420783,
+          9.364745
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125239748_0",
+      "name": "Montalto",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_60",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.437379,
+          9.367338
+        ],
+        [
+          46.437454,
+          9.36654
+        ],
+        [
+          46.437352,
+          9.365608
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125239750_2",
+      "name": "Montalto",
+      "type": "slope",
+      "from": "node_96",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.435339,
+          9.359743
+        ],
+        [
+          46.435425,
+          9.359597
+        ],
+        [
+          46.43562,
+          9.359273
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125239751_0",
+      "name": "LARICI",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_96",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.436081,
+          9.360939
+        ],
+        [
+          46.435737,
+          9.360564
+        ],
+        [
+          46.435406,
+          9.360109
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125239752_0",
+      "name": "Nave",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_47",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.437379,
+          9.367338
+        ],
+        [
+          46.437576,
+          9.366734
+        ],
+        [
+          46.437772,
+          9.366164
+        ],
+        [
+          46.438059,
+          9.365406
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125239753_1",
+      "name": "Baby Park Larici",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.430727,
+          9.375389
+        ],
+        [
+          46.430402,
+          9.375185
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125239755_1",
+      "name": "Skiweg Scoiattolo - Vanoni",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_97",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.428827,
+          9.378976
+        ],
+        [
+          46.428762,
+          9.378782
+        ],
+        [
+          46.428591,
+          9.378436
+        ],
+        [
+          46.428545,
+          9.378215
+        ],
+        [
+          46.428545,
+          9.377918
+        ],
+        [
+          46.428594,
+          9.37753
+        ],
+        [
+          46.428608,
+          9.377293
+        ],
+        [
+          46.428658,
+          9.376651
+        ],
+        [
+          46.428669,
+          9.376482
+        ],
+        [
+          46.428669,
+          9.37631
+        ],
+        [
+          46.428667,
+          9.376155
+        ],
+        [
+          46.428628,
+          9.375898
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125239755_2",
+      "name": "Skiweg Scoiattolo - Vanoni",
+      "type": "slope",
+      "from": "node_97",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.428628,
+          9.375898
+        ],
+        [
+          46.428648,
+          9.375739
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125239756_0",
+      "name": "Scoiattolo",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_63",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.424105,
+          9.380914
+        ],
+        [
+          46.424637,
+          9.382719
+        ],
+        [
+          46.425076,
+          9.38453
+        ],
+        [
+          46.425284,
+          9.384966
+        ],
+        [
+          46.425734,
+          9.385355
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125490954_0",
+      "name": "Piste 1125490954",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_25",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.416299,
+          9.403804
+        ],
+        [
+          46.416065,
+          9.404253
+        ],
+        [
+          46.41588,
+          9.404564
+        ],
+        [
+          46.415724,
+          9.404821
+        ],
+        [
+          46.415488,
+          9.405143
+        ],
+        [
+          46.415288,
+          9.405572
+        ],
+        [
+          46.415207,
+          9.405937
+        ],
+        [
+          46.415059,
+          9.406259
+        ],
+        [
+          46.414948,
+          9.40642
+        ],
+        [
+          46.414859,
+          9.406431
+        ],
+        [
+          46.414353,
+          9.405977
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125490955_1",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_56",
+      "distance": 0.62,
+      "duration": 1,
+      "elevation": -99,
+      "geometry": [
+        [
+          46.415273,
+          9.401163
+        ],
+        [
+          46.41556,
+          9.40181
+        ],
+        [
+          46.416196,
+          9.402166
+        ],
+        [
+          46.417938,
+          9.402099
+        ],
+        [
+          46.419691,
+          9.402587
+        ],
+        [
+          46.420415,
+          9.402114
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1125490956_0",
+      "name": "Camosci",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 1.42,
+      "duration": 2,
+      "elevation": -227,
+      "geometry": [
+        [
+          46.420415,
+          9.402114
+        ],
+        [
+          46.421117,
+          9.40126
+        ],
+        [
+          46.421765,
+          9.399956
+        ],
+        [
+          46.423665,
+          9.397277
+        ],
+        [
+          46.424701,
+          9.396086
+        ],
+        [
+          46.426383,
+          9.390696
+        ],
+        [
+          46.427129,
+          9.386958
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1125490957_0",
+      "name": "Piste 1125490957",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_98",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.42964,
+          9.381569
+        ],
+        [
+          46.429976,
+          9.375918
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_96",
+      "name": "Walk: Larici (Base) ↔ Junction: Montalto",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_96",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.435666,
+          9.359241
+        ],
+        [
+          46.435365,
+          9.359943
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_14",
+      "name": "Walk: Larici (Summit / Top) ↔ Cima Sole (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.43083,
+          9.375245
+        ],
+        [
+          46.429982,
+          9.374949
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_19",
+      "name": "Walk: Larici (Summit / Top) ↔ Baby Park Larici (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.43083,
+          9.375245
+        ],
+        [
+          46.430377,
+          9.375077
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_75",
+      "name": "Walk: Groppera (Base) ↔ Junction: Canalone",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_75",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.415332,
+          9.400493
+        ],
+        [
+          46.415189,
+          9.401107
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_26",
+      "name": "Walk: Val di Lei (Summit / Top) ↔ Junction: Marmotta",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_26",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414742,
+          9.403029
+        ],
+        [
+          46.415014,
+          9.402771
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_20",
+      "name": "Walk: Montalto (Base) ↔ Arlecchino (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_20",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439355,
+          9.361878
+        ],
+        [
+          46.440128,
+          9.361839
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_54",
+      "name": "Walk: Montalto (Base) ↔ Junction: Italo Pedroncelli",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_54",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439355,
+          9.361878
+        ],
+        [
+          46.439751,
+          9.362315
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_76",
+      "name": "Walk: Montalto (Base) ↔ Junction #77",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_76",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439355,
+          9.361878
+        ],
+        [
+          46.439573,
+          9.36226
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_77",
+      "name": "Walk: Montalto (Base) ↔ Junction #78",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_77",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439355,
+          9.361878
+        ],
+        [
+          46.439346,
+          9.362608
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_17",
+      "name": "Walk: Motta (Base) ↔ Palù (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_17",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421401,
+          9.354797
+        ],
+        [
+          46.421875,
+          9.35514
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_34",
+      "name": "Walk: Motta (Base) ↔ Junction: Piani",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_34",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421401,
+          9.354797
+        ],
+        [
+          46.421354,
+          9.355624
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_95",
+      "name": "Walk: Serenissima (Base) ↔ Junction #96",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_95",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.420789,
+          9.365072
+        ],
+        [
+          46.420825,
+          9.365532
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_62",
+      "name": "Walk: Colmenetta Est (Base) ↔ Junction: Skiweg Baita Sole",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_62",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.426631,
+          9.369584
+        ],
+        [
+          46.427002,
+          9.369711
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_87",
+      "name": "Walk: Colmenetta Est (Base) ↔ Junction: Skiweg Sky Express",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_87",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.426631,
+          9.369584
+        ],
+        [
+          46.426933,
+          9.369869
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_88",
+      "name": "Walk: Colmenetta Est (Summit / Top) ↔ Junction #89",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_88",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.418584,
+          9.375592
+        ],
+        [
+          46.418894,
+          9.375944
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_89",
+      "name": "Walk: Colmenetta Est (Summit / Top) ↔ Junction: Skiweg Cascèe",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_89",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.418584,
+          9.375592
+        ],
+        [
+          46.418477,
+          9.376194
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_19",
+      "name": "Walk: Cima Sole (Base) ↔ Baby Park Larici (Base)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.429982,
+          9.374949
+        ],
+        [
+          46.430377,
+          9.375077
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_73",
+      "name": "Walk: Cima Sole (Base) ↔ Junction: Skiweg Pianello - Vanoni",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_73",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.429982,
+          9.374949
+        ],
+        [
+          46.429758,
+          9.37438
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_34",
+      "name": "Walk: Palù (Base) ↔ Junction: Piani",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_34",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421875,
+          9.35514
+        ],
+        [
+          46.421354,
+          9.355624
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_54",
+      "name": "Walk: Arlecchino (Base) ↔ Junction: Italo Pedroncelli",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_54",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440128,
+          9.361839
+        ],
+        [
+          46.439751,
+          9.362315
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_76",
+      "name": "Walk: Arlecchino (Base) ↔ Junction #77",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_76",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440128,
+          9.361839
+        ],
+        [
+          46.439573,
+          9.36226
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_24",
+      "name": "Walk: Junction: Skiweg Vanoni ↔ Junction: Skiweg Vanoni",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427951,
+          9.374662
+        ],
+        [
+          46.427626,
+          9.37416
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_39",
+      "name": "Walk: Junction: Skiweg Vanoni ↔ Junction: Interpista",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427951,
+          9.374662
+        ],
+        [
+          46.427403,
+          9.374886
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_97",
+      "name": "Walk: Junction: Skiweg Vanoni ↔ Junction: Skiweg Scoiattolo - Vanoni",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_97",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.428501,
+          9.375492
+        ],
+        [
+          46.428628,
+          9.375898
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_39",
+      "name": "Walk: Junction: Skiweg Vanoni ↔ Junction: Interpista",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427626,
+          9.37416
+        ],
+        [
+          46.427403,
+          9.374886
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_86",
+      "name": "Walk: Junction: Skiweg Vanoni ↔ Junction: Skiweg Vanoni",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_86",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427626,
+          9.37416
+        ],
+        [
+          46.427306,
+          9.373839
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_28",
+      "name": "Walk: Junction: Marmotta ↔ Junction: Marmotta",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.415821,
+          9.403292
+        ],
+        [
+          46.416299,
+          9.403804
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_43",
+      "name": "Walk: Junction: Serenissima ↔ Junction: Serenissima",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.420365,
+          9.36356
+        ],
+        [
+          46.42077,
+          9.363084
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_44",
+      "name": "Walk: Junction: Serenissima ↔ Junction: Serenissima",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.42077,
+          9.363084
+        ],
+        [
+          46.42114,
+          9.363032
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_47",
+      "name": "Walk: Junction: Pianello ↔ Junction: Pianello",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.437769,
+          9.365692
+        ],
+        [
+          46.438059,
+          9.365406
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_60",
+      "name": "Walk: Junction: Pianello ↔ Junction: Montalto",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_60",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.437769,
+          9.365692
+        ],
+        [
+          46.437328,
+          9.365694
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_50_node_70",
+      "name": "Walk: Junction: Vanoni ↔ Junction: Interpista",
+      "type": "walk",
+      "from": "node_50",
+      "to": "node_70",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.424054,
+          9.380781
+        ],
+        [
+          46.424022,
+          9.379976
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_92",
+      "name": "Walk: Junction: Cascèe ↔ Junction: Angiolezza",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_92",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.417243,
+          9.374289
+        ],
+        [
+          46.417253,
+          9.374857
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_53_node_68",
+      "name": "Walk: Junction: Est ↔ Junction: Angiolezza",
+      "type": "walk",
+      "from": "node_53",
+      "to": "node_68",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421838,
+          9.373257
+        ],
+        [
+          46.422455,
+          9.373311
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_76",
+      "name": "Walk: Junction: Italo Pedroncelli ↔ Junction #77",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_76",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439751,
+          9.362315
+        ],
+        [
+          46.439573,
+          9.36226
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_77",
+      "name": "Walk: Junction: Italo Pedroncelli ↔ Junction #78",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439751,
+          9.362315
+        ],
+        [
+          46.439346,
+          9.362608
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_59_node_73",
+      "name": "Walk: Junction: Skiweg Vanoni - Interpista ↔ Junction: Skiweg Pianello - Vanoni",
+      "type": "walk",
+      "from": "node_59",
+      "to": "node_73",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.429812,
+          9.37391
+        ],
+        [
+          46.429758,
+          9.37438
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_62_node_85",
+      "name": "Walk: Junction: Skiweg Baita Sole ↔ Junction: Skiweg Vanoni - Lago Azzurro",
+      "type": "walk",
+      "from": "node_62",
+      "to": "node_85",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427002,
+          9.369711
+        ],
+        [
+          46.427215,
+          9.370382
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_62_node_87",
+      "name": "Walk: Junction: Skiweg Baita Sole ↔ Junction: Skiweg Sky Express",
+      "type": "walk",
+      "from": "node_62",
+      "to": "node_87",
+      "distance": 0.01,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427002,
+          9.369711
+        ],
+        [
+          46.426933,
+          9.369869
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_67_node_93",
+      "name": "Walk: Junction: Cascèe ↔ Junction: Cascèe",
+      "type": "walk",
+      "from": "node_67",
+      "to": "node_93",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.422174,
+          9.370233
+        ],
+        [
+          46.421851,
+          9.369504
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_76_node_77",
+      "name": "Walk: Junction #77 ↔ Junction #78",
+      "type": "walk",
+      "from": "node_76",
+      "to": "node_77",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439573,
+          9.36226
+        ],
+        [
+          46.439346,
+          9.362608
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_85_node_87",
+      "name": "Walk: Junction: Skiweg Vanoni - Lago Azzurro ↔ Junction: Skiweg Sky Express",
+      "type": "walk",
+      "from": "node_85",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.427215,
+          9.370382
+        ],
+        [
+          46.426933,
+          9.369869
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_88_node_89",
+      "name": "Walk: Junction #89 ↔ Junction: Skiweg Cascèe",
+      "type": "walk",
+      "from": "node_88",
+      "to": "node_89",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.418894,
+          9.375944
+        ],
+        [
+          46.418477,
+          9.376194
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_91_node_92",
+      "name": "Walk: Junction: Angiolezza ↔ Junction: Angiolezza",
+      "type": "walk",
+      "from": "node_91",
+      "to": "node_92",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.417597,
+          9.375352
+        ],
+        [
+          46.417253,
+          9.374857
+        ]
+      ]
+    },
+    {
+      "id": "bus_return_node_4_node_75",
+      "name": "Ski Bus Inter-Sector",
+      "type": "bus",
+      "from": "node_4",
+      "to": "node_75",
+      "distance": 1.52,
+      "duration": 4,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.42396,
+          9.416295
+        ],
+        [
+          46.415189,
+          9.401107
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4954 @@
+{
+  "id": "valsenales",
+  "name": "Val Senales (Schnalstal)",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.7476,
+      10.7588
+    ],
+    [
+      46.797,
+      10.8142
+    ]
+  ],
+  "center": [
+    46.7739,
+    10.7884
+  ],
+  "stats": {
+    "slopes": "32.3 km",
+    "lifts": 12,
+    "elevation": "2011m - 3212m",
+    "drop": "1201m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Lazaun (Base)",
+      "lat": 46.755507,
+      "lng": 10.781263,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Lazaun (Summit / Top)",
+      "lat": 46.752602,
+      "lng": 10.765716,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Gletscherbahn - Funivia Ghiacciai (Base)",
+      "lat": 46.757428,
+      "lng": 10.782721,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Gletscherbahn - Funivia Ghiacciai (Summit / Top)",
+      "lat": 46.769837,
+      "lng": 10.797758,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Teufelsegg (Base)",
+      "lat": 46.77391,
+      "lng": 10.782623,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Teufelsegg (Summit / Top)",
+      "lat": 46.783616,
+      "lng": 10.763844,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Finail 1 (Base)",
+      "lat": 46.778727,
+      "lng": 10.807418,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Finail 1 (Summit / Top)",
+      "lat": 46.770017,
+      "lng": 10.809198,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Gletschersee 1 (Base)",
+      "lat": 46.779534,
+      "lng": 10.797089,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Gletschersee 1 (Summit / Top)",
+      "lat": 46.776361,
+      "lng": 10.80106,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Glocken 1 (Base)",
+      "lat": 46.756801,
+      "lng": 10.783171,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Glocken 1 (Summit / Top)",
+      "lat": 46.757756,
+      "lng": 10.787231,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Grawand (Base)",
+      "lat": 46.775966,
+      "lng": 10.800764,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Hintereis (Base)",
+      "lat": 46.78172,
+      "lng": 10.797737,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Hintereis (Summit / Top)",
+      "lat": 46.792006,
+      "lng": 10.789871,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Roter Kofel (Base)",
+      "lat": 46.758086,
+      "lng": 10.782409,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Roter Kofel (Summit / Top)",
+      "lat": 46.773706,
+      "lng": 10.781941,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Hintereis 1",
+      "lat": 46.790612,
+      "lng": 10.793263,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Hintereis 1",
+      "lat": 46.787421,
+      "lng": 10.795174,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Hintereis 1",
+      "lat": 46.785454,
+      "lng": 10.796059,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Hintereis 2",
+      "lat": 46.786244,
+      "lng": 10.793374,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction #22",
+      "lat": 46.783775,
+      "lng": 10.793916,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Hintereis 2",
+      "lat": 46.783938,
+      "lng": 10.797633,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: S3 Leo Gurschler",
+      "lat": 46.781363,
+      "lng": 10.799486,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: S1 Gletschersee 1",
+      "lat": 46.780288,
+      "lng": 10.797547,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.77935,
+      "lng": 10.795089,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.779026,
+      "lng": 10.792625,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.776336,
+      "lng": 10.784526,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Rennpiste Lazaun",
+      "lat": 46.755911,
+      "lng": 10.767859,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Rennpiste Lazaun",
+      "lat": 46.756828,
+      "lng": 10.777757,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Rennpiste Lazaun",
+      "lat": 46.756507,
+      "lng": 10.780356,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Familienpiste Lazaun",
+      "lat": 46.754326,
+      "lng": 10.770006,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Familienpiste Lazaun",
+      "lat": 46.755402,
+      "lng": 10.777942,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Glocken 1",
+      "lat": 46.757769,
+      "lng": 10.785553,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Teufelsegg R1",
+      "lat": 46.78284,
+      "lng": 10.766018,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Teufelsegg R1",
+      "lat": 46.781266,
+      "lng": 10.771164,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Teufelsegg R2",
+      "lat": 46.782614,
+      "lng": 10.770648,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Teufelsegg R2",
+      "lat": 46.775274,
+      "lng": 10.780399,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Teufelsegg R1",
+      "lat": 46.780935,
+      "lng": 10.771664,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Teufelsegg R1",
+      "lat": 46.776329,
+      "lng": 10.774459,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: T2 Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.76185,
+      "lng": 10.785085,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: S3 Leo Gurschler",
+      "lat": 46.777544,
+      "lng": 10.801834,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: S3 Leo Gurschler",
+      "lat": 46.780099,
+      "lng": 10.801362,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: F1",
+      "lat": 46.771048,
+      "lng": 10.808726,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: G3",
+      "lat": 46.770115,
+      "lng": 10.801998,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: G3",
+      "lat": 46.773846,
+      "lng": 10.802719,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: G3",
+      "lat": 46.775291,
+      "lng": 10.800841,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Hintereis 2",
+      "lat": 46.788292,
+      "lng": 10.791935,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction #49",
+      "lat": 46.769752,
+      "lng": 10.798129,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: G1",
+      "lat": 46.770034,
+      "lng": 10.799711,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: G2",
+      "lat": 46.770068,
+      "lng": 10.801298,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: S2 Gletschersee 2",
+      "lat": 46.780518,
+      "lng": 10.804175,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: G1",
+      "lat": 46.775568,
+      "lng": 10.800643,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: S1 Gletschersee 1",
+      "lat": 46.775997,
+      "lng": 10.800945,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: S1 Gletschersee 1",
+      "lat": 46.776485,
+      "lng": 10.803991,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: S1 Gletschersee 1",
+      "lat": 46.781576,
+      "lng": 10.803082,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.773312,
+      "lng": 10.783488,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "lat": 46.766702,
+      "lng": 10.785231,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Transhumanz",
+      "lat": 46.762445,
+      "lng": 10.780615,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: Teufelsegg 2",
+      "lat": 46.783418,
+      "lng": 10.76739,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Teufelsegg 2",
+      "lat": 46.777095,
+      "lng": 10.770859,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Teufelsegg 2",
+      "lat": 46.77423,
+      "lng": 10.782137,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Teufelsegg 2",
+      "lat": 46.773884,
+      "lng": 10.783174,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Teufelsegg 2 Variante",
+      "lat": 46.779255,
+      "lng": 10.771107,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Teufelsegg R2",
+      "lat": 46.783631,
+      "lng": 10.764408,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction #66",
+      "lat": 46.779912,
+      "lng": 10.796991,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_27077317",
+      "name": "Lazaun",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.2,
+      "duration": 3,
+      "elevation": 264,
+      "geometry": [
+        [
+          46.755511,
+          10.781069
+        ],
+        [
+          46.755017,
+          10.778433
+        ],
+        [
+          46.754663,
+          10.776547
+        ],
+        [
+          46.754112,
+          10.773609
+        ],
+        [
+          46.753871,
+          10.772323
+        ],
+        [
+          46.753705,
+          10.771438
+        ],
+        [
+          46.753599,
+          10.770875
+        ],
+        [
+          46.753527,
+          10.770489
+        ],
+        [
+          46.753163,
+          10.768546
+        ],
+        [
+          46.752776,
+          10.766486
+        ],
+        [
+          46.752651,
+          10.765818
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_180421588",
+      "name": "Gletscherbahn - Funivia Ghiacciai",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.79,
+      "duration": 4,
+      "elevation": 393,
+      "geometry": [
+        [
+          46.757428,
+          10.782721
+        ],
+        [
+          46.766311,
+          10.79314
+        ],
+        [
+          46.769962,
+          10.797422
+        ]
+      ],
+      "subtype": "cable_car",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_187201895",
+      "name": "Teufelsegg",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.79,
+      "duration": 7,
+      "elevation": 393,
+      "geometry": [
+        [
+          46.773829,
+          10.782438
+        ],
+        [
+          46.774473,
+          10.781217
+        ],
+        [
+          46.775213,
+          10.779813
+        ],
+        [
+          46.775815,
+          10.778671
+        ],
+        [
+          46.776064,
+          10.778198
+        ],
+        [
+          46.776843,
+          10.776721
+        ],
+        [
+          46.777307,
+          10.775839
+        ],
+        [
+          46.777771,
+          10.77496
+        ],
+        [
+          46.778432,
+          10.773706
+        ],
+        [
+          46.778669,
+          10.773257
+        ],
+        [
+          46.779329,
+          10.772005
+        ],
+        [
+          46.779519,
+          10.771644
+        ],
+        [
+          46.780156,
+          10.770435
+        ],
+        [
+          46.780707,
+          10.769391
+        ],
+        [
+          46.781399,
+          10.768077
+        ],
+        [
+          46.782006,
+          10.766926
+        ],
+        [
+          46.782242,
+          10.766478
+        ],
+        [
+          46.782411,
+          10.766157
+        ],
+        [
+          46.783449,
+          10.764188
+        ],
+        [
+          46.783631,
+          10.763842
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189033621",
+      "name": "Finail 1",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.99,
+      "duration": 3,
+      "elevation": 217,
+      "geometry": [
+        [
+          46.77873,
+          10.807302
+        ],
+        [
+          46.777559,
+          10.807551
+        ],
+        [
+          46.776465,
+          10.807783
+        ],
+        [
+          46.775336,
+          10.808023
+        ],
+        [
+          46.774135,
+          10.808278
+        ],
+        [
+          46.773104,
+          10.808497
+        ],
+        [
+          46.771992,
+          10.808733
+        ],
+        [
+          46.770635,
+          10.809022
+        ],
+        [
+          46.769926,
+          10.809172
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_189033622",
+      "name": "Finail 2",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.99,
+      "duration": 3,
+      "elevation": 217,
+      "geometry": [
+        [
+          46.778744,
+          10.807466
+        ],
+        [
+          46.777682,
+          10.807684
+        ],
+        [
+          46.77662,
+          10.807902
+        ],
+        [
+          46.775435,
+          10.808145
+        ],
+        [
+          46.774265,
+          10.808385
+        ],
+        [
+          46.773226,
+          10.808599
+        ],
+        [
+          46.772128,
+          10.808824
+        ],
+        [
+          46.770767,
+          10.809104
+        ],
+        [
+          46.769941,
+          10.809273
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_189033627",
+      "name": "Gletschersee 1",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.47,
+      "duration": 2,
+      "elevation": 103,
+      "geometry": [
+        [
+          46.77977,
+          10.796936
+        ],
+        [
+          46.778667,
+          10.798263
+        ],
+        [
+          46.777944,
+          10.799133
+        ],
+        [
+          46.777093,
+          10.800157
+        ],
+        [
+          46.776476,
+          10.800899
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189033628",
+      "name": "Gletschersee 2",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.47,
+      "duration": 2,
+      "elevation": 103,
+      "geometry": [
+        [
+          46.779779,
+          10.797094
+        ],
+        [
+          46.778671,
+          10.798435
+        ],
+        [
+          46.777881,
+          10.799391
+        ],
+        [
+          46.777162,
+          10.80026
+        ],
+        [
+          46.776557,
+          10.800993
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189033629",
+      "name": "Glocken 1",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.33,
+      "duration": 2,
+      "elevation": 72,
+      "geometry": [
+        [
+          46.756751,
+          10.7831
+        ],
+        [
+          46.756818,
+          10.783374
+        ],
+        [
+          46.757765,
+          10.787229
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_189033630",
+      "name": "Glocken 2",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.33,
+      "duration": 2,
+      "elevation": 72,
+      "geometry": [
+        [
+          46.75671,
+          10.783146
+        ],
+        [
+          46.757725,
+          10.787238
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_189033631",
+      "name": "Grawand",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_3",
+      "distance": 0.7,
+      "duration": 2,
+      "elevation": 154,
+      "geometry": [
+        [
+          46.776032,
+          10.800396
+        ],
+        [
+          46.775392,
+          10.800131
+        ],
+        [
+          46.774117,
+          10.799603
+        ],
+        [
+          46.773152,
+          10.799203
+        ],
+        [
+          46.772571,
+          10.798962
+        ],
+        [
+          46.772086,
+          10.798762
+        ],
+        [
+          46.771029,
+          10.798324
+        ],
+        [
+          46.769995,
+          10.797896
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189033632",
+      "name": "Hintereis",
+      "type": "lift",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 1.26,
+      "duration": 5,
+      "elevation": 277,
+      "geometry": [
+        [
+          46.781803,
+          10.797476
+        ],
+        [
+          46.78261,
+          10.796871
+        ],
+        [
+          46.783765,
+          10.796005
+        ],
+        [
+          46.784113,
+          10.795745
+        ],
+        [
+          46.785269,
+          10.794879
+        ],
+        [
+          46.785547,
+          10.794671
+        ],
+        [
+          46.786209,
+          10.794175
+        ],
+        [
+          46.78716,
+          10.793463
+        ],
+        [
+          46.787572,
+          10.793154
+        ],
+        [
+          46.788674,
+          10.792329
+        ],
+        [
+          46.789313,
+          10.79185
+        ],
+        [
+          46.790085,
+          10.791272
+        ],
+        [
+          46.79049,
+          10.790969
+        ],
+        [
+          46.791278,
+          10.790378
+        ],
+        [
+          46.791669,
+          10.790085
+        ],
+        [
+          46.791899,
+          10.789913
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189033633",
+      "name": "Roter Kofel",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 1.74,
+      "duration": 6,
+      "elevation": 382,
+      "geometry": [
+        [
+          46.758086,
+          10.782409
+        ],
+        [
+          46.759135,
+          10.782376
+        ],
+        [
+          46.760047,
+          10.782348
+        ],
+        [
+          46.760544,
+          10.782333
+        ],
+        [
+          46.761218,
+          10.782312
+        ],
+        [
+          46.762103,
+          10.782284
+        ],
+        [
+          46.762559,
+          10.78227
+        ],
+        [
+          46.763269,
+          10.782244
+        ],
+        [
+          46.763358,
+          10.782246
+        ],
+        [
+          46.763894,
+          10.782229
+        ],
+        [
+          46.764629,
+          10.782206
+        ],
+        [
+          46.765522,
+          10.782178
+        ],
+        [
+          46.766904,
+          10.782136
+        ],
+        [
+          46.768215,
+          10.782095
+        ],
+        [
+          46.769064,
+          10.782068
+        ],
+        [
+          46.770239,
+          10.782032
+        ],
+        [
+          46.771018,
+          10.782008
+        ],
+        [
+          46.771944,
+          10.781979
+        ],
+        [
+          46.772222,
+          10.781971
+        ],
+        [
+          46.772471,
+          10.781963
+        ],
+        [
+          46.773706,
+          10.781941
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_32962920_0",
+      "name": "Hintereis 1",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.790608,
+          10.793303
+        ],
+        [
+          46.790096,
+          10.793644
+        ],
+        [
+          46.787421,
+          10.795174
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_32962920_1",
+      "name": "Hintereis 1",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.787421,
+          10.795174
+        ],
+        [
+          46.785454,
+          10.796059
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_41762666_0",
+      "name": "Piste 41762666",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.786209,
+          10.793502
+        ],
+        [
+          46.785802,
+          10.793805
+        ],
+        [
+          46.785328,
+          10.793939
+        ],
+        [
+          46.785093,
+          10.793821
+        ],
+        [
+          46.784608,
+          10.793327
+        ],
+        [
+          46.783936,
+          10.79234
+        ],
+        [
+          46.783738,
+          10.792191
+        ],
+        [
+          46.783687,
+          10.792157
+        ],
+        [
+          46.783633,
+          10.792249
+        ],
+        [
+          46.783637,
+          10.792359
+        ],
+        [
+          46.783888,
+          10.79394
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52985694_0",
+      "name": "Piste 52985694",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.783888,
+          10.79394
+        ],
+        [
+          46.784027,
+          10.794544
+        ],
+        [
+          46.784034,
+          10.795063
+        ],
+        [
+          46.783978,
+          10.795901
+        ],
+        [
+          46.783923,
+          10.796489
+        ],
+        [
+          46.783986,
+          10.797192
+        ],
+        [
+          46.783938,
+          10.797633
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52985695_0",
+      "name": "Piste 52985695",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_13",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.781377,
+          10.799526
+        ],
+        [
+          46.781669,
+          10.798446
+        ],
+        [
+          46.781767,
+          10.797891
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_52985696_0",
+      "name": "Piste 52985696",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_24",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.781767,
+          10.797891
+        ],
+        [
+          46.781451,
+          10.798116
+        ],
+        [
+          46.781212,
+          10.798084
+        ],
+        [
+          46.780922,
+          10.797902
+        ],
+        [
+          46.780353,
+          10.797578
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_244525307_2",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_25",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.779336,
+          10.796771
+        ],
+        [
+          46.779325,
+          10.796333
+        ],
+        [
+          46.779336,
+          10.795973
+        ],
+        [
+          46.779352,
+          10.795665
+        ],
+        [
+          46.779318,
+          10.795325
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_244525307_5",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.779378,
+          10.794876
+        ],
+        [
+          46.779318,
+          10.794496
+        ],
+        [
+          46.779268,
+          10.794059
+        ],
+        [
+          46.779198,
+          10.793583
+        ],
+        [
+          46.779144,
+          10.793239
+        ],
+        [
+          46.779043,
+          10.792713
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_244525307_7",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 1.22,
+      "duration": 2,
+      "elevation": -195,
+      "geometry": [
+        [
+          46.779001,
+          10.792494
+        ],
+        [
+          46.778922,
+          10.792249
+        ],
+        [
+          46.778803,
+          10.792049
+        ],
+        [
+          46.778639,
+          10.791813
+        ],
+        [
+          46.778393,
+          10.791632
+        ],
+        [
+          46.778239,
+          10.791379
+        ],
+        [
+          46.778084,
+          10.791001
+        ],
+        [
+          46.777945,
+          10.790624
+        ],
+        [
+          46.77782,
+          10.790335
+        ],
+        [
+          46.777697,
+          10.789997
+        ],
+        [
+          46.777586,
+          10.789556
+        ],
+        [
+          46.77755,
+          10.789281
+        ],
+        [
+          46.77754,
+          10.788968
+        ],
+        [
+          46.777509,
+          10.788671
+        ],
+        [
+          46.777495,
+          10.788234
+        ],
+        [
+          46.777527,
+          10.787774
+        ],
+        [
+          46.777545,
+          10.787366
+        ],
+        [
+          46.777572,
+          10.787217
+        ],
+        [
+          46.777617,
+          10.787042
+        ],
+        [
+          46.777729,
+          10.786907
+        ],
+        [
+          46.777834,
+          10.786792
+        ],
+        [
+          46.777961,
+          10.786619
+        ],
+        [
+          46.778023,
+          10.786537
+        ],
+        [
+          46.778121,
+          10.786515
+        ],
+        [
+          46.778315,
+          10.786515
+        ],
+        [
+          46.778551,
+          10.786475
+        ],
+        [
+          46.778797,
+          10.786425
+        ],
+        [
+          46.779018,
+          10.786401
+        ],
+        [
+          46.779311,
+          10.786293
+        ],
+        [
+          46.779495,
+          10.786182
+        ],
+        [
+          46.779685,
+          10.78604
+        ],
+        [
+          46.779913,
+          10.785794
+        ],
+        [
+          46.779987,
+          10.785558
+        ],
+        [
+          46.780006,
+          10.785275
+        ],
+        [
+          46.779972,
+          10.785023
+        ],
+        [
+          46.779928,
+          10.784855
+        ],
+        [
+          46.779815,
+          10.784595
+        ],
+        [
+          46.779521,
+          10.784385
+        ],
+        [
+          46.779131,
+          10.784288
+        ],
+        [
+          46.778227,
+          10.784261
+        ],
+        [
+          46.777801,
+          10.784304
+        ],
+        [
+          46.776912,
+          10.784524
+        ],
+        [
+          46.776582,
+          10.784551
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189893_1",
+      "name": "Rennpiste Lazaun",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_28",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.75263,
+          10.765625
+        ],
+        [
+          46.752741,
+          10.76525
+        ],
+        [
+          46.75377,
+          10.76555
+        ],
+        [
+          46.754843,
+          10.766902
+        ],
+        [
+          46.755564,
+          10.767224
+        ],
+        [
+          46.755807,
+          10.767853
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189893_3",
+      "name": "Rennpiste Lazaun",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 1.14,
+      "duration": 1,
+      "elevation": -182,
+      "geometry": [
+        [
+          46.756067,
+          10.76787
+        ],
+        [
+          46.756765,
+          10.767827
+        ],
+        [
+          46.757386,
+          10.767288
+        ],
+        [
+          46.757901,
+          10.767117
+        ],
+        [
+          46.758371,
+          10.767464
+        ],
+        [
+          46.758757,
+          10.768266
+        ],
+        [
+          46.758898,
+          10.768716
+        ],
+        [
+          46.758972,
+          10.768972
+        ],
+        [
+          46.759135,
+          10.769458
+        ],
+        [
+          46.758901,
+          10.770432
+        ],
+        [
+          46.758733,
+          10.771189
+        ],
+        [
+          46.758533,
+          10.771902
+        ],
+        [
+          46.758097,
+          10.772989
+        ],
+        [
+          46.757855,
+          10.774103
+        ],
+        [
+          46.757177,
+          10.776726
+        ],
+        [
+          46.756855,
+          10.777833
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189893_4",
+      "name": "Rennpiste Lazaun",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.756855,
+          10.777833
+        ],
+        [
+          46.756872,
+          10.778468
+        ],
+        [
+          46.756475,
+          10.780292
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189894_1",
+      "name": "Familienpiste Lazaun",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_31",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.7525,
+          10.765655
+        ],
+        [
+          46.752204,
+          10.765833
+        ],
+        [
+          46.751989,
+          10.766197
+        ],
+        [
+          46.751903,
+          10.766789
+        ],
+        [
+          46.752003,
+          10.767402
+        ],
+        [
+          46.752147,
+          10.767836
+        ],
+        [
+          46.75248,
+          10.768285
+        ],
+        [
+          46.753169,
+          10.769178
+        ],
+        [
+          46.753664,
+          10.769827
+        ],
+        [
+          46.753949,
+          10.769929
+        ],
+        [
+          46.754261,
+          10.769901
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189894_3",
+      "name": "Familienpiste Lazaun",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.7,
+      "duration": 1,
+      "elevation": -112,
+      "geometry": [
+        [
+          46.754423,
+          10.770164
+        ],
+        [
+          46.754659,
+          10.770683
+        ],
+        [
+          46.754951,
+          10.770924
+        ],
+        [
+          46.755457,
+          10.77103
+        ],
+        [
+          46.755596,
+          10.771234
+        ],
+        [
+          46.755553,
+          10.772432
+        ],
+        [
+          46.755499,
+          10.773445
+        ],
+        [
+          46.755108,
+          10.774198
+        ],
+        [
+          46.754809,
+          10.77515
+        ],
+        [
+          46.754961,
+          10.77585
+        ],
+        [
+          46.755167,
+          10.777266
+        ],
+        [
+          46.755306,
+          10.777912
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245189895_0",
+      "name": "L2",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_28",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.754261,
+          10.769901
+        ],
+        [
+          46.755064,
+          10.768168
+        ],
+        [
+          46.755807,
+          10.767853
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_245190152_2",
+      "name": "Glocken 1",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_33",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.75782,
+          10.787137
+        ],
+        [
+          46.757892,
+          10.78636
+        ],
+        [
+          46.757734,
+          10.785632
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245190152_4",
+      "name": "Glocken 1",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_10",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.757665,
+          10.785415
+        ],
+        [
+          46.75753,
+          10.784936
+        ],
+        [
+          46.757225,
+          10.784111
+        ],
+        [
+          46.756949,
+          10.783301
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245190153_1",
+      "name": "Glocken 2",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_10",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.757701,
+          10.78729
+        ],
+        [
+          46.757181,
+          10.786441
+        ],
+        [
+          46.75683,
+          10.785021
+        ],
+        [
+          46.756637,
+          10.783446
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245191314_1",
+      "name": "Teufelsegg R1",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_34",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.783661,
+          10.764043
+        ],
+        [
+          46.782974,
+          10.765765
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245191314_3",
+      "name": "Teufelsegg R1",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -67,
+      "geometry": [
+        [
+          46.782841,
+          10.766187
+        ],
+        [
+          46.782517,
+          10.767214
+        ],
+        [
+          46.782151,
+          10.768919
+        ],
+        [
+          46.781266,
+          10.771164
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245191315_0",
+      "name": "Teufelsegg R2",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 1.15,
+      "duration": 1,
+      "elevation": -184,
+      "geometry": [
+        [
+          46.782614,
+          10.770648
+        ],
+        [
+          46.782114,
+          10.771097
+        ],
+        [
+          46.781997,
+          10.771505
+        ],
+        [
+          46.781593,
+          10.773007
+        ],
+        [
+          46.781318,
+          10.774041
+        ],
+        [
+          46.780711,
+          10.774992
+        ],
+        [
+          46.779491,
+          10.775721
+        ],
+        [
+          46.778536,
+          10.776569
+        ],
+        [
+          46.777449,
+          10.77733
+        ],
+        [
+          46.776314,
+          10.778256
+        ],
+        [
+          46.77559,
+          10.779669
+        ],
+        [
+          46.775274,
+          10.780399
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245191944_0",
+      "name": "Teufelsegg R1",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.780935,
+          10.771664
+        ],
+        [
+          46.780689,
+          10.772024
+        ],
+        [
+          46.779197,
+          10.772781
+        ],
+        [
+          46.777809,
+          10.773007
+        ],
+        [
+          46.776817,
+          10.773962
+        ],
+        [
+          46.776329,
+          10.774459
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245193630_1",
+      "name": "Piste 245193630",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_15",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          46.761912,
+          10.78507
+        ],
+        [
+          46.761208,
+          10.784411
+        ],
+        [
+          46.760664,
+          10.783853
+        ],
+        [
+          46.760135,
+          10.782995
+        ],
+        [
+          46.759812,
+          10.782137
+        ],
+        [
+          46.759621,
+          10.782051
+        ],
+        [
+          46.75861,
+          10.782495
+        ],
+        [
+          46.758086,
+          10.782409
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245193631_1",
+      "name": "S3 Leo Gurschler",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.777726,
+          10.8017
+        ],
+        [
+          46.777929,
+          10.801665
+        ],
+        [
+          46.778514,
+          10.801725
+        ],
+        [
+          46.779017,
+          10.80166
+        ],
+        [
+          46.779401,
+          10.801722
+        ],
+        [
+          46.779696,
+          10.801637
+        ],
+        [
+          46.78007,
+          10.801479
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245193631_3",
+      "name": "S3 Leo Gurschler",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_23",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.780305,
+          10.801434
+        ],
+        [
+          46.78106,
+          10.800942
+        ],
+        [
+          46.781321,
+          10.800434
+        ],
+        [
+          46.781377,
+          10.799526
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_245195677_0",
+      "name": "F1",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_43",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.769998,
+          10.809002
+        ],
+        [
+          46.771048,
+          10.808726
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195677_1",
+      "name": "F1",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_6",
+      "distance": 0.87,
+      "duration": 1,
+      "elevation": -139,
+      "geometry": [
+        [
+          46.771048,
+          10.808726
+        ],
+        [
+          46.772222,
+          10.808269
+        ],
+        [
+          46.773331,
+          10.807998
+        ],
+        [
+          46.77478,
+          10.807783
+        ],
+        [
+          46.776939,
+          10.807228
+        ],
+        [
+          46.778335,
+          10.807018
+        ],
+        [
+          46.778702,
+          10.807212
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195679_0",
+      "name": "F2",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_6",
+      "distance": 0.96,
+      "duration": 2,
+      "elevation": -153,
+      "geometry": [
+        [
+          46.770204,
+          10.809345
+        ],
+        [
+          46.770577,
+          10.809406
+        ],
+        [
+          46.771431,
+          10.809354
+        ],
+        [
+          46.772018,
+          10.809262
+        ],
+        [
+          46.772987,
+          10.808912
+        ],
+        [
+          46.774011,
+          10.80868
+        ],
+        [
+          46.775391,
+          10.808444
+        ],
+        [
+          46.776502,
+          10.808321
+        ],
+        [
+          46.777446,
+          10.808133
+        ],
+        [
+          46.77813,
+          10.808036
+        ],
+        [
+          46.77873,
+          10.807691
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195682_0",
+      "name": "G3",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -67,
+      "geometry": [
+        [
+          46.770115,
+          10.801998
+        ],
+        [
+          46.77142,
+          10.802326
+        ],
+        [
+          46.772967,
+          10.802438
+        ],
+        [
+          46.773846,
+          10.802719
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195682_1",
+      "name": "G3",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.773846,
+          10.802719
+        ],
+        [
+          46.774989,
+          10.801222
+        ],
+        [
+          46.77532,
+          10.800974
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195685_1",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_17",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          46.792112,
+          10.789829
+        ],
+        [
+          46.792051,
+          10.79034
+        ],
+        [
+          46.791863,
+          10.7916
+        ],
+        [
+          46.791747,
+          10.792396
+        ],
+        [
+          46.791493,
+          10.793009
+        ],
+        [
+          46.790619,
+          10.793202
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195685_3",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_47",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.790608,
+          10.793303
+        ],
+        [
+          46.790007,
+          10.792614
+        ],
+        [
+          46.789659,
+          10.791836
+        ],
+        [
+          46.789244,
+          10.7916
+        ],
+        [
+          46.788873,
+          10.791705
+        ],
+        [
+          46.788292,
+          10.791935
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195685_4",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_20",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.788292,
+          10.791935
+        ],
+        [
+          46.78728,
+          10.791993
+        ],
+        [
+          46.786648,
+          10.792176
+        ],
+        [
+          46.786457,
+          10.792451
+        ],
+        [
+          46.786296,
+          10.793182
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_245195685_6",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_19",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.786209,
+          10.793502
+        ],
+        [
+          46.785454,
+          10.796059
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739789_1",
+      "name": "Piste 387739789",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.769766,
+          10.798242
+        ],
+        [
+          46.769799,
+          10.798513
+        ],
+        [
+          46.769849,
+          10.798803
+        ],
+        [
+          46.769937,
+          10.799175
+        ],
+        [
+          46.769987,
+          10.799401
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739789_5",
+      "name": "Piste 387739789",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.770065,
+          10.799985
+        ],
+        [
+          46.770068,
+          10.801298
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739790_0",
+      "name": "Piste 387739790",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_45",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.771048,
+          10.808726
+        ],
+        [
+          46.771719,
+          10.807373
+        ],
+        [
+          46.772171,
+          10.806447
+        ],
+        [
+          46.772626,
+          10.805248
+        ],
+        [
+          46.773615,
+          10.803276
+        ],
+        [
+          46.773846,
+          10.802719
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739791_0",
+      "name": "Piste 387739791",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.770068,
+          10.801298
+        ],
+        [
+          46.770115,
+          10.801998
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739792_0",
+      "name": "Piste 387739792",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_8",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.780222,
+          10.797516
+        ],
+        [
+          46.779648,
+          10.797308
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739793_4",
+      "name": "Piste 387739793",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.769722,
+          10.797854
+        ],
+        [
+          46.769742,
+          10.798054
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_387739794_3",
+      "name": "Piste 387739794",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.769791,
+          10.797884
+        ],
+        [
+          46.769742,
+          10.798054
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_387739795_0",
+      "name": "Piste 387739795",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_42",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.780518,
+          10.804175
+        ],
+        [
+          46.780375,
+          10.803363
+        ],
+        [
+          46.780248,
+          10.802801
+        ],
+        [
+          46.780105,
+          10.801999
+        ],
+        [
+          46.78007,
+          10.801479
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_387739797_0",
+      "name": "G2",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_46",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.770068,
+          10.801298
+        ],
+        [
+          46.772656,
+          10.801882
+        ],
+        [
+          46.774297,
+          10.800987
+        ],
+        [
+          46.774609,
+          10.800994
+        ],
+        [
+          46.775073,
+          10.800965
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739798_2",
+      "name": "G1",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_52",
+      "distance": 0.62,
+      "duration": 1,
+      "elevation": -99,
+      "geometry": [
+        [
+          46.770016,
+          10.799579
+        ],
+        [
+          46.772623,
+          10.799827
+        ],
+        [
+          46.775012,
+          10.800347
+        ],
+        [
+          46.775568,
+          10.800473
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739798_4",
+      "name": "G1",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.775471,
+          10.800629
+        ],
+        [
+          46.775364,
+          10.800802
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739798_6",
+      "name": "G1",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_49",
+      "distance": 0.58,
+      "duration": 1,
+      "elevation": -92,
+      "geometry": [
+        [
+          46.775212,
+          10.800768
+        ],
+        [
+          46.773157,
+          10.800337
+        ],
+        [
+          46.770065,
+          10.799985
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_387739799_0",
+      "name": "S1 Gletschersee 1",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_54",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.776116,
+          10.80101
+        ],
+        [
+          46.776209,
+          10.801433
+        ],
+        [
+          46.776224,
+          10.801951
+        ],
+        [
+          46.776104,
+          10.802715
+        ],
+        [
+          46.776174,
+          10.803267
+        ],
+        [
+          46.776485,
+          10.803991
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739799_1",
+      "name": "S1 Gletschersee 1",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.81,
+      "duration": 1,
+      "elevation": -129,
+      "geometry": [
+        [
+          46.776485,
+          10.803991
+        ],
+        [
+          46.777105,
+          10.804795
+        ],
+        [
+          46.77756,
+          10.805567
+        ],
+        [
+          46.777864,
+          10.806229
+        ],
+        [
+          46.778335,
+          10.807018
+        ],
+        [
+          46.778667,
+          10.806475
+        ],
+        [
+          46.780481,
+          10.805051
+        ],
+        [
+          46.781286,
+          10.80439
+        ],
+        [
+          46.781561,
+          10.803883
+        ],
+        [
+          46.78166,
+          10.803059
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739800_0",
+      "name": "S1 Gletschersee 1",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_23",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.78166,
+          10.803059
+        ],
+        [
+          46.781513,
+          10.802688
+        ],
+        [
+          46.781392,
+          10.80226
+        ],
+        [
+          46.781479,
+          10.801181
+        ],
+        [
+          46.781504,
+          10.800638
+        ],
+        [
+          46.781509,
+          10.800144
+        ],
+        [
+          46.781377,
+          10.799526
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_387739800_2",
+      "name": "S1 Gletschersee 1",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.781337,
+          10.799407
+        ],
+        [
+          46.781146,
+          10.798839
+        ],
+        [
+          46.780942,
+          10.798397
+        ],
+        [
+          46.780708,
+          10.797977
+        ],
+        [
+          46.780353,
+          10.797578
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_390539962_2",
+      "name": "S2 Gletschersee 2",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_51",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          46.776375,
+          10.80123
+        ],
+        [
+          46.776355,
+          10.80181
+        ],
+        [
+          46.776435,
+          10.802137
+        ],
+        [
+          46.776883,
+          10.803041
+        ],
+        [
+          46.777632,
+          10.804337
+        ],
+        [
+          46.778457,
+          10.804953
+        ],
+        [
+          46.779568,
+          10.805177
+        ],
+        [
+          46.780518,
+          10.804175
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_390539962_3",
+      "name": "S2 Gletschersee 2",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_55",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.780518,
+          10.804175
+        ],
+        [
+          46.78145,
+          10.803116
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_390539963_0",
+      "name": "Piste 390539963",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.77532,
+          10.800974
+        ],
+        [
+          46.775664,
+          10.800828
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_390539963_1",
+      "name": "Piste 390539963",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.775664,
+          10.800828
+        ],
+        [
+          46.775937,
+          10.800913
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_390539963_2",
+      "name": "Piste 390539963",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.775937,
+          10.800913
+        ],
+        [
+          46.776116,
+          10.80101
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_390539965_0",
+      "name": "Piste 390539965",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.775471,
+          10.800629
+        ],
+        [
+          46.775921,
+          10.800826
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_390539965_2",
+      "name": "Piste 390539965",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.776116,
+          10.80101
+        ],
+        [
+          46.775977,
+          10.800886
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_390539966_0",
+      "name": "Piste 390539966",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_54",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.773846,
+          10.802719
+        ],
+        [
+          46.775459,
+          10.803329
+        ],
+        [
+          46.776485,
+          10.803991
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_390539967_0",
+      "name": "Piste 390539967",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_41",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.776491,
+          10.801068
+        ],
+        [
+          46.776723,
+          10.801438
+        ],
+        [
+          46.776996,
+          10.801673
+        ],
+        [
+          46.777373,
+          10.801885
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_392129051_0",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.74,
+      "duration": 1,
+      "elevation": -118,
+      "geometry": [
+        [
+          46.773258,
+          10.783551
+        ],
+        [
+          46.77248,
+          10.783538
+        ],
+        [
+          46.77145,
+          10.78392
+        ],
+        [
+          46.770323,
+          10.784517
+        ],
+        [
+          46.766754,
+          10.785312
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308401_1",
+      "name": "T2 Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_40",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          46.766724,
+          10.785349
+        ],
+        [
+          46.76637,
+          10.785263
+        ],
+        [
+          46.766149,
+          10.785207
+        ],
+        [
+          46.765746,
+          10.785168
+        ],
+        [
+          46.76491,
+          10.78515
+        ],
+        [
+          46.764074,
+          10.785079
+        ],
+        [
+          46.763279,
+          10.784947
+        ],
+        [
+          46.762868,
+          10.784926
+        ],
+        [
+          46.762485,
+          10.784968
+        ],
+        [
+          46.761912,
+          10.78507
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308401_3",
+      "name": "T2 Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_33",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.761679,
+          10.785104
+        ],
+        [
+          46.761255,
+          10.785243
+        ],
+        [
+          46.760963,
+          10.785347
+        ],
+        [
+          46.760073,
+          10.785603
+        ],
+        [
+          46.759834,
+          10.785689
+        ],
+        [
+          46.759465,
+          10.785766
+        ],
+        [
+          46.759,
+          10.785859
+        ],
+        [
+          46.758776,
+          10.785875
+        ],
+        [
+          46.758552,
+          10.785773
+        ],
+        [
+          46.758346,
+          10.785566
+        ],
+        [
+          46.758258,
+          10.785524
+        ],
+        [
+          46.758094,
+          10.785553
+        ],
+        [
+          46.757927,
+          10.785571
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308402_1",
+      "name": "Transhumanz",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 1.16,
+      "duration": 1,
+      "elevation": -185,
+      "geometry": [
+        [
+          46.766603,
+          10.784991
+        ],
+        [
+          46.766562,
+          10.784664
+        ],
+        [
+          46.766748,
+          10.784132
+        ],
+        [
+          46.766981,
+          10.783698
+        ],
+        [
+          46.767279,
+          10.782244
+        ],
+        [
+          46.767147,
+          10.781665
+        ],
+        [
+          46.766786,
+          10.781075
+        ],
+        [
+          46.76697,
+          10.780646
+        ],
+        [
+          46.767652,
+          10.779304
+        ],
+        [
+          46.76769,
+          10.778768
+        ],
+        [
+          46.767571,
+          10.778511
+        ],
+        [
+          46.766998,
+          10.778607
+        ],
+        [
+          46.765484,
+          10.779293
+        ],
+        [
+          46.764595,
+          10.779497
+        ],
+        [
+          46.763823,
+          10.779626
+        ],
+        [
+          46.762501,
+          10.780581
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_849308402_3",
+      "name": "Transhumanz",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_15",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.762407,
+          10.780638
+        ],
+        [
+          46.761472,
+          10.781214
+        ],
+        [
+          46.760288,
+          10.781332
+        ],
+        [
+          46.759362,
+          10.781836
+        ],
+        [
+          46.758824,
+          10.782136
+        ],
+        [
+          46.758086,
+          10.782409
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_849308403_0",
+      "name": "Hasen-Abfahrt",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_30",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          46.762407,
+          10.780638
+        ],
+        [
+          46.761711,
+          10.780195
+        ],
+        [
+          46.760576,
+          10.779536
+        ],
+        [
+          46.759448,
+          10.779388
+        ],
+        [
+          46.758655,
+          10.779308
+        ],
+        [
+          46.757566,
+          10.779258
+        ],
+        [
+          46.757266,
+          10.779899
+        ],
+        [
+          46.756861,
+          10.780442
+        ],
+        [
+          46.756783,
+          10.780549
+        ],
+        [
+          46.756548,
+          10.780386
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308403_1",
+      "name": "Hasen-Abfahrt",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_0",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.756548,
+          10.780386
+        ],
+        [
+          46.755615,
+          10.781228
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308404_0",
+      "name": "Piste 849308404",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_10",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.758086,
+          10.782409
+        ],
+        [
+          46.757945,
+          10.78306
+        ],
+        [
+          46.757605,
+          10.7834
+        ],
+        [
+          46.757242,
+          10.783512
+        ],
+        [
+          46.756949,
+          10.783301
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308405_1",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_34",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.783548,
+          10.76365
+        ],
+        [
+          46.783076,
+          10.764474
+        ],
+        [
+          46.782758,
+          10.765504
+        ],
+        [
+          46.782749,
+          10.765961
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_3",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_59",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.782841,
+          10.766187
+        ],
+        [
+          46.783418,
+          10.76739
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_4",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_36",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.783418,
+          10.76739
+        ],
+        [
+          46.783155,
+          10.769338
+        ],
+        [
+          46.782933,
+          10.770314
+        ],
+        [
+          46.782614,
+          10.770648
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_5",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_35",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.782614,
+          10.770648
+        ],
+        [
+          46.781266,
+          10.771164
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_6",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.781266,
+          10.771164
+        ],
+        [
+          46.780935,
+          10.771664
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_7",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_60",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.780935,
+          10.771664
+        ],
+        [
+          46.779576,
+          10.771037
+        ],
+        [
+          46.778656,
+          10.770441
+        ],
+        [
+          46.778136,
+          10.769885
+        ],
+        [
+          46.777613,
+          10.769223
+        ],
+        [
+          46.777163,
+          10.77085
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_8",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_39",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.777163,
+          10.77085
+        ],
+        [
+          46.776951,
+          10.771616
+        ],
+        [
+          46.77645,
+          10.773074
+        ],
+        [
+          46.776329,
+          10.774459
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_9",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_37",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          46.776329,
+          10.774459
+        ],
+        [
+          46.776507,
+          10.77742
+        ],
+        [
+          46.776314,
+          10.778256
+        ],
+        [
+          46.776881,
+          10.780126
+        ],
+        [
+          46.776909,
+          10.781184
+        ],
+        [
+          46.776863,
+          10.781319
+        ],
+        [
+          46.776686,
+          10.781338
+        ],
+        [
+          46.776201,
+          10.781305
+        ],
+        [
+          46.775974,
+          10.780988
+        ],
+        [
+          46.775685,
+          10.780619
+        ],
+        [
+          46.775579,
+          10.780398
+        ],
+        [
+          46.775274,
+          10.780399
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_10",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_61",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.775274,
+          10.780399
+        ],
+        [
+          46.774527,
+          10.781872
+        ],
+        [
+          46.77423,
+          10.782137
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_11",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.77423,
+          10.782137
+        ],
+        [
+          46.77404,
+          10.782744
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308405_12",
+      "name": "Teufelsegg 2",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.77404,
+          10.782744
+        ],
+        [
+          46.773928,
+          10.783103
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308407_0",
+      "name": "Teufelsegg 2 Variante",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_63",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.782749,
+          10.765961
+        ],
+        [
+          46.781838,
+          10.767937
+        ],
+        [
+          46.779576,
+          10.771037
+        ],
+        [
+          46.779255,
+          10.771107
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_849308408_1",
+      "name": "Piste 849308408",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_26",
+      "distance": 0.62,
+      "duration": 1,
+      "elevation": -99,
+      "geometry": [
+        [
+          46.783606,
+          10.79388
+        ],
+        [
+          46.78264,
+          10.793257
+        ],
+        [
+          46.782303,
+          10.793165
+        ],
+        [
+          46.782057,
+          10.792922
+        ],
+        [
+          46.78196,
+          10.792957
+        ],
+        [
+          46.78189,
+          10.79307
+        ],
+        [
+          46.781908,
+          10.793394
+        ],
+        [
+          46.781901,
+          10.793574
+        ],
+        [
+          46.781802,
+          10.793838
+        ],
+        [
+          46.78172,
+          10.793874
+        ],
+        [
+          46.781582,
+          10.793872
+        ],
+        [
+          46.781487,
+          10.793775
+        ],
+        [
+          46.781309,
+          10.793494
+        ],
+        [
+          46.781066,
+          10.793354
+        ],
+        [
+          46.780907,
+          10.793322
+        ],
+        [
+          46.780787,
+          10.793446
+        ],
+        [
+          46.780612,
+          10.793653
+        ],
+        [
+          46.7805,
+          10.793751
+        ],
+        [
+          46.780322,
+          10.793735
+        ],
+        [
+          46.779615,
+          10.793233
+        ],
+        [
+          46.779043,
+          10.792713
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308409_0",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_22",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.785454,
+          10.796059
+        ],
+        [
+          46.785225,
+          10.796964
+        ],
+        [
+          46.785031,
+          10.7972
+        ],
+        [
+          46.784381,
+          10.797399
+        ],
+        [
+          46.783938,
+          10.797633
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308409_1",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_13",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.783938,
+          10.797633
+        ],
+        [
+          46.783239,
+          10.798011
+        ],
+        [
+          46.781767,
+          10.797891
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308409_3",
+      "name": "Hintereis 2",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_25",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.781596,
+          10.79777
+        ],
+        [
+          46.781225,
+          10.797715
+        ],
+        [
+          46.780623,
+          10.797147
+        ],
+        [
+          46.780255,
+          10.796213
+        ],
+        [
+          46.779737,
+          10.795908
+        ],
+        [
+          46.779352,
+          10.795074
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_849308410_0",
+      "name": "Piste 849308410",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_18",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.788292,
+          10.791935
+        ],
+        [
+          46.787718,
+          10.793518
+        ],
+        [
+          46.787421,
+          10.795174
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_849308412_0",
+      "name": "G1",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_46",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          46.770041,
+          10.799723
+        ],
+        [
+          46.773227,
+          10.80022
+        ],
+        [
+          46.775471,
+          10.800629
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1132190799_3",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_8",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.780034,
+          10.801073
+        ],
+        [
+          46.780023,
+          10.800905
+        ],
+        [
+          46.780001,
+          10.800738
+        ],
+        [
+          46.779969,
+          10.800327
+        ],
+        [
+          46.779905,
+          10.799928
+        ],
+        [
+          46.779862,
+          10.79967
+        ],
+        [
+          46.77983,
+          10.799435
+        ],
+        [
+          46.779579,
+          10.798419
+        ],
+        [
+          46.779603,
+          10.79825
+        ],
+        [
+          46.779557,
+          10.798072
+        ],
+        [
+          46.779458,
+          10.797903
+        ],
+        [
+          46.779439,
+          10.797631
+        ],
+        [
+          46.779432,
+          10.797388
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1312843640_0",
+      "name": "Familienpiste Lazaun",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_0",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.755306,
+          10.777912
+        ],
+        [
+          46.755145,
+          10.778344
+        ],
+        [
+          46.755018,
+          10.77876
+        ],
+        [
+          46.755067,
+          10.779619
+        ],
+        [
+          46.755329,
+          10.781379
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1321681979_1",
+      "name": "Teufelsegg R1",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.98,
+      "duration": 1,
+      "elevation": -156,
+      "geometry": [
+        [
+          46.776993,
+          10.770872
+        ],
+        [
+          46.775729,
+          10.772481
+        ],
+        [
+          46.774803,
+          10.774927
+        ],
+        [
+          46.774774,
+          10.775979
+        ],
+        [
+          46.774377,
+          10.776708
+        ],
+        [
+          46.773892,
+          10.77894
+        ],
+        [
+          46.773892,
+          10.780656
+        ],
+        [
+          46.774289,
+          10.781686
+        ],
+        [
+          46.77423,
+          10.782137
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1321681981_0",
+      "name": "Teufelsegg R2",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_59",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.783631,
+          10.764408
+        ],
+        [
+          46.783524,
+          10.765017
+        ],
+        [
+          46.783418,
+          10.76739
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1321681982_1",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_62",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.776116,
+          10.784468
+        ],
+        [
+          46.775936,
+          10.784436
+        ],
+        [
+          46.775728,
+          10.784416
+        ],
+        [
+          46.775492,
+          10.784472
+        ],
+        [
+          46.775243,
+          10.784468
+        ],
+        [
+          46.77503,
+          10.784456
+        ],
+        [
+          46.77494,
+          10.7844
+        ],
+        [
+          46.774868,
+          10.784332
+        ],
+        [
+          46.774744,
+          10.784148
+        ],
+        [
+          46.774614,
+          10.783851
+        ],
+        [
+          46.774493,
+          10.783706
+        ],
+        [
+          46.774369,
+          10.783626
+        ],
+        [
+          46.774227,
+          10.78357
+        ],
+        [
+          46.774118,
+          10.783495
+        ],
+        [
+          46.774042,
+          10.783361
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1321681982_6",
+      "name": "Schmugglerabfahrt - Pista dei Contrabbandieri",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.773656,
+          10.783144
+        ],
+        [
+          46.773366,
+          10.783426
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1321681984_0",
+      "name": "Piste 1321681984",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.779912,
+          10.796991
+        ],
+        [
+          46.77977,
+          10.796936
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1321681985_0",
+      "name": "Piste 1321681985",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_65",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.780222,
+          10.797516
+        ],
+        [
+          46.779912,
+          10.796991
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1321681985_1",
+      "name": "Piste 1321681985",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.779912,
+          10.796991
+        ],
+        [
+          46.779779,
+          10.797094
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1485328156_1",
+      "name": "Familienpiste Lazaun",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_29",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.755546,
+          10.777986
+        ],
+        [
+          46.755757,
+          10.777912
+        ],
+        [
+          46.756012,
+          10.777772
+        ],
+        [
+          46.756212,
+          10.777588
+        ],
+        [
+          46.756621,
+          10.777558
+        ],
+        [
+          46.756786,
+          10.777645
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_2_node_10",
+      "name": "Walk: Gletscherbahn - Funivia Ghiacciai (Base) ↔ Glocken 1 (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.757428,
+          10.782721
+        ],
+        [
+          46.756801,
+          10.783171
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_15",
+      "name": "Walk: Gletscherbahn - Funivia Ghiacciai (Base) ↔ Roter Kofel (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_15",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.757428,
+          10.782721
+        ],
+        [
+          46.758086,
+          10.782409
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_48",
+      "name": "Walk: Gletscherbahn - Funivia Ghiacciai (Summit / Top) ↔ Junction #49",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_48",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.769837,
+          10.797758
+        ],
+        [
+          46.769752,
+          10.798129
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_16",
+      "name": "Walk: Teufelsegg (Base) ↔ Roter Kofel (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_16",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.77391,
+          10.782623
+        ],
+        [
+          46.773706,
+          10.781941
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_61",
+      "name": "Walk: Teufelsegg (Base) ↔ Junction: Teufelsegg 2",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.77391,
+          10.782623
+        ],
+        [
+          46.77423,
+          10.782137
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_62",
+      "name": "Walk: Teufelsegg (Base) ↔ Junction: Teufelsegg 2",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_62",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.77391,
+          10.782623
+        ],
+        [
+          46.773884,
+          10.783174
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_64",
+      "name": "Walk: Teufelsegg (Summit / Top) ↔ Junction: Teufelsegg R2",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_64",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.783616,
+          10.763844
+        ],
+        [
+          46.783631,
+          10.764408
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_65",
+      "name": "Walk: Gletschersee 1 (Base) ↔ Junction #66",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_65",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.779534,
+          10.797089
+        ],
+        [
+          46.779912,
+          10.796991
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_12",
+      "name": "Walk: Gletschersee 1 (Summit / Top) ↔ Grawand (Base)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.776361,
+          10.80106
+        ],
+        [
+          46.775966,
+          10.800764
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_53",
+      "name": "Walk: Gletschersee 1 (Summit / Top) ↔ Junction: S1 Gletschersee 1",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_53",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.776361,
+          10.80106
+        ],
+        [
+          46.775997,
+          10.800945
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_52",
+      "name": "Walk: Grawand (Base) ↔ Junction: G1",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.775966,
+          10.800764
+        ],
+        [
+          46.775568,
+          10.800643
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_53",
+      "name": "Walk: Grawand (Base) ↔ Junction: S1 Gletschersee 1",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_53",
+      "distance": 0.01,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.775966,
+          10.800764
+        ],
+        [
+          46.775997,
+          10.800945
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_61",
+      "name": "Walk: Roter Kofel (Summit / Top) ↔ Junction: Teufelsegg 2",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_61",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.773706,
+          10.781941
+        ],
+        [
+          46.77423,
+          10.782137
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_65",
+      "name": "Walk: Junction: S1 Gletschersee 1 ↔ Junction #66",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_65",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.780288,
+          10.797547
+        ],
+        [
+          46.779912,
+          10.796991
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_35_node_38",
+      "name": "Walk: Junction: Teufelsegg R1 ↔ Junction: Teufelsegg R1",
+      "type": "walk",
+      "from": "node_35",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.781266,
+          10.771164
+        ],
+        [
+          46.780935,
+          10.771664
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_50",
+      "name": "Walk: Junction: G3 ↔ Junction: G2",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.770115,
+          10.801998
+        ],
+        [
+          46.770068,
+          10.801298
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_52",
+      "name": "Walk: Junction: G3 ↔ Junction: G1",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_52",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.775291,
+          10.800841
+        ],
+        [
+          46.775568,
+          10.800643
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_53",
+      "name": "Walk: Junction: G1 ↔ Junction: S1 Gletschersee 1",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.775568,
+          10.800643
+        ],
+        [
+          46.775997,
+          10.800945
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_56_node_62",
+      "name": "Walk: Junction: Schmugglerabfahrt - Pista dei Contrabbandieri ↔ Junction: Teufelsegg 2",
+      "type": "walk",
+      "from": "node_56",
+      "to": "node_62",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.773312,
+          10.783488
+        ],
+        [
+          46.773884,
+          10.783174
+        ]
+      ]
+    },
+    {
+      "id": "walk_connect_node_30_node_2",
+      "name": "Walk: Junction: Rennpiste Lazaun ↔ Gletscherbahn - Funivia Ghiacciai (Base)",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_2",
+      "distance": 0.21,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.756507,
+          10.780356
+        ],
+        [
+          46.757428,
+          10.782721
+        ]
+      ]
+    },
+    {
+      "id": "walk_connect_node_51_node_6",
+      "name": "Walk: Junction: S2 Gletschersee 2 ↔ Finail 1 (Base)",
+      "type": "walk",
+      "from": "node_51",
+      "to": "node_6",
+      "distance": 0.32,
+      "duration": 4,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.780518,
+          10.804175
+        ],
+        [
+          46.778727,
+          10.807418
+        ]
+      ]
+    }
+  ]
+}

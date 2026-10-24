@@ -1,0 +1,1968 @@
+{
+  "id": "leitariegos",
+  "name": "Valle Laciana - Leitariegos",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.9802,
+      -6.426
+    ],
+    [
+      42.9987,
+      -6.4068
+    ]
+  ],
+  "center": [
+    42.9895,
+    -6.4163
+  ],
+  "stats": {
+    "slopes": "6.1 km",
+    "lifts": 6,
+    "elevation": "1513m - 1800m",
+    "drop": "287m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "La Laguna (Base)",
+      "lat": 42.993722,
+      "lng": -6.413426,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "La Laguna (Summit / Top)",
+      "lat": 42.991109,
+      "lng": -6.418044,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "La Mora (Base)",
+      "lat": 42.98815,
+      "lng": -6.416484,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "La Mora (Summit / Top)",
+      "lat": 42.99067,
+      "lng": -6.42002,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Gobia (Base)",
+      "lat": 42.987544,
+      "lng": -6.415489,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Gobia (Summit / Top)",
+      "lat": 42.987528,
+      "lng": -6.420736,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "El Güechu (Base)",
+      "lat": 42.988566,
+      "lng": -6.416152,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "El Güechu (Summit / Top)",
+      "lat": 42.990919,
+      "lng": -6.418572,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "La Ferradura (Base)",
+      "lat": 42.985694,
+      "lng": -6.416913,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "La Ferradura (Summit / Top)",
+      "lat": 42.985155,
+      "lng": -6.419579,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "La Braña (Base)",
+      "lat": 42.992386,
+      "lng": -6.411778,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "La Braña (Summit / Top)",
+      "lat": 42.988076,
+      "lng": -6.415083,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.991438,
+      "lng": -6.418702,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.99067,
+      "lng": -6.417467,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.987833,
+      "lng": -6.412687,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.991934,
+      "lng": -6.412621,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.993135,
+      "lng": -6.4129,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: La Escuela",
+      "lat": 42.988099,
+      "lng": -6.415893,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Serbales",
+      "lat": 42.990646,
+      "lng": -6.416513,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Changunachos",
+      "lat": 42.986352,
+      "lng": -6.417005,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Changunachos",
+      "lat": 42.985457,
+      "lng": -6.415913,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Abedules",
+      "lat": 42.988512,
+      "lng": -6.420976,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Abedules",
+      "lat": 42.991364,
+      "lng": -6.419125,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: La Pechxada",
+      "lat": 42.986037,
+      "lng": -6.417257,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Conexión",
+      "lat": 42.992632,
+      "lng": -6.412004,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Autovía de Arbas",
+      "lat": 42.993551,
+      "lng": -6.41314,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_51181608",
+      "name": "La Laguna",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.46,
+      "duration": 2,
+      "elevation": 101,
+      "geometry": [
+        [
+          42.993612,
+          -6.413398
+        ],
+        [
+          42.993302,
+          -6.413978
+        ],
+        [
+          42.992893,
+          -6.414743
+        ],
+        [
+          42.992354,
+          -6.415752
+        ],
+        [
+          42.99198,
+          -6.416454
+        ],
+        [
+          42.991562,
+          -6.417236
+        ],
+        [
+          42.99127,
+          -6.417782
+        ],
+        [
+          42.991166,
+          -6.417976
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_51181610",
+      "name": "La Mora",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.4,
+      "duration": 2,
+      "elevation": 88,
+      "geometry": [
+        [
+          42.98815,
+          -6.416484
+        ],
+        [
+          42.988537,
+          -6.417084
+        ],
+        [
+          42.988999,
+          -6.4178
+        ],
+        [
+          42.989507,
+          -6.418588
+        ],
+        [
+          42.989858,
+          -6.419132
+        ],
+        [
+          42.990244,
+          -6.419731
+        ],
+        [
+          42.990428,
+          -6.420015
+        ],
+        [
+          42.990505,
+          -6.420134
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_51182448",
+      "name": "Gobia",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.4,
+      "duration": 2,
+      "elevation": 88,
+      "geometry": [
+        [
+          42.987459,
+          -6.415631
+        ],
+        [
+          42.98746,
+          -6.416084
+        ],
+        [
+          42.987462,
+          -6.417481
+        ],
+        [
+          42.987463,
+          -6.417964
+        ],
+        [
+          42.987465,
+          -6.419593
+        ],
+        [
+          42.987466,
+          -6.420279
+        ],
+        [
+          42.987467,
+          -6.420571
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_53644568",
+      "name": "El Güechu",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.31,
+      "duration": 2,
+      "elevation": 68,
+      "geometry": [
+        [
+          42.988602,
+          -6.416364
+        ],
+        [
+          42.988941,
+          -6.416698
+        ],
+        [
+          42.989455,
+          -6.417204
+        ],
+        [
+          42.989967,
+          -6.417707
+        ],
+        [
+          42.99046,
+          -6.418192
+        ],
+        [
+          42.990874,
+          -6.418599
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_53772909",
+      "name": "La Ferradura",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.21,
+      "duration": 2,
+      "elevation": 46,
+      "geometry": [
+        [
+          42.985824,
+          -6.41712
+        ],
+        [
+          42.985707,
+          -6.417581
+        ],
+        [
+          42.98556,
+          -6.418159
+        ],
+        [
+          42.985399,
+          -6.418795
+        ],
+        [
+          42.985242,
+          -6.419411
+        ],
+        [
+          42.985195,
+          -6.419597
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_53772913",
+      "name": "La Braña",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.55,
+      "duration": 2,
+      "elevation": 121,
+      "geometry": [
+        [
+          42.992512,
+          -6.411911
+        ],
+        [
+          42.992173,
+          -6.412153
+        ],
+        [
+          42.991783,
+          -6.412433
+        ],
+        [
+          42.991277,
+          -6.412796
+        ],
+        [
+          42.990533,
+          -6.41333
+        ],
+        [
+          42.990244,
+          -6.413536
+        ],
+        [
+          42.989412,
+          -6.414133
+        ],
+        [
+          42.98882,
+          -6.414557
+        ],
+        [
+          42.988475,
+          -6.414804
+        ],
+        [
+          42.988253,
+          -6.414963
+        ],
+        [
+          42.9881,
+          -6.415073
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_51181378_0",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_1",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.991452,
+          -6.418623
+        ],
+        [
+          42.99108,
+          -6.418078
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51181378_1",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_13",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.99108,
+          -6.418078
+        ],
+        [
+          42.99067,
+          -6.417467
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51181378_2",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          42.99067,
+          -6.417467
+        ],
+        [
+          42.99021,
+          -6.416877
+        ],
+        [
+          42.990122,
+          -6.416752
+        ],
+        [
+          42.989959,
+          -6.416473
+        ],
+        [
+          42.989665,
+          -6.415956
+        ],
+        [
+          42.989325,
+          -6.415264
+        ],
+        [
+          42.988988,
+          -6.414492
+        ],
+        [
+          42.988707,
+          -6.413983
+        ],
+        [
+          42.988355,
+          -6.413524
+        ],
+        [
+          42.988011,
+          -6.413116
+        ],
+        [
+          42.987867,
+          -6.412934
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51181378_6",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          42.987908,
+          -6.412486
+        ],
+        [
+          42.988053,
+          -6.412437
+        ],
+        [
+          42.988596,
+          -6.412258
+        ],
+        [
+          42.988697,
+          -6.412215
+        ],
+        [
+          42.989095,
+          -6.412062
+        ],
+        [
+          42.98952,
+          -6.411976
+        ],
+        [
+          42.989875,
+          -6.411977
+        ],
+        [
+          42.990434,
+          -6.412087
+        ],
+        [
+          42.991022,
+          -6.412323
+        ],
+        [
+          42.991219,
+          -6.412402
+        ],
+        [
+          42.991976,
+          -6.412711
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51181378_7",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.991976,
+          -6.412711
+        ],
+        [
+          42.992915,
+          -6.412947
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51181609_0",
+      "name": "La Escuela",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_7",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.991395,
+          -6.418937
+        ],
+        [
+          42.990941,
+          -6.418559
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_51181609_1",
+      "name": "La Escuela",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_6",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.990941,
+          -6.418559
+        ],
+        [
+          42.989989,
+          -6.417515
+        ],
+        [
+          42.989165,
+          -6.416731
+        ],
+        [
+          42.988964,
+          -6.41654
+        ],
+        [
+          42.988548,
+          -6.416046
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_51181609_2",
+      "name": "La Escuela",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.988548,
+          -6.416046
+        ],
+        [
+          42.988248,
+          -6.415906
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_51182444_0",
+      "name": "La Cueva",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_17",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          42.990693,
+          -6.420076
+        ],
+        [
+          42.990365,
+          -6.419666
+        ],
+        [
+          42.989026,
+          -6.417624
+        ],
+        [
+          42.987936,
+          -6.415911
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51182444_1",
+      "name": "La Cueva",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.987936,
+          -6.415911
+        ],
+        [
+          42.98765,
+          -6.415572
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51182447_0",
+      "name": "Serbales",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_18",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.99067,
+          -6.417467
+        ],
+        [
+          42.990696,
+          -6.416903
+        ],
+        [
+          42.990646,
+          -6.416513
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_51182447_1",
+      "name": "Serbales",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_15",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          42.990646,
+          -6.416513
+        ],
+        [
+          42.990482,
+          -6.415946
+        ],
+        [
+          42.990363,
+          -6.414846
+        ],
+        [
+          42.990321,
+          -6.414404
+        ],
+        [
+          42.990356,
+          -6.414034
+        ],
+        [
+          42.990635,
+          -6.413702
+        ],
+        [
+          42.991067,
+          -6.413287
+        ],
+        [
+          42.991497,
+          -6.412994
+        ],
+        [
+          42.991822,
+          -6.412808
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_51182450_2",
+      "name": "Changunachos",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_19",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.987579,
+          -6.420828
+        ],
+        [
+          42.987781,
+          -6.420527
+        ],
+        [
+          42.987796,
+          -6.419929
+        ],
+        [
+          42.987695,
+          -6.419379
+        ],
+        [
+          42.987342,
+          -6.418899
+        ],
+        [
+          42.987094,
+          -6.418379
+        ],
+        [
+          42.987024,
+          -6.418243
+        ],
+        [
+          42.986926,
+          -6.41805
+        ],
+        [
+          42.986722,
+          -6.417657
+        ],
+        [
+          42.986416,
+          -6.417127
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51182450_4",
+      "name": "Changunachos",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.986257,
+          -6.416823
+        ],
+        [
+          42.985975,
+          -6.416477
+        ],
+        [
+          42.985603,
+          -6.416105
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_51182450_7",
+      "name": "Changunachos",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_4",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          42.98532,
+          -6.415673
+        ],
+        [
+          42.985246,
+          -6.415423
+        ],
+        [
+          42.985309,
+          -6.41515
+        ],
+        [
+          42.985459,
+          -6.415056
+        ],
+        [
+          42.985799,
+          -6.415119
+        ],
+        [
+          42.98632,
+          -6.415259
+        ],
+        [
+          42.986798,
+          -6.415423
+        ],
+        [
+          42.986994,
+          -6.415455
+        ],
+        [
+          42.987178,
+          -6.415438
+        ],
+        [
+          42.987472,
+          -6.415413
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_53772907_1",
+      "name": "El Neveiru",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_8",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          42.985091,
+          -6.419473
+        ],
+        [
+          42.985071,
+          -6.419075
+        ],
+        [
+          42.98516,
+          -6.418712
+        ],
+        [
+          42.985165,
+          -6.418213
+        ],
+        [
+          42.98514,
+          -6.417955
+        ],
+        [
+          42.985522,
+          -6.417331
+        ],
+        [
+          42.985551,
+          -6.416917
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772907_3",
+      "name": "El Neveiru",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_20",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.985564,
+          -6.416701
+        ],
+        [
+          42.985451,
+          -6.415945
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772908_0",
+      "name": "Abedules",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_21",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.987579,
+          -6.420828
+        ],
+        [
+          42.988243,
+          -6.42103
+        ],
+        [
+          42.988357,
+          -6.421032
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772908_3",
+      "name": "Abedules",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_3",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          42.988671,
+          -6.421046
+        ],
+        [
+          42.98897,
+          -6.420972
+        ],
+        [
+          42.989399,
+          -6.420828
+        ],
+        [
+          42.989689,
+          -6.420929
+        ],
+        [
+          42.990054,
+          -6.421122
+        ],
+        [
+          42.990462,
+          -6.421324
+        ],
+        [
+          42.990599,
+          -6.421317
+        ],
+        [
+          42.990679,
+          -6.4212
+        ],
+        [
+          42.990693,
+          -6.420903
+        ],
+        [
+          42.990685,
+          -6.420521
+        ],
+        [
+          42.990693,
+          -6.420076
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772908_5",
+      "name": "Abedules",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_22",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.990718,
+          -6.419878
+        ],
+        [
+          42.99087,
+          -6.419693
+        ],
+        [
+          42.991135,
+          -6.419462
+        ],
+        [
+          42.991315,
+          -6.419298
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772908_8",
+      "name": "Abedules",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.991395,
+          -6.418937
+        ],
+        [
+          42.991452,
+          -6.418623
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772908_9",
+      "name": "Abedules",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_0",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          42.991452,
+          -6.418623
+        ],
+        [
+          42.991529,
+          -6.418042
+        ],
+        [
+          42.993291,
+          -6.414487
+        ],
+        [
+          42.993791,
+          -6.413516
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772912_0",
+      "name": "La Pechxada",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_23",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          42.985199,
+          -6.419677
+        ],
+        [
+          42.985491,
+          -6.419532
+        ],
+        [
+          42.985696,
+          -6.419311
+        ],
+        [
+          42.985858,
+          -6.419012
+        ],
+        [
+          42.985979,
+          -6.418697
+        ],
+        [
+          42.986079,
+          -6.418271
+        ],
+        [
+          42.986121,
+          -6.417709
+        ],
+        [
+          42.986108,
+          -6.417455
+        ],
+        [
+          42.986037,
+          -6.417257
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772912_1",
+      "name": "La Pechxada",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.986037,
+          -6.417257
+        ],
+        [
+          42.985866,
+          -6.416988
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_53772914_0",
+      "name": "Piste 53772914",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.988063,
+          -6.415089
+        ],
+        [
+          42.988248,
+          -6.415906
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_53772915_0",
+      "name": "Piste 53772915",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_4",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.988063,
+          -6.415089
+        ],
+        [
+          42.987572,
+          -6.415461
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_53772917_2",
+      "name": "Conexión",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_10",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.991919,
+          -6.412339
+        ],
+        [
+          42.991926,
+          -6.41215
+        ],
+        [
+          42.992038,
+          -6.411983
+        ],
+        [
+          42.992249,
+          -6.411773
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_53772926_1",
+      "name": "Conexión",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_24",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.992834,
+          -6.41278
+        ],
+        [
+          42.992649,
+          -6.412654
+        ],
+        [
+          42.992582,
+          -6.412431
+        ],
+        [
+          42.992649,
+          -6.41215
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_54580012_0",
+      "name": "Conexión",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_14",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.987472,
+          -6.415413
+        ],
+        [
+          42.987664,
+          -6.414865
+        ],
+        [
+          42.987653,
+          -6.414579
+        ],
+        [
+          42.987494,
+          -6.414222
+        ],
+        [
+          42.987249,
+          -6.413869
+        ],
+        [
+          42.987097,
+          -6.413569
+        ],
+        [
+          42.986998,
+          -6.413353
+        ],
+        [
+          42.987001,
+          -6.413147
+        ],
+        [
+          42.987143,
+          -6.413045
+        ],
+        [
+          42.987395,
+          -6.412881
+        ],
+        [
+          42.987791,
+          -6.412605
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102870995_0",
+      "name": "Piste 102870995",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_8",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.986416,
+          -6.417127
+        ],
+        [
+          42.985866,
+          -6.416988
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103119196_0",
+      "name": "El Tubo",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_16",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          42.990646,
+          -6.416513
+        ],
+        [
+          42.991201,
+          -6.415505
+        ],
+        [
+          42.991853,
+          -6.414544
+        ],
+        [
+          42.992495,
+          -6.413807
+        ],
+        [
+          42.993216,
+          -6.41311
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_255830474_0",
+      "name": "Autovía de Arbas",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.993307,
+          -6.413026
+        ],
+        [
+          42.993439,
+          -6.413053
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_0_node_25",
+      "name": "Walk: La Laguna (Base) ↔ Junction: Autovía de Arbas",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_25",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.993722,
+          -6.413426
+        ],
+        [
+          42.993551,
+          -6.41314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_7",
+      "name": "Walk: La Laguna (Summit / Top) ↔ El Güechu (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.991109,
+          -6.418044
+        ],
+        [
+          42.990919,
+          -6.418572
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_12",
+      "name": "Walk: La Laguna (Summit / Top) ↔ Junction: Autovía de Arbas",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_12",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.991109,
+          -6.418044
+        ],
+        [
+          42.991438,
+          -6.418702
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_13",
+      "name": "Walk: La Laguna (Summit / Top) ↔ Junction: Autovía de Arbas",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_13",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.991109,
+          -6.418044
+        ],
+        [
+          42.99067,
+          -6.417467
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_4",
+      "name": "Walk: La Mora (Base) ↔ Gobia (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_4",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.98815,
+          -6.416484
+        ],
+        [
+          42.987544,
+          -6.415489
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_6",
+      "name": "Walk: La Mora (Base) ↔ El Güechu (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.98815,
+          -6.416484
+        ],
+        [
+          42.988566,
+          -6.416152
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_11",
+      "name": "Walk: La Mora (Base) ↔ La Braña (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_11",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.98815,
+          -6.416484
+        ],
+        [
+          42.988076,
+          -6.415083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_17",
+      "name": "Walk: La Mora (Base) ↔ Junction: La Escuela",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.98815,
+          -6.416484
+        ],
+        [
+          42.988099,
+          -6.415893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_7",
+      "name": "Walk: La Mora (Summit / Top) ↔ El Güechu (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_7",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.99067,
+          -6.42002
+        ],
+        [
+          42.990919,
+          -6.418572
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_6",
+      "name": "Walk: Gobia (Base) ↔ El Güechu (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_6",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.987544,
+          -6.415489
+        ],
+        [
+          42.988566,
+          -6.416152
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_11",
+      "name": "Walk: Gobia (Base) ↔ La Braña (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_11",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.987544,
+          -6.415489
+        ],
+        [
+          42.988076,
+          -6.415083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_17",
+      "name": "Walk: Gobia (Base) ↔ Junction: La Escuela",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.987544,
+          -6.415489
+        ],
+        [
+          42.988099,
+          -6.415893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_11",
+      "name": "Walk: El Güechu (Base) ↔ La Braña (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_11",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.988566,
+          -6.416152
+        ],
+        [
+          42.988076,
+          -6.415083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_17",
+      "name": "Walk: El Güechu (Base) ↔ Junction: La Escuela",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_17",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.988566,
+          -6.416152
+        ],
+        [
+          42.988099,
+          -6.415893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_12",
+      "name": "Walk: El Güechu (Summit / Top) ↔ Junction: Autovía de Arbas",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_12",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.990919,
+          -6.418572
+        ],
+        [
+          42.991438,
+          -6.418702
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_22",
+      "name": "Walk: El Güechu (Summit / Top) ↔ Junction: Abedules",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_22",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.990919,
+          -6.418572
+        ],
+        [
+          42.991364,
+          -6.419125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_23",
+      "name": "Walk: La Ferradura (Base) ↔ Junction: La Pechxada",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.985694,
+          -6.416913
+        ],
+        [
+          42.986037,
+          -6.417257
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_24",
+      "name": "Walk: La Braña (Base) ↔ Junction: Conexión",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_24",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.992386,
+          -6.411778
+        ],
+        [
+          42.992632,
+          -6.412004
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_17",
+      "name": "Walk: La Braña (Summit / Top) ↔ Junction: La Escuela",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.988076,
+          -6.415083
+        ],
+        [
+          42.988099,
+          -6.415893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_22",
+      "name": "Walk: Junction: Autovía de Arbas ↔ Junction: Abedules",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_22",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.991438,
+          -6.418702
+        ],
+        [
+          42.991364,
+          -6.419125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_25",
+      "name": "Walk: Junction: Autovía de Arbas ↔ Junction: Autovía de Arbas",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.993135,
+          -6.4129
+        ],
+        [
+          42.993551,
+          -6.41314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_23",
+      "name": "Walk: Junction: Changunachos ↔ Junction: La Pechxada",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_23",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.986352,
+          -6.417005
+        ],
+        [
+          42.986037,
+          -6.417257
+        ]
+      ]
+    }
+  ]
+}

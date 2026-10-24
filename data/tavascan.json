@@ -1,0 +1,1442 @@
+{
+  "id": "tavascan",
+  "name": "Tavascan",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.6612,
+      1.2027
+    ],
+    [
+      42.6828,
+      1.2244
+    ]
+  ],
+  "center": [
+    42.6719,
+    1.2135
+  ],
+  "stats": {
+    "slopes": "3.8 km",
+    "lifts": 3,
+    "elevation": "1750m - 2250m",
+    "drop": "500m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Telecadira La Pleta del Prat (Base)",
+      "lat": 42.67784,
+      "lng": 1.219381,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Telecadira La Pleta del Prat (Summit / Top)",
+      "lat": 42.666185,
+      "lng": 1.207687,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Telesquí Mascarida (Base)",
+      "lat": 42.672356,
+      "lng": 1.213663,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Telesquí Mascarida (Summit / Top)",
+      "lat": 42.671393,
+      "lng": 1.212776,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Cinta Debutants (Base)",
+      "lat": 42.67754,
+      "lng": 1.218995,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Cinta Debutants (Summit / Top)",
+      "lat": 42.677033,
+      "lng": 1.218686,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Junction: Bosc",
+      "lat": 42.672619,
+      "lng": 1.214882,
+      "type": "intersection"
+    },
+    {
+      "id": "node_7",
+      "name": "Junction: Bosc",
+      "lat": 42.674045,
+      "lng": 1.215661,
+      "type": "intersection"
+    },
+    {
+      "id": "node_8",
+      "name": "Junction: Bosc",
+      "lat": 42.67424,
+      "lng": 1.216044,
+      "type": "intersection"
+    },
+    {
+      "id": "node_9",
+      "name": "Junction: Bosc",
+      "lat": 42.675921,
+      "lng": 1.218911,
+      "type": "intersection"
+    },
+    {
+      "id": "node_10",
+      "name": "Junction: Bosc",
+      "lat": 42.677222,
+      "lng": 1.219019,
+      "type": "intersection"
+    },
+    {
+      "id": "node_11",
+      "name": "Junction: Mascarida",
+      "lat": 42.667904,
+      "lng": 1.207778,
+      "type": "intersection"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Mascarida",
+      "lat": 42.667557,
+      "lng": 1.209591,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Mascarida",
+      "lat": 42.668721,
+      "lng": 1.211454,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Mascarida",
+      "lat": 42.669117,
+      "lng": 1.210131,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Mascarida",
+      "lat": 42.670146,
+      "lng": 1.21145,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Mascarida",
+      "lat": 42.670826,
+      "lng": 1.212636,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction #18",
+      "lat": 42.666193,
+      "lng": 1.208185,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Telesquí",
+      "lat": 42.672508,
+      "lng": 1.214565,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Canals 1",
+      "lat": 42.668907,
+      "lng": 1.20786,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_189323023",
+      "name": "Telecadira La Pleta del Prat",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.6,
+      "duration": 6,
+      "elevation": 352,
+      "geometry": [
+        [
+          42.67784,
+          1.219335
+        ],
+        [
+          42.677461,
+          1.218953
+        ],
+        [
+          42.676501,
+          1.218009
+        ],
+        [
+          42.675761,
+          1.217281
+        ],
+        [
+          42.674561,
+          1.2161
+        ],
+        [
+          42.673555,
+          1.215111
+        ],
+        [
+          42.672732,
+          1.214301
+        ],
+        [
+          42.672259,
+          1.213836
+        ],
+        [
+          42.672159,
+          1.213737
+        ],
+        [
+          42.671749,
+          1.213334
+        ],
+        [
+          42.670753,
+          1.212354
+        ],
+        [
+          42.669795,
+          1.211412
+        ],
+        [
+          42.668631,
+          1.210268
+        ],
+        [
+          42.667723,
+          1.20939
+        ],
+        [
+          42.666988,
+          1.208666
+        ],
+        [
+          42.666342,
+          1.208034
+        ],
+        [
+          42.666203,
+          1.207894
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_189323025",
+      "name": "Telesquí Mascarida",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 30,
+      "geometry": [
+        [
+          42.672407,
+          1.213574
+        ],
+        [
+          42.672086,
+          1.213318
+        ],
+        [
+          42.671341,
+          1.212711
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259972111",
+      "name": "Cinta Debutants",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          42.677538,
+          1.218865
+        ],
+        [
+          42.677036,
+          1.218666
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_189323018_0",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          42.672731,
+          1.214966
+        ],
+        [
+          42.672972,
+          1.214357
+        ],
+        [
+          42.673134,
+          1.214057
+        ],
+        [
+          42.673226,
+          1.213739
+        ],
+        [
+          42.673451,
+          1.21385
+        ],
+        [
+          42.673645,
+          1.214409
+        ],
+        [
+          42.673854,
+          1.214627
+        ],
+        [
+          42.673987,
+          1.214745
+        ],
+        [
+          42.674062,
+          1.214854
+        ],
+        [
+          42.674095,
+          1.215019
+        ],
+        [
+          42.674069,
+          1.215273
+        ],
+        [
+          42.674062,
+          1.215445
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323018_2",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.674108,
+          1.215818
+        ],
+        [
+          42.67424,
+          1.216044
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323018_3",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.67424,
+          1.216044
+        ],
+        [
+          42.674594,
+          1.216501
+        ],
+        [
+          42.674857,
+          1.216835
+        ],
+        [
+          42.675035,
+          1.217091
+        ],
+        [
+          42.675209,
+          1.217432
+        ],
+        [
+          42.675485,
+          1.218121
+        ],
+        [
+          42.67562,
+          1.218476
+        ],
+        [
+          42.675744,
+          1.21867
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323018_6",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          42.67593,
+          1.219163
+        ],
+        [
+          42.675878,
+          1.219733
+        ],
+        [
+          42.675863,
+          1.219995
+        ],
+        [
+          42.675864,
+          1.220164
+        ],
+        [
+          42.675877,
+          1.220343
+        ],
+        [
+          42.675907,
+          1.220544
+        ],
+        [
+          42.675945,
+          1.220725
+        ],
+        [
+          42.675981,
+          1.220814
+        ],
+        [
+          42.676006,
+          1.220851
+        ],
+        [
+          42.676047,
+          1.220873
+        ],
+        [
+          42.676094,
+          1.220876
+        ],
+        [
+          42.676149,
+          1.220853
+        ],
+        [
+          42.676244,
+          1.2208
+        ],
+        [
+          42.676338,
+          1.220714
+        ],
+        [
+          42.676383,
+          1.220666
+        ],
+        [
+          42.676423,
+          1.220593
+        ],
+        [
+          42.676571,
+          1.22022
+        ],
+        [
+          42.676996,
+          1.219155
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323018_9",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.677412,
+          1.2191
+        ],
+        [
+          42.677575,
+          1.219172
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323018_10",
+      "name": "Bosc",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.677575,
+          1.219172
+        ],
+        [
+          42.677841,
+          1.219427
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_189323019_0",
+      "name": "Tubo Negre",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          42.672731,
+          1.214966
+        ],
+        [
+          42.673459,
+          1.215313
+        ],
+        [
+          42.673935,
+          1.215643
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_2",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_11",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          42.666229,
+          1.207479
+        ],
+        [
+          42.6663,
+          1.207354
+        ],
+        [
+          42.666371,
+          1.207258
+        ],
+        [
+          42.666459,
+          1.20719
+        ],
+        [
+          42.666594,
+          1.207101
+        ],
+        [
+          42.666733,
+          1.207036
+        ],
+        [
+          42.666832,
+          1.207016
+        ],
+        [
+          42.667035,
+          1.207054
+        ],
+        [
+          42.667157,
+          1.207105
+        ],
+        [
+          42.667263,
+          1.207179
+        ],
+        [
+          42.667387,
+          1.207359
+        ],
+        [
+          42.667485,
+          1.207492
+        ],
+        [
+          42.667589,
+          1.207559
+        ],
+        [
+          42.667749,
+          1.207594
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_7",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.667987,
+          1.208076
+        ],
+        [
+          42.667977,
+          1.208237
+        ],
+        [
+          42.667946,
+          1.208315
+        ],
+        [
+          42.667806,
+          1.208413
+        ],
+        [
+          42.6677,
+          1.20854
+        ],
+        [
+          42.667609,
+          1.208708
+        ],
+        [
+          42.667516,
+          1.208947
+        ],
+        [
+          42.667506,
+          1.20906
+        ],
+        [
+          42.667547,
+          1.209429
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_10",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.667656,
+          1.209858
+        ],
+        [
+          42.667788,
+          1.210023
+        ],
+        [
+          42.668028,
+          1.210294
+        ],
+        [
+          42.668186,
+          1.210522
+        ],
+        [
+          42.66831,
+          1.210779
+        ],
+        [
+          42.668442,
+          1.211046
+        ],
+        [
+          42.668694,
+          1.211418
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_11",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.668694,
+          1.211418
+        ],
+        [
+          42.668817,
+          1.210827
+        ],
+        [
+          42.668991,
+          1.210126
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_13",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          42.669202,
+          1.210135
+        ],
+        [
+          42.66981,
+          1.210772
+        ],
+        [
+          42.670146,
+          1.21145
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_14",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.670146,
+          1.21145
+        ],
+        [
+          42.670709,
+          1.212515
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323020_17",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.67103,
+          1.212719
+        ],
+        [
+          42.671341,
+          1.212711
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_189323022_0",
+      "name": "Piste 189323022",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.66615,
+          1.207794
+        ],
+        [
+          42.666193,
+          1.208185
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_189323022_1",
+      "name": "Piste 189323022",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_12",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.666193,
+          1.208185
+        ],
+        [
+          42.666369,
+          1.208438
+        ],
+        [
+          42.666565,
+          1.208606
+        ],
+        [
+          42.666738,
+          1.208698
+        ],
+        [
+          42.66698,
+          1.208873
+        ],
+        [
+          42.667043,
+          1.208956
+        ],
+        [
+          42.667235,
+          1.209153
+        ],
+        [
+          42.667418,
+          1.209377
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_189323024_1",
+      "name": "Telesquí",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_2",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.671495,
+          1.212906
+        ],
+        [
+          42.671639,
+          1.213026
+        ],
+        [
+          42.671926,
+          1.213279
+        ],
+        [
+          42.672236,
+          1.213546
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_189323024_4",
+      "name": "Telesquí",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_18",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.67242,
+          1.213799
+        ],
+        [
+          42.672472,
+          1.214242
+        ],
+        [
+          42.672508,
+          1.214565
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_189323024_5",
+      "name": "Telesquí",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.672508,
+          1.214565
+        ],
+        [
+          42.672601,
+          1.214877
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_375788949_1",
+      "name": "Piste 375788949",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_16",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          42.668763,
+          1.211508
+        ],
+        [
+          42.66915,
+          1.211748
+        ],
+        [
+          42.669319,
+          1.211894
+        ],
+        [
+          42.669706,
+          1.212108
+        ],
+        [
+          42.670048,
+          1.2124
+        ],
+        [
+          42.670232,
+          1.212515
+        ],
+        [
+          42.670623,
+          1.212646
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_375788950_1",
+      "name": "Canals 1",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_14",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.668917,
+          1.208012
+        ],
+        [
+          42.66899,
+          1.208252
+        ],
+        [
+          42.669035,
+          1.209045
+        ],
+        [
+          42.669116,
+          1.209687
+        ],
+        [
+          42.669202,
+          1.210135
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_375788952_0",
+      "name": "Canals 2",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_19",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.667938,
+          1.207717
+        ],
+        [
+          42.668236,
+          1.207776
+        ],
+        [
+          42.66879,
+          1.207776
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_375788952_2",
+      "name": "Canals 2",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_15",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          42.669072,
+          1.207835
+        ],
+        [
+          42.669468,
+          1.207968
+        ],
+        [
+          42.669582,
+          1.208071
+        ],
+        [
+          42.669669,
+          1.208204
+        ],
+        [
+          42.669783,
+          1.208543
+        ],
+        [
+          42.669902,
+          1.209237
+        ],
+        [
+          42.670012,
+          1.210598
+        ],
+        [
+          42.670012,
+          1.210734
+        ],
+        [
+          42.670146,
+          1.21145
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_375788954_1",
+      "name": "Debutants",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.67703,
+          1.218706
+        ],
+        [
+          42.677126,
+          1.218827
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_375788954_5",
+      "name": "Debutants",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.677426,
+          1.21901
+        ],
+        [
+          42.677507,
+          1.219003
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_375788955_1",
+      "name": "Mascarida",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.676098,
+          1.219014
+        ],
+        [
+          42.676653,
+          1.219178
+        ],
+        [
+          42.676996,
+          1.219155
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_375788957_0",
+      "name": "Telesquí",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_6",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.671341,
+          1.212711
+        ],
+        [
+          42.671467,
+          1.21313
+        ],
+        [
+          42.671612,
+          1.213494
+        ],
+        [
+          42.671841,
+          1.213696
+        ],
+        [
+          42.672022,
+          1.213914
+        ],
+        [
+          42.672084,
+          1.214044
+        ],
+        [
+          42.672208,
+          1.214283
+        ],
+        [
+          42.672325,
+          1.214501
+        ],
+        [
+          42.672454,
+          1.214719
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "walk_node_0_node_4",
+      "name": "Walk: Telecadira La Pleta del Prat (Base) ↔ Cinta Debutants (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.67784,
+          1.219381
+        ],
+        [
+          42.67754,
+          1.218995
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_5",
+      "name": "Walk: Telecadira La Pleta del Prat (Base) ↔ Cinta Debutants (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_5",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.67784,
+          1.219381
+        ],
+        [
+          42.677033,
+          1.218686
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_17",
+      "name": "Walk: Telecadira La Pleta del Prat (Summit / Top) ↔ Junction #18",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.666185,
+          1.207687
+        ],
+        [
+          42.666193,
+          1.208185
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Telesquí Mascarida (Base) ↔ Telesquí Mascarida (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.672356,
+          1.213663
+        ],
+        [
+          42.671393,
+          1.212776
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_16",
+      "name": "Walk: Telesquí Mascarida (Summit / Top) ↔ Junction: Mascarida",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_16",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.671393,
+          1.212776
+        ],
+        [
+          42.670826,
+          1.212636
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_5",
+      "name": "Walk: Cinta Debutants (Base) ↔ Cinta Debutants (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.67754,
+          1.218995
+        ],
+        [
+          42.677033,
+          1.218686
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_10",
+      "name": "Walk: Cinta Debutants (Base) ↔ Junction: Bosc",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_10",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.67754,
+          1.218995
+        ],
+        [
+          42.677222,
+          1.219019
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_10",
+      "name": "Walk: Cinta Debutants (Summit / Top) ↔ Junction: Bosc",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.677033,
+          1.218686
+        ],
+        [
+          42.677222,
+          1.219019
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_18",
+      "name": "Walk: Junction: Bosc ↔ Junction: Telesquí",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_18",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.672619,
+          1.214882
+        ],
+        [
+          42.672508,
+          1.214565
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_8",
+      "name": "Walk: Junction: Bosc ↔ Junction: Bosc",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.674045,
+          1.215661
+        ],
+        [
+          42.67424,
+          1.216044
+        ]
+      ]
+    }
+  ]
+}

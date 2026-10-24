@@ -26,7 +26,7 @@ class ResortPathfinderTest {
         assertTrue(indexFile.exists())
         val type = object : TypeToken<List<ResortSummary>>() {}.type
         val summaries: List<ResortSummary> = gson.fromJson(indexFile.readText(Charsets.UTF_8), type)
-        assertEquals(9, summaries.size)
+        assertEquals(82, summaries.size)
 
         for (summary in summaries) {
             val resort = loadResort(summary.id)
@@ -81,8 +81,11 @@ class ResortPathfinderTest {
             }
         }
 
-        // Route alternatives across real OSM resorts
-        for (id in listOf("madonna", "baqueira", "sierranevada", "formigal", "cerler", "candanchu", "alpe", "les3vallees")) {
+        // Route alternatives across all real OSM resorts in index.json
+        val indexFile = File(assetsDir, "index.json")
+        val type = object : TypeToken<List<ResortSummary>>() {}.type
+        val summaries: List<ResortSummary> = gson.fromJson(indexFile.readText(Charsets.UTF_8), type)
+        for (id in summaries.map { it.id }.filter { it != "alpine" }) {
             val resort = loadResort(id)
             val stations = resort.getSelectableLocations()
             assertTrue("Resort $id has selectable stations", stations.size >= 2)

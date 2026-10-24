@@ -106,5 +106,881 @@
       "elevation": "1550m - 2400m",
       "drop": "850m"
     }
+  },
+  {
+    "id": "altocampoo",
+    "name": "Alto Campoo",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "19.7 km",
+      "lifts": 11,
+      "elevation": "1650m - 2125m",
+      "drop": "475m"
+    }
+  },
+  {
+    "id": "javalambre",
+    "name": "Aramón Javalambre",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "8.7 km",
+      "lifts": 9,
+      "elevation": "1650m - 2000m",
+      "drop": "350m"
+    }
+  },
+  {
+    "id": "valdelinares",
+    "name": "Aramón Valdelinares",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "9.2 km",
+      "lifts": 12,
+      "elevation": "1700m - 2024m",
+      "drop": "324m"
+    }
+  },
+  {
+    "id": "astun",
+    "name": "Astún",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "30.9 km",
+      "lifts": 17,
+      "elevation": "1700m - 2300m",
+      "drop": "600m"
+    }
+  },
+  {
+    "id": "boitaull",
+    "name": "Boí Taüll",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "33.9 km",
+      "lifts": 9,
+      "elevation": "2035m - 2751m",
+      "drop": "716m"
+    }
+  },
+  {
+    "id": "manzaneda",
+    "name": "Cabeza de Manzaneda",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "12.2 km",
+      "lifts": 6,
+      "elevation": "1500m - 1778m",
+      "drop": "278m"
+    }
+  },
+  {
+    "id": "espot",
+    "name": "Espot Esquí",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "19.4 km",
+      "lifts": 6,
+      "elevation": "1500m - 2500m",
+      "drop": "1000m"
+    }
+  },
+  {
+    "id": "fuentesdeinvierno",
+    "name": "Fuentes de Invierno",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "10.2 km",
+      "lifts": 5,
+      "elevation": "1487m - 1950m",
+      "drop": "463m"
+    }
+  },
+  {
+    "id": "lamolina",
+    "name": "La Molina",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "91.4 km",
+      "lifts": 33,
+      "elevation": "1700m - 2445m",
+      "drop": "745m"
+    }
+  },
+  {
+    "id": "lapinilla",
+    "name": "La Pinilla",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "11.2 km",
+      "lifts": 13,
+      "elevation": "1500m - 2050m",
+      "drop": "550m"
+    }
+  },
+  {
+    "id": "lunada",
+    "name": "Lunada",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "6.1 km",
+      "lifts": 5,
+      "elevation": "1280m - 1445m",
+      "drop": "165m"
+    }
+  },
+  {
+    "id": "masella",
+    "name": "Masella",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "68.4 km",
+      "lifts": 23,
+      "elevation": "1600m - 2535m",
+      "drop": "935m"
+    }
+  },
+  {
+    "id": "panticosa",
+    "name": "Panticosa",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "18.3 km",
+      "lifts": 15,
+      "elevation": "1145m - 2220m",
+      "drop": "1075m"
+    }
+  },
+  {
+    "id": "portaine",
+    "name": "Port Ainé",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "20.5 km",
+      "lifts": 8,
+      "elevation": "1650m - 2440m",
+      "drop": "790m"
+    }
+  },
+  {
+    "id": "portdelcomte",
+    "name": "Port del Comte",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "30.5 km",
+      "lifts": 19,
+      "elevation": "1700m - 2400m",
+      "drop": "700m"
+    }
+  },
+  {
+    "id": "navacerrada",
+    "name": "Puerto de Navacerrada",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "2.9 km",
+      "lifts": 6,
+      "elevation": "1700m - 2177m",
+      "drop": "477m"
+    }
+  },
+  {
+    "id": "santaines",
+    "name": "Punto de Nieve Santa Inés",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "1.0 km",
+      "lifts": 2,
+      "elevation": "1753m - 1832m",
+      "drop": "79m"
+    }
+  },
+  {
+    "id": "sanisidro",
+    "name": "San Isidro",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "23.5 km",
+      "lifts": 14,
+      "elevation": "1500m - 2100m",
+      "drop": "600m"
+    }
+  },
+  {
+    "id": "lacovatilla",
+    "name": "Sierra de Béjar - La Covatilla",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "14.2 km",
+      "lifts": 4,
+      "elevation": "1990m - 2368m",
+      "drop": "378m"
+    }
+  },
+  {
+    "id": "tavascan",
+    "name": "Tavascan",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "3.8 km",
+      "lifts": 3,
+      "elevation": "1750m - 2250m",
+      "drop": "500m"
+    }
+  },
+  {
+    "id": "valdesqui",
+    "name": "Valdesquí",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "36.0 km",
+      "lifts": 15,
+      "elevation": "1860m - 2280m",
+      "drop": "420m"
+    }
+  },
+  {
+    "id": "valdezcaray",
+    "name": "Valdezcaray",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "15.7 km",
+      "lifts": 9,
+      "elevation": "1530m - 2125m",
+      "drop": "595m"
+    }
+  },
+  {
+    "id": "valgrande",
+    "name": "Valgrande-Pajares",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "15.3 km",
+      "lifts": 6,
+      "elevation": "1450m - 1890m",
+      "drop": "440m"
+    }
+  },
+  {
+    "id": "valldenuria",
+    "name": "Vall de Núria",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "5.9 km",
+      "lifts": 7,
+      "elevation": "1964m - 2252m",
+      "drop": "288m"
+    }
+  },
+  {
+    "id": "leitariegos",
+    "name": "Valle Laciana - Leitariegos",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "6.1 km",
+      "lifts": 6,
+      "elevation": "1513m - 1800m",
+      "drop": "287m"
+    }
+  },
+  {
+    "id": "vallter2000",
+    "name": "Vallter 2000",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "13.1 km",
+      "lifts": 10,
+      "elevation": "1910m - 2535m",
+      "drop": "625m"
+    }
+  },
+  {
+    "id": "trecime",
+    "name": "3 Zinnen Dolomites (Sexten)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "129.9 km",
+      "lifts": 23,
+      "elevation": "1130m - 2200m",
+      "drop": "1070m"
+    }
+  },
+  {
+    "id": "abetone",
+    "name": "Abetone - Val di Luce",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "49.7 km",
+      "lifts": 18,
+      "elevation": "1240m - 1892m",
+      "drop": "652m"
+    }
+  },
+  {
+    "id": "folgaria",
+    "name": "Alpe Cimbra (Folgaria - Lavarone)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "46.9 km",
+      "lifts": 31,
+      "elevation": "1166m - 1850m",
+      "drop": "684m"
+    }
+  },
+  {
+    "id": "alpelusia",
+    "name": "Alpe Lusia - San Pellegrino",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "68.4 km",
+      "lifts": 16,
+      "elevation": "1370m - 2513m",
+      "drop": "1143m"
+    }
+  },
+  {
+    "id": "altabadia",
+    "name": "Alta Badia",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "146.6 km",
+      "lifts": 54,
+      "elevation": "1324m - 2778m",
+      "drop": "1454m"
+    }
+  },
+  {
+    "id": "roccaraso",
+    "name": "Alto Sangro - Roccaraso",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "63.8 km",
+      "lifts": 28,
+      "elevation": "1390m - 2141m",
+      "drop": "751m"
+    }
+  },
+  {
+    "id": "aprica",
+    "name": "Aprica",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "13.7 km",
+      "lifts": 7,
+      "elevation": "1180m - 2300m",
+      "drop": "1120m"
+    }
+  },
+  {
+    "id": "arabba",
+    "name": "Arabba - Marmolada",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "57.0 km",
+      "lifts": 21,
+      "elevation": "1446m - 3269m",
+      "drop": "1823m"
+    }
+  },
+  {
+    "id": "bardonecchia",
+    "name": "Bardonecchia",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "52.8 km",
+      "lifts": 19,
+      "elevation": "1312m - 2800m",
+      "drop": "1488m"
+    }
+  },
+  {
+    "id": "belpiano",
+    "name": "Belpiano - Passo Resia (Schöneben)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "26.5 km",
+      "lifts": 14,
+      "elevation": "1460m - 2390m",
+      "drop": "930m"
+    }
+  },
+  {
+    "id": "bormio",
+    "name": "Bormio",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "72.2 km",
+      "lifts": 14,
+      "elevation": "1225m - 3012m",
+      "drop": "1787m"
+    }
+  },
+  {
+    "id": "cervinia",
+    "name": "Breuil-Cervinia Valtournenche",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "196.5 km",
+      "lifts": 35,
+      "elevation": "1524m - 3883m",
+      "drop": "2359m"
+    }
+  },
+  {
+    "id": "carezza",
+    "name": "Carezza Dolomites",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "24.2 km",
+      "lifts": 13,
+      "elevation": "1182m - 2337m",
+      "drop": "1155m"
+    }
+  },
+  {
+    "id": "chiesa",
+    "name": "Chiesa in Valmalenco (Alpe Palù)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "49.8 km",
+      "lifts": 9,
+      "elevation": "1000m - 2336m",
+      "drop": "1336m"
+    }
+  },
+  {
+    "id": "cortina",
+    "name": "Cortina d'Ampezzo",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "90.0 km",
+      "lifts": 28,
+      "elevation": "1224m - 2930m",
+      "drop": "1706m"
+    }
+  },
+  {
+    "id": "courmayeur",
+    "name": "Courmayeur Mont Blanc",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "91.1 km",
+      "lifts": 22,
+      "elevation": "1210m - 2755m",
+      "drop": "1545m"
+    }
+  },
+  {
+    "id": "folgarida",
+    "name": "Folgarida - Marilleva",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "42.9 km",
+      "lifts": 26,
+      "elevation": "1300m - 2180m",
+      "drop": "880m"
+    }
+  },
+  {
+    "id": "foppolo",
+    "name": "Foppolo - Carona (Brembo Ski)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "46.0 km",
+      "lifts": 12,
+      "elevation": "1500m - 2163m",
+      "drop": "663m"
+    }
+  },
+  {
+    "id": "gitschberg",
+    "name": "Gitschberg Jochtal",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "17.2 km",
+      "lifts": 10,
+      "elevation": "1307m - 2510m",
+      "drop": "1203m"
+    }
+  },
+  {
+    "id": "kronplatz",
+    "name": "Kronplatz - Plan de Corones",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "88.2 km",
+      "lifts": 25,
+      "elevation": "935m - 2275m",
+      "drop": "1340m"
+    }
+  },
+  {
+    "id": "lathuile",
+    "name": "La Thuile (Espace San Bernardo)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "147.2 km",
+      "lifts": 18,
+      "elevation": "1440m - 2800m",
+      "drop": "1360m"
+    }
+  },
+  {
+    "id": "limone",
+    "name": "Limone Piemonte (Riserva Bianca)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "40.5 km",
+      "lifts": 17,
+      "elevation": "1050m - 2050m",
+      "drop": "1000m"
+    }
+  },
+  {
+    "id": "livigno",
+    "name": "Livigno",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "125.0 km",
+      "lifts": 31,
+      "elevation": "1816m - 2798m",
+      "drop": "982m"
+    }
+  },
+  {
+    "id": "madesimo",
+    "name": "Madesimo Valchiavenna",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "34.7 km",
+      "lifts": 12,
+      "elevation": "1550m - 2948m",
+      "drop": "1398m"
+    }
+  },
+  {
+    "id": "mondole",
+    "name": "Mondolè Ski (Prato Nevoso - Artesina)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "72.2 km",
+      "lifts": 24,
+      "elevation": "1300m - 2085m",
+      "drop": "785m"
+    }
+  },
+  {
+    "id": "cimone",
+    "name": "Monte Cimone",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "49.0 km",
+      "lifts": 21,
+      "elevation": "900m - 2165m",
+      "drop": "1265m"
+    }
+  },
+  {
+    "id": "zoncolan",
+    "name": "Monte Zoncolan",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "23.7 km",
+      "lifts": 17,
+      "elevation": "950m - 1970m",
+      "drop": "1020m"
+    }
+  },
+  {
+    "id": "monterosa",
+    "name": "Monterosa Ski",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "66.5 km",
+      "lifts": 26,
+      "elevation": "1212m - 3275m",
+      "drop": "2063m"
+    }
+  },
+  {
+    "id": "ovindoli",
+    "name": "Ovindoli & Campo Felice",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "15.4 km",
+      "lifts": 12,
+      "elevation": "1400m - 2220m",
+      "drop": "820m"
+    }
+  },
+  {
+    "id": "paganella",
+    "name": "Paganella Ski (Andalo)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "33.1 km",
+      "lifts": 14,
+      "elevation": "1030m - 2125m",
+      "drop": "1095m"
+    }
+  },
+  {
+    "id": "pianidibobbio",
+    "name": "Piani di Bobbio - Valtorta",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "17.0 km",
+      "lifts": 12,
+      "elevation": "1340m - 1950m",
+      "drop": "610m"
+    }
+  },
+  {
+    "id": "pila",
+    "name": "Pila",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "55.0 km",
+      "lifts": 16,
+      "elevation": "1540m - 2750m",
+      "drop": "1210m"
+    }
+  },
+  {
+    "id": "plose",
+    "name": "Plose (Bressanone)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "25.0 km",
+      "lifts": 7,
+      "elevation": "1067m - 2505m",
+      "drop": "1438m"
+    }
+  },
+  {
+    "id": "pontedilegno",
+    "name": "Pontedilegno-Tonale",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "55.1 km",
+      "lifts": 31,
+      "elevation": "1121m - 3016m",
+      "drop": "1895m"
+    }
+  },
+  {
+    "id": "racines",
+    "name": "Racines-Giovo (Ratschings-Jaufen)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "23.7 km",
+      "lifts": 11,
+      "elevation": "1300m - 2150m",
+      "drop": "850m"
+    }
+  },
+  {
+    "id": "sandomenico",
+    "name": "San Domenico di Varzo",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "19.9 km",
+      "lifts": 7,
+      "elevation": "1420m - 2550m",
+      "drop": "1130m"
+    }
+  },
+  {
+    "id": "sanmartino",
+    "name": "San Martino di Castrozza - Passo Rolle",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "51.0 km",
+      "lifts": 19,
+      "elevation": "1404m - 2357m",
+      "drop": "953m"
+    }
+  },
+  {
+    "id": "santacaterina",
+    "name": "Santa Caterina Valfurva",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "34.9 km",
+      "lifts": 6,
+      "elevation": "1738m - 2880m",
+      "drop": "1142m"
+    }
+  },
+  {
+    "id": "obereggen",
+    "name": "Ski Center Latemar (Obereggen-Pampeago)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "85.5 km",
+      "lifts": 20,
+      "elevation": "1540m - 2388m",
+      "drop": "848m"
+    }
+  },
+  {
+    "id": "civetta",
+    "name": "Ski Civetta (Alleghe - Val di Zoldo)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "57.9 km",
+      "lifts": 26,
+      "elevation": "1000m - 2100m",
+      "drop": "1100m"
+    }
+  },
+  {
+    "id": "solda",
+    "name": "Solda all'Ortles (Sulden)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "35.6 km",
+      "lifts": 11,
+      "elevation": "1900m - 3250m",
+      "drop": "1350m"
+    }
+  },
+  {
+    "id": "speikboden",
+    "name": "Speikboden & Klausberg (Valle Aurina)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "24.9 km",
+      "lifts": 9,
+      "elevation": "950m - 2510m",
+      "drop": "1560m"
+    }
+  },
+  {
+    "id": "tarvisio",
+    "name": "Tarvisio - Monte Lussari",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "24.0 km",
+      "lifts": 17,
+      "elevation": "754m - 1760m",
+      "drop": "1006m"
+    }
+  },
+  {
+    "id": "valgardena",
+    "name": "Val Gardena - Alpe di Siusi",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "239.6 km",
+      "lifts": 83,
+      "elevation": "1236m - 2518m",
+      "drop": "1282m"
+    }
+  },
+  {
+    "id": "valsenales",
+    "name": "Val Senales (Schnalstal)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "32.3 km",
+      "lifts": 12,
+      "elevation": "2011m - 3212m",
+      "drop": "1201m"
+    }
+  },
+  {
+    "id": "valdifassa",
+    "name": "Val di Fassa (Belvedere - Col Rodella)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "89.2 km",
+      "lifts": 27,
+      "elevation": "1320m - 2485m",
+      "drop": "1165m"
+    }
+  },
+  {
+    "id": "vialattea",
+    "name": "Via Lattea (Sestriere - Sauze d'Oulx)",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "479.9 km",
+      "lifts": 80,
+      "elevation": "1350m - 2823m",
+      "drop": "1473m"
+    }
   }
 ]

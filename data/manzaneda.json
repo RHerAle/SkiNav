@@ -1,0 +1,3089 @@
+{
+  "id": "manzaneda",
+  "name": "Cabeza de Manzaneda",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.2531,
+      -7.3073
+    ],
+    [
+      42.2781,
+      -7.2879
+    ]
+  ],
+  "center": [
+    42.2661,
+    -7.2978
+  ],
+  "stats": {
+    "slopes": "12.2 km",
+    "lifts": 6,
+    "elevation": "1500m - 1778m",
+    "drop": "278m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Os Corzos (Base)",
+      "lat": 42.258101,
+      "lng": -7.292907,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Os Corzos (Summit / Top)",
+      "lat": 42.258927,
+      "lng": -7.297956,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "TS6 Manzaneda (Base)",
+      "lat": 42.272307,
+      "lng": -7.293064,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "TS6 Manzaneda (Summit / Top)",
+      "lat": 42.259439,
+      "lng": -7.300863,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Fontefria (Base)",
+      "lat": 42.264383,
+      "lng": -7.300048,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Fontefria (Summit / Top)",
+      "lat": 42.261043,
+      "lng": -7.300703,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "TS4 Da Fontefría (Base)",
+      "lat": 42.268615,
+      "lng": -7.296521,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "TS4 Da Fontefría (Summit / Top)",
+      "lat": 42.259335,
+      "lng": -7.30137,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Pluviómetro (Base)",
+      "lat": 42.269009,
+      "lng": -7.296651,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Pluviómetro (Summit / Top)",
+      "lat": 42.265382,
+      "lng": -7.299725,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "O Xeixo (Base)",
+      "lat": 42.260651,
+      "lng": -7.299717,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "O Xeixo (Summit / Top)",
+      "lat": 42.259076,
+      "lng": -7.300798,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Paso Perdices",
+      "lat": 42.26182,
+      "lng": -7.299884,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Paso Perdices",
+      "lat": 42.264583,
+      "lng": -7.298731,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Paso Perdices",
+      "lat": 42.264751,
+      "lng": -7.298167,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Paso Perdices",
+      "lat": 42.265018,
+      "lng": -7.297482,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Paso Perdices",
+      "lat": 42.265227,
+      "lng": -7.297338,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Lusitania",
+      "lat": 42.266238,
+      "lng": -7.296517,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Lusitania",
+      "lat": 42.267718,
+      "lng": -7.295083,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Lusitania",
+      "lat": 42.2708,
+      "lng": -7.294328,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Cuchara",
+      "lat": 42.265624,
+      "lng": -7.297172,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Cuchara",
+      "lat": 42.26748,
+      "lng": -7.295791,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Cuchara",
+      "lat": 42.268212,
+      "lng": -7.295908,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Das Antenas",
+      "lat": 42.264899,
+      "lng": -7.300731,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Charrelas",
+      "lat": 42.262722,
+      "lng": -7.298348,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Charrelas",
+      "lat": 42.267193,
+      "lng": -7.296912,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Charrelas",
+      "lat": 42.267954,
+      "lng": -7.296326,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Refugio",
+      "lat": 42.267927,
+      "lng": -7.299474,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Refugio",
+      "lat": 42.26869,
+      "lng": -7.301644,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Refugio",
+      "lat": 42.269607,
+      "lng": -7.298439,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Refugio",
+      "lat": 42.272889,
+      "lng": -7.297356,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Refugio",
+      "lat": 42.271817,
+      "lng": -7.294124,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Os Carqueixos",
+      "lat": 42.259616,
+      "lng": -7.298099,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Bello",
+      "lat": 42.269037,
+      "lng": -7.298522,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Bello",
+      "lat": 42.268986,
+      "lng": -7.29702,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Manolo",
+      "lat": 42.266619,
+      "lng": -7.301011,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Manolo",
+      "lat": 42.268398,
+      "lng": -7.302291,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Das Lebres",
+      "lat": 42.273055,
+      "lng": -7.294202,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Das Lebres",
+      "lat": 42.272664,
+      "lng": -7.293161,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Barbeirón",
+      "lat": 42.271574,
+      "lng": -7.294409,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction #41",
+      "lat": 42.269055,
+      "lng": -7.297545,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Xabarín",
+      "lat": 42.261057,
+      "lng": -7.300284,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_101392226",
+      "name": "Os Corzos",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.43,
+      "duration": 2,
+      "elevation": 94,
+      "geometry": [
+        [
+          42.258183,
+          -7.29288
+        ],
+        [
+          42.258888,
+          -7.298045
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_101392229",
+      "name": "TS6 Manzaneda",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.56,
+      "duration": 6,
+      "elevation": 343,
+      "geometry": [
+        [
+          42.272219,
+          -7.292926
+        ],
+        [
+          42.272077,
+          -7.293013
+        ],
+        [
+          42.271785,
+          -7.293196
+        ],
+        [
+          42.270578,
+          -7.293945
+        ],
+        [
+          42.269588,
+          -7.29456
+        ],
+        [
+          42.268272,
+          -7.295378
+        ],
+        [
+          42.267296,
+          -7.295984
+        ],
+        [
+          42.266672,
+          -7.296371
+        ],
+        [
+          42.265466,
+          -7.29712
+        ],
+        [
+          42.264008,
+          -7.298026
+        ],
+        [
+          42.262942,
+          -7.298685
+        ],
+        [
+          42.262149,
+          -7.29918
+        ],
+        [
+          42.261,
+          -7.299893
+        ],
+        [
+          42.260024,
+          -7.300499
+        ],
+        [
+          42.259439,
+          -7.300863
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_101392230",
+      "name": "Fontefria",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.37,
+      "duration": 2,
+      "elevation": 81,
+      "geometry": [
+        [
+          42.264414,
+          -7.300218
+        ],
+        [
+          42.26314,
+          -7.300342
+        ],
+        [
+          42.26276,
+          -7.30039
+        ],
+        [
+          42.261135,
+          -7.300587
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_101392236",
+      "name": "TS4 Da Fontefría",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.11,
+      "duration": 4,
+      "elevation": 244,
+      "geometry": [
+        [
+          42.268478,
+          -7.296367
+        ],
+        [
+          42.26781,
+          -7.29673
+        ],
+        [
+          42.267142,
+          -7.297093
+        ],
+        [
+          42.266265,
+          -7.297569
+        ],
+        [
+          42.26541,
+          -7.298034
+        ],
+        [
+          42.264432,
+          -7.298565
+        ],
+        [
+          42.263579,
+          -7.299029
+        ],
+        [
+          42.26294,
+          -7.299376
+        ],
+        [
+          42.261873,
+          -7.299957
+        ],
+        [
+          42.261086,
+          -7.300384
+        ],
+        [
+          42.260993,
+          -7.300435
+        ],
+        [
+          42.260806,
+          -7.300536
+        ],
+        [
+          42.260628,
+          -7.300633
+        ],
+        [
+          42.260171,
+          -7.300881
+        ],
+        [
+          42.259389,
+          -7.301306
+        ],
+        [
+          42.259184,
+          -7.301418
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_101392241",
+      "name": "Pluviómetro",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.5,
+      "duration": 2,
+      "elevation": 110,
+      "geometry": [
+        [
+          42.269001,
+          -7.296695
+        ],
+        [
+          42.268265,
+          -7.297295
+        ],
+        [
+          42.267818,
+          -7.297727
+        ],
+        [
+          42.26716,
+          -7.298269
+        ],
+        [
+          42.265171,
+          -7.299924
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259616729",
+      "name": "O Xeixo",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.22,
+      "duration": 2,
+      "elevation": 48,
+      "geometry": [
+        [
+          42.260775,
+          -7.299783
+        ],
+        [
+          42.258985,
+          -7.300832
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "piste_101392216_1",
+      "name": "Paso Perdices",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.261946,
+          -7.299884
+        ],
+        [
+          42.262175,
+          -7.300026
+        ],
+        [
+          42.263173,
+          -7.299799
+        ],
+        [
+          42.263618,
+          -7.299549
+        ],
+        [
+          42.264074,
+          -7.299198
+        ],
+        [
+          42.26455,
+          -7.298786
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392216_4",
+      "name": "Paso Perdices",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.264689,
+          -7.298534
+        ],
+        [
+          42.264751,
+          -7.298167
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392216_5",
+      "name": "Paso Perdices",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.264751,
+          -7.298167
+        ],
+        [
+          42.264956,
+          -7.297636
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392216_6",
+      "name": "Paso Perdices",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.264956,
+          -7.297636
+        ],
+        [
+          42.265227,
+          -7.297338
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392219_1",
+      "name": "Pluviómetro",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_8",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          42.265354,
+          -7.29955
+        ],
+        [
+          42.265562,
+          -7.299155
+        ],
+        [
+          42.265823,
+          -7.298874
+        ],
+        [
+          42.266551,
+          -7.298107
+        ],
+        [
+          42.26725,
+          -7.297567
+        ],
+        [
+          42.268068,
+          -7.297051
+        ],
+        [
+          42.268962,
+          -7.296567
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392220_0",
+      "name": "Lusitania",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          42.266254,
+          -7.296438
+        ],
+        [
+          42.26648,
+          -7.295909
+        ],
+        [
+          42.266671,
+          -7.2956
+        ],
+        [
+          42.266826,
+          -7.295535
+        ],
+        [
+          42.267124,
+          -7.295377
+        ],
+        [
+          42.267695,
+          -7.295094
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392220_2",
+      "name": "Lusitania",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          42.267752,
+          -7.295066
+        ],
+        [
+          42.268197,
+          -7.294778
+        ],
+        [
+          42.2685,
+          -7.2946
+        ],
+        [
+          42.26891,
+          -7.294238
+        ],
+        [
+          42.269204,
+          -7.29409
+        ],
+        [
+          42.269368,
+          -7.294064
+        ],
+        [
+          42.269447,
+          -7.294075
+        ],
+        [
+          42.269609,
+          -7.294105
+        ],
+        [
+          42.269706,
+          -7.294069
+        ],
+        [
+          42.269773,
+          -7.294004
+        ],
+        [
+          42.26984,
+          -7.293919
+        ],
+        [
+          42.269948,
+          -7.293852
+        ],
+        [
+          42.270026,
+          -7.293837
+        ],
+        [
+          42.270093,
+          -7.293828
+        ],
+        [
+          42.270291,
+          -7.293953
+        ],
+        [
+          42.270514,
+          -7.294108
+        ],
+        [
+          42.27079,
+          -7.294293
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392223_0",
+      "name": "Cuchara",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.265624,
+          -7.297173
+        ],
+        [
+          42.266114,
+          -7.296602
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392223_2",
+      "name": "Cuchara",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_21",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.266254,
+          -7.296438
+        ],
+        [
+          42.266876,
+          -7.295864
+        ],
+        [
+          42.267293,
+          -7.295669
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392223_5",
+      "name": "Cuchara",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.267575,
+          -7.29572
+        ],
+        [
+          42.267985,
+          -7.295794
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392227_1",
+      "name": "Os Corzos II",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_0",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          42.259011,
+          -7.297784
+        ],
+        [
+          42.259059,
+          -7.297096
+        ],
+        [
+          42.259059,
+          -7.296418
+        ],
+        [
+          42.258939,
+          -7.295524
+        ],
+        [
+          42.25871,
+          -7.294208
+        ],
+        [
+          42.258301,
+          -7.292929
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_101392232_1",
+      "name": "Das Antenas",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_5",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.259431,
+          -7.301409
+        ],
+        [
+          42.259724,
+          -7.301216
+        ],
+        [
+          42.26055,
+          -7.300897
+        ],
+        [
+          42.260926,
+          -7.30078
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392232_3",
+      "name": "Das Antenas",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_23",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          42.261185,
+          -7.30074
+        ],
+        [
+          42.263883,
+          -7.300636
+        ],
+        [
+          42.264341,
+          -7.300671
+        ],
+        [
+          42.264899,
+          -7.300731
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_0",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_24",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          42.259297,
+          -7.300797
+        ],
+        [
+          42.259874,
+          -7.300446
+        ],
+        [
+          42.261208,
+          -7.299548
+        ],
+        [
+          42.262707,
+          -7.298426
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_2",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_15",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          42.262936,
+          -7.298219
+        ],
+        [
+          42.264089,
+          -7.297587
+        ],
+        [
+          42.264903,
+          -7.297396
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_4",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.265227,
+          -7.297338
+        ],
+        [
+          42.265624,
+          -7.297173
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_5",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_25",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.265624,
+          -7.297173
+        ],
+        [
+          42.266234,
+          -7.297131
+        ],
+        [
+          42.26683,
+          -7.297097
+        ],
+        [
+          42.267193,
+          -7.296912
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_6",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.267193,
+          -7.296912
+        ],
+        [
+          42.267884,
+          -7.29656
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392234_13",
+      "name": "Charrelas",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.268167,
+          -7.296019
+        ],
+        [
+          42.268269,
+          -7.295962
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_101392239_0",
+      "name": "Os Corzos I",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_0",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          42.2588,
+          -7.298132
+        ],
+        [
+          42.258546,
+          -7.297765
+        ],
+        [
+          42.258385,
+          -7.297608
+        ],
+        [
+          42.258272,
+          -7.297421
+        ],
+        [
+          42.258182,
+          -7.297047
+        ],
+        [
+          42.258264,
+          -7.296343
+        ],
+        [
+          42.258315,
+          -7.29583
+        ],
+        [
+          42.258249,
+          -7.295278
+        ],
+        [
+          42.258223,
+          -7.294928
+        ],
+        [
+          42.258056,
+          -7.294207
+        ],
+        [
+          42.257869,
+          -7.293794
+        ],
+        [
+          42.257771,
+          -7.293437
+        ],
+        [
+          42.257943,
+          -7.292955
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_837907605_0",
+      "name": "Refugio",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.267927,
+          -7.299474
+        ],
+        [
+          42.268348,
+          -7.299701
+        ],
+        [
+          42.268596,
+          -7.299943
+        ],
+        [
+          42.268645,
+          -7.299986
+        ],
+        [
+          42.268668,
+          -7.300079
+        ],
+        [
+          42.268657,
+          -7.300377
+        ],
+        [
+          42.268624,
+          -7.300769
+        ],
+        [
+          42.268624,
+          -7.30145
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837907605_2",
+      "name": "Refugio",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          42.268727,
+          -7.301622
+        ],
+        [
+          42.268957,
+          -7.301273
+        ],
+        [
+          42.269535,
+          -7.300573
+        ],
+        [
+          42.27015,
+          -7.299923
+        ],
+        [
+          42.270463,
+          -7.299342
+        ],
+        [
+          42.270446,
+          -7.29906
+        ],
+        [
+          42.27045,
+          -7.298977
+        ],
+        [
+          42.270327,
+          -7.298783
+        ],
+        [
+          42.269703,
+          -7.298591
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837907605_5",
+      "name": "Refugio",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.269612,
+          -7.298359
+        ],
+        [
+          42.270291,
+          -7.298035
+        ],
+        [
+          42.271292,
+          -7.297688
+        ],
+        [
+          42.272129,
+          -7.297493
+        ],
+        [
+          42.272776,
+          -7.297352
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837907605_8",
+      "name": "Refugio",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.273121,
+          -7.297245
+        ],
+        [
+          42.273321,
+          -7.296801
+        ],
+        [
+          42.273369,
+          -7.296696
+        ],
+        [
+          42.273395,
+          -7.296594
+        ],
+        [
+          42.273468,
+          -7.296302
+        ],
+        [
+          42.273468,
+          -7.2962
+        ],
+        [
+          42.273468,
+          -7.296072
+        ],
+        [
+          42.273432,
+          -7.295962
+        ],
+        [
+          42.273393,
+          -7.295847
+        ],
+        [
+          42.273327,
+          -7.295652
+        ],
+        [
+          42.273204,
+          -7.295363
+        ],
+        [
+          42.273157,
+          -7.295253
+        ],
+        [
+          42.273095,
+          -7.295185
+        ],
+        [
+          42.272943,
+          -7.29502
+        ],
+        [
+          42.272821,
+          -7.294926
+        ],
+        [
+          42.272738,
+          -7.294855
+        ],
+        [
+          42.272652,
+          -7.294769
+        ],
+        [
+          42.272503,
+          -7.294655
+        ],
+        [
+          42.272452,
+          -7.294616
+        ],
+        [
+          42.272367,
+          -7.294524
+        ],
+        [
+          42.27223,
+          -7.294377
+        ],
+        [
+          42.272182,
+          -7.294325
+        ],
+        [
+          42.272125,
+          -7.294306
+        ],
+        [
+          42.271983,
+          -7.294257
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837909266_0",
+      "name": "Xeixo",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_10",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.258945,
+          -7.300764
+        ],
+        [
+          42.259251,
+          -7.300364
+        ],
+        [
+          42.259681,
+          -7.299956
+        ],
+        [
+          42.260043,
+          -7.299728
+        ],
+        [
+          42.260553,
+          -7.299675
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_837910674_0",
+      "name": "Os Carqueixos",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_24",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          42.259616,
+          -7.298099
+        ],
+        [
+          42.259787,
+          -7.297778
+        ],
+        [
+          42.260041,
+          -7.297496
+        ],
+        [
+          42.26043,
+          -7.297207
+        ],
+        [
+          42.260925,
+          -7.296991
+        ],
+        [
+          42.261255,
+          -7.297006
+        ],
+        [
+          42.261657,
+          -7.297146
+        ],
+        [
+          42.261953,
+          -7.29731
+        ],
+        [
+          42.262177,
+          -7.297582
+        ],
+        [
+          42.262257,
+          -7.297776
+        ],
+        [
+          42.262304,
+          -7.297918
+        ],
+        [
+          42.262329,
+          -7.298027
+        ],
+        [
+          42.262333,
+          -7.298061
+        ],
+        [
+          42.262336,
+          -7.298092
+        ],
+        [
+          42.262344,
+          -7.29816
+        ],
+        [
+          42.262353,
+          -7.298209
+        ],
+        [
+          42.262367,
+          -7.29824
+        ],
+        [
+          42.262389,
+          -7.298276
+        ],
+        [
+          42.262429,
+          -7.298314
+        ],
+        [
+          42.26253,
+          -7.298361
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914642_0",
+      "name": "Bello",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_27",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          42.264899,
+          -7.300731
+        ],
+        [
+          42.266035,
+          -7.300246
+        ],
+        [
+          42.266115,
+          -7.300212
+        ],
+        [
+          42.267927,
+          -7.299474
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914642_1",
+      "name": "Bello",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_33",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.267927,
+          -7.299474
+        ],
+        [
+          42.269002,
+          -7.298651
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914642_3",
+      "name": "Bello",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.26909,
+          -7.298329
+        ],
+        [
+          42.269126,
+          -7.298159
+        ],
+        [
+          42.269144,
+          -7.297996
+        ],
+        [
+          42.268997,
+          -7.297277
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914642_4",
+      "name": "Bello",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.268997,
+          -7.297277
+        ],
+        [
+          42.269063,
+          -7.29669
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914643_0",
+      "name": "Piste 837914643",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_29",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.269002,
+          -7.298651
+        ],
+        [
+          42.26955,
+          -7.298389
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914644_0",
+      "name": "Manolo",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_35",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.264899,
+          -7.300731
+        ],
+        [
+          42.265956,
+          -7.300892
+        ],
+        [
+          42.266619,
+          -7.301011
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914644_1",
+      "name": "Manolo",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          42.266619,
+          -7.301011
+        ],
+        [
+          42.266976,
+          -7.301552
+        ],
+        [
+          42.267038,
+          -7.301739
+        ],
+        [
+          42.267049,
+          -7.301937
+        ],
+        [
+          42.267115,
+          -7.302164
+        ],
+        [
+          42.267203,
+          -7.302303
+        ],
+        [
+          42.267299,
+          -7.302371
+        ],
+        [
+          42.267392,
+          -7.302406
+        ],
+        [
+          42.267512,
+          -7.302449
+        ],
+        [
+          42.267686,
+          -7.302484
+        ],
+        [
+          42.26831,
+          -7.302411
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914644_3",
+      "name": "Manolo",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.268457,
+          -7.302212
+        ],
+        [
+          42.268699,
+          -7.301871
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837914644_4",
+      "name": "Manolo",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_30",
+      "distance": 0.58,
+      "duration": 1,
+      "elevation": -92,
+      "geometry": [
+        [
+          42.268699,
+          -7.301871
+        ],
+        [
+          42.269009,
+          -7.301461
+        ],
+        [
+          42.269513,
+          -7.300962
+        ],
+        [
+          42.270108,
+          -7.300388
+        ],
+        [
+          42.270505,
+          -7.299986
+        ],
+        [
+          42.270882,
+          -7.299519
+        ],
+        [
+          42.270926,
+          -7.299417
+        ],
+        [
+          42.271252,
+          -7.299315
+        ],
+        [
+          42.271569,
+          -7.299187
+        ],
+        [
+          42.271708,
+          -7.298951
+        ],
+        [
+          42.271887,
+          -7.298554
+        ],
+        [
+          42.272075,
+          -7.298201
+        ],
+        [
+          42.272403,
+          -7.297926
+        ],
+        [
+          42.272506,
+          -7.297792
+        ],
+        [
+          42.272681,
+          -7.297567
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837915926_0",
+      "name": "Das Lebres",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_37",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.273121,
+          -7.297245
+        ],
+        [
+          42.27341,
+          -7.296992
+        ],
+        [
+          42.273528,
+          -7.296786
+        ],
+        [
+          42.273629,
+          -7.296474
+        ],
+        [
+          42.273696,
+          -7.296188
+        ],
+        [
+          42.273713,
+          -7.295903
+        ],
+        [
+          42.27358,
+          -7.295426
+        ],
+        [
+          42.273231,
+          -7.294469
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837915926_4",
+      "name": "Das Lebres",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.27308,
+          -7.29409
+        ],
+        [
+          42.272972,
+          -7.293575
+        ],
+        [
+          42.272834,
+          -7.293286
+        ],
+        [
+          42.272664,
+          -7.293161
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837915926_5",
+      "name": "Das Lebres",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.272664,
+          -7.293161
+        ],
+        [
+          42.272408,
+          -7.292999
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837915927_0",
+      "name": "Piste 837915927",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.268457,
+          -7.302212
+        ],
+        [
+          42.268727,
+          -7.301622
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837919212_1",
+      "name": "Piste 837919212",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_35",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.265444,
+          -7.299806
+        ],
+        [
+          42.265988,
+          -7.300166
+        ],
+        [
+          42.266115,
+          -7.300212
+        ],
+        [
+          42.266619,
+          -7.301011
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837919213_1",
+      "name": "Pluviómetro II",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_34",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          42.265499,
+          -7.299763
+        ],
+        [
+          42.265787,
+          -7.299576
+        ],
+        [
+          42.266383,
+          -7.299197
+        ],
+        [
+          42.26702,
+          -7.29872
+        ],
+        [
+          42.267651,
+          -7.298162
+        ],
+        [
+          42.268147,
+          -7.297722
+        ],
+        [
+          42.268941,
+          -7.296928
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_837922769_1",
+      "name": "Do Río",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_19",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          42.268403,
+          -7.295912
+        ],
+        [
+          42.269318,
+          -7.295512
+        ],
+        [
+          42.269696,
+          -7.295115
+        ],
+        [
+          42.269911,
+          -7.294871
+        ],
+        [
+          42.270154,
+          -7.294707
+        ],
+        [
+          42.270769,
+          -7.294356
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837922769_3",
+      "name": "Do Río",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_2",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          42.270826,
+          -7.294332
+        ],
+        [
+          42.271136,
+          -7.2942
+        ],
+        [
+          42.271319,
+          -7.294042
+        ],
+        [
+          42.271431,
+          -7.293919
+        ],
+        [
+          42.27152,
+          -7.293815
+        ],
+        [
+          42.27192,
+          -7.293317
+        ],
+        [
+          42.272291,
+          -7.293074
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837922770_0",
+      "name": "Barbeirón",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_39",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          42.268683,
+          -7.296598
+        ],
+        [
+          42.269229,
+          -7.296226
+        ],
+        [
+          42.269429,
+          -7.29604
+        ],
+        [
+          42.269587,
+          -7.295847
+        ],
+        [
+          42.27008,
+          -7.295223
+        ],
+        [
+          42.270477,
+          -7.29502
+        ],
+        [
+          42.270631,
+          -7.294958
+        ],
+        [
+          42.27079,
+          -7.294914
+        ],
+        [
+          42.271084,
+          -7.294799
+        ],
+        [
+          42.271207,
+          -7.294745
+        ],
+        [
+          42.271317,
+          -7.294678
+        ],
+        [
+          42.27148,
+          -7.294554
+        ],
+        [
+          42.271574,
+          -7.294409
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837922770_1",
+      "name": "Barbeirón",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.271574,
+          -7.294409
+        ],
+        [
+          42.271661,
+          -7.294284
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837922770_4",
+      "name": "Barbeirón",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_2",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.271756,
+          -7.293766
+        ],
+        [
+          42.271948,
+          -7.293463
+        ],
+        [
+          42.272135,
+          -7.293267
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837923238_1",
+      "name": "Piste 837923238",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_37",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          42.271856,
+          -7.294021
+        ],
+        [
+          42.27202,
+          -7.293801
+        ],
+        [
+          42.272167,
+          -7.293715
+        ],
+        [
+          42.272322,
+          -7.293747
+        ],
+        [
+          42.272411,
+          -7.293798
+        ],
+        [
+          42.272628,
+          -7.293941
+        ],
+        [
+          42.27283,
+          -7.29407
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979083_0",
+      "name": "Piste 837979083",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_40",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.26955,
+          -7.298389
+        ],
+        [
+          42.269055,
+          -7.297545
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979084_0",
+      "name": "Barbeirón",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_6",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.267193,
+          -7.296912
+        ],
+        [
+          42.267592,
+          -7.297003
+        ],
+        [
+          42.268683,
+          -7.296598
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979085_1",
+      "name": "Xabarín",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_12",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.261047,
+          -7.300149
+        ],
+        [
+          42.261178,
+          -7.300161
+        ],
+        [
+          42.261303,
+          -7.300131
+        ],
+        [
+          42.261736,
+          -7.299884
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979085_2",
+      "name": "Xabarín",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_14",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.261736,
+          -7.299884
+        ],
+        [
+          42.263002,
+          -7.299176
+        ],
+        [
+          42.264751,
+          -7.298167
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979086_1",
+      "name": "Fontefría",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.26103,
+          -7.30061
+        ],
+        [
+          42.261147,
+          -7.300471
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979086_3",
+      "name": "Fontefría",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_4",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.261244,
+          -7.300453
+        ],
+        [
+          42.262198,
+          -7.300375
+        ],
+        [
+          42.264331,
+          -7.300107
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_837979086_5",
+      "name": "Fontefría",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_13",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.264444,
+          -7.299873
+        ],
+        [
+          42.264281,
+          -7.299637
+        ],
+        [
+          42.264269,
+          -7.299283
+        ],
+        [
+          42.264547,
+          -7.298803
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_839956304_0",
+      "name": "Piste 839956304",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_4",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          42.26533,
+          -7.299671
+        ],
+        [
+          42.264331,
+          -7.300107
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_965558511_0",
+      "name": "Regato",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_41",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.259368,
+          -7.301089
+        ],
+        [
+          42.260478,
+          -7.300393
+        ],
+        [
+          42.260878,
+          -7.300136
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_965558511_1",
+      "name": "Regato",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_15",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          42.260878,
+          -7.300136
+        ],
+        [
+          42.261228,
+          -7.2999
+        ],
+        [
+          42.262534,
+          -7.299101
+        ],
+        [
+          42.264003,
+          -7.298221
+        ],
+        [
+          42.264956,
+          -7.297636
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1239096731_1",
+      "name": "Piste 1239096731",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_18",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.267535,
+          -7.295397
+        ],
+        [
+          42.267695,
+          -7.295094
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1258795219_5",
+      "name": "Piste 1258795219",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.267586,
+          -7.296069
+        ],
+        [
+          42.267669,
+          -7.296247
+        ],
+        [
+          42.267727,
+          -7.296351
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_2_node_38",
+      "name": "Walk: TS6 Manzaneda (Base) ↔ Junction: Das Lebres",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_38",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.272307,
+          -7.293064
+        ],
+        [
+          42.272664,
+          -7.293161
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_7",
+      "name": "Walk: TS6 Manzaneda (Summit / Top) ↔ TS4 Da Fontefría (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_7",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.259439,
+          -7.300863
+        ],
+        [
+          42.259335,
+          -7.30137
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_11",
+      "name": "Walk: TS6 Manzaneda (Summit / Top) ↔ O Xeixo (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_11",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.259439,
+          -7.300863
+        ],
+        [
+          42.259076,
+          -7.300798
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_9",
+      "name": "Walk: Fontefria (Base) ↔ Pluviómetro (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_9",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.264383,
+          -7.300048
+        ],
+        [
+          42.265382,
+          -7.299725
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_10",
+      "name": "Walk: Fontefria (Summit / Top) ↔ O Xeixo (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.261043,
+          -7.300703
+        ],
+        [
+          42.260651,
+          -7.299717
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_41",
+      "name": "Walk: Fontefria (Summit / Top) ↔ Junction: Xabarín",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_41",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.261043,
+          -7.300703
+        ],
+        [
+          42.261057,
+          -7.300284
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_8",
+      "name": "Walk: TS4 Da Fontefría (Base) ↔ Pluviómetro (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.268615,
+          -7.296521
+        ],
+        [
+          42.269009,
+          -7.296651
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_22",
+      "name": "Walk: TS4 Da Fontefría (Base) ↔ Junction: Cuchara",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_22",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.268615,
+          -7.296521
+        ],
+        [
+          42.268212,
+          -7.295908
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_34",
+      "name": "Walk: TS4 Da Fontefría (Base) ↔ Junction: Bello",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_34",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.268615,
+          -7.296521
+        ],
+        [
+          42.268986,
+          -7.29702
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_11",
+      "name": "Walk: TS4 Da Fontefría (Summit / Top) ↔ O Xeixo (Summit / Top)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_11",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.259335,
+          -7.30137
+        ],
+        [
+          42.259076,
+          -7.300798
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_34",
+      "name": "Walk: Pluviómetro (Base) ↔ Junction: Bello",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_34",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.269009,
+          -7.296651
+        ],
+        [
+          42.268986,
+          -7.29702
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_41",
+      "name": "Walk: O Xeixo (Base) ↔ Junction: Xabarín",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_41",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.260651,
+          -7.299717
+        ],
+        [
+          42.261057,
+          -7.300284
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_14",
+      "name": "Walk: Junction: Paso Perdices ↔ Junction: Paso Perdices",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.264583,
+          -7.298731
+        ],
+        [
+          42.264751,
+          -7.298167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_15",
+      "name": "Walk: Junction: Paso Perdices ↔ Junction: Paso Perdices",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.264751,
+          -7.298167
+        ],
+        [
+          42.265018,
+          -7.297482
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_16",
+      "name": "Walk: Junction: Paso Perdices ↔ Junction: Paso Perdices",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.265018,
+          -7.297482
+        ],
+        [
+          42.265227,
+          -7.297338
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_20",
+      "name": "Walk: Junction: Paso Perdices ↔ Junction: Cuchara",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.265227,
+          -7.297338
+        ],
+        [
+          42.265624,
+          -7.297172
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_21",
+      "name": "Walk: Junction: Lusitania ↔ Junction: Cuchara",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_21",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.267718,
+          -7.295083
+        ],
+        [
+          42.26748,
+          -7.295791
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_26",
+      "name": "Walk: Junction: Cuchara ↔ Junction: Charrelas",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_26",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.26748,
+          -7.295791
+        ],
+        [
+          42.267954,
+          -7.296326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_26",
+      "name": "Walk: Junction: Cuchara ↔ Junction: Charrelas",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_26",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.268212,
+          -7.295908
+        ],
+        [
+          42.267954,
+          -7.296326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_36",
+      "name": "Walk: Junction: Refugio ↔ Junction: Manolo",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_36",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.26869,
+          -7.301644
+        ],
+        [
+          42.268398,
+          -7.302291
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_29_node_33",
+      "name": "Walk: Junction: Refugio ↔ Junction: Bello",
+      "type": "walk",
+      "from": "node_29",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.269607,
+          -7.298439
+        ],
+        [
+          42.269037,
+          -7.298522
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_31_node_39",
+      "name": "Walk: Junction: Refugio ↔ Junction: Barbeirón",
+      "type": "walk",
+      "from": "node_31",
+      "to": "node_39",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.271817,
+          -7.294124
+        ],
+        [
+          42.271574,
+          -7.294409
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_34_node_40",
+      "name": "Walk: Junction: Bello ↔ Junction #41",
+      "type": "walk",
+      "from": "node_34",
+      "to": "node_40",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.268986,
+          -7.29702
+        ],
+        [
+          42.269055,
+          -7.297545
+        ]
+      ]
+    },
+    {
+      "id": "walk_sector_node_11_node_1",
+      "name": "Walk: O Xeixo (Summit / Top) ↔ Os Corzos (Summit / Top)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_1",
+      "distance": 0.23,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.259076,
+          -7.300798
+        ],
+        [
+          42.258927,
+          -7.297956
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1945 @@
+{
+  "id": "javalambre",
+  "name": "Aramón Javalambre",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      40.0999,
+      -1.0393
+    ],
+    [
+      40.1199,
+      -1.0121
+    ]
+  ],
+  "center": [
+    40.1105,
+    -1.0253
+  ],
+  "stats": {
+    "slopes": "8.7 km",
+    "lifts": 9,
+    "elevation": "1650m - 2000m",
+    "drop": "350m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Lapiaz (Base)",
+      "lat": 40.110118,
+      "lng": -1.029248,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Lapiaz (Summit / Top)",
+      "lat": 40.109243,
+      "lng": -1.019134,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Loma (Base)",
+      "lat": 40.111754,
+      "lng": -1.033733,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Loma (Summit / Top)",
+      "lat": 40.110718,
+      "lng": -1.034269,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Portillo (Summit / Top)",
+      "lat": 40.106222,
+      "lng": -1.032274,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Barranco (Base)",
+      "lat": 40.114296,
+      "lng": -1.01735,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Barranco (Summit / Top)",
+      "lat": 40.113241,
+      "lng": -1.017124,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Sabina (Base)",
+      "lat": 40.114495,
+      "lng": -1.01809,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Sabina (Summit / Top)",
+      "lat": 40.110101,
+      "lng": -1.020459,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Debutantes I (Summit / Top)",
+      "lat": 40.113528,
+      "lng": -1.019073,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Debutantes II (Summit / Top)",
+      "lat": 40.11376,
+      "lng": -1.019291,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Camarena (Base)",
+      "lat": 40.111826,
+      "lng": -1.033209,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Camarena (Summit / Top)",
+      "lat": 40.104862,
+      "lng": -1.027308,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Ventisquero (Summit / Top)",
+      "lat": 40.108106,
+      "lng": -1.018191,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction #15",
+      "lat": 40.113621,
+      "lng": -1.017748,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Amanaderos",
+      "lat": 40.105117,
+      "lng": -1.033106,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Amanaderos",
+      "lat": 40.107384,
+      "lng": -1.032641,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Amanaderos",
+      "lat": 40.111524,
+      "lng": -1.033268,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Vuelta a casa",
+      "lat": 40.106221,
+      "lng": -1.026052,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Vuelta a casa",
+      "lat": 40.110511,
+      "lng": -1.022789,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Lapiaz",
+      "lat": 40.110477,
+      "lng": -1.022184,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Lapiaz",
+      "lat": 40.11023,
+      "lng": -1.02874,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: el muro",
+      "lat": 40.110311,
+      "lng": -1.029466,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Aprendices",
+      "lat": 40.114852,
+      "lng": -1.018193,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Chaparrosa",
+      "lat": 40.109864,
+      "lng": -1.028915,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_93891848",
+      "name": "Lapiaz",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.87,
+      "duration": 3,
+      "elevation": 191,
+      "geometry": [
+        [
+          40.110039,
+          -1.029287
+        ],
+        [
+          40.109982,
+          -1.028644
+        ],
+        [
+          40.109901,
+          -1.027725
+        ],
+        [
+          40.109854,
+          -1.027198
+        ],
+        [
+          40.109789,
+          -1.026463
+        ],
+        [
+          40.109716,
+          -1.025632
+        ],
+        [
+          40.109655,
+          -1.024942
+        ],
+        [
+          40.109587,
+          -1.024166
+        ],
+        [
+          40.109502,
+          -1.023207
+        ],
+        [
+          40.109426,
+          -1.022348
+        ],
+        [
+          40.109318,
+          -1.021116
+        ],
+        [
+          40.109229,
+          -1.020108
+        ],
+        [
+          40.109182,
+          -1.019582
+        ],
+        [
+          40.109145,
+          -1.019158
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_95003752",
+      "name": "Loma",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.11,
+      "duration": 2,
+      "elevation": 24,
+      "geometry": [
+        [
+          40.111716,
+          -1.033787
+        ],
+        [
+          40.110751,
+          -1.03426
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259264787",
+      "name": "Portillo",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.5,
+      "duration": 2,
+      "elevation": 110,
+      "geometry": [
+        [
+          40.10988,
+          -1.029121
+        ],
+        [
+          40.106003,
+          -1.032211
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_259264950",
+      "name": "Barranco",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 28,
+      "geometry": [
+        [
+          40.114404,
+          -1.017137
+        ],
+        [
+          40.113236,
+          -1.017033
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259265591",
+      "name": "Sabina",
+      "type": "lift",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.52,
+      "duration": 2,
+      "elevation": 114,
+      "geometry": [
+        [
+          40.114413,
+          -1.017985
+        ],
+        [
+          40.110129,
+          -1.020501
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_259265653",
+      "name": "Debutantes I",
+      "type": "lift",
+      "from": "node_7",
+      "to": "node_9",
+      "distance": 0.15,
+      "duration": 2,
+      "elevation": 33,
+      "geometry": [
+        [
+          40.114569,
+          -1.018016
+        ],
+        [
+          40.113489,
+          -1.018992
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259265654",
+      "name": "Debutantes II",
+      "type": "lift",
+      "from": "node_7",
+      "to": "node_10",
+      "distance": 0.15,
+      "duration": 2,
+      "elevation": 33,
+      "geometry": [
+        [
+          40.114768,
+          -1.018184
+        ],
+        [
+          40.11376,
+          -1.019291
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_259265894",
+      "name": "Camarena",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.91,
+      "duration": 3,
+      "elevation": 200,
+      "geometry": [
+        [
+          40.111796,
+          -1.033117
+        ],
+        [
+          40.110523,
+          -1.03205
+        ],
+        [
+          40.110146,
+          -1.031734
+        ],
+        [
+          40.1095,
+          -1.031192
+        ],
+        [
+          40.108883,
+          -1.030675
+        ],
+        [
+          40.107518,
+          -1.029569
+        ],
+        [
+          40.106774,
+          -1.028946
+        ],
+        [
+          40.106212,
+          -1.028483
+        ],
+        [
+          40.105874,
+          -1.028201
+        ],
+        [
+          40.105505,
+          -1.027902
+        ],
+        [
+          40.105054,
+          -1.027547
+        ],
+        [
+          40.104866,
+          -1.027371
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_617153657",
+      "name": "Ventisquero",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_13",
+      "distance": 0.7,
+      "duration": 2,
+      "elevation": 154,
+      "geometry": [
+        [
+          40.114331,
+          -1.01741
+        ],
+        [
+          40.113903,
+          -1.017492
+        ],
+        [
+          40.113112,
+          -1.017563
+        ],
+        [
+          40.112368,
+          -1.017656
+        ],
+        [
+          40.111502,
+          -1.017764
+        ],
+        [
+          40.110705,
+          -1.017864
+        ],
+        [
+          40.109971,
+          -1.017956
+        ],
+        [
+          40.109167,
+          -1.018056
+        ],
+        [
+          40.108059,
+          -1.018195
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_93891847_1",
+      "name": "Piste 93891847",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          40.10823,
+          -1.018027
+        ],
+        [
+          40.109508,
+          -1.017925
+        ],
+        [
+          40.111483,
+          -1.017609
+        ],
+        [
+          40.112969,
+          -1.017475
+        ],
+        [
+          40.113621,
+          -1.017748
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_93891847_2",
+      "name": "Piste 93891847",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_5",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          40.113621,
+          -1.017748
+        ],
+        [
+          40.114306,
+          -1.017582
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003719_1",
+      "name": "Portillo",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_0",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          40.106369,
+          -1.032265
+        ],
+        [
+          40.106879,
+          -1.031729
+        ],
+        [
+          40.107588,
+          -1.031193
+        ],
+        [
+          40.109203,
+          -1.029975
+        ],
+        [
+          40.109905,
+          -1.02923
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003720_0",
+      "name": "Loma",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_2",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          40.110653,
+          -1.03409
+        ],
+        [
+          40.111748,
+          -1.033575
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_95003723_0",
+      "name": "Mijares",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_2",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          40.11075,
+          -1.034458
+        ],
+        [
+          40.111799,
+          -1.033837
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_95003729_0",
+      "name": "Amanaderos",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_15",
+      "distance": 0.77,
+      "duration": 1,
+      "elevation": -123,
+      "geometry": [
+        [
+          40.104866,
+          -1.027371
+        ],
+        [
+          40.104296,
+          -1.027683
+        ],
+        [
+          40.103731,
+          -1.028118
+        ],
+        [
+          40.103529,
+          -1.028402
+        ],
+        [
+          40.103366,
+          -1.028663
+        ],
+        [
+          40.103277,
+          -1.028923
+        ],
+        [
+          40.103211,
+          -1.029616
+        ],
+        [
+          40.103191,
+          -1.030222
+        ],
+        [
+          40.10304,
+          -1.031146
+        ],
+        [
+          40.102984,
+          -1.031937
+        ],
+        [
+          40.103015,
+          -1.032241
+        ],
+        [
+          40.103075,
+          -1.032467
+        ],
+        [
+          40.103211,
+          -1.032669
+        ],
+        [
+          40.103544,
+          -1.032939
+        ],
+        [
+          40.104033,
+          -1.033084
+        ],
+        [
+          40.104634,
+          -1.033098
+        ],
+        [
+          40.105062,
+          -1.033045
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003729_2",
+      "name": "Amanaderos",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          40.105199,
+          -1.033197
+        ],
+        [
+          40.106001,
+          -1.033203
+        ],
+        [
+          40.106288,
+          -1.033164
+        ],
+        [
+          40.106797,
+          -1.033005
+        ],
+        [
+          40.10706,
+          -1.032748
+        ],
+        [
+          40.107384,
+          -1.032641
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003729_3",
+      "name": "Amanaderos",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          40.107384,
+          -1.032641
+        ],
+        [
+          40.107756,
+          -1.032517
+        ],
+        [
+          40.10797,
+          -1.032582
+        ],
+        [
+          40.108139,
+          -1.032781
+        ],
+        [
+          40.108316,
+          -1.033005
+        ],
+        [
+          40.108547,
+          -1.033308
+        ],
+        [
+          40.108891,
+          -1.033731
+        ],
+        [
+          40.109178,
+          -1.033929
+        ],
+        [
+          40.109647,
+          -1.034074
+        ],
+        [
+          40.10993,
+          -1.034014
+        ],
+        [
+          40.110167,
+          -1.033863
+        ],
+        [
+          40.11056,
+          -1.033573
+        ],
+        [
+          40.110949,
+          -1.033394
+        ],
+        [
+          40.111448,
+          -1.033289
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003729_4",
+      "name": "Amanaderos",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.111448,
+          -1.033289
+        ],
+        [
+          40.111857,
+          -1.033302
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003750_0",
+      "name": "Peñuela",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_4",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          40.105062,
+          -1.033045
+        ],
+        [
+          40.105441,
+          -1.032794
+        ],
+        [
+          40.105733,
+          -1.032616
+        ],
+        [
+          40.1061,
+          -1.032307
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_95003750_2",
+      "name": "Peñuela",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_16",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          40.106369,
+          -1.032265
+        ],
+        [
+          40.107004,
+          -1.032491
+        ],
+        [
+          40.107384,
+          -1.032641
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296745_0",
+      "name": "Vuelta a casa",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_18",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          40.104853,
+          -1.027183
+        ],
+        [
+          40.105091,
+          -1.026931
+        ],
+        [
+          40.105253,
+          -1.026806
+        ],
+        [
+          40.10544,
+          -1.026706
+        ],
+        [
+          40.105633,
+          -1.026629
+        ],
+        [
+          40.105761,
+          -1.026543
+        ],
+        [
+          40.105942,
+          -1.026385
+        ],
+        [
+          40.106221,
+          -1.026052
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296745_1",
+      "name": "Vuelta a casa",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          40.106221,
+          -1.026052
+        ],
+        [
+          40.106962,
+          -1.025168
+        ],
+        [
+          40.107289,
+          -1.02482
+        ],
+        [
+          40.107529,
+          -1.024617
+        ],
+        [
+          40.10779,
+          -1.024453
+        ],
+        [
+          40.108393,
+          -1.024157
+        ],
+        [
+          40.108683,
+          -1.02399
+        ],
+        [
+          40.108967,
+          -1.023804
+        ],
+        [
+          40.109653,
+          -1.023211
+        ],
+        [
+          40.110054,
+          -1.022967
+        ],
+        [
+          40.110309,
+          -1.02284
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296755_1",
+      "name": "Lapiaz",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_1",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          40.108078,
+          -1.018349
+        ],
+        [
+          40.108789,
+          -1.018733
+        ],
+        [
+          40.109293,
+          -1.019121
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296755_2",
+      "name": "Lapiaz",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_20",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          40.109293,
+          -1.019121
+        ],
+        [
+          40.109818,
+          -1.020173
+        ],
+        [
+          40.110234,
+          -1.021194
+        ],
+        [
+          40.110388,
+          -1.021665
+        ],
+        [
+          40.110477,
+          -1.022184
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296755_3",
+      "name": "Lapiaz",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.110477,
+          -1.022184
+        ],
+        [
+          40.110517,
+          -1.022804
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296755_4",
+      "name": "Lapiaz",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_21",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          40.110517,
+          -1.022804
+        ],
+        [
+          40.11044,
+          -1.023288
+        ],
+        [
+          40.11037,
+          -1.023633
+        ],
+        [
+          40.110311,
+          -1.024463
+        ],
+        [
+          40.110241,
+          -1.025113
+        ],
+        [
+          40.110189,
+          -1.025818
+        ],
+        [
+          40.110143,
+          -1.026906
+        ],
+        [
+          40.110139,
+          -1.027373
+        ],
+        [
+          40.110164,
+          -1.027924
+        ],
+        [
+          40.110228,
+          -1.02869
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296755_6",
+      "name": "Lapiaz",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.110231,
+          -1.028773
+        ],
+        [
+          40.110247,
+          -1.029192
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_146296756_0",
+      "name": "el muro",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.110253,
+          -1.029357
+        ],
+        [
+          40.110343,
+          -1.029603
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_146296756_1",
+      "name": "el muro",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_17",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          40.110343,
+          -1.029603
+        ],
+        [
+          40.110676,
+          -1.03032
+        ],
+        [
+          40.110988,
+          -1.031146
+        ],
+        [
+          40.111123,
+          -1.031697
+        ],
+        [
+          40.11119,
+          -1.032032
+        ],
+        [
+          40.111196,
+          -1.032298
+        ],
+        [
+          40.111127,
+          -1.032991
+        ],
+        [
+          40.111677,
+          -1.033227
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_617153656_0",
+      "name": "Piste 617153656",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          40.108059,
+          -1.018195
+        ],
+        [
+          40.108644,
+          -1.018472
+        ],
+        [
+          40.11088,
+          -1.018172
+        ],
+        [
+          40.112936,
+          -1.017963
+        ],
+        [
+          40.113621,
+          -1.017748
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_817339970_0",
+      "name": "Sabina",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_7",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          40.110073,
+          -1.020418
+        ],
+        [
+          40.110519,
+          -1.020053
+        ],
+        [
+          40.110984,
+          -1.019801
+        ],
+        [
+          40.111683,
+          -1.019279
+        ],
+        [
+          40.112248,
+          -1.018905
+        ],
+        [
+          40.112899,
+          -1.018557
+        ],
+        [
+          40.113484,
+          -1.018331
+        ],
+        [
+          40.11393,
+          -1.018088
+        ],
+        [
+          40.114422,
+          -1.017827
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_817339971_0",
+      "name": "Debutantes I",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_7",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          40.113398,
+          -1.018983
+        ],
+        [
+          40.113651,
+          -1.018592
+        ],
+        [
+          40.11397,
+          -1.018366
+        ],
+        [
+          40.114282,
+          -1.018149
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_817339972_0",
+      "name": "Debutantes II",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_7",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          40.113697,
+          -1.019244
+        ],
+        [
+          40.113857,
+          -1.018914
+        ],
+        [
+          40.114136,
+          -1.018636
+        ],
+        [
+          40.114462,
+          -1.018296
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_817339973_1",
+      "name": "Barranco",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_5",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          40.113292,
+          -1.017227
+        ],
+        [
+          40.113504,
+          -1.01727
+        ],
+        [
+          40.11383,
+          -1.01727
+        ],
+        [
+          40.114123,
+          -1.017236
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_817339974_1",
+      "name": "Aprendices",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_23",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          40.1107,
+          -1.022708
+        ],
+        [
+          40.111379,
+          -1.022509
+        ],
+        [
+          40.112751,
+          -1.022011
+        ],
+        [
+          40.113114,
+          -1.021511
+        ],
+        [
+          40.113557,
+          -1.020641
+        ],
+        [
+          40.113916,
+          -1.019643
+        ],
+        [
+          40.114852,
+          -1.018193
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_817339976_0",
+      "name": "Chaparrosa",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_24",
+      "distance": 0.52,
+      "duration": 1,
+      "elevation": -83,
+      "geometry": [
+        [
+          40.106221,
+          -1.026052
+        ],
+        [
+          40.106535,
+          -1.025914
+        ],
+        [
+          40.107158,
+          -1.025845
+        ],
+        [
+          40.10774,
+          -1.025982
+        ],
+        [
+          40.108274,
+          -1.026305
+        ],
+        [
+          40.108642,
+          -1.026702
+        ],
+        [
+          40.108938,
+          -1.026992
+        ],
+        [
+          40.10912,
+          -1.027733
+        ],
+        [
+          40.10937,
+          -1.028394
+        ],
+        [
+          40.109751,
+          -1.028796
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_817339976_2",
+      "name": "Chaparrosa",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.109977,
+          -1.029034
+        ],
+        [
+          40.110247,
+          -1.029192
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_817341621_0",
+      "name": "Dolina",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          40.110477,
+          -1.022184
+        ],
+        [
+          40.111012,
+          -1.022923
+        ],
+        [
+          40.111209,
+          -1.023663
+        ],
+        [
+          40.111225,
+          -1.024489
+        ],
+        [
+          40.111184,
+          -1.025369
+        ],
+        [
+          40.111118,
+          -1.02568
+        ],
+        [
+          40.110872,
+          -1.025948
+        ],
+        [
+          40.110741,
+          -1.026195
+        ],
+        [
+          40.11061,
+          -1.026807
+        ],
+        [
+          40.110421,
+          -1.027451
+        ],
+        [
+          40.110372,
+          -1.028062
+        ],
+        [
+          40.110231,
+          -1.028773
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_0_node_21",
+      "name": "Walk: Lapiaz (Base) ↔ Junction: Lapiaz",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_21",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.110118,
+          -1.029248
+        ],
+        [
+          40.11023,
+          -1.02874
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_22",
+      "name": "Walk: Lapiaz (Base) ↔ Junction: el muro",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_22",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.110118,
+          -1.029248
+        ],
+        [
+          40.110311,
+          -1.029466
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_24",
+      "name": "Walk: Lapiaz (Base) ↔ Junction: Chaparrosa",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_24",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.110118,
+          -1.029248
+        ],
+        [
+          40.109864,
+          -1.028915
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Loma (Base) ↔ Loma (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.111754,
+          -1.033733
+        ],
+        [
+          40.110718,
+          -1.034269
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_11",
+      "name": "Walk: Loma (Base) ↔ Camarena (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.111754,
+          -1.033733
+        ],
+        [
+          40.111826,
+          -1.033209
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_17",
+      "name": "Walk: Loma (Base) ↔ Junction: Amanaderos",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.111754,
+          -1.033733
+        ],
+        [
+          40.111524,
+          -1.033268
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_6",
+      "name": "Walk: Barranco (Base) ↔ Barranco (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.114296,
+          -1.01735
+        ],
+        [
+          40.113241,
+          -1.017124
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_7",
+      "name": "Walk: Barranco (Base) ↔ Sabina (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_7",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.114296,
+          -1.01735
+        ],
+        [
+          40.114495,
+          -1.01809
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_14",
+      "name": "Walk: Barranco (Summit / Top) ↔ Junction #15",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.113241,
+          -1.017124
+        ],
+        [
+          40.113621,
+          -1.017748
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_9",
+      "name": "Walk: Sabina (Base) ↔ Debutantes I (Summit / Top)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_9",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.114495,
+          -1.01809
+        ],
+        [
+          40.113528,
+          -1.019073
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_10",
+      "name": "Walk: Sabina (Base) ↔ Debutantes II (Summit / Top)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_10",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.114495,
+          -1.01809
+        ],
+        [
+          40.11376,
+          -1.019291
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_23",
+      "name": "Walk: Sabina (Base) ↔ Junction: Aprendices",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_23",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.114495,
+          -1.01809
+        ],
+        [
+          40.114852,
+          -1.018193
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_10",
+      "name": "Walk: Debutantes I (Summit / Top) ↔ Debutantes II (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.113528,
+          -1.019073
+        ],
+        [
+          40.11376,
+          -1.019291
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_17",
+      "name": "Walk: Camarena (Base) ↔ Junction: Amanaderos",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_17",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.111826,
+          -1.033209
+        ],
+        [
+          40.111524,
+          -1.033268
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_20",
+      "name": "Walk: Junction: Vuelta a casa ↔ Junction: Lapiaz",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.110511,
+          -1.022789
+        ],
+        [
+          40.110477,
+          -1.022184
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_22",
+      "name": "Walk: Junction: Lapiaz ↔ Junction: el muro",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.11023,
+          -1.02874
+        ],
+        [
+          40.110311,
+          -1.029466
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_24",
+      "name": "Walk: Junction: Lapiaz ↔ Junction: Chaparrosa",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_24",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.11023,
+          -1.02874
+        ],
+        [
+          40.109864,
+          -1.028915
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_24",
+      "name": "Walk: Junction: el muro ↔ Junction: Chaparrosa",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_24",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.110311,
+          -1.029466
+        ],
+        [
+          40.109864,
+          -1.028915
+        ]
+      ]
+    }
+  ]
+}

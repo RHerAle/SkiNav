@@ -1,0 +1,7779 @@
+{
+  "id": "carezza",
+  "name": "Carezza Dolomites",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.3908,
+      11.5408
+    ],
+    [
+      46.4758,
+      11.6195
+    ]
+  ],
+  "center": [
+    46.4234,
+    11.5968
+  ],
+  "stats": {
+    "slopes": "24.2 km",
+    "lifts": 13,
+    "elevation": "1182m - 2337m",
+    "drop": "1155m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Paolina (Base)",
+      "lat": 46.408151,
+      "lng": 11.591732,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Paolina (Summit / Top)",
+      "lat": 46.415758,
+      "lng": 11.614463,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Tschein (Base)",
+      "lat": 46.421944,
+      "lng": 11.586892,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Tschein (Summit / Top)",
+      "lat": 46.439839,
+      "lng": 11.598084,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Hubertus (Base)",
+      "lat": 46.407795,
+      "lng": 11.592471,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Hubertus (Summit / Top)",
+      "lat": 46.403249,
+      "lng": 11.607242,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Pra di Tori (Base)",
+      "lat": 46.403652,
+      "lng": 11.60882,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Pra di Tori (Summit / Top)",
+      "lat": 46.395773,
+      "lng": 11.600773,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Le Pope (Base)",
+      "lat": 46.403564,
+      "lng": 11.608918,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Le Pope (Summit / Top)",
+      "lat": 46.399675,
+      "lng": 11.60504,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Golf I (Base)",
+      "lat": 46.408436,
+      "lng": 11.59143,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Golf I (Summit / Top)",
+      "lat": 46.413235,
+      "lng": 11.59686,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Golf II (Summit / Top)",
+      "lat": 46.410003,
+      "lng": 11.593516,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction #14",
+      "lat": 46.403543,
+      "lng": 11.607533,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction #15",
+      "lat": 46.403173,
+      "lng": 11.609634,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Nani Lift (Base)",
+      "lat": 46.444592,
+      "lng": 11.589275,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Nani Lift (Summit / Top)",
+      "lat": 46.445162,
+      "lng": 11.591002,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Welschnofen Laurin 1 - Nova Levante Laurino 1 (Base)",
+      "lat": 46.44413,
+      "lng": 11.589098,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Welschnofen Laurin 1 - Nova Levante Laurino 1 (Summit / Top)",
+      "lat": 46.432287,
+      "lng": 11.545844,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "König Laurin I - Re Laurino I (Base)",
+      "lat": 46.444142,
+      "lng": 11.589539,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "König Laurin II - Re Laurino II (Mid-Station / Hub)",
+      "lat": 46.441119,
+      "lng": 11.599883,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Tiers am Rosengarten - Frommeralm (Base)",
+      "lat": 46.445379,
+      "lng": 11.589415,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Tiers am Rosengarten - Frommeralm (Summit / Top)",
+      "lat": 46.47078,
+      "lng": 11.560389,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "König Laurin II - Re Laurino II (Summit / Top)",
+      "lat": 46.442248,
+      "lng": 11.611903,
+      "type": "station"
+    },
+    {
+      "id": "node_24",
+      "name": "Franzin (Base)",
+      "lat": 46.422383,
+      "lng": 11.587441,
+      "type": "station"
+    },
+    {
+      "id": "node_25",
+      "name": "Franzin (Summit / Top)",
+      "lat": 46.414889,
+      "lng": 11.601012,
+      "type": "station"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: 22 Frommer",
+      "lat": 46.440916,
+      "lng": 11.598853,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: 22 Frommer",
+      "lat": 46.44082,
+      "lng": 11.598649,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: 22 Frommer",
+      "lat": 46.441077,
+      "lng": 11.597636,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: 22 Frommer",
+      "lat": 46.441491,
+      "lng": 11.596564,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: 22 Frommer",
+      "lat": 46.442297,
+      "lng": 11.595101,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: 24 Laurin I",
+      "lat": 46.442423,
+      "lng": 11.58935,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: 24 Laurin I",
+      "lat": 46.438214,
+      "lng": 11.563151,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: 53 Hubertus",
+      "lat": 46.40376,
+      "lng": 11.606339,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: 53 Hubertus",
+      "lat": 46.407639,
+      "lng": 11.596502,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: 55 Latemarwiesen - 55 Prati di Latemar",
+      "lat": 46.397569,
+      "lng": 11.59992,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: 55 Latemarwiesen - 55 Prati di Latemar",
+      "lat": 46.39655,
+      "lng": 11.598703,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: 55 Latemarwiesen - 55 Prati di Latemar",
+      "lat": 46.399009,
+      "lng": 11.597177,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: 55 Latemarwiesen - 55 Prati di Latemar",
+      "lat": 46.400744,
+      "lng": 11.604925,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: 56 Le Pope",
+      "lat": 46.403142,
+      "lng": 11.608444,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: 54 Pra di Tori",
+      "lat": 46.401674,
+      "lng": 11.605987,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: 53 Hubertus",
+      "lat": 46.408113,
+      "lng": 11.592932,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: 43B Golf II",
+      "lat": 46.408188,
+      "lng": 11.592552,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: 45 Paolina",
+      "lat": 46.414346,
+      "lng": 11.60961,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: 45 Paolina",
+      "lat": 46.414403,
+      "lng": 11.609188,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: 45 Paolina",
+      "lat": 46.412509,
+      "lng": 11.604128,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: 43A Golf I",
+      "lat": 46.414398,
+      "lng": 11.598575,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: 43A Golf I",
+      "lat": 46.414091,
+      "lng": 11.597991,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: 43A Golf I",
+      "lat": 46.409708,
+      "lng": 11.595978,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: 45 Paolina",
+      "lat": 46.412027,
+      "lng": 11.600341,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: 44a Verbindung Masarè Hütte",
+      "lat": 46.414687,
+      "lng": 11.609314,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: 44a Verbindung Masarè Hütte",
+      "lat": 46.415711,
+      "lng": 11.607982,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: 43B Golf II",
+      "lat": 46.409445,
+      "lng": 11.593136,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: 43 Golf I",
+      "lat": 46.408463,
+      "lng": 11.591988,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: 45 Paolina",
+      "lat": 46.415554,
+      "lng": 11.613457,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: 42a Rosengarten",
+      "lat": 46.414558,
+      "lng": 11.602215,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: 40 Franzin",
+      "lat": 46.414116,
+      "lng": 11.596934,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: 40 Franzin",
+      "lat": 46.416094,
+      "lng": 11.597018,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: 40 Franzin",
+      "lat": 46.420231,
+      "lng": 11.589787,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction #60",
+      "lat": 46.41478,
+      "lng": 11.598803,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: 53 Hubertus",
+      "lat": 46.407839,
+      "lng": 11.596039,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: 53 Hubertus",
+      "lat": 46.408015,
+      "lng": 11.593471,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.440878,
+      "lng": 11.600676,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: 20 König Laurin - 20 Re Laurino",
+      "lat": 46.442403,
+      "lng": 11.611067,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: 20 König Laurin - 20 Re Laurino",
+      "lat": 46.444147,
+      "lng": 11.607334,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.440071,
+      "lng": 11.597955,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.441244,
+      "lng": 11.603744,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.440929,
+      "lng": 11.601171,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.440543,
+      "lng": 11.599388,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction: 23 Monte Coronelle",
+      "lat": 46.441376,
+      "lng": 11.595211,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction: 23 Monte Coronelle",
+      "lat": 46.442821,
+      "lng": 11.590999,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction: 30A Verbindung Tschein",
+      "lat": 46.438726,
+      "lng": 11.598669,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction: 30A Verbindung Tschein",
+      "lat": 46.438592,
+      "lng": 11.599073,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction: 30A Verbindung Tschein",
+      "lat": 46.436132,
+      "lng": 11.599348,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction #75",
+      "lat": 46.414318,
+      "lng": 11.599056,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction: 20 König Laurin - 20 Re Laurino",
+      "lat": 46.44542,
+      "lng": 11.591705,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction: 21 Laurin II",
+      "lat": 46.441295,
+      "lng": 11.604191,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction: 30A Verbindung Tschein",
+      "lat": 46.439486,
+      "lng": 11.597742,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction: 30A Verbindung Tschein",
+      "lat": 46.43842,
+      "lng": 11.597109,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction: 30 Tschein",
+      "lat": 46.424247,
+      "lng": 11.588812,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction: 30 Tschein",
+      "lat": 46.42254,
+      "lng": 11.587355,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction: 23 Monte Coronelle",
+      "lat": 46.442821,
+      "lng": 11.590139,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction: 24 Laurin I",
+      "lat": 46.436465,
+      "lng": 11.555567,
+      "type": "intersection"
+    },
+    {
+      "id": "node_83",
+      "name": "Junction: 30 Tschein",
+      "lat": 46.433644,
+      "lng": 11.595902,
+      "type": "intersection"
+    },
+    {
+      "id": "node_84",
+      "name": "Junction: 30 Tschein",
+      "lat": 46.424624,
+      "lng": 11.588618,
+      "type": "intersection"
+    },
+    {
+      "id": "node_85",
+      "name": "Junction: 42 Rosengarten",
+      "lat": 46.41404,
+      "lng": 11.598865,
+      "type": "intersection"
+    },
+    {
+      "id": "node_86",
+      "name": "Junction: Verbindung Laurin 2 - Tschein",
+      "lat": 46.439769,
+      "lng": 11.598754,
+      "type": "intersection"
+    },
+    {
+      "id": "node_87",
+      "name": "Junction: 30 Tschein",
+      "lat": 46.433853,
+      "lng": 11.596316,
+      "type": "intersection"
+    },
+    {
+      "id": "node_88",
+      "name": "Junction: 55 Prati di Latemar",
+      "lat": 46.397509,
+      "lng": 11.600372,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_4699599",
+      "name": "Paolina",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.93,
+      "duration": 7,
+      "elevation": 424,
+      "geometry": [
+        [
+          46.407953,
+          11.591894
+        ],
+        [
+          46.408205,
+          11.592628
+        ],
+        [
+          46.408685,
+          11.594031
+        ],
+        [
+          46.409248,
+          11.595673
+        ],
+        [
+          46.409739,
+          11.597106
+        ],
+        [
+          46.410016,
+          11.597914
+        ],
+        [
+          46.410277,
+          11.598678
+        ],
+        [
+          46.410723,
+          11.599977
+        ],
+        [
+          46.411306,
+          11.601679
+        ],
+        [
+          46.411796,
+          11.603109
+        ],
+        [
+          46.412357,
+          11.604747
+        ],
+        [
+          46.412624,
+          11.605528
+        ],
+        [
+          46.412876,
+          11.606261
+        ],
+        [
+          46.413383,
+          11.607743
+        ],
+        [
+          46.413932,
+          11.609345
+        ],
+        [
+          46.414055,
+          11.609703
+        ],
+        [
+          46.414177,
+          11.610062
+        ],
+        [
+          46.414364,
+          11.610607
+        ],
+        [
+          46.414641,
+          11.611419
+        ],
+        [
+          46.415159,
+          11.612935
+        ],
+        [
+          46.415505,
+          11.613947
+        ],
+        [
+          46.415677,
+          11.614451
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_30803036",
+      "name": "Tschein",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 2.17,
+      "duration": 8,
+      "elevation": 477,
+      "geometry": [
+        [
+          46.421985,
+          11.586843
+        ],
+        [
+          46.422532,
+          11.587187
+        ],
+        [
+          46.423729,
+          11.587939
+        ],
+        [
+          46.424953,
+          11.588709
+        ],
+        [
+          46.425734,
+          11.589219
+        ],
+        [
+          46.426763,
+          11.58989
+        ],
+        [
+          46.42762,
+          11.59045
+        ],
+        [
+          46.428562,
+          11.591065
+        ],
+        [
+          46.429832,
+          11.591894
+        ],
+        [
+          46.431193,
+          11.592783
+        ],
+        [
+          46.432743,
+          11.593795
+        ],
+        [
+          46.433778,
+          11.59447
+        ],
+        [
+          46.435015,
+          11.595279
+        ],
+        [
+          46.43608,
+          11.595974
+        ],
+        [
+          46.437229,
+          11.596724
+        ],
+        [
+          46.438326,
+          11.59744
+        ],
+        [
+          46.439762,
+          11.598378
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_31749384",
+      "name": "Hubertus",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.22,
+      "duration": 3,
+      "elevation": 268,
+      "geometry": [
+        [
+          46.407558,
+          11.59245
+        ],
+        [
+          46.407288,
+          11.593353
+        ],
+        [
+          46.407179,
+          11.593716
+        ],
+        [
+          46.406886,
+          11.594694
+        ],
+        [
+          46.406346,
+          11.596497
+        ],
+        [
+          46.405735,
+          11.598536
+        ],
+        [
+          46.405248,
+          11.600162
+        ],
+        [
+          46.404487,
+          11.602702
+        ],
+        [
+          46.403971,
+          11.604423
+        ],
+        [
+          46.403424,
+          11.60625
+        ],
+        [
+          46.403168,
+          11.607104
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_31749417",
+      "name": "Pra di Tori",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.08,
+      "duration": 4,
+      "elevation": 237,
+      "geometry": [
+        [
+          46.403652,
+          11.60882
+        ],
+        [
+          46.402614,
+          11.607784
+        ],
+        [
+          46.401613,
+          11.606785
+        ],
+        [
+          46.400433,
+          11.605607
+        ],
+        [
+          46.399247,
+          11.604422
+        ],
+        [
+          46.398841,
+          11.604017
+        ],
+        [
+          46.397741,
+          11.602919
+        ],
+        [
+          46.396743,
+          11.601923
+        ],
+        [
+          46.395952,
+          11.601133
+        ],
+        [
+          46.395647,
+          11.600829
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_151641971",
+      "name": "Le Pope",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.5,
+      "duration": 2,
+      "elevation": 110,
+      "geometry": [
+        [
+          46.403288,
+          11.608949
+        ],
+        [
+          46.399669,
+          11.605029
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_152622199",
+      "name": "Golf I",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.68,
+      "duration": 2,
+      "elevation": 149,
+      "geometry": [
+        [
+          46.408436,
+          11.59143
+        ],
+        [
+          46.413406,
+          11.596604
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_152622202",
+      "name": "Golf II",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_12",
+      "distance": 0.24,
+      "duration": 2,
+      "elevation": 52,
+      "geometry": [
+        [
+          46.408436,
+          11.59143
+        ],
+        [
+          46.410147,
+          11.593339
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_394926966",
+      "name": "Nani Lift",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.15,
+      "duration": 2,
+      "elevation": 33,
+      "geometry": [
+        [
+          46.444669,
+          11.589335
+        ],
+        [
+          46.445266,
+          11.591053
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_395092218",
+      "name": "Welschnofen Laurin 1 - Nova Levante Laurino 1",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 3.55,
+      "duration": 9,
+      "elevation": 781,
+      "geometry": [
+        [
+          46.444195,
+          11.588835
+        ],
+        [
+          46.444007,
+          11.588213
+        ],
+        [
+          46.443676,
+          11.587019
+        ],
+        [
+          46.442949,
+          11.584334
+        ],
+        [
+          46.44185,
+          11.580531
+        ],
+        [
+          46.441098,
+          11.577653
+        ],
+        [
+          46.440298,
+          11.574764
+        ],
+        [
+          46.43984,
+          11.573111
+        ],
+        [
+          46.43907,
+          11.570332
+        ],
+        [
+          46.438687,
+          11.568949
+        ],
+        [
+          46.438061,
+          11.566686
+        ],
+        [
+          46.438032,
+          11.566585
+        ],
+        [
+          46.437227,
+          11.563675
+        ],
+        [
+          46.4363,
+          11.56033
+        ],
+        [
+          46.435402,
+          11.557087
+        ],
+        [
+          46.434685,
+          11.554499
+        ],
+        [
+          46.434019,
+          11.552095
+        ],
+        [
+          46.433372,
+          11.549761
+        ],
+        [
+          46.432833,
+          11.547814
+        ],
+        [
+          46.432527,
+          11.546709
+        ],
+        [
+          46.432287,
+          11.545844
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_776227464",
+      "name": "König Laurin I - Re Laurino I",
+      "type": "lift",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.87,
+      "duration": 2,
+      "elevation": 191,
+      "geometry": [
+        [
+          46.444026,
+          11.589364
+        ],
+        [
+          46.443893,
+          11.589861
+        ],
+        [
+          46.443785,
+          11.590286
+        ],
+        [
+          46.443245,
+          11.592381
+        ],
+        [
+          46.442854,
+          11.593953
+        ],
+        [
+          46.442389,
+          11.595821
+        ],
+        [
+          46.44188,
+          11.59787
+        ],
+        [
+          46.441464,
+          11.599543
+        ],
+        [
+          46.44133,
+          11.600081
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_998112601",
+      "name": "Tiers am Rosengarten - Frommeralm",
+      "type": "lift",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 3.59,
+      "duration": 9,
+      "elevation": 789,
+      "geometry": [
+        [
+          46.445379,
+          11.589415
+        ],
+        [
+          46.448672,
+          11.585801
+        ],
+        [
+          46.455391,
+          11.578115
+        ],
+        [
+          46.459207,
+          11.573709
+        ],
+        [
+          46.463686,
+          11.568601
+        ],
+        [
+          46.47078,
+          11.560389
+        ]
+      ],
+      "subtype": "cable_car",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_1018864820",
+      "name": "König Laurin II - Re Laurino II",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_23",
+      "distance": 0.92,
+      "duration": 2,
+      "elevation": 202,
+      "geometry": [
+        [
+          46.44133,
+          11.600081
+        ],
+        [
+          46.441361,
+          11.600453
+        ],
+        [
+          46.441444,
+          11.601444
+        ],
+        [
+          46.441645,
+          11.603845
+        ],
+        [
+          46.441863,
+          11.606462
+        ],
+        [
+          46.442113,
+          11.609447
+        ],
+        [
+          46.442242,
+          11.610989
+        ],
+        [
+          46.442328,
+          11.612018
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_1420822479",
+      "name": "Franzin",
+      "type": "lift",
+      "from": "node_24",
+      "to": "node_25",
+      "distance": 1.34,
+      "duration": 3,
+      "elevation": 294,
+      "geometry": [
+        [
+          46.422534,
+          11.587561
+        ],
+        [
+          46.42234,
+          11.587902
+        ],
+        [
+          46.422146,
+          11.588242
+        ],
+        [
+          46.421584,
+          11.589232
+        ],
+        [
+          46.420454,
+          11.591221
+        ],
+        [
+          46.419136,
+          11.59354
+        ],
+        [
+          46.418158,
+          11.59526
+        ],
+        [
+          46.416976,
+          11.59734
+        ],
+        [
+          46.41577,
+          11.599463
+        ],
+        [
+          46.415052,
+          11.600726
+        ],
+        [
+          46.414889,
+          11.601012
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "piste_30804946_1",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.441131,
+          11.599622
+        ],
+        [
+          46.441067,
+          11.599333
+        ],
+        [
+          46.441002,
+          11.599085
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_30804946_4",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.44086,
+          11.598702
+        ],
+        [
+          46.440832,
+          11.598455
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_30804946_5",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.440832,
+          11.598455
+        ],
+        [
+          46.440985,
+          11.59795
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_30804946_7",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.441098,
+          11.597642
+        ],
+        [
+          46.441465,
+          11.596632
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_30804946_9",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.44153,
+          11.596461
+        ],
+        [
+          46.441812,
+          11.59576
+        ],
+        [
+          46.442234,
+          11.595244
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_30804947_0",
+      "name": "24 Laurin I",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 2.54,
+      "duration": 5,
+      "elevation": -406,
+      "geometry": [
+        [
+          46.442348,
+          11.589316
+        ],
+        [
+          46.441772,
+          11.589562
+        ],
+        [
+          46.441696,
+          11.58952
+        ],
+        [
+          46.44163,
+          11.589426
+        ],
+        [
+          46.441611,
+          11.589337
+        ],
+        [
+          46.441612,
+          11.589229
+        ],
+        [
+          46.442065,
+          11.588207
+        ],
+        [
+          46.442135,
+          11.587631
+        ],
+        [
+          46.442056,
+          11.587088
+        ],
+        [
+          46.441968,
+          11.586767
+        ],
+        [
+          46.441821,
+          11.58665
+        ],
+        [
+          46.44163,
+          11.586682
+        ],
+        [
+          46.441423,
+          11.586543
+        ],
+        [
+          46.44081,
+          11.58592
+        ],
+        [
+          46.440148,
+          11.585327
+        ],
+        [
+          46.439457,
+          11.584003
+        ],
+        [
+          46.43863,
+          11.582329
+        ],
+        [
+          46.438106,
+          11.581784
+        ],
+        [
+          46.437635,
+          11.580873
+        ],
+        [
+          46.437316,
+          11.580064
+        ],
+        [
+          46.436649,
+          11.578447
+        ],
+        [
+          46.436508,
+          11.578241
+        ],
+        [
+          46.435866,
+          11.577764
+        ],
+        [
+          46.435772,
+          11.577559
+        ],
+        [
+          46.435612,
+          11.576885
+        ],
+        [
+          46.435851,
+          11.575827
+        ],
+        [
+          46.436489,
+          11.574007
+        ],
+        [
+          46.43699,
+          11.573387
+        ],
+        [
+          46.437472,
+          11.572934
+        ],
+        [
+          46.437932,
+          11.572358
+        ],
+        [
+          46.438219,
+          11.571079
+        ],
+        [
+          46.438246,
+          11.57021
+        ],
+        [
+          46.43817,
+          11.569461
+        ],
+        [
+          46.437971,
+          11.56845
+        ],
+        [
+          46.437938,
+          11.566291
+        ],
+        [
+          46.438062,
+          11.564375
+        ],
+        [
+          46.438214,
+          11.563151
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_152622687_0",
+      "name": "53 Hubertus",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.87,
+      "duration": 1,
+      "elevation": -139,
+      "geometry": [
+        [
+          46.403853,
+          11.606187
+        ],
+        [
+          46.404184,
+          11.605665
+        ],
+        [
+          46.405272,
+          11.603509
+        ],
+        [
+          46.406104,
+          11.601748
+        ],
+        [
+          46.406242,
+          11.601454
+        ],
+        [
+          46.406326,
+          11.601287
+        ],
+        [
+          46.406368,
+          11.601123
+        ],
+        [
+          46.4064,
+          11.600935
+        ],
+        [
+          46.406381,
+          11.60073
+        ],
+        [
+          46.406391,
+          11.600474
+        ],
+        [
+          46.406427,
+          11.600185
+        ],
+        [
+          46.406523,
+          11.599754
+        ],
+        [
+          46.406563,
+          11.599424
+        ],
+        [
+          46.406545,
+          11.598962
+        ],
+        [
+          46.406562,
+          11.598604
+        ],
+        [
+          46.406595,
+          11.598331
+        ],
+        [
+          46.406638,
+          11.598169
+        ],
+        [
+          46.406723,
+          11.598046
+        ],
+        [
+          46.406828,
+          11.597959
+        ],
+        [
+          46.406973,
+          11.59788
+        ],
+        [
+          46.407077,
+          11.597784
+        ],
+        [
+          46.407154,
+          11.597633
+        ],
+        [
+          46.407219,
+          11.597428
+        ],
+        [
+          46.407575,
+          11.596635
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210784401_2",
+      "name": "55 Latemarwiesen - 55 Prati di Latemar",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.397516,
+          11.599675
+        ],
+        [
+          46.397399,
+          11.599524
+        ],
+        [
+          46.39731,
+          11.599441
+        ],
+        [
+          46.397197,
+          11.599364
+        ],
+        [
+          46.397071,
+          11.599257
+        ],
+        [
+          46.396959,
+          11.599185
+        ],
+        [
+          46.396858,
+          11.599137
+        ],
+        [
+          46.396572,
+          11.598991
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_210784401_6",
+      "name": "55 Latemarwiesen - 55 Prati di Latemar",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.396625,
+          11.598365
+        ],
+        [
+          46.396737,
+          11.598221
+        ],
+        [
+          46.396878,
+          11.598081
+        ],
+        [
+          46.397012,
+          11.597958
+        ],
+        [
+          46.397158,
+          11.59784
+        ],
+        [
+          46.397309,
+          11.597748
+        ],
+        [
+          46.397512,
+          11.597626
+        ],
+        [
+          46.397691,
+          11.597514
+        ],
+        [
+          46.397916,
+          11.597379
+        ],
+        [
+          46.398162,
+          11.597302
+        ],
+        [
+          46.398415,
+          11.597211
+        ],
+        [
+          46.398625,
+          11.597155
+        ],
+        [
+          46.398795,
+          11.597142
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_210784401_9",
+      "name": "55 Latemarwiesen - 55 Prati di Latemar",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          46.39918,
+          11.597264
+        ],
+        [
+          46.399343,
+          11.59743
+        ],
+        [
+          46.399494,
+          11.597596
+        ],
+        [
+          46.399605,
+          11.597859
+        ],
+        [
+          46.399727,
+          11.598202
+        ],
+        [
+          46.399779,
+          11.598417
+        ],
+        [
+          46.399802,
+          11.598639
+        ],
+        [
+          46.39981,
+          11.598794
+        ],
+        [
+          46.399788,
+          11.598955
+        ],
+        [
+          46.399762,
+          11.599116
+        ],
+        [
+          46.399691,
+          11.599492
+        ],
+        [
+          46.399658,
+          11.599856
+        ],
+        [
+          46.399643,
+          11.600205
+        ],
+        [
+          46.399636,
+          11.600704
+        ],
+        [
+          46.399651,
+          11.601171
+        ],
+        [
+          46.39969,
+          11.601524
+        ],
+        [
+          46.400037,
+          11.602056
+        ],
+        [
+          46.4002,
+          11.602308
+        ],
+        [
+          46.400303,
+          11.60256
+        ],
+        [
+          46.400396,
+          11.602861
+        ],
+        [
+          46.400447,
+          11.603081
+        ],
+        [
+          46.400518,
+          11.603419
+        ],
+        [
+          46.40057,
+          11.603655
+        ],
+        [
+          46.400629,
+          11.60396
+        ],
+        [
+          46.400666,
+          11.604325
+        ],
+        [
+          46.400698,
+          11.604638
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_210784403_1",
+      "name": "54 Pra di Tori",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_38",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          46.395927,
+          11.600779
+        ],
+        [
+          46.396111,
+          11.600946
+        ],
+        [
+          46.39626,
+          11.601096
+        ],
+        [
+          46.396485,
+          11.601321
+        ],
+        [
+          46.396647,
+          11.601509
+        ],
+        [
+          46.396822,
+          11.601675
+        ],
+        [
+          46.39701,
+          11.601852
+        ],
+        [
+          46.397188,
+          11.602002
+        ],
+        [
+          46.397388,
+          11.602163
+        ],
+        [
+          46.397573,
+          11.60233
+        ],
+        [
+          46.397761,
+          11.602501
+        ],
+        [
+          46.397958,
+          11.602625
+        ],
+        [
+          46.398228,
+          11.60277
+        ],
+        [
+          46.39848,
+          11.602909
+        ],
+        [
+          46.398734,
+          11.603086
+        ],
+        [
+          46.398952,
+          11.603231
+        ],
+        [
+          46.399156,
+          11.603403
+        ],
+        [
+          46.399444,
+          11.60366
+        ],
+        [
+          46.399623,
+          11.603816
+        ],
+        [
+          46.399792,
+          11.603982
+        ],
+        [
+          46.400067,
+          11.604245
+        ],
+        [
+          46.4003,
+          11.604486
+        ],
+        [
+          46.40047,
+          11.604679
+        ],
+        [
+          46.400613,
+          11.604829
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_210789849_3",
+      "name": "Piste 210789849",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.403121,
+          11.607444
+        ],
+        [
+          46.403099,
+          11.607689
+        ],
+        [
+          46.403087,
+          11.607885
+        ],
+        [
+          46.403086,
+          11.608045
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789851_5",
+      "name": "56 Le Pope",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_39",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.399723,
+          11.605256
+        ],
+        [
+          46.400033,
+          11.605623
+        ],
+        [
+          46.400396,
+          11.606053
+        ],
+        [
+          46.400625,
+          11.606289
+        ],
+        [
+          46.400958,
+          11.606653
+        ],
+        [
+          46.40121,
+          11.606889
+        ],
+        [
+          46.401528,
+          11.607233
+        ],
+        [
+          46.401787,
+          11.60749
+        ],
+        [
+          46.402046,
+          11.607791
+        ],
+        [
+          46.40226,
+          11.607984
+        ],
+        [
+          46.402482,
+          11.608203
+        ],
+        [
+          46.402674,
+          11.608386
+        ],
+        [
+          46.402897,
+          11.608563
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789851_6",
+      "name": "56 Le Pope",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.402897,
+          11.608563
+        ],
+        [
+          46.403066,
+          11.608795
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789855_12",
+      "name": "Piste 210789855",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.403479,
+          11.60701
+        ],
+        [
+          46.403526,
+          11.60693
+        ],
+        [
+          46.403588,
+          11.606814
+        ],
+        [
+          46.403649,
+          11.60668
+        ],
+        [
+          46.403713,
+          11.606549
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789858_3",
+      "name": "54 Pra di Tori",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_38",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.399793,
+          11.604872
+        ],
+        [
+          46.39995,
+          11.604857
+        ],
+        [
+          46.400122,
+          11.604843
+        ],
+        [
+          46.400324,
+          11.604843
+        ],
+        [
+          46.400455,
+          11.604877
+        ],
+        [
+          46.400643,
+          11.604947
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789858_6",
+      "name": "54 Pra di Tori",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_40",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.400939,
+          11.605125
+        ],
+        [
+          46.401103,
+          11.605318
+        ],
+        [
+          46.401283,
+          11.605543
+        ],
+        [
+          46.401486,
+          11.605795
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789858_8",
+      "name": "54 Pra di Tori",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_39",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.401691,
+          11.60602
+        ],
+        [
+          46.401927,
+          11.606305
+        ],
+        [
+          46.402163,
+          11.606594
+        ],
+        [
+          46.402363,
+          11.606841
+        ],
+        [
+          46.402534,
+          11.607077
+        ],
+        [
+          46.402675,
+          11.607356
+        ],
+        [
+          46.402848,
+          11.607748
+        ],
+        [
+          46.402989,
+          11.60807
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789858_13",
+      "name": "54 Pra di Tori",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.403269,
+          11.608712
+        ],
+        [
+          46.403288,
+          11.608949
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789861_1",
+      "name": "Piste 210789861",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.403313,
+          11.608729
+        ],
+        [
+          46.403394,
+          11.608815
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_210789863_1",
+      "name": "Piste 210789863",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_33",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.401837,
+          11.60613
+        ],
+        [
+          46.401977,
+          11.606238
+        ],
+        [
+          46.402169,
+          11.606342
+        ],
+        [
+          46.402335,
+          11.606393
+        ],
+        [
+          46.402507,
+          11.606425
+        ],
+        [
+          46.402744,
+          11.606457
+        ],
+        [
+          46.402898,
+          11.606463
+        ],
+        [
+          46.403104,
+          11.606463
+        ],
+        [
+          46.40324,
+          11.606444
+        ],
+        [
+          46.403379,
+          11.606428
+        ],
+        [
+          46.403491,
+          11.606407
+        ],
+        [
+          46.40359,
+          11.606388
+        ],
+        [
+          46.403659,
+          11.606361
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211181078_4",
+      "name": "Piste 211181078",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.408264,
+          11.592605
+        ],
+        [
+          46.408271,
+          11.592483
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211181078_7",
+      "name": "Piste 211181078",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.408212,
+          11.592298
+        ],
+        [
+          46.408156,
+          11.592137
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211193213_9",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414418,
+          11.609255
+        ],
+        [
+          46.414387,
+          11.609124
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211193213_11",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.414352,
+          11.608976
+        ],
+        [
+          46.414287,
+          11.60877
+        ],
+        [
+          46.414201,
+          11.608547
+        ],
+        [
+          46.414107,
+          11.608356
+        ],
+        [
+          46.414006,
+          11.608091
+        ],
+        [
+          46.413929,
+          11.607903
+        ],
+        [
+          46.413843,
+          11.607678
+        ],
+        [
+          46.413778,
+          11.607485
+        ],
+        [
+          46.413704,
+          11.607292
+        ],
+        [
+          46.413582,
+          11.60701
+        ],
+        [
+          46.413497,
+          11.606809
+        ],
+        [
+          46.41338,
+          11.606535
+        ],
+        [
+          46.413284,
+          11.606299
+        ],
+        [
+          46.413197,
+          11.606087
+        ],
+        [
+          46.413135,
+          11.605956
+        ],
+        [
+          46.413009,
+          11.605653
+        ],
+        [
+          46.41292,
+          11.605428
+        ],
+        [
+          46.41287,
+          11.605288
+        ],
+        [
+          46.412726,
+          11.604886
+        ],
+        [
+          46.412559,
+          11.604314
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211193214_12",
+      "name": "43A Golf I",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414187,
+          11.598194
+        ],
+        [
+          46.414145,
+          11.598135
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211193214_14",
+      "name": "43A Golf I",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_11",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.413998,
+          11.59795
+        ],
+        [
+          46.413891,
+          11.597789
+        ],
+        [
+          46.413763,
+          11.597596
+        ],
+        [
+          46.413659,
+          11.597429
+        ],
+        [
+          46.413559,
+          11.597266
+        ],
+        [
+          46.413477,
+          11.597158
+        ],
+        [
+          46.413394,
+          11.597046
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211193214_19",
+      "name": "43A Golf I",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_48",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          46.413031,
+          11.596833
+        ],
+        [
+          46.412965,
+          11.596805
+        ],
+        [
+          46.412933,
+          11.596791
+        ],
+        [
+          46.412849,
+          11.596759
+        ],
+        [
+          46.412757,
+          11.596743
+        ],
+        [
+          46.41262,
+          11.596748
+        ],
+        [
+          46.412539,
+          11.596767
+        ],
+        [
+          46.412424,
+          11.59678
+        ],
+        [
+          46.412317,
+          11.596791
+        ],
+        [
+          46.412174,
+          11.59678
+        ],
+        [
+          46.412099,
+          11.596753
+        ],
+        [
+          46.411952,
+          11.596713
+        ],
+        [
+          46.411762,
+          11.596697
+        ],
+        [
+          46.411621,
+          11.596678
+        ],
+        [
+          46.41151,
+          11.596665
+        ],
+        [
+          46.411321,
+          11.596625
+        ],
+        [
+          46.411182,
+          11.596582
+        ],
+        [
+          46.411071,
+          11.59655
+        ],
+        [
+          46.410856,
+          11.596483
+        ],
+        [
+          46.410725,
+          11.596424
+        ],
+        [
+          46.41057,
+          11.596359
+        ],
+        [
+          46.410411,
+          11.596289
+        ],
+        [
+          46.410252,
+          11.59622
+        ],
+        [
+          46.410134,
+          11.596166
+        ],
+        [
+          46.40999,
+          11.596115
+        ],
+        [
+          46.409861,
+          11.59608
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211193215_0",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_49",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.412458,
+          11.603942
+        ],
+        [
+          46.412281,
+          11.60333
+        ],
+        [
+          46.412147,
+          11.602896
+        ],
+        [
+          46.411982,
+          11.602448
+        ],
+        [
+          46.411951,
+          11.602068
+        ],
+        [
+          46.411985,
+          11.601572
+        ],
+        [
+          46.412029,
+          11.601109
+        ],
+        [
+          46.412026,
+          11.600739
+        ],
+        [
+          46.412027,
+          11.600471
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211193215_3",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_48",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.411971,
+          11.600044
+        ],
+        [
+          46.411851,
+          11.599736
+        ],
+        [
+          46.411741,
+          11.599508
+        ],
+        [
+          46.41165,
+          11.599315
+        ],
+        [
+          46.411543,
+          11.599173
+        ],
+        [
+          46.411412,
+          11.599001
+        ],
+        [
+          46.411287,
+          11.598819
+        ],
+        [
+          46.411141,
+          11.598631
+        ],
+        [
+          46.41094,
+          11.598293
+        ],
+        [
+          46.410725,
+          11.597987
+        ],
+        [
+          46.410567,
+          11.597748
+        ],
+        [
+          46.410438,
+          11.597515
+        ],
+        [
+          46.410321,
+          11.597306
+        ],
+        [
+          46.410179,
+          11.597043
+        ],
+        [
+          46.409998,
+          11.596751
+        ],
+        [
+          46.409853,
+          11.596437
+        ],
+        [
+          46.409703,
+          11.596118
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211193217_3",
+      "name": "44a Verbindung Masarè Hütte",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414496,
+          11.609543
+        ],
+        [
+          46.414687,
+          11.609314
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_211193217_4",
+      "name": "44a Verbindung Masarè Hütte",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.414687,
+          11.609314
+        ],
+        [
+          46.414906,
+          11.609052
+        ],
+        [
+          46.415154,
+          11.608762
+        ],
+        [
+          46.415395,
+          11.608453
+        ],
+        [
+          46.415691,
+          11.60815
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_211194519_2",
+      "name": "43B Golf II",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_42",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.409314,
+          11.593092
+        ],
+        [
+          46.409214,
+          11.593033
+        ],
+        [
+          46.40909,
+          11.592966
+        ],
+        [
+          46.408948,
+          11.592894
+        ],
+        [
+          46.40886,
+          11.592856
+        ],
+        [
+          46.408794,
+          11.592843
+        ],
+        [
+          46.408679,
+          11.592829
+        ],
+        [
+          46.408625,
+          11.592832
+        ],
+        [
+          46.408529,
+          11.592848
+        ],
+        [
+          46.408488,
+          11.592849
+        ],
+        [
+          46.408418,
+          11.592835
+        ],
+        [
+          46.408345,
+          11.592821
+        ],
+        [
+          46.408264,
+          11.592794
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194519_7",
+      "name": "43B Golf II",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.407967,
+          11.59251
+        ],
+        [
+          46.407888,
+          11.592446
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194522_6",
+      "name": "43 Golf I",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.413031,
+          11.596833
+        ],
+        [
+          46.412965,
+          11.596805
+        ],
+        [
+          46.412911,
+          11.596759
+        ],
+        [
+          46.412857,
+          11.5967
+        ],
+        [
+          46.412816,
+          11.596627
+        ],
+        [
+          46.412772,
+          11.596542
+        ],
+        [
+          46.412707,
+          11.596431
+        ],
+        [
+          46.412642,
+          11.59634
+        ],
+        [
+          46.412596,
+          11.596276
+        ],
+        [
+          46.412468,
+          11.596131
+        ],
+        [
+          46.41235,
+          11.596
+        ],
+        [
+          46.412237,
+          11.595874
+        ],
+        [
+          46.412023,
+          11.595643
+        ],
+        [
+          46.411847,
+          11.595477
+        ],
+        [
+          46.411612,
+          11.595227
+        ],
+        [
+          46.411438,
+          11.595042
+        ],
+        [
+          46.411281,
+          11.594879
+        ],
+        [
+          46.411157,
+          11.59476
+        ],
+        [
+          46.410873,
+          11.594498
+        ],
+        [
+          46.410669,
+          11.594315
+        ],
+        [
+          46.410333,
+          11.594012
+        ],
+        [
+          46.410136,
+          11.593822
+        ],
+        [
+          46.409931,
+          11.593604
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194522_7",
+      "name": "43 Golf I",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.409931,
+          11.593604
+        ],
+        [
+          46.40977,
+          11.593436
+        ],
+        [
+          46.409649,
+          11.593313
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194522_10",
+      "name": "43 Golf I",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.409321,
+          11.592972
+        ],
+        [
+          46.409164,
+          11.592792
+        ],
+        [
+          46.408888,
+          11.592473
+        ],
+        [
+          46.408662,
+          11.59222
+        ],
+        [
+          46.408564,
+          11.592105
+        ],
+        [
+          46.408496,
+          11.592027
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194522_12",
+      "name": "43 Golf I",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.408429,
+          11.59195
+        ],
+        [
+          46.408358,
+          11.591861
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194522_18",
+      "name": "43 Golf I",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.40833,
+          11.591526
+        ],
+        [
+          46.408436,
+          11.59143
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211194524_2",
+      "name": "Piste 211194524",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.40838,
+          11.591432
+        ],
+        [
+          46.408436,
+          11.59143
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211196049_6",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_54",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.415766,
+          11.614282
+        ],
+        [
+          46.415554,
+          11.613457
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_211196049_7",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_43",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.415554,
+          11.613457
+        ],
+        [
+          46.414906,
+          11.610819
+        ],
+        [
+          46.414834,
+          11.610612
+        ],
+        [
+          46.414761,
+          11.610403
+        ],
+        [
+          46.414667,
+          11.610113
+        ],
+        [
+          46.414589,
+          11.60984
+        ],
+        [
+          46.414541,
+          11.609692
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_211196050_2",
+      "name": "42a Rosengarten",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_49",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.414471,
+          11.602123
+        ],
+        [
+          46.41435,
+          11.602059
+        ],
+        [
+          46.414202,
+          11.602002
+        ],
+        [
+          46.41409,
+          11.601952
+        ],
+        [
+          46.413927,
+          11.601887
+        ],
+        [
+          46.413798,
+          11.601836
+        ],
+        [
+          46.413576,
+          11.601801
+        ],
+        [
+          46.41343,
+          11.601774
+        ],
+        [
+          46.413291,
+          11.601756
+        ],
+        [
+          46.413212,
+          11.601742
+        ],
+        [
+          46.413021,
+          11.601724
+        ],
+        [
+          46.41289,
+          11.601702
+        ],
+        [
+          46.412779,
+          11.601646
+        ],
+        [
+          46.412689,
+          11.601555
+        ],
+        [
+          46.412546,
+          11.601439
+        ],
+        [
+          46.41242,
+          11.601318
+        ],
+        [
+          46.412315,
+          11.601179
+        ],
+        [
+          46.412253,
+          11.601053
+        ],
+        [
+          46.412193,
+          11.600897
+        ],
+        [
+          46.412145,
+          11.60075
+        ],
+        [
+          46.412097,
+          11.600581
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211196051_0",
+      "name": "44 Masarè",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_51",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.415554,
+          11.613457
+        ],
+        [
+          46.415493,
+          11.611534
+        ],
+        [
+          46.415503,
+          11.611197
+        ],
+        [
+          46.415512,
+          11.610881
+        ],
+        [
+          46.415533,
+          11.610513
+        ],
+        [
+          46.415546,
+          11.610165
+        ],
+        [
+          46.415572,
+          11.609856
+        ],
+        [
+          46.415592,
+          11.60954
+        ],
+        [
+          46.415608,
+          11.609329
+        ],
+        [
+          46.415691,
+          11.60815
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_211197993_3",
+      "name": "40 Franzin",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414072,
+          11.597783
+        ],
+        [
+          46.414062,
+          11.597601
+        ],
+        [
+          46.414048,
+          11.5974
+        ],
+        [
+          46.414044,
+          11.597201
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211197993_11",
+      "name": "40 Franzin",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.414368,
+          11.596812
+        ],
+        [
+          46.414468,
+          11.596839
+        ],
+        [
+          46.414547,
+          11.596871
+        ],
+        [
+          46.414629,
+          11.596901
+        ],
+        [
+          46.414799,
+          11.596939
+        ],
+        [
+          46.414968,
+          11.596979
+        ],
+        [
+          46.415107,
+          11.596995
+        ],
+        [
+          46.415203,
+          11.597008
+        ],
+        [
+          46.415344,
+          11.597024
+        ],
+        [
+          46.415448,
+          11.59704
+        ],
+        [
+          46.415546,
+          11.597051
+        ],
+        [
+          46.41563,
+          11.597051
+        ],
+        [
+          46.415698,
+          11.597046
+        ],
+        [
+          46.415811,
+          11.597038
+        ],
+        [
+          46.415919,
+          11.597022
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211197993_15",
+      "name": "40 Franzin",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.71,
+      "duration": 1,
+      "elevation": -113,
+      "geometry": [
+        [
+          46.416363,
+          11.596863
+        ],
+        [
+          46.41653,
+          11.596764
+        ],
+        [
+          46.416678,
+          11.596684
+        ],
+        [
+          46.416809,
+          11.596614
+        ],
+        [
+          46.416923,
+          11.596539
+        ],
+        [
+          46.417027,
+          11.596453
+        ],
+        [
+          46.417113,
+          11.596413
+        ],
+        [
+          46.417189,
+          11.596332
+        ],
+        [
+          46.417301,
+          11.596177
+        ],
+        [
+          46.417416,
+          11.596032
+        ],
+        [
+          46.417504,
+          11.59589
+        ],
+        [
+          46.417602,
+          11.595748
+        ],
+        [
+          46.417698,
+          11.595605
+        ],
+        [
+          46.41783,
+          11.595434
+        ],
+        [
+          46.417919,
+          11.595275
+        ],
+        [
+          46.418047,
+          11.595018
+        ],
+        [
+          46.418151,
+          11.594849
+        ],
+        [
+          46.418283,
+          11.594661
+        ],
+        [
+          46.418399,
+          11.594538
+        ],
+        [
+          46.418515,
+          11.594398
+        ],
+        [
+          46.418629,
+          11.594278
+        ],
+        [
+          46.41869,
+          11.594197
+        ],
+        [
+          46.418726,
+          11.594114
+        ],
+        [
+          46.418769,
+          11.593993
+        ],
+        [
+          46.418805,
+          11.593857
+        ],
+        [
+          46.418846,
+          11.59369
+        ],
+        [
+          46.418888,
+          11.593543
+        ],
+        [
+          46.41892,
+          11.593358
+        ],
+        [
+          46.418954,
+          11.593224
+        ],
+        [
+          46.418983,
+          11.593114
+        ],
+        [
+          46.419088,
+          11.592709
+        ],
+        [
+          46.419164,
+          11.592365
+        ],
+        [
+          46.419272,
+          11.591917
+        ],
+        [
+          46.419327,
+          11.591646
+        ],
+        [
+          46.419379,
+          11.591357
+        ],
+        [
+          46.419427,
+          11.591115
+        ],
+        [
+          46.419479,
+          11.590946
+        ],
+        [
+          46.419542,
+          11.59081
+        ],
+        [
+          46.41964,
+          11.590649
+        ],
+        [
+          46.419832,
+          11.590391
+        ],
+        [
+          46.420009,
+          11.590123
+        ],
+        [
+          46.420131,
+          11.589943
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211197994_1",
+      "name": "Piste 211197994",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_24",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.420332,
+          11.58964
+        ],
+        [
+          46.420488,
+          11.589417
+        ],
+        [
+          46.420643,
+          11.589208
+        ],
+        [
+          46.420796,
+          11.589013
+        ],
+        [
+          46.420972,
+          11.588833
+        ],
+        [
+          46.421109,
+          11.588685
+        ],
+        [
+          46.421242,
+          11.588557
+        ],
+        [
+          46.421375,
+          11.588422
+        ],
+        [
+          46.421515,
+          11.588286
+        ],
+        [
+          46.421656,
+          11.588181
+        ],
+        [
+          46.421763,
+          11.588098
+        ],
+        [
+          46.421867,
+          11.588012
+        ],
+        [
+          46.422029,
+          11.587855
+        ],
+        [
+          46.422124,
+          11.587753
+        ],
+        [
+          46.422232,
+          11.587571
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356489_1",
+      "name": "Piste 211356489",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414708,
+          11.598685
+        ],
+        [
+          46.41478,
+          11.598803
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356489_2",
+      "name": "Piste 211356489",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_57",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.41478,
+          11.598803
+        ],
+        [
+          46.414883,
+          11.598934
+        ],
+        [
+          46.414954,
+          11.599009
+        ],
+        [
+          46.415044,
+          11.599068
+        ],
+        [
+          46.415129,
+          11.599114
+        ],
+        [
+          46.415206,
+          11.599135
+        ],
+        [
+          46.415252,
+          11.599116
+        ],
+        [
+          46.415297,
+          11.599055
+        ],
+        [
+          46.415336,
+          11.598923
+        ],
+        [
+          46.415365,
+          11.598741
+        ],
+        [
+          46.415389,
+          11.598599
+        ],
+        [
+          46.415424,
+          11.598457
+        ],
+        [
+          46.415462,
+          11.598261
+        ],
+        [
+          46.41549,
+          11.598095
+        ],
+        [
+          46.415551,
+          11.597912
+        ],
+        [
+          46.415625,
+          11.597799
+        ],
+        [
+          46.415719,
+          11.597628
+        ],
+        [
+          46.415788,
+          11.597499
+        ],
+        [
+          46.415869,
+          11.597365
+        ],
+        [
+          46.41596,
+          11.597226
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356494_0",
+      "name": "53 Hubertus",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_60",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.407703,
+          11.59637
+        ],
+        [
+          46.407839,
+          11.596039
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356494_1",
+      "name": "53 Hubertus",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.407839,
+          11.596039
+        ],
+        [
+          46.407881,
+          11.595923
+        ],
+        [
+          46.407899,
+          11.595764
+        ],
+        [
+          46.407932,
+          11.595444
+        ],
+        [
+          46.407963,
+          11.594857
+        ],
+        [
+          46.407976,
+          11.594173
+        ],
+        [
+          46.408015,
+          11.593471
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356494_2",
+      "name": "53 Hubertus",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.408015,
+          11.593471
+        ],
+        [
+          46.408032,
+          11.593174
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211356494_4",
+      "name": "53 Hubertus",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.408015,
+          11.593028
+        ],
+        [
+          46.407975,
+          11.592837
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211768971_4",
+      "name": "Piste 211768971",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.413443,
+          11.597049
+        ],
+        [
+          46.413537,
+          11.597067
+        ],
+        [
+          46.413637,
+          11.597056
+        ],
+        [
+          46.413778,
+          11.597024
+        ],
+        [
+          46.413893,
+          11.596981
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_211777131_1",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.440892,
+          11.600597
+        ],
+        [
+          46.440881,
+          11.600307
+        ],
+        [
+          46.440881,
+          11.599894
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777131_2",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_27",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.440881,
+          11.599894
+        ],
+        [
+          46.440881,
+          11.599637
+        ],
+        [
+          46.44087,
+          11.599234
+        ],
+        [
+          46.44087,
+          11.598902
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777132_1",
+      "name": "20 König Laurin - 20 Re Laurino",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_64",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          46.442487,
+          11.611059
+        ],
+        [
+          46.442695,
+          11.611002
+        ],
+        [
+          46.442918,
+          11.610969
+        ],
+        [
+          46.443112,
+          11.610805
+        ],
+        [
+          46.443222,
+          11.610518
+        ],
+        [
+          46.444147,
+          11.607334
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_211777133_1",
+      "name": "Piste 211777133",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_65",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.440695,
+          11.598466
+        ],
+        [
+          46.440481,
+          11.59821
+        ],
+        [
+          46.44005,
+          11.598095
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777134_7",
+      "name": "Piste 211777134",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.442232,
+          11.611522
+        ],
+        [
+          46.442308,
+          11.611315
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777135_1",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.441217,
+          11.603429
+        ],
+        [
+          46.441169,
+          11.603108
+        ],
+        [
+          46.441127,
+          11.602719
+        ],
+        [
+          46.441091,
+          11.60241
+        ],
+        [
+          46.440994,
+          11.601737
+        ],
+        [
+          46.440957,
+          11.601442
+        ],
+        [
+          46.440929,
+          11.601171
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777135_2",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.440929,
+          11.601171
+        ],
+        [
+          46.440888,
+          11.600785
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777135_4",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_68",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.440847,
+          11.600592
+        ],
+        [
+          46.44075,
+          11.600214
+        ],
+        [
+          46.440659,
+          11.599792
+        ],
+        [
+          46.440543,
+          11.599388
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777135_5",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_65",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.440543,
+          11.599388
+        ],
+        [
+          46.440399,
+          11.598942
+        ],
+        [
+          46.4403,
+          11.598719
+        ],
+        [
+          46.44005,
+          11.598095
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777135_6",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.44005,
+          11.598095
+        ],
+        [
+          46.440008,
+          11.598086
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777137_1",
+      "name": "23 Monte Coronelle",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_69",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.441139,
+          11.597314
+        ],
+        [
+          46.441195,
+          11.596847
+        ],
+        [
+          46.441239,
+          11.5963
+        ],
+        [
+          46.441284,
+          11.595828
+        ],
+        [
+          46.441339,
+          11.595485
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_211777137_4",
+      "name": "23 Monte Coronelle",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_70",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.441426,
+          11.594983
+        ],
+        [
+          46.441557,
+          11.594401
+        ],
+        [
+          46.441668,
+          11.593832
+        ],
+        [
+          46.441849,
+          11.593333
+        ],
+        [
+          46.441982,
+          11.593028
+        ],
+        [
+          46.442138,
+          11.592636
+        ],
+        [
+          46.442369,
+          11.592097
+        ],
+        [
+          46.442566,
+          11.591654
+        ],
+        [
+          46.442736,
+          11.591284
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_329614763_2",
+      "name": "30A Verbindung Tschein",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.43869,
+          11.598794
+        ],
+        [
+          46.43869,
+          11.599107
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_329614763_3",
+      "name": "30A Verbindung Tschein",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_73",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          46.43869,
+          11.599107
+        ],
+        [
+          46.438711,
+          11.599412
+        ],
+        [
+          46.438724,
+          11.599633
+        ],
+        [
+          46.438718,
+          11.599891
+        ],
+        [
+          46.438689,
+          11.600304
+        ],
+        [
+          46.438627,
+          11.600572
+        ],
+        [
+          46.438565,
+          11.600774
+        ],
+        [
+          46.438502,
+          11.601082
+        ],
+        [
+          46.43846,
+          11.601335
+        ],
+        [
+          46.438426,
+          11.601515
+        ],
+        [
+          46.438356,
+          11.601689
+        ],
+        [
+          46.438301,
+          11.601804
+        ],
+        [
+          46.43824,
+          11.601928
+        ],
+        [
+          46.438197,
+          11.601981
+        ],
+        [
+          46.438147,
+          11.602011
+        ],
+        [
+          46.438119,
+          11.601997
+        ],
+        [
+          46.438095,
+          11.60197
+        ],
+        [
+          46.438068,
+          11.601914
+        ],
+        [
+          46.438069,
+          11.601815
+        ],
+        [
+          46.438086,
+          11.601715
+        ],
+        [
+          46.43809,
+          11.601611
+        ],
+        [
+          46.438086,
+          11.601528
+        ],
+        [
+          46.438049,
+          11.601421
+        ],
+        [
+          46.438005,
+          11.601319
+        ],
+        [
+          46.437951,
+          11.601198
+        ],
+        [
+          46.437907,
+          11.601088
+        ],
+        [
+          46.437861,
+          11.600997
+        ],
+        [
+          46.437777,
+          11.600884
+        ],
+        [
+          46.437718,
+          11.600795
+        ],
+        [
+          46.437637,
+          11.600661
+        ],
+        [
+          46.437554,
+          11.600573
+        ],
+        [
+          46.437419,
+          11.600431
+        ],
+        [
+          46.43733,
+          11.600348
+        ],
+        [
+          46.437251,
+          11.600289
+        ],
+        [
+          46.437162,
+          11.60023
+        ],
+        [
+          46.437007,
+          11.600096
+        ],
+        [
+          46.436911,
+          11.599978
+        ],
+        [
+          46.436807,
+          11.599838
+        ],
+        [
+          46.436691,
+          11.599744
+        ],
+        [
+          46.436519,
+          11.599613
+        ],
+        [
+          46.436399,
+          11.599498
+        ],
+        [
+          46.436295,
+          11.59943
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_329615097_0",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_30",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.44137,
+          11.595193
+        ],
+        [
+          46.441907,
+          11.595111
+        ],
+        [
+          46.442234,
+          11.595244
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_329615097_2",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_19",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          46.44236,
+          11.594957
+        ],
+        [
+          46.443434,
+          11.593857
+        ],
+        [
+          46.443522,
+          11.593672
+        ],
+        [
+          46.443527,
+          11.593457
+        ],
+        [
+          46.443494,
+          11.592937
+        ],
+        [
+          46.44356,
+          11.592137
+        ],
+        [
+          46.443687,
+          11.591397
+        ],
+        [
+          46.44404,
+          11.590644
+        ],
+        [
+          46.444106,
+          11.590141
+        ],
+        [
+          46.444121,
+          11.590022
+        ],
+        [
+          46.44418,
+          11.589597
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_329615097_3",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.44418,
+          11.589597
+        ],
+        [
+          46.444158,
+          11.58922
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_329615098_0",
+      "name": "23 Variante Monte Coronelle",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_69",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.439811,
+          11.597996
+        ],
+        [
+          46.440053,
+          11.597371
+        ],
+        [
+          46.440289,
+          11.596794
+        ],
+        [
+          46.440574,
+          11.59608
+        ],
+        [
+          46.44137,
+          11.595193
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_688751240_1",
+      "name": "Connection 688751240",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.444515,
+          11.589216
+        ],
+        [
+          46.444338,
+          11.589161
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_767623356_0",
+      "name": "Piste 767623356",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.414318,
+          11.599056
+        ],
+        [
+          46.414275,
+          11.598807
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768686425_0",
+      "name": "20 König Laurin - 20 Re Laurino",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_75",
+      "distance": 1.28,
+      "duration": 2,
+      "elevation": -204,
+      "geometry": [
+        [
+          46.444147,
+          11.607334
+        ],
+        [
+          46.444385,
+          11.606302
+        ],
+        [
+          46.444503,
+          11.605769
+        ],
+        [
+          46.444602,
+          11.605464
+        ],
+        [
+          46.444744,
+          11.605251
+        ],
+        [
+          46.444969,
+          11.604963
+        ],
+        [
+          46.445274,
+          11.604417
+        ],
+        [
+          46.44551,
+          11.603602
+        ],
+        [
+          46.445743,
+          11.60267
+        ],
+        [
+          46.445939,
+          11.601653
+        ],
+        [
+          46.446086,
+          11.60081
+        ],
+        [
+          46.446155,
+          11.599959
+        ],
+        [
+          46.446111,
+          11.599103
+        ],
+        [
+          46.446029,
+          11.598281
+        ],
+        [
+          46.445853,
+          11.597168
+        ],
+        [
+          46.445837,
+          11.596213
+        ],
+        [
+          46.445863,
+          11.595619
+        ],
+        [
+          46.445845,
+          11.595224
+        ],
+        [
+          46.445805,
+          11.594892
+        ],
+        [
+          46.445636,
+          11.594535
+        ],
+        [
+          46.445362,
+          11.594128
+        ],
+        [
+          46.445277,
+          11.593814
+        ],
+        [
+          46.445319,
+          11.593377
+        ],
+        [
+          46.445442,
+          11.592917
+        ],
+        [
+          46.445494,
+          11.59242
+        ],
+        [
+          46.44542,
+          11.591705
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768686426_0",
+      "name": "20 König Laurin",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.44542,
+          11.591705
+        ],
+        [
+          46.44523,
+          11.591162
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768686426_2",
+      "name": "20 König Laurin",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_19",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.445042,
+          11.590816
+        ],
+        [
+          46.444689,
+          11.590458
+        ],
+        [
+          46.444491,
+          11.590211
+        ],
+        [
+          46.44418,
+          11.589597
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768687057_2",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_76",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          46.442459,
+          11.610768
+        ],
+        [
+          46.442478,
+          11.610435
+        ],
+        [
+          46.442518,
+          11.610006
+        ],
+        [
+          46.442529,
+          11.609566
+        ],
+        [
+          46.442524,
+          11.609398
+        ],
+        [
+          46.442518,
+          11.609233
+        ],
+        [
+          46.442511,
+          11.608987
+        ],
+        [
+          46.442463,
+          11.608482
+        ],
+        [
+          46.442419,
+          11.608064
+        ],
+        [
+          46.442378,
+          11.607737
+        ],
+        [
+          46.442322,
+          11.607351
+        ],
+        [
+          46.442259,
+          11.606997
+        ],
+        [
+          46.442193,
+          11.606702
+        ],
+        [
+          46.442123,
+          11.606315
+        ],
+        [
+          46.442064,
+          11.606058
+        ],
+        [
+          46.441931,
+          11.605685
+        ],
+        [
+          46.441838,
+          11.605468
+        ],
+        [
+          46.441727,
+          11.605248
+        ],
+        [
+          46.441609,
+          11.605023
+        ],
+        [
+          46.441454,
+          11.604652
+        ],
+        [
+          46.441361,
+          11.604411
+        ],
+        [
+          46.441295,
+          11.604191
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_768687057_3",
+      "name": "21 Laurin II",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.441295,
+          11.604191
+        ],
+        [
+          46.441272,
+          11.604003
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_768717598_0",
+      "name": "30A Verbindung Tschein",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.439811,
+          11.597996
+        ],
+        [
+          46.43959,
+          11.597755
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768717598_3",
+      "name": "30A Verbindung Tschein",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.43938,
+          11.597577
+        ],
+        [
+          46.439249,
+          11.597499
+        ],
+        [
+          46.439127,
+          11.597462
+        ],
+        [
+          46.438774,
+          11.597292
+        ],
+        [
+          46.438474,
+          11.597055
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768717598_7",
+      "name": "30A Verbindung Tschein",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_71",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.43838,
+          11.597323
+        ],
+        [
+          46.438496,
+          11.597836
+        ],
+        [
+          46.438627,
+          11.598307
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768717599_3",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_80",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.424122,
+          11.588814
+        ],
+        [
+          46.424024,
+          11.588782
+        ],
+        [
+          46.423925,
+          11.588755
+        ],
+        [
+          46.423829,
+          11.588715
+        ],
+        [
+          46.423742,
+          11.58864
+        ],
+        [
+          46.423645,
+          11.588525
+        ],
+        [
+          46.423535,
+          11.588417
+        ],
+        [
+          46.423441,
+          11.588262
+        ],
+        [
+          46.423347,
+          11.588114
+        ],
+        [
+          46.423273,
+          11.587985
+        ],
+        [
+          46.423177,
+          11.587878
+        ],
+        [
+          46.423075,
+          11.587782
+        ],
+        [
+          46.422935,
+          11.587653
+        ],
+        [
+          46.422835,
+          11.587559
+        ],
+        [
+          46.422748,
+          11.587494
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768717599_9",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.422339,
+          11.58725
+        ],
+        [
+          46.422217,
+          11.587194
+        ],
+        [
+          46.422056,
+          11.587132
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768717600_1",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_71",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.439379,
+          11.597922
+        ],
+        [
+          46.439096,
+          11.598147
+        ],
+        [
+          46.438889,
+          11.598454
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768717600_4",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.4386,
+          11.598926
+        ],
+        [
+          46.438494,
+          11.599039
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768717600_5",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_73",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.438494,
+          11.599039
+        ],
+        [
+          46.438382,
+          11.599149
+        ],
+        [
+          46.43824,
+          11.599248
+        ],
+        [
+          46.438023,
+          11.599376
+        ],
+        [
+          46.437875,
+          11.599446
+        ],
+        [
+          46.437753,
+          11.599492
+        ],
+        [
+          46.437661,
+          11.599505
+        ],
+        [
+          46.437511,
+          11.599503
+        ],
+        [
+          46.437408,
+          11.599481
+        ],
+        [
+          46.437282,
+          11.599441
+        ],
+        [
+          46.437144,
+          11.599398
+        ],
+        [
+          46.437025,
+          11.599363
+        ],
+        [
+          46.436903,
+          11.599331
+        ],
+        [
+          46.436768,
+          11.59931
+        ],
+        [
+          46.436644,
+          11.599307
+        ],
+        [
+          46.4366,
+          11.599309
+        ],
+        [
+          46.436535,
+          11.599312
+        ],
+        [
+          46.436432,
+          11.599329
+        ],
+        [
+          46.436314,
+          11.599336
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768720618_1",
+      "name": "23 Monte Coronelle",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_81",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.442879,
+          11.590713
+        ],
+        [
+          46.442873,
+          11.590426
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768720618_5",
+      "name": "23 Monte Coronelle",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.442714,
+          11.589906
+        ],
+        [
+          46.442577,
+          11.589611
+        ],
+        [
+          46.442492,
+          11.589401
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768720619_1",
+      "name": "22 Frommer",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_81",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          46.44236,
+          11.594957
+        ],
+        [
+          46.443434,
+          11.593857
+        ],
+        [
+          46.443522,
+          11.593672
+        ],
+        [
+          46.443527,
+          11.593457
+        ],
+        [
+          46.443494,
+          11.592937
+        ],
+        [
+          46.44356,
+          11.592137
+        ],
+        [
+          46.443687,
+          11.591397
+        ],
+        [
+          46.443078,
+          11.590417
+        ],
+        [
+          46.44291,
+          11.590216
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_768822560_0",
+      "name": "22 Variante Frommer",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_65",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.439811,
+          11.597996
+        ],
+        [
+          46.440103,
+          11.597744
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_768822560_1",
+      "name": "22 Variante Frommer",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_29",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.440103,
+          11.597744
+        ],
+        [
+          46.44039,
+          11.597464
+        ],
+        [
+          46.440669,
+          11.597248
+        ],
+        [
+          46.440944,
+          11.597033
+        ],
+        [
+          46.441195,
+          11.596847
+        ],
+        [
+          46.441465,
+          11.596632
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_770721873_0",
+      "name": "24 Laurin I",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_82",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          46.438214,
+          11.563151
+        ],
+        [
+          46.438066,
+          11.562112
+        ],
+        [
+          46.43767,
+          11.560858
+        ],
+        [
+          46.437485,
+          11.560697
+        ],
+        [
+          46.437259,
+          11.560096
+        ],
+        [
+          46.437108,
+          11.559392
+        ],
+        [
+          46.43711,
+          11.558708
+        ],
+        [
+          46.437164,
+          11.558166
+        ],
+        [
+          46.437158,
+          11.557641
+        ],
+        [
+          46.437101,
+          11.557243
+        ],
+        [
+          46.436948,
+          11.556942
+        ],
+        [
+          46.436465,
+          11.555567
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_772546585_3",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_84",
+      "distance": 1.17,
+      "duration": 2,
+      "elevation": -187,
+      "geometry": [
+        [
+          46.433526,
+          11.595673
+        ],
+        [
+          46.433408,
+          11.595488
+        ],
+        [
+          46.433317,
+          11.595321
+        ],
+        [
+          46.433114,
+          11.595037
+        ],
+        [
+          46.432947,
+          11.594803
+        ],
+        [
+          46.432807,
+          11.594608
+        ],
+        [
+          46.432655,
+          11.594398
+        ],
+        [
+          46.432528,
+          11.59424
+        ],
+        [
+          46.432345,
+          11.59406
+        ],
+        [
+          46.432204,
+          11.59391
+        ],
+        [
+          46.432077,
+          11.593789
+        ],
+        [
+          46.431938,
+          11.593685
+        ],
+        [
+          46.431773,
+          11.593591
+        ],
+        [
+          46.431657,
+          11.593503
+        ],
+        [
+          46.431522,
+          11.593395
+        ],
+        [
+          46.431269,
+          11.593226
+        ],
+        [
+          46.431095,
+          11.593116
+        ],
+        [
+          46.430957,
+          11.593041
+        ],
+        [
+          46.430705,
+          11.59292
+        ],
+        [
+          46.430563,
+          11.592862
+        ],
+        [
+          46.430352,
+          11.592711
+        ],
+        [
+          46.430085,
+          11.592531
+        ],
+        [
+          46.429893,
+          11.592384
+        ],
+        [
+          46.429542,
+          11.592129
+        ],
+        [
+          46.429271,
+          11.591904
+        ],
+        [
+          46.429136,
+          11.591796
+        ],
+        [
+          46.428952,
+          11.591649
+        ],
+        [
+          46.42874,
+          11.591536
+        ],
+        [
+          46.428535,
+          11.591435
+        ],
+        [
+          46.428394,
+          11.591301
+        ],
+        [
+          46.428331,
+          11.591212
+        ],
+        [
+          46.42825,
+          11.591099
+        ],
+        [
+          46.428109,
+          11.590836
+        ],
+        [
+          46.427985,
+          11.590694
+        ],
+        [
+          46.427752,
+          11.590431
+        ],
+        [
+          46.427619,
+          11.590265
+        ],
+        [
+          46.427522,
+          11.590096
+        ],
+        [
+          46.427427,
+          11.589922
+        ],
+        [
+          46.427344,
+          11.589769
+        ],
+        [
+          46.427187,
+          11.589622
+        ],
+        [
+          46.42705,
+          11.589506
+        ],
+        [
+          46.426909,
+          11.589374
+        ],
+        [
+          46.426804,
+          11.589268
+        ],
+        [
+          46.42664,
+          11.589099
+        ],
+        [
+          46.426488,
+          11.58894
+        ],
+        [
+          46.426383,
+          11.588849
+        ],
+        [
+          46.42629,
+          11.588779
+        ],
+        [
+          46.426077,
+          11.588637
+        ],
+        [
+          46.425828,
+          11.588495
+        ],
+        [
+          46.425682,
+          11.588425
+        ],
+        [
+          46.425452,
+          11.588366
+        ],
+        [
+          46.425318,
+          11.58835
+        ],
+        [
+          46.425223,
+          11.588366
+        ],
+        [
+          46.425042,
+          11.588444
+        ],
+        [
+          46.424891,
+          11.588498
+        ],
+        [
+          46.424624,
+          11.588618
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_772546585_4",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_79",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.424624,
+          11.588618
+        ],
+        [
+          46.424393,
+          11.588763
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_772546586_1",
+      "name": "45 Paolina",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_42",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.409602,
+          11.595799
+        ],
+        [
+          46.409376,
+          11.595144
+        ],
+        [
+          46.409249,
+          11.594798
+        ],
+        [
+          46.409008,
+          11.594178
+        ],
+        [
+          46.408855,
+          11.593744
+        ],
+        [
+          46.408657,
+          11.593221
+        ],
+        [
+          46.408503,
+          11.592878
+        ],
+        [
+          46.408488,
+          11.592849
+        ],
+        [
+          46.408362,
+          11.592609
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_772929517_1",
+      "name": "Verbindung 30A Tschein - 22 Frommer",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_69",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          46.438472,
+          11.596936
+        ],
+        [
+          46.438604,
+          11.596577
+        ],
+        [
+          46.438692,
+          11.596295
+        ],
+        [
+          46.438807,
+          11.596097
+        ],
+        [
+          46.439036,
+          11.596027
+        ],
+        [
+          46.43942,
+          11.595879
+        ],
+        [
+          46.439667,
+          11.595738
+        ],
+        [
+          46.439919,
+          11.595674
+        ],
+        [
+          46.440196,
+          11.595636
+        ],
+        [
+          46.440413,
+          11.595604
+        ],
+        [
+          46.440663,
+          11.595521
+        ],
+        [
+          46.441021,
+          11.595367
+        ],
+        [
+          46.44137,
+          11.595193
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_772939174_3",
+      "name": "42 Rosengarten",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_55",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.415735,
+          11.60775
+        ],
+        [
+          46.415729,
+          11.607581
+        ],
+        [
+          46.415695,
+          11.607402
+        ],
+        [
+          46.415662,
+          11.607219
+        ],
+        [
+          46.415627,
+          11.607034
+        ],
+        [
+          46.415594,
+          11.606884
+        ],
+        [
+          46.415566,
+          11.606736
+        ],
+        [
+          46.415505,
+          11.606412
+        ],
+        [
+          46.415459,
+          11.60616
+        ],
+        [
+          46.415398,
+          11.605908
+        ],
+        [
+          46.415282,
+          11.605441
+        ],
+        [
+          46.415177,
+          11.604913
+        ],
+        [
+          46.415091,
+          11.60447
+        ],
+        [
+          46.414976,
+          11.603936
+        ],
+        [
+          46.414884,
+          11.603454
+        ],
+        [
+          46.41481,
+          11.603132
+        ],
+        [
+          46.414717,
+          11.602732
+        ],
+        [
+          46.414612,
+          11.602276
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_772939174_4",
+      "name": "42 Rosengarten",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_85",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.414612,
+          11.602276
+        ],
+        [
+          46.414493,
+          11.601833
+        ],
+        [
+          46.414417,
+          11.601482
+        ],
+        [
+          46.414214,
+          11.600755
+        ],
+        [
+          46.414135,
+          11.600463
+        ],
+        [
+          46.414051,
+          11.600168
+        ],
+        [
+          46.413989,
+          11.599913
+        ],
+        [
+          46.413927,
+          11.599682
+        ],
+        [
+          46.413891,
+          11.59954
+        ],
+        [
+          46.413851,
+          11.599328
+        ],
+        [
+          46.413846,
+          11.599197
+        ],
+        [
+          46.413863,
+          11.59906
+        ],
+        [
+          46.413891,
+          11.598996
+        ],
+        [
+          46.413939,
+          11.598921
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_772942746_0",
+      "name": "55a Variante Latemarwiesen - 55a Variante Prati di Latemar",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.68,
+      "duration": 1,
+      "elevation": -108,
+      "geometry": [
+        [
+          46.396517,
+          11.598656
+        ],
+        [
+          46.396307,
+          11.597972
+        ],
+        [
+          46.396181,
+          11.597285
+        ],
+        [
+          46.39616,
+          11.596624
+        ],
+        [
+          46.39616,
+          11.595891
+        ],
+        [
+          46.396246,
+          11.595222
+        ],
+        [
+          46.396386,
+          11.594775
+        ],
+        [
+          46.396464,
+          11.594642
+        ],
+        [
+          46.396557,
+          11.594586
+        ],
+        [
+          46.39668,
+          11.594616
+        ],
+        [
+          46.396789,
+          11.594735
+        ],
+        [
+          46.39694,
+          11.594983
+        ],
+        [
+          46.397466,
+          11.595737
+        ],
+        [
+          46.397938,
+          11.596242
+        ],
+        [
+          46.398369,
+          11.596689
+        ],
+        [
+          46.398622,
+          11.596877
+        ],
+        [
+          46.399038,
+          11.597142
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_773872344_0",
+      "name": "Verbindung Laurin 2 - Tschein",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_86",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.440543,
+          11.599388
+        ],
+        [
+          46.440303,
+          11.59914
+        ],
+        [
+          46.440047,
+          11.598886
+        ],
+        [
+          46.439803,
+          11.598771
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_773872344_2",
+      "name": "Verbindung Laurin 2 - Tschein",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_71",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.439734,
+          11.598738
+        ],
+        [
+          46.439313,
+          11.598692
+        ],
+        [
+          46.438938,
+          11.598713
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_773875906_1",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_87",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.435872,
+          11.599235
+        ],
+        [
+          46.435788,
+          11.599143
+        ],
+        [
+          46.435681,
+          11.599012
+        ],
+        [
+          46.435567,
+          11.598886
+        ],
+        [
+          46.435428,
+          11.598765
+        ],
+        [
+          46.43528,
+          11.598634
+        ],
+        [
+          46.435169,
+          11.598534
+        ],
+        [
+          46.434984,
+          11.598384
+        ],
+        [
+          46.434914,
+          11.598258
+        ],
+        [
+          46.434739,
+          11.597893
+        ],
+        [
+          46.434615,
+          11.597671
+        ],
+        [
+          46.434567,
+          11.597582
+        ],
+        [
+          46.434472,
+          11.597416
+        ],
+        [
+          46.434378,
+          11.597258
+        ],
+        [
+          46.434319,
+          11.597046
+        ],
+        [
+          46.43429,
+          11.596923
+        ],
+        [
+          46.434226,
+          11.59678
+        ],
+        [
+          46.434147,
+          11.59667
+        ],
+        [
+          46.434071,
+          11.596585
+        ],
+        [
+          46.433994,
+          11.596499
+        ],
+        [
+          46.433918,
+          11.596415
+        ],
+        [
+          46.433853,
+          11.596316
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_773875906_2",
+      "name": "30 Tschein",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_83",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.433853,
+          11.596316
+        ],
+        [
+          46.433768,
+          11.596147
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1234245348_14",
+      "name": "55 Prati di Latemar",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_88",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.39579,
+          11.601171
+        ],
+        [
+          46.395747,
+          11.601259
+        ],
+        [
+          46.39571,
+          11.601359
+        ],
+        [
+          46.395706,
+          11.60142
+        ],
+        [
+          46.395712,
+          11.601506
+        ],
+        [
+          46.395745,
+          11.601616
+        ],
+        [
+          46.395806,
+          11.601673
+        ],
+        [
+          46.395889,
+          11.601724
+        ],
+        [
+          46.395965,
+          11.60174
+        ],
+        [
+          46.396056,
+          11.601724
+        ],
+        [
+          46.396191,
+          11.601721
+        ],
+        [
+          46.396292,
+          11.601707
+        ],
+        [
+          46.396379,
+          11.601683
+        ],
+        [
+          46.396534,
+          11.601592
+        ],
+        [
+          46.396647,
+          11.601509
+        ],
+        [
+          46.39685,
+          11.601407
+        ],
+        [
+          46.397022,
+          11.601313
+        ],
+        [
+          46.397148,
+          11.601227
+        ],
+        [
+          46.397245,
+          11.601064
+        ],
+        [
+          46.397347,
+          11.600825
+        ],
+        [
+          46.397431,
+          11.600616
+        ],
+        [
+          46.397509,
+          11.600372
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1234245348_15",
+      "name": "55 Prati di Latemar",
+      "type": "slope",
+      "from": "node_88",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.397509,
+          11.600372
+        ],
+        [
+          46.397568,
+          11.600141
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_4",
+      "name": "Walk: Paolina (Base) ↔ Hubertus (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408151,
+          11.591732
+        ],
+        [
+          46.407795,
+          11.592471
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_10",
+      "name": "Walk: Paolina (Base) ↔ Golf I (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_10",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408151,
+          11.591732
+        ],
+        [
+          46.408436,
+          11.59143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_42",
+      "name": "Walk: Paolina (Base) ↔ Junction: 43B Golf II",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_42",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408151,
+          11.591732
+        ],
+        [
+          46.408188,
+          11.592552
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_53",
+      "name": "Walk: Paolina (Base) ↔ Junction: 43 Golf I",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_53",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408151,
+          11.591732
+        ],
+        [
+          46.408463,
+          11.591988
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_24",
+      "name": "Walk: Tschein (Base) ↔ Franzin (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_24",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421944,
+          11.586892
+        ],
+        [
+          46.422383,
+          11.587441
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_65",
+      "name": "Walk: Tschein (Summit / Top) ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_65",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439839,
+          11.598084
+        ],
+        [
+          46.440071,
+          11.597955
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_77",
+      "name": "Walk: Tschein (Summit / Top) ↔ Junction: 30A Verbindung Tschein",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439839,
+          11.598084
+        ],
+        [
+          46.439486,
+          11.597742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_86",
+      "name": "Walk: Tschein (Summit / Top) ↔ Junction: Verbindung Laurin 2 - Tschein",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_86",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.439839,
+          11.598084
+        ],
+        [
+          46.439769,
+          11.598754
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_10",
+      "name": "Walk: Hubertus (Base) ↔ Golf I (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_10",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.407795,
+          11.592471
+        ],
+        [
+          46.408436,
+          11.59143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_41",
+      "name": "Walk: Hubertus (Base) ↔ Junction: 53 Hubertus",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.407795,
+          11.592471
+        ],
+        [
+          46.408113,
+          11.592932
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_42",
+      "name": "Walk: Hubertus (Base) ↔ Junction: 43B Golf II",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_42",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.407795,
+          11.592471
+        ],
+        [
+          46.408188,
+          11.592552
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_6",
+      "name": "Walk: Hubertus (Summit / Top) ↔ Pra di Tori (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403249,
+          11.607242
+        ],
+        [
+          46.403652,
+          11.60882
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_8",
+      "name": "Walk: Hubertus (Summit / Top) ↔ Le Pope (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_8",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403249,
+          11.607242
+        ],
+        [
+          46.403564,
+          11.608918
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_13",
+      "name": "Walk: Hubertus (Summit / Top) ↔ Junction #14",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_13",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403249,
+          11.607242
+        ],
+        [
+          46.403543,
+          11.607533
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_8",
+      "name": "Walk: Pra di Tori (Base) ↔ Le Pope (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 0.01,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403652,
+          11.60882
+        ],
+        [
+          46.403564,
+          11.608918
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_13",
+      "name": "Walk: Pra di Tori (Base) ↔ Junction #14",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_13",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403652,
+          11.60882
+        ],
+        [
+          46.403543,
+          11.607533
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_14",
+      "name": "Walk: Pra di Tori (Base) ↔ Junction #15",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_14",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403652,
+          11.60882
+        ],
+        [
+          46.403173,
+          11.609634
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_39",
+      "name": "Walk: Pra di Tori (Base) ↔ Junction: 56 Le Pope",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403652,
+          11.60882
+        ],
+        [
+          46.403142,
+          11.608444
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_13",
+      "name": "Walk: Le Pope (Base) ↔ Junction #14",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_13",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403564,
+          11.608918
+        ],
+        [
+          46.403543,
+          11.607533
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_14",
+      "name": "Walk: Le Pope (Base) ↔ Junction #15",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403564,
+          11.608918
+        ],
+        [
+          46.403173,
+          11.609634
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_39",
+      "name": "Walk: Le Pope (Base) ↔ Junction: 56 Le Pope",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.403564,
+          11.608918
+        ],
+        [
+          46.403142,
+          11.608444
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_53",
+      "name": "Walk: Golf I (Base) ↔ Junction: 43 Golf I",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_53",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408436,
+          11.59143
+        ],
+        [
+          46.408463,
+          11.591988
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_52",
+      "name": "Walk: Golf II (Summit / Top) ↔ Junction: 43B Golf II",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_52",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.410003,
+          11.593516
+        ],
+        [
+          46.409445,
+          11.593136
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_17",
+      "name": "Walk: Nani Lift (Base) ↔ Welschnofen Laurin 1 - Nova Levante Laurino 1 (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.444592,
+          11.589275
+        ],
+        [
+          46.44413,
+          11.589098
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_19",
+      "name": "Walk: Nani Lift (Base) ↔ König Laurin I - Re Laurino I (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.444592,
+          11.589275
+        ],
+        [
+          46.444142,
+          11.589539
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_21",
+      "name": "Walk: Nani Lift (Base) ↔ Tiers am Rosengarten - Frommeralm (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_21",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.444592,
+          11.589275
+        ],
+        [
+          46.445379,
+          11.589415
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_21",
+      "name": "Walk: Nani Lift (Summit / Top) ↔ Tiers am Rosengarten - Frommeralm (Base)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_21",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.445162,
+          11.591002
+        ],
+        [
+          46.445379,
+          11.589415
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_75",
+      "name": "Walk: Nani Lift (Summit / Top) ↔ Junction: 20 König Laurin - 20 Re Laurino",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_75",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.445162,
+          11.591002
+        ],
+        [
+          46.44542,
+          11.591705
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_19",
+      "name": "Walk: Welschnofen Laurin 1 - Nova Levante Laurino 1 (Base) ↔ König Laurin I - Re Laurino I (Base)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_19",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.44413,
+          11.589098
+        ],
+        [
+          46.444142,
+          11.589539
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_21",
+      "name": "Walk: König Laurin I - Re Laurino I (Base) ↔ Tiers am Rosengarten - Frommeralm (Base)",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_21",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.444142,
+          11.589539
+        ],
+        [
+          46.445379,
+          11.589415
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_62",
+      "name": "Walk: König Laurin II - Re Laurino II (Mid-Station / Hub) ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_62",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.441119,
+          11.599883
+        ],
+        [
+          46.440878,
+          11.600676
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_63",
+      "name": "Walk: König Laurin II - Re Laurino II (Summit / Top) ↔ Junction: 20 König Laurin - 20 Re Laurino",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_63",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.442248,
+          11.611903
+        ],
+        [
+          46.442403,
+          11.611067
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_80",
+      "name": "Walk: Franzin (Base) ↔ Junction: 30 Tschein",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_80",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.422383,
+          11.587441
+        ],
+        [
+          46.42254,
+          11.587355
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Junction: 22 Frommer ↔ Junction: 22 Frommer",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440916,
+          11.598853
+        ],
+        [
+          46.44082,
+          11.598649
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_68",
+      "name": "Walk: Junction: 22 Frommer ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_68",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440916,
+          11.598853
+        ],
+        [
+          46.440543,
+          11.599388
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_68",
+      "name": "Walk: Junction: 22 Frommer ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_68",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.44082,
+          11.598649
+        ],
+        [
+          46.440543,
+          11.599388
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_34_node_60",
+      "name": "Walk: Junction: 53 Hubertus ↔ Junction: 53 Hubertus",
+      "type": "walk",
+      "from": "node_34",
+      "to": "node_60",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.407639,
+          11.596502
+        ],
+        [
+          46.407839,
+          11.596039
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_35_node_88",
+      "name": "Walk: Junction: 55 Latemarwiesen - 55 Prati di Latemar ↔ Junction: 55 Prati di Latemar",
+      "type": "walk",
+      "from": "node_35",
+      "to": "node_88",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.397569,
+          11.59992
+        ],
+        [
+          46.397509,
+          11.600372
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_42",
+      "name": "Walk: Junction: 53 Hubertus ↔ Junction: 43B Golf II",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408113,
+          11.592932
+        ],
+        [
+          46.408188,
+          11.592552
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_61",
+      "name": "Walk: Junction: 53 Hubertus ↔ Junction: 53 Hubertus",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_61",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408113,
+          11.592932
+        ],
+        [
+          46.408015,
+          11.593471
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_53",
+      "name": "Walk: Junction: 43B Golf II ↔ Junction: 43 Golf I",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.408188,
+          11.592552
+        ],
+        [
+          46.408463,
+          11.591988
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_44",
+      "name": "Walk: Junction: 45 Paolina ↔ Junction: 45 Paolina",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414346,
+          11.60961
+        ],
+        [
+          46.414403,
+          11.609188
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_50",
+      "name": "Walk: Junction: 45 Paolina ↔ Junction: 44a Verbindung Masarè Hütte",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_50",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414346,
+          11.60961
+        ],
+        [
+          46.414687,
+          11.609314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_50",
+      "name": "Walk: Junction: 45 Paolina ↔ Junction: 44a Verbindung Masarè Hütte",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_50",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414403,
+          11.609188
+        ],
+        [
+          46.414687,
+          11.609314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_47",
+      "name": "Walk: Junction: 43A Golf I ↔ Junction: 43A Golf I",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414398,
+          11.598575
+        ],
+        [
+          46.414091,
+          11.597991
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_59",
+      "name": "Walk: Junction: 43A Golf I ↔ Junction #60",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414398,
+          11.598575
+        ],
+        [
+          46.41478,
+          11.598803
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_74",
+      "name": "Walk: Junction: 43A Golf I ↔ Junction #75",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_74",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414398,
+          11.598575
+        ],
+        [
+          46.414318,
+          11.599056
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_85",
+      "name": "Walk: Junction: 43A Golf I ↔ Junction: 42 Rosengarten",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_85",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414398,
+          11.598575
+        ],
+        [
+          46.41404,
+          11.598865
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_47_node_85",
+      "name": "Walk: Junction: 43A Golf I ↔ Junction: 42 Rosengarten",
+      "type": "walk",
+      "from": "node_47",
+      "to": "node_85",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414091,
+          11.597991
+        ],
+        [
+          46.41404,
+          11.598865
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_59_node_74",
+      "name": "Walk: Junction #60 ↔ Junction #75",
+      "type": "walk",
+      "from": "node_59",
+      "to": "node_74",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.41478,
+          11.598803
+        ],
+        [
+          46.414318,
+          11.599056
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_62_node_67",
+      "name": "Walk: Junction: 21 Laurin II ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_62",
+      "to": "node_67",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440878,
+          11.600676
+        ],
+        [
+          46.440929,
+          11.601171
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_65_node_77",
+      "name": "Walk: Junction: 21 Laurin II ↔ Junction: 30A Verbindung Tschein",
+      "type": "walk",
+      "from": "node_65",
+      "to": "node_77",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440071,
+          11.597955
+        ],
+        [
+          46.439486,
+          11.597742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_65_node_86",
+      "name": "Walk: Junction: 21 Laurin II ↔ Junction: Verbindung Laurin 2 - Tschein",
+      "type": "walk",
+      "from": "node_65",
+      "to": "node_86",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.440071,
+          11.597955
+        ],
+        [
+          46.439769,
+          11.598754
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_66_node_76",
+      "name": "Walk: Junction: 21 Laurin II ↔ Junction: 21 Laurin II",
+      "type": "walk",
+      "from": "node_66",
+      "to": "node_76",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.441244,
+          11.603744
+        ],
+        [
+          46.441295,
+          11.604191
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_70_node_81",
+      "name": "Walk: Junction: 23 Monte Coronelle ↔ Junction: 23 Monte Coronelle",
+      "type": "walk",
+      "from": "node_70",
+      "to": "node_81",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.442821,
+          11.590999
+        ],
+        [
+          46.442821,
+          11.590139
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_71_node_72",
+      "name": "Walk: Junction: 30A Verbindung Tschein ↔ Junction: 30A Verbindung Tschein",
+      "type": "walk",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.438726,
+          11.598669
+        ],
+        [
+          46.438592,
+          11.599073
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_74_node_85",
+      "name": "Walk: Junction #75 ↔ Junction: 42 Rosengarten",
+      "type": "walk",
+      "from": "node_74",
+      "to": "node_85",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.414318,
+          11.599056
+        ],
+        [
+          46.41404,
+          11.598865
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_79_node_84",
+      "name": "Walk: Junction: 30 Tschein ↔ Junction: 30 Tschein",
+      "type": "walk",
+      "from": "node_79",
+      "to": "node_84",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.424247,
+          11.588812
+        ],
+        [
+          46.424624,
+          11.588618
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_83_node_87",
+      "name": "Walk: Junction: 30 Tschein ↔ Junction: 30 Tschein",
+      "type": "walk",
+      "from": "node_83",
+      "to": "node_87",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.433644,
+          11.595902
+        ],
+        [
+          46.433853,
+          11.596316
+        ]
+      ]
+    },
+    {
+      "id": "bus_return_node_2_node_59",
+      "name": "Ski Bus Inter-Sector",
+      "type": "bus",
+      "from": "node_2",
+      "to": "node_59",
+      "distance": 1.21,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.421944,
+          11.586892
+        ],
+        [
+          46.41478,
+          11.598803
+        ]
+      ]
+    }
+  ]
+}

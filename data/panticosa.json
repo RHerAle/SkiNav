@@ -1,0 +1,3996 @@
+{
+  "id": "panticosa",
+  "name": "Panticosa",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.6855,
+      -0.2862
+    ],
+    [
+      42.7267,
+      -0.2556
+    ]
+  ],
+  "center": [
+    42.7019,
+    -0.2713
+  ],
+  "stats": {
+    "slopes": "18.3 km",
+    "lifts": 15,
+    "elevation": "1145m - 2220m",
+    "drop": "1075m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Telecabina Panticosa (Base)",
+      "lat": 42.721736,
+      "lng": -0.280398,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Telecabina Panticosa (Summit / Top)",
+      "lat": 42.70286,
+      "lng": -0.274458,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Petrosos (Base)",
+      "lat": 42.7116,
+      "lng": -0.277542,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Telecabina C3 (Mid-Station / Hub)",
+      "lat": 42.703074,
+      "lng": -0.275946,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Fobas (Base)",
+      "lat": 42.707601,
+      "lng": -0.268663,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Fobas (Summit / Top)",
+      "lat": 42.703425,
+      "lng": -0.274595,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Fobas II (Base)",
+      "lat": 42.701277,
+      "lng": -0.279354,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Fobas II (Summit / Top)",
+      "lat": 42.699257,
+      "lng": -0.272721,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Mandilar (Base)",
+      "lat": 42.70281,
+      "lng": -0.271259,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Mandilar (Summit / Top)",
+      "lat": 42.699596,
+      "lng": -0.27228,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Sabocos (Base)",
+      "lat": 42.702293,
+      "lng": -0.275458,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "O'Fonil (Mid-Station / Hub)",
+      "lat": 42.695873,
+      "lng": -0.263483,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Javier Escartín (Base)",
+      "lat": 42.696156,
+      "lng": -0.264185,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Javier Escartín (Summit / Top)",
+      "lat": 42.693625,
+      "lng": -0.272048,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Corona de Aragón (Base)",
+      "lat": 42.695559,
+      "lng": -0.26371,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Corona de Aragón (Summit / Top)",
+      "lat": 42.690526,
+      "lng": -0.264411,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "O'Fonil (Summit / Top)",
+      "lat": 42.694502,
+      "lng": -0.262354,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Ibón de Sabocos (Base)",
+      "lat": 42.693272,
+      "lng": -0.260609,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Cinta Yanel C5 (Mid-Station / Hub)",
+      "lat": 42.702134,
+      "lng": -0.273878,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Selva Verde C3 (Base)",
+      "lat": 42.703854,
+      "lng": -0.273893,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Telecabina C3 (Summit / Top)",
+      "lat": 42.703657,
+      "lng": -0.274916,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Chiquitines C1 (Base)",
+      "lat": 42.70307,
+      "lng": -0.275245,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Alimoche C2 (Base)",
+      "lat": 42.703117,
+      "lng": -0.272801,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Martín Belio",
+      "lat": 42.692912,
+      "lng": -0.265337,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Martín Belio",
+      "lat": 42.693977,
+      "lng": -0.265921,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Los Asnos",
+      "lat": 42.694158,
+      "lng": -0.267738,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Los Asnos",
+      "lat": 42.69426,
+      "lng": -0.266521,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Cuartalé",
+      "lat": 42.694381,
+      "lng": -0.266267,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Cuartalé",
+      "lat": 42.69551,
+      "lng": -0.266636,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Senderos",
+      "lat": 42.696264,
+      "lng": -0.266879,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Senderos",
+      "lat": 42.697312,
+      "lng": -0.265851,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Marmotas",
+      "lat": 42.699091,
+      "lng": -0.267946,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Marmotas",
+      "lat": 42.69728,
+      "lng": -0.26546,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Stadium",
+      "lat": 42.699269,
+      "lng": -0.271478,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Stadium",
+      "lat": 42.704614,
+      "lng": -0.270074,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Mandilar",
+      "lat": 42.699166,
+      "lng": -0.272506,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Mandilar",
+      "lat": 42.701754,
+      "lng": -0.273787,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Hoz de Jaca",
+      "lat": 42.699338,
+      "lng": -0.270593,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Fobas del Pueyo",
+      "lat": 42.699169,
+      "lng": -0.273793,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Fobas II",
+      "lat": 42.701735,
+      "lng": -0.274361,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Selva Verde",
+      "lat": 42.71,
+      "lng": -0.273277,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction #42",
+      "lat": 42.694162,
+      "lng": -0.262297,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Estrimal",
+      "lat": 42.711777,
+      "lng": -0.276371,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Estrimal",
+      "lat": 42.717883,
+      "lng": -0.276225,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Estrimal",
+      "lat": 42.718248,
+      "lng": -0.276281,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Estrimal",
+      "lat": 42.720924,
+      "lng": -0.28037,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Estrimal",
+      "lat": 42.711484,
+      "lng": -0.276498,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Selva Verde",
+      "lat": 42.711801,
+      "lng": -0.276988,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Tubo del Espejo",
+      "lat": 42.706763,
+      "lng": -0.281155,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_23494302",
+      "name": "Telecabina Panticosa",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 2.16,
+      "duration": 5,
+      "elevation": 475,
+      "geometry": [
+        [
+          42.721736,
+          -0.280398
+        ],
+        [
+          42.720468,
+          -0.280006
+        ],
+        [
+          42.719037,
+          -0.279564
+        ],
+        [
+          42.71691,
+          -0.278906
+        ],
+        [
+          42.716532,
+          -0.278789
+        ],
+        [
+          42.715651,
+          -0.278516
+        ],
+        [
+          42.714478,
+          -0.278153
+        ],
+        [
+          42.713588,
+          -0.277933
+        ],
+        [
+          42.712524,
+          -0.277549
+        ],
+        [
+          42.710688,
+          -0.276981
+        ],
+        [
+          42.709668,
+          -0.276666
+        ],
+        [
+          42.70806,
+          -0.276169
+        ],
+        [
+          42.705264,
+          -0.275304
+        ],
+        [
+          42.704265,
+          -0.274995
+        ],
+        [
+          42.70344,
+          -0.27474
+        ],
+        [
+          42.702829,
+          -0.274551
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_23494306",
+      "name": "Petrosos",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.96,
+      "duration": 3,
+      "elevation": 211,
+      "geometry": [
+        [
+          42.711636,
+          -0.27749
+        ],
+        [
+          42.711273,
+          -0.277426
+        ],
+        [
+          42.710619,
+          -0.277311
+        ],
+        [
+          42.709838,
+          -0.277172
+        ],
+        [
+          42.708504,
+          -0.276936
+        ],
+        [
+          42.708207,
+          -0.276884
+        ],
+        [
+          42.707881,
+          -0.276826
+        ],
+        [
+          42.706399,
+          -0.276564
+        ],
+        [
+          42.706258,
+          -0.276539
+        ],
+        [
+          42.705813,
+          -0.27646
+        ],
+        [
+          42.704324,
+          -0.276197
+        ],
+        [
+          42.704237,
+          -0.276182
+        ],
+        [
+          42.703918,
+          -0.276126
+        ],
+        [
+          42.703486,
+          -0.276049
+        ],
+        [
+          42.703098,
+          -0.275981
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_23494325",
+      "name": "Fobas",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.7,
+      "duration": 2,
+      "elevation": 154,
+      "geometry": [
+        [
+          42.707731,
+          -0.268539
+        ],
+        [
+          42.707633,
+          -0.268672
+        ],
+        [
+          42.707226,
+          -0.269226
+        ],
+        [
+          42.706252,
+          -0.270552
+        ],
+        [
+          42.705768,
+          -0.271212
+        ],
+        [
+          42.705057,
+          -0.272179
+        ],
+        [
+          42.704531,
+          -0.272895
+        ],
+        [
+          42.703796,
+          -0.273896
+        ],
+        [
+          42.703307,
+          -0.274561
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_23494326",
+      "name": "Fobas II",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.56,
+      "duration": 2,
+      "elevation": 123,
+      "geometry": [
+        [
+          42.701323,
+          -0.279311
+        ],
+        [
+          42.699256,
+          -0.273014
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_23494330",
+      "name": "Mandilar",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.46,
+      "duration": 2,
+      "elevation": 101,
+      "geometry": [
+        [
+          42.702941,
+          -0.27129
+        ],
+        [
+          42.701562,
+          -0.273215
+        ],
+        [
+          42.701418,
+          -0.27326
+        ],
+        [
+          42.699497,
+          -0.27244
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_23494347",
+      "name": "Sabocos",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 1.18,
+      "duration": 4,
+      "elevation": 259,
+      "geometry": [
+        [
+          42.702308,
+          -0.275332
+        ],
+        [
+          42.702117,
+          -0.274971
+        ],
+        [
+          42.702069,
+          -0.27488
+        ],
+        [
+          42.701193,
+          -0.273227
+        ],
+        [
+          42.700838,
+          -0.272563
+        ],
+        [
+          42.700604,
+          -0.272117
+        ],
+        [
+          42.699481,
+          -0.269998
+        ],
+        [
+          42.699031,
+          -0.269148
+        ],
+        [
+          42.69886,
+          -0.268825
+        ],
+        [
+          42.698717,
+          -0.268555
+        ],
+        [
+          42.697948,
+          -0.267103
+        ],
+        [
+          42.697522,
+          -0.266299
+        ],
+        [
+          42.697074,
+          -0.265455
+        ],
+        [
+          42.696112,
+          -0.26364
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_23494348",
+      "name": "Javier Escartín",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.7,
+      "duration": 2,
+      "elevation": 154,
+      "geometry": [
+        [
+          42.696156,
+          -0.264185
+        ],
+        [
+          42.695572,
+          -0.266002
+        ],
+        [
+          42.695495,
+          -0.266242
+        ],
+        [
+          42.695016,
+          -0.267732
+        ],
+        [
+          42.694948,
+          -0.267945
+        ],
+        [
+          42.694485,
+          -0.26937
+        ],
+        [
+          42.694192,
+          -0.270279
+        ],
+        [
+          42.693948,
+          -0.271035
+        ],
+        [
+          42.693631,
+          -0.272019
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_23494349",
+      "name": "Corona de Aragón",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.52,
+      "duration": 2,
+      "elevation": 114,
+      "geometry": [
+        [
+          42.695217,
+          -0.263753
+        ],
+        [
+          42.694775,
+          -0.263813
+        ],
+        [
+          42.693851,
+          -0.263939
+        ],
+        [
+          42.692762,
+          -0.264087
+        ],
+        [
+          42.692588,
+          -0.264111
+        ],
+        [
+          42.692044,
+          -0.264185
+        ],
+        [
+          42.691514,
+          -0.264257
+        ],
+        [
+          42.690607,
+          -0.264381
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_23494350",
+      "name": "O'Fonil",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_16",
+      "distance": 0.17,
+      "duration": 2,
+      "elevation": 37,
+      "geometry": [
+        [
+          42.695946,
+          -0.263461
+        ],
+        [
+          42.694635,
+          -0.262301
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_23494351",
+      "name": "Ibón de Sabocos",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_16",
+      "distance": 0.19,
+      "duration": 2,
+      "elevation": 41,
+      "geometry": [
+        [
+          42.693362,
+          -0.260426
+        ],
+        [
+          42.694391,
+          -0.262272
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_27264909",
+      "name": "Cinta Yanel C5",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_1",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          42.702083,
+          -0.274002
+        ],
+        [
+          42.702892,
+          -0.274366
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259234317",
+      "name": "Selva Verde C3",
+      "type": "lift",
+      "from": "node_19",
+      "to": "node_5",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          42.703854,
+          -0.273893
+        ],
+        [
+          42.703409,
+          -0.274573
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259234319",
+      "name": "Telecabina C3",
+      "type": "lift",
+      "from": "node_3",
+      "to": "node_20",
+      "distance": 0.08,
+      "duration": 2,
+      "elevation": 17,
+      "geometry": [
+        [
+          42.703299,
+          -0.275829
+        ],
+        [
+          42.703657,
+          -0.274916
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259234320",
+      "name": "Chiquitines C1",
+      "type": "lift",
+      "from": "node_21",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          42.70307,
+          -0.275245
+        ],
+        [
+          42.703068,
+          -0.275653
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259656492",
+      "name": "Alimoche C2",
+      "type": "lift",
+      "from": "node_22",
+      "to": "node_18",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 26,
+      "geometry": [
+        [
+          42.703117,
+          -0.272801
+        ],
+        [
+          42.702277,
+          -0.273661
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_27263616_0",
+      "name": "O'Fonil III",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_11",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.694576,
+          -0.262238
+        ],
+        [
+          42.694958,
+          -0.262373
+        ],
+        [
+          42.695414,
+          -0.262595
+        ],
+        [
+          42.695744,
+          -0.262931
+        ],
+        [
+          42.695786,
+          -0.263341
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_27263673_0",
+      "name": "O'Fonil I",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_11",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.694576,
+          -0.262238
+        ],
+        [
+          42.694835,
+          -0.26286
+        ],
+        [
+          42.695317,
+          -0.263342
+        ],
+        [
+          42.695786,
+          -0.263341
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_27263674_1",
+      "name": "O'Fonil II",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_11",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.694461,
+          -0.262601
+        ],
+        [
+          42.694459,
+          -0.262835
+        ],
+        [
+          42.694599,
+          -0.263214
+        ],
+        [
+          42.695085,
+          -0.263402
+        ],
+        [
+          42.695606,
+          -0.263613
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_27263679_0",
+      "name": "Ibón I",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          42.690566,
+          -0.264257
+        ],
+        [
+          42.69081,
+          -0.263457
+        ],
+        [
+          42.690918,
+          -0.263084
+        ],
+        [
+          42.690984,
+          -0.262721
+        ],
+        [
+          42.690995,
+          -0.262088
+        ],
+        [
+          42.691113,
+          -0.26108
+        ],
+        [
+          42.691231,
+          -0.260382
+        ],
+        [
+          42.691328,
+          -0.260211
+        ],
+        [
+          42.691478,
+          -0.260211
+        ],
+        [
+          42.691617,
+          -0.260436
+        ],
+        [
+          42.691928,
+          -0.260758
+        ],
+        [
+          42.69254,
+          -0.260842
+        ],
+        [
+          42.692877,
+          -0.260817
+        ],
+        [
+          42.693128,
+          -0.260634
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27263733_1",
+      "name": "Piste 27263733",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_23",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          42.690362,
+          -0.264297
+        ],
+        [
+          42.690184,
+          -0.264333
+        ],
+        [
+          42.690026,
+          -0.264483
+        ],
+        [
+          42.689971,
+          -0.264689
+        ],
+        [
+          42.690073,
+          -0.264902
+        ],
+        [
+          42.690429,
+          -0.265219
+        ],
+        [
+          42.690706,
+          -0.265416
+        ],
+        [
+          42.690888,
+          -0.265432
+        ],
+        [
+          42.691109,
+          -0.265408
+        ],
+        [
+          42.691362,
+          -0.265535
+        ],
+        [
+          42.691655,
+          -0.265725
+        ],
+        [
+          42.691758,
+          -0.265899
+        ],
+        [
+          42.6919,
+          -0.266191
+        ],
+        [
+          42.692074,
+          -0.266318
+        ],
+        [
+          42.692295,
+          -0.266318
+        ],
+        [
+          42.692611,
+          -0.266231
+        ],
+        [
+          42.692785,
+          -0.266207
+        ],
+        [
+          42.692849,
+          -0.266057
+        ],
+        [
+          42.692849,
+          -0.26574
+        ],
+        [
+          42.692912,
+          -0.265337
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264471_1",
+      "name": "Martín Belio",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_23",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.690573,
+          -0.264759
+        ],
+        [
+          42.691377,
+          -0.265068
+        ],
+        [
+          42.691896,
+          -0.265365
+        ],
+        [
+          42.692378,
+          -0.265513
+        ],
+        [
+          42.692613,
+          -0.265328
+        ],
+        [
+          42.692912,
+          -0.265337
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264471_2",
+      "name": "Martín Belio",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.692912,
+          -0.265337
+        ],
+        [
+          42.693356,
+          -0.265658
+        ],
+        [
+          42.693977,
+          -0.265921
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264536_0",
+      "name": "Los Asnos",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_25",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.693603,
+          -0.272022
+        ],
+        [
+          42.693503,
+          -0.271274
+        ],
+        [
+          42.693627,
+          -0.270211
+        ],
+        [
+          42.693689,
+          -0.269011
+        ],
+        [
+          42.694059,
+          -0.267751
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264536_1",
+      "name": "Los Asnos",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.694059,
+          -0.267751
+        ],
+        [
+          42.694122,
+          -0.266619
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264536_2",
+      "name": "Los Asnos",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_24",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.694122,
+          -0.266619
+        ],
+        [
+          42.693977,
+          -0.265921
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264536_3",
+      "name": "Los Asnos",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_14",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          42.693977,
+          -0.265921
+        ],
+        [
+          42.694458,
+          -0.265208
+        ],
+        [
+          42.694955,
+          -0.264483
+        ],
+        [
+          42.695495,
+          -0.263717
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264536_5",
+      "name": "Los Asnos",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.695786,
+          -0.263341
+        ],
+        [
+          42.695606,
+          -0.263613
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264537_0",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_24",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          42.693587,
+          -0.272071
+        ],
+        [
+          42.69291,
+          -0.271632
+        ],
+        [
+          42.692502,
+          -0.271224
+        ],
+        [
+          42.692502,
+          -0.270841
+        ],
+        [
+          42.692947,
+          -0.269803
+        ],
+        [
+          42.693392,
+          -0.268789
+        ],
+        [
+          42.693553,
+          -0.267528
+        ],
+        [
+          42.69375,
+          -0.266589
+        ],
+        [
+          42.693977,
+          -0.265921
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264537_1",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.693977,
+          -0.265921
+        ],
+        [
+          42.694381,
+          -0.266267
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264616_1",
+      "name": "Piste 27264616",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.694306,
+          -0.267719
+        ],
+        [
+          42.694432,
+          -0.267879
+        ],
+        [
+          42.694567,
+          -0.268123
+        ],
+        [
+          42.69471,
+          -0.268097
+        ],
+        [
+          42.694676,
+          -0.267888
+        ],
+        [
+          42.69471,
+          -0.267636
+        ],
+        [
+          42.694718,
+          -0.2674
+        ],
+        [
+          42.694592,
+          -0.267224
+        ],
+        [
+          42.694348,
+          -0.267064
+        ],
+        [
+          42.694122,
+          -0.266619
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264639_0",
+      "name": "Piste 27264639",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.694381,
+          -0.266267
+        ],
+        [
+          42.694407,
+          -0.266502
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264639_1",
+      "name": "Piste 27264639",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_28",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.694407,
+          -0.266502
+        ],
+        [
+          42.694525,
+          -0.266695
+        ],
+        [
+          42.694777,
+          -0.266678
+        ],
+        [
+          42.695004,
+          -0.266754
+        ],
+        [
+          42.695163,
+          -0.266938
+        ],
+        [
+          42.695348,
+          -0.267224
+        ],
+        [
+          42.695608,
+          -0.267392
+        ],
+        [
+          42.696011,
+          -0.26751
+        ],
+        [
+          42.696322,
+          -0.267551
+        ],
+        [
+          42.696348,
+          -0.267451
+        ],
+        [
+          42.696255,
+          -0.267375
+        ],
+        [
+          42.695978,
+          -0.267258
+        ],
+        [
+          42.695667,
+          -0.267014
+        ],
+        [
+          42.695482,
+          -0.266745
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264649_0",
+      "name": "Senderos",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.696264,
+          -0.266879
+        ],
+        [
+          42.696734,
+          -0.266468
+        ],
+        [
+          42.697196,
+          -0.266023
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264650_0",
+      "name": "Marmotas",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_30",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          42.699091,
+          -0.267946
+        ],
+        [
+          42.698738,
+          -0.267488
+        ],
+        [
+          42.698052,
+          -0.266802
+        ],
+        [
+          42.697389,
+          -0.265737
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264650_1",
+      "name": "Marmotas",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.697389,
+          -0.265737
+        ],
+        [
+          42.69728,
+          -0.26546
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264650_2",
+      "name": "Marmotas",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_14",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          42.69728,
+          -0.26546
+        ],
+        [
+          42.697045,
+          -0.265166
+        ],
+        [
+          42.696625,
+          -0.264956
+        ],
+        [
+          42.696238,
+          -0.264881
+        ],
+        [
+          42.696095,
+          -0.264813
+        ],
+        [
+          42.695844,
+          -0.264444
+        ],
+        [
+          42.69581,
+          -0.263772
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264650_3",
+      "name": "Marmotas",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.69609,
+          -0.263645
+        ],
+        [
+          42.69581,
+          -0.263772
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264678_0",
+      "name": "Stadium",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_9",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.699276,
+          -0.271234
+        ],
+        [
+          42.699646,
+          -0.272201
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264678_1",
+      "name": "Stadium",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_8",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          42.699646,
+          -0.272201
+        ],
+        [
+          42.700043,
+          -0.272348
+        ],
+        [
+          42.700577,
+          -0.272557
+        ],
+        [
+          42.701345,
+          -0.272707
+        ],
+        [
+          42.701729,
+          -0.272446
+        ],
+        [
+          42.702439,
+          -0.271529
+        ],
+        [
+          42.702745,
+          -0.271243
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264678_2",
+      "name": "Stadium",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_34",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          42.702745,
+          -0.271243
+        ],
+        [
+          42.703505,
+          -0.270396
+        ],
+        [
+          42.703647,
+          -0.270238
+        ],
+        [
+          42.704614,
+          -0.270074
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264708_0",
+      "name": "Mandilar",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.699166,
+          -0.272506
+        ],
+        [
+          42.699475,
+          -0.272679
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264708_1",
+      "name": "Mandilar",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_36",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          42.699475,
+          -0.272679
+        ],
+        [
+          42.70011,
+          -0.273112
+        ],
+        [
+          42.700901,
+          -0.273507
+        ],
+        [
+          42.701671,
+          -0.273741
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264708_2",
+      "name": "Mandilar",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_34",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          42.701671,
+          -0.273741
+        ],
+        [
+          42.702509,
+          -0.272498
+        ],
+        [
+          42.702809,
+          -0.27198
+        ],
+        [
+          42.704614,
+          -0.270074
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264781_0",
+      "name": "Fora O''Maduro",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_4",
+      "distance": 0.67,
+      "duration": 1,
+      "elevation": -107,
+      "geometry": [
+        [
+          42.703499,
+          -0.274649
+        ],
+        [
+          42.703941,
+          -0.274434
+        ],
+        [
+          42.7048,
+          -0.273902
+        ],
+        [
+          42.705795,
+          -0.272621
+        ],
+        [
+          42.707254,
+          -0.270044
+        ],
+        [
+          42.707607,
+          -0.268961
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_27264782_0",
+      "name": "Fobas I",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_4",
+      "distance": 0.83,
+      "duration": 1,
+      "elevation": -132,
+      "geometry": [
+        [
+          42.703483,
+          -0.274598
+        ],
+        [
+          42.704405,
+          -0.27378
+        ],
+        [
+          42.704418,
+          -0.27348
+        ],
+        [
+          42.703859,
+          -0.273002
+        ],
+        [
+          42.703432,
+          -0.272205
+        ],
+        [
+          42.705018,
+          -0.270794
+        ],
+        [
+          42.70679,
+          -0.269485
+        ],
+        [
+          42.707441,
+          -0.268784
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264906_0",
+      "name": "Hoz de Jaca",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.699279,
+          -0.270726
+        ],
+        [
+          42.699276,
+          -0.271234
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264907_0",
+      "name": "Fobas del Pueyo",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_6",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          42.699169,
+          -0.273793
+        ],
+        [
+          42.699289,
+          -0.274538
+        ],
+        [
+          42.699455,
+          -0.275566
+        ],
+        [
+          42.699878,
+          -0.27742
+        ],
+        [
+          42.700614,
+          -0.27881
+        ],
+        [
+          42.701103,
+          -0.279275
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264921_0",
+      "name": "Fobas II",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.701671,
+          -0.273741
+        ],
+        [
+          42.701735,
+          -0.274361
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264921_1",
+      "name": "Fobas II",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_6",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          42.701735,
+          -0.274361
+        ],
+        [
+          42.701391,
+          -0.279194
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264927_0",
+      "name": "Piste 27264927",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_10",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.701735,
+          -0.274361
+        ],
+        [
+          42.702286,
+          -0.275521
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264927_1",
+      "name": "Piste 27264927",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.702972,
+          -0.275926
+        ],
+        [
+          42.702678,
+          -0.275706
+        ],
+        [
+          42.702286,
+          -0.275521
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_27264938_0",
+      "name": "Selva Verde",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_40",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          42.707806,
+          -0.26864
+        ],
+        [
+          42.708229,
+          -0.269162
+        ],
+        [
+          42.708525,
+          -0.270082
+        ],
+        [
+          42.708849,
+          -0.270576
+        ],
+        [
+          42.708859,
+          -0.270587
+        ],
+        [
+          42.70935,
+          -0.271102
+        ],
+        [
+          42.70964,
+          -0.271706
+        ],
+        [
+          42.70988,
+          -0.272554
+        ],
+        [
+          42.71,
+          -0.273277
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259234311_0",
+      "name": "Ibón II",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_14",
+      "distance": 0.6,
+      "duration": 1,
+      "elevation": -96,
+      "geometry": [
+        [
+          42.690566,
+          -0.264257
+        ],
+        [
+          42.691094,
+          -0.263624
+        ],
+        [
+          42.691743,
+          -0.262942
+        ],
+        [
+          42.692168,
+          -0.262722
+        ],
+        [
+          42.692964,
+          -0.26288
+        ],
+        [
+          42.693342,
+          -0.262981
+        ],
+        [
+          42.693867,
+          -0.263136
+        ],
+        [
+          42.694741,
+          -0.263466
+        ],
+        [
+          42.695495,
+          -0.263717
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259234312_0",
+      "name": "Ibón III",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_14",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          42.690566,
+          -0.264257
+        ],
+        [
+          42.691089,
+          -0.264038
+        ],
+        [
+          42.69173,
+          -0.263825
+        ],
+        [
+          42.692629,
+          -0.263792
+        ],
+        [
+          42.693295,
+          -0.263759
+        ],
+        [
+          42.693891,
+          -0.263691
+        ],
+        [
+          42.694539,
+          -0.263668
+        ],
+        [
+          42.695495,
+          -0.263717
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259234314_0",
+      "name": "Yanel",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.702042,
+          -0.273972
+        ],
+        [
+          42.70192,
+          -0.27388
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259234321_0",
+      "name": "Mazaranuala",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_2",
+      "distance": 1.28,
+      "duration": 2,
+      "elevation": -204,
+      "geometry": [
+        [
+          42.701281,
+          -0.279517
+        ],
+        [
+          42.70229,
+          -0.280557
+        ],
+        [
+          42.70306,
+          -0.281093
+        ],
+        [
+          42.70383,
+          -0.281616
+        ],
+        [
+          42.704924,
+          -0.281865
+        ],
+        [
+          42.705456,
+          -0.281853
+        ],
+        [
+          42.707909,
+          -0.280401
+        ],
+        [
+          42.708175,
+          -0.280121
+        ],
+        [
+          42.708412,
+          -0.279841
+        ],
+        [
+          42.708865,
+          -0.279432
+        ],
+        [
+          42.709457,
+          -0.278971
+        ],
+        [
+          42.709982,
+          -0.278528
+        ],
+        [
+          42.710438,
+          -0.278248
+        ],
+        [
+          42.710613,
+          -0.278048
+        ],
+        [
+          42.710662,
+          -0.277994
+        ],
+        [
+          42.710931,
+          -0.27777
+        ],
+        [
+          42.711222,
+          -0.277671
+        ],
+        [
+          42.711564,
+          -0.277593
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259234323_0",
+      "name": "Piste 259234323",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.694337,
+          -0.262346
+        ],
+        [
+          42.694162,
+          -0.262297
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259234323_1",
+      "name": "Piste 259234323",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_17",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          42.694162,
+          -0.262297
+        ],
+        [
+          42.693983,
+          -0.262121
+        ],
+        [
+          42.693787,
+          -0.261962
+        ],
+        [
+          42.693563,
+          -0.261633
+        ],
+        [
+          42.693402,
+          -0.261329
+        ],
+        [
+          42.693343,
+          -0.260823
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397340099_2",
+      "name": "Estrimal",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          42.711868,
+          -0.276278
+        ],
+        [
+          42.712006,
+          -0.276246
+        ],
+        [
+          42.712302,
+          -0.276079
+        ],
+        [
+          42.712534,
+          -0.27587
+        ],
+        [
+          42.712822,
+          -0.275656
+        ],
+        [
+          42.712972,
+          -0.275414
+        ],
+        [
+          42.713133,
+          -0.275151
+        ],
+        [
+          42.713283,
+          -0.275012
+        ],
+        [
+          42.71348,
+          -0.274948
+        ],
+        [
+          42.713658,
+          -0.274964
+        ],
+        [
+          42.713819,
+          -0.275135
+        ],
+        [
+          42.713969,
+          -0.275457
+        ],
+        [
+          42.714079,
+          -0.275613
+        ],
+        [
+          42.714256,
+          -0.27583
+        ],
+        [
+          42.714454,
+          -0.275945
+        ],
+        [
+          42.714836,
+          -0.276138
+        ],
+        [
+          42.715242,
+          -0.276283
+        ],
+        [
+          42.715526,
+          -0.276361
+        ],
+        [
+          42.715885,
+          -0.27645
+        ],
+        [
+          42.716157,
+          -0.2766
+        ],
+        [
+          42.716362,
+          -0.276734
+        ],
+        [
+          42.716582,
+          -0.276814
+        ],
+        [
+          42.716764,
+          -0.276825
+        ],
+        [
+          42.717099,
+          -0.276723
+        ],
+        [
+          42.717298,
+          -0.276631
+        ],
+        [
+          42.717469,
+          -0.276535
+        ],
+        [
+          42.717646,
+          -0.276391
+        ],
+        [
+          42.717828,
+          -0.27624
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_397340100_0",
+      "name": "Estrimal",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          42.718248,
+          -0.276281
+        ],
+        [
+          42.71855,
+          -0.276408
+        ],
+        [
+          42.718805,
+          -0.276495
+        ],
+        [
+          42.719028,
+          -0.276541
+        ],
+        [
+          42.719215,
+          -0.276734
+        ],
+        [
+          42.719345,
+          -0.276965
+        ],
+        [
+          42.719467,
+          -0.277254
+        ],
+        [
+          42.719633,
+          -0.277506
+        ],
+        [
+          42.719791,
+          -0.277764
+        ],
+        [
+          42.71996,
+          -0.278107
+        ],
+        [
+          42.720073,
+          -0.278493
+        ],
+        [
+          42.720203,
+          -0.278929
+        ],
+        [
+          42.720326,
+          -0.279215
+        ],
+        [
+          42.72046,
+          -0.279447
+        ],
+        [
+          42.720582,
+          -0.279715
+        ],
+        [
+          42.720742,
+          -0.279987
+        ],
+        [
+          42.720775,
+          -0.280036
+        ],
+        [
+          42.720865,
+          -0.280214
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_397345993_0",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_28",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.694381,
+          -0.266267
+        ],
+        [
+          42.694937,
+          -0.266255
+        ],
+        [
+          42.695528,
+          -0.266563
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397345993_1",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.695528,
+          -0.266563
+        ],
+        [
+          42.695931,
+          -0.266824
+        ],
+        [
+          42.696264,
+          -0.266879
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397345993_2",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_31",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          42.696264,
+          -0.266879
+        ],
+        [
+          42.69677,
+          -0.267014
+        ],
+        [
+          42.697142,
+          -0.267362
+        ],
+        [
+          42.697553,
+          -0.267623
+        ],
+        [
+          42.698004,
+          -0.267805
+        ],
+        [
+          42.698237,
+          -0.267863
+        ],
+        [
+          42.69849,
+          -0.267832
+        ],
+        [
+          42.698762,
+          -0.267832
+        ],
+        [
+          42.699091,
+          -0.267946
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397345993_3",
+      "name": "Cuartalé",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_37",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.699091,
+          -0.267946
+        ],
+        [
+          42.699401,
+          -0.268199
+        ],
+        [
+          42.699718,
+          -0.268522
+        ],
+        [
+          42.699895,
+          -0.26868
+        ],
+        [
+          42.699965,
+          -0.268819
+        ],
+        [
+          42.699939,
+          -0.269015
+        ],
+        [
+          42.69967,
+          -0.269746
+        ],
+        [
+          42.699414,
+          -0.270419
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397345995_0",
+      "name": "Stadium",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_4",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.704614,
+          -0.270074
+        ],
+        [
+          42.706095,
+          -0.269411
+        ],
+        [
+          42.706973,
+          -0.268795
+        ],
+        [
+          42.707462,
+          -0.268579
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_397345997_0",
+      "name": "Selva Verde",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_46",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.71,
+          -0.273277
+        ],
+        [
+          42.710135,
+          -0.273726
+        ],
+        [
+          42.710389,
+          -0.274559
+        ],
+        [
+          42.710558,
+          -0.275265
+        ],
+        [
+          42.710911,
+          -0.276
+        ],
+        [
+          42.711389,
+          -0.276446
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_397345999_1",
+      "name": "Selva Verde",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.711547,
+          -0.276593
+        ],
+        [
+          42.711801,
+          -0.276988
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_812520106_0",
+      "name": "Valle de Tena",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_33",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          42.693678,
+          -0.272081
+        ],
+        [
+          42.694291,
+          -0.270795
+        ],
+        [
+          42.695161,
+          -0.270093
+        ],
+        [
+          42.696344,
+          -0.27025
+        ],
+        [
+          42.697573,
+          -0.270502
+        ],
+        [
+          42.698908,
+          -0.271239
+        ],
+        [
+          42.699259,
+          -0.271678
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_812520107_1",
+      "name": "Hoz de Jaca",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_7",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.699259,
+          -0.271678
+        ],
+        [
+          42.699166,
+          -0.272506
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_812520107_3",
+      "name": "Hoz de Jaca",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_38",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.699129,
+          -0.272833
+        ],
+        [
+          42.699169,
+          -0.273793
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_812520107_4",
+      "name": "Hoz de Jaca",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_6",
+      "distance": 0.7,
+      "duration": 1,
+      "elevation": -112,
+      "geometry": [
+        [
+          42.699169,
+          -0.273793
+        ],
+        [
+          42.69891,
+          -0.274816
+        ],
+        [
+          42.698556,
+          -0.275729
+        ],
+        [
+          42.698215,
+          -0.276479
+        ],
+        [
+          42.698106,
+          -0.277161
+        ],
+        [
+          42.698433,
+          -0.277733
+        ],
+        [
+          42.699837,
+          -0.278865
+        ],
+        [
+          42.700669,
+          -0.279519
+        ],
+        [
+          42.701146,
+          -0.279547
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_812520109_0",
+      "name": "Los Corzos",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_6",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.702989,
+          -0.276004
+        ],
+        [
+          42.702815,
+          -0.277197
+        ],
+        [
+          42.702663,
+          -0.27796
+        ],
+        [
+          42.702432,
+          -0.278361
+        ],
+        [
+          42.702002,
+          -0.278728
+        ],
+        [
+          42.701417,
+          -0.279279
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_812520110_0",
+      "name": "Tubo del Espejo",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_48",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          42.703017,
+          -0.276281
+        ],
+        [
+          42.703207,
+          -0.276674
+        ],
+        [
+          42.703481,
+          -0.277249
+        ],
+        [
+          42.703661,
+          -0.277698
+        ],
+        [
+          42.704011,
+          -0.278189
+        ],
+        [
+          42.704382,
+          -0.278658
+        ],
+        [
+          42.704826,
+          -0.279121
+        ],
+        [
+          42.705124,
+          -0.279703
+        ],
+        [
+          42.70531,
+          -0.280131
+        ],
+        [
+          42.705686,
+          -0.280306
+        ],
+        [
+          42.705923,
+          -0.280482
+        ],
+        [
+          42.706418,
+          -0.280706
+        ],
+        [
+          42.706763,
+          -0.281155
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_812520111_0",
+      "name": "Tubo del Mandilar",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_4",
+      "distance": 0.95,
+      "duration": 1,
+      "elevation": -152,
+      "geometry": [
+        [
+          42.699326,
+          -0.270619
+        ],
+        [
+          42.700112,
+          -0.270728
+        ],
+        [
+          42.700656,
+          -0.270517
+        ],
+        [
+          42.701388,
+          -0.270555
+        ],
+        [
+          42.702333,
+          -0.270206
+        ],
+        [
+          42.70389,
+          -0.269212
+        ],
+        [
+          42.70478,
+          -0.268845
+        ],
+        [
+          42.706383,
+          -0.26851
+        ],
+        [
+          42.707559,
+          -0.268474
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "walk_node_1_node_3",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Telecabina C3 (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_3",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.703074,
+          -0.275946
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_5",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Fobas (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_5",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.703425,
+          -0.274595
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_10",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Sabocos (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.702293,
+          -0.275458
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_18",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Cinta Yanel C5 (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_18",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.702134,
+          -0.273878
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_19",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Selva Verde C3 (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_19",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.703854,
+          -0.273893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_20",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Telecabina C3 (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_20",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.703657,
+          -0.274916
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_21",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Chiquitines C1 (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.70307,
+          -0.275245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_22",
+      "name": "Walk: Telecabina Panticosa (Summit / Top) ↔ Alimoche C2 (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_22",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70286,
+          -0.274458
+        ],
+        [
+          42.703117,
+          -0.272801
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_47",
+      "name": "Walk: Petrosos (Base) ↔ Junction: Selva Verde",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.7116,
+          -0.277542
+        ],
+        [
+          42.711801,
+          -0.276988
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_5",
+      "name": "Walk: Telecabina C3 (Mid-Station / Hub) ↔ Fobas (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_5",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703074,
+          -0.275946
+        ],
+        [
+          42.703425,
+          -0.274595
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_10",
+      "name": "Walk: Telecabina C3 (Mid-Station / Hub) ↔ Sabocos (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703074,
+          -0.275946
+        ],
+        [
+          42.702293,
+          -0.275458
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_20",
+      "name": "Walk: Telecabina C3 (Mid-Station / Hub) ↔ Telecabina C3 (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_20",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703074,
+          -0.275946
+        ],
+        [
+          42.703657,
+          -0.274916
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_21",
+      "name": "Walk: Telecabina C3 (Mid-Station / Hub) ↔ Chiquitines C1 (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_21",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703074,
+          -0.275946
+        ],
+        [
+          42.70307,
+          -0.275245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_19",
+      "name": "Walk: Fobas (Summit / Top) ↔ Selva Verde C3 (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_19",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703425,
+          -0.274595
+        ],
+        [
+          42.703854,
+          -0.273893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_20",
+      "name": "Walk: Fobas (Summit / Top) ↔ Telecabina C3 (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_20",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703425,
+          -0.274595
+        ],
+        [
+          42.703657,
+          -0.274916
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_21",
+      "name": "Walk: Fobas (Summit / Top) ↔ Chiquitines C1 (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703425,
+          -0.274595
+        ],
+        [
+          42.70307,
+          -0.275245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_9",
+      "name": "Walk: Fobas II (Summit / Top) ↔ Mandilar (Summit / Top)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.699257,
+          -0.272721
+        ],
+        [
+          42.699596,
+          -0.27228
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_35",
+      "name": "Walk: Fobas II (Summit / Top) ↔ Junction: Mandilar",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_35",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.699257,
+          -0.272721
+        ],
+        [
+          42.699166,
+          -0.272506
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_22",
+      "name": "Walk: Mandilar (Base) ↔ Alimoche C2 (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_22",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.70281,
+          -0.271259
+        ],
+        [
+          42.703117,
+          -0.272801
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_35",
+      "name": "Walk: Mandilar (Summit / Top) ↔ Junction: Mandilar",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.699596,
+          -0.27228
+        ],
+        [
+          42.699166,
+          -0.272506
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_18",
+      "name": "Walk: Sabocos (Base) ↔ Cinta Yanel C5 (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_18",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.702293,
+          -0.275458
+        ],
+        [
+          42.702134,
+          -0.273878
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_21",
+      "name": "Walk: Sabocos (Base) ↔ Chiquitines C1 (Base)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_21",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.702293,
+          -0.275458
+        ],
+        [
+          42.70307,
+          -0.275245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_12",
+      "name": "Walk: O'Fonil (Mid-Station / Hub) ↔ Javier Escartín (Base)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.695873,
+          -0.263483
+        ],
+        [
+          42.696156,
+          -0.264185
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_14",
+      "name": "Walk: O'Fonil (Mid-Station / Hub) ↔ Corona de Aragón (Base)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.695873,
+          -0.263483
+        ],
+        [
+          42.695559,
+          -0.26371
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_14",
+      "name": "Walk: Javier Escartín (Base) ↔ Corona de Aragón (Base)",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_14",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.696156,
+          -0.264185
+        ],
+        [
+          42.695559,
+          -0.26371
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_41",
+      "name": "Walk: O'Fonil (Summit / Top) ↔ Junction #42",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_41",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.694502,
+          -0.262354
+        ],
+        [
+          42.694162,
+          -0.262297
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_36",
+      "name": "Walk: Cinta Yanel C5 (Mid-Station / Hub) ↔ Junction: Mandilar",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_36",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.702134,
+          -0.273878
+        ],
+        [
+          42.701754,
+          -0.273787
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_39",
+      "name": "Walk: Cinta Yanel C5 (Mid-Station / Hub) ↔ Junction: Fobas II",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.702134,
+          -0.273878
+        ],
+        [
+          42.701735,
+          -0.274361
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_20",
+      "name": "Walk: Selva Verde C3 (Base) ↔ Telecabina C3 (Summit / Top)",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703854,
+          -0.273893
+        ],
+        [
+          42.703657,
+          -0.274916
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_22",
+      "name": "Walk: Selva Verde C3 (Base) ↔ Alimoche C2 (Base)",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_22",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703854,
+          -0.273893
+        ],
+        [
+          42.703117,
+          -0.272801
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_21",
+      "name": "Walk: Telecabina C3 (Summit / Top) ↔ Chiquitines C1 (Base)",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.703657,
+          -0.274916
+        ],
+        [
+          42.70307,
+          -0.275245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_26",
+      "name": "Walk: Junction: Martín Belio ↔ Junction: Los Asnos",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_26",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.693977,
+          -0.265921
+        ],
+        [
+          42.69426,
+          -0.266521
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_27",
+      "name": "Walk: Junction: Martín Belio ↔ Junction: Cuartalé",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.693977,
+          -0.265921
+        ],
+        [
+          42.694381,
+          -0.266267
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Junction: Los Asnos ↔ Junction: Cuartalé",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.69426,
+          -0.266521
+        ],
+        [
+          42.694381,
+          -0.266267
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_32",
+      "name": "Walk: Junction: Senderos ↔ Junction: Marmotas",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_32",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.697312,
+          -0.265851
+        ],
+        [
+          42.69728,
+          -0.26546
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_36_node_39",
+      "name": "Walk: Junction: Mandilar ↔ Junction: Fobas II",
+      "type": "walk",
+      "from": "node_36",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.701754,
+          -0.273787
+        ],
+        [
+          42.701735,
+          -0.274361
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_46",
+      "name": "Walk: Junction: Estrimal ↔ Junction: Estrimal",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_46",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.711777,
+          -0.276371
+        ],
+        [
+          42.711484,
+          -0.276498
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_47",
+      "name": "Walk: Junction: Estrimal ↔ Junction: Selva Verde",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.711777,
+          -0.276371
+        ],
+        [
+          42.711801,
+          -0.276988
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_44",
+      "name": "Walk: Junction: Estrimal ↔ Junction: Estrimal",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.717883,
+          -0.276225
+        ],
+        [
+          42.718248,
+          -0.276281
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_46_node_47",
+      "name": "Walk: Junction: Estrimal ↔ Junction: Selva Verde",
+      "type": "walk",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.711484,
+          -0.276498
+        ],
+        [
+          42.711801,
+          -0.276988
+        ]
+      ]
+    }
+  ]
+}

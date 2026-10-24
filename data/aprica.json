@@ -1,0 +1,4379 @@
+{
+  "id": "aprica",
+  "name": "Aprica",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.1332,
+      10.1366
+    ],
+    [
+      46.1597,
+      10.172
+    ]
+  ],
+  "center": [
+    46.1469,
+    10.155
+  ],
+  "stats": {
+    "slopes": "13.7 km",
+    "lifts": 7,
+    "elevation": "1180m - 2300m",
+    "drop": "1120m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Palabione (Base)",
+      "lat": 46.151671,
+      "lng": 10.154303,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Palabione (Summit / Top)",
+      "lat": 46.13958,
+      "lng": 10.159135,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Alpe Vago (Base)",
+      "lat": 46.151948,
+      "lng": 10.157375,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Alpe Vago (Summit / Top)",
+      "lat": 46.149498,
+      "lng": 10.158861,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Palabione (Base)",
+      "lat": 46.140409,
+      "lng": 10.158847,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "San Pietro (Base)",
+      "lat": 46.152815,
+      "lng": 10.158599,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "San Pietro (Summit / Top)",
+      "lat": 46.149483,
+      "lng": 10.16049,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Quadri (Summit / Top)",
+      "lat": 46.150532,
+      "lng": 10.159417,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Fantaski (Base)",
+      "lat": 46.152061,
+      "lng": 10.157759,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Fantaski (Summit / Top)",
+      "lat": 46.151633,
+      "lng": 10.158015,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Cucciolo (Summit / Top)",
+      "lat": 46.151984,
+      "lng": 10.158417,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Kip Baradello (Mid-Station / Hub)",
+      "lat": 46.154735,
+      "lng": 10.167041,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Collegamento Magnolta - B",
+      "lat": 46.146354,
+      "lng": 10.147692,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Collegamento Magnolta - B",
+      "lat": 46.14753,
+      "lng": 10.149401,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Magnolta Inferiore",
+      "lat": 46.138202,
+      "lng": 10.141607,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Magnolta Inferiore",
+      "lat": 46.144718,
+      "lng": 10.144555,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Magnolta Inferiore",
+      "lat": 46.146709,
+      "lng": 10.145198,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Magnolta Inferiore",
+      "lat": 46.14919,
+      "lng": 10.146449,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: B del Palabione",
+      "lat": 46.140605,
+      "lng": 10.156472,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: B del Palabione",
+      "lat": 46.143009,
+      "lng": 10.151463,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Collegamento B - Magnolta",
+      "lat": 46.145242,
+      "lng": 10.147551,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Collegamento B - Magnolta",
+      "lat": 46.144257,
+      "lng": 10.147091,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: C del Palabione",
+      "lat": 46.140682,
+      "lng": 10.157735,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: C del Palabione",
+      "lat": 46.14315,
+      "lng": 10.155172,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: C del Palabione",
+      "lat": 46.144237,
+      "lng": 10.15671,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: K",
+      "lat": 46.145164,
+      "lng": 10.161813,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: K",
+      "lat": 46.149012,
+      "lng": 10.16157,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: C del Palabione",
+      "lat": 46.145531,
+      "lng": 10.15722,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: C del Palabione",
+      "lat": 46.14653,
+      "lng": 10.153296,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: C del Palabione",
+      "lat": 46.147957,
+      "lng": 10.153477,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: C del Palabione",
+      "lat": 46.149007,
+      "lng": 10.155557,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Campetti",
+      "lat": 46.150135,
+      "lng": 10.160611,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Campetti",
+      "lat": 46.151955,
+      "lng": 10.159636,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Campetti",
+      "lat": 46.152831,
+      "lng": 10.158996,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Collegamento Magnolta - B",
+      "lat": 46.144773,
+      "lng": 10.145404,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Collegamento Magnolta - B",
+      "lat": 46.144862,
+      "lng": 10.146477,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Variante dell'Orso",
+      "lat": 46.145215,
+      "lng": 10.149706,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: B del Palabione",
+      "lat": 46.147841,
+      "lng": 10.150062,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Benedetti",
+      "lat": 46.143652,
+      "lng": 10.160155,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: C del Palabione",
+      "lat": 46.144473,
+      "lng": 10.158116,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: B del Palabione",
+      "lat": 46.148631,
+      "lng": 10.151836,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Collegamento Campetti - Baradello",
+      "lat": 46.151744,
+      "lng": 10.162589,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Collegamento B - Magnolta",
+      "lat": 46.145608,
+      "lng": 10.145406,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Collegamento Baradello - Campetti",
+      "lat": 46.150722,
+      "lng": 10.163035,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: B del Palabione",
+      "lat": 46.145936,
+      "lng": 10.148224,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Collegamento Magnolta - B",
+      "lat": 46.144428,
+      "lng": 10.146786,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Benedetti",
+      "lat": 46.140567,
+      "lng": 10.159344,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Collegamento Baradello - Campetti",
+      "lat": 46.15098,
+      "lng": 10.163823,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Collegamento B - Magnolta",
+      "lat": 46.146395,
+      "lng": 10.145297,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Collegamento B - Magnolta",
+      "lat": 46.146063,
+      "lng": 10.145432,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Benedetti",
+      "lat": 46.145075,
+      "lng": 10.161368,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Medici",
+      "lat": 46.140483,
+      "lng": 10.159913,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: B del Palabione",
+      "lat": 46.140526,
+      "lng": 10.156979,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: B del Palabione",
+      "lat": 46.143115,
+      "lng": 10.150865,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: B del Palabione",
+      "lat": 46.145022,
+      "lng": 10.148368,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: B del Palabione",
+      "lat": 46.145424,
+      "lng": 10.147967,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: B del Palabione",
+      "lat": 46.149157,
+      "lng": 10.15321,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: B del Palabione",
+      "lat": 46.149615,
+      "lng": 10.153477,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: B del Palabione",
+      "lat": 46.150361,
+      "lng": 10.154802,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: B del Palabione",
+      "lat": 46.151008,
+      "lng": 10.154877,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: C del Palabione",
+      "lat": 46.140589,
+      "lng": 10.158304,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: C del Palabione",
+      "lat": 46.144404,
+      "lng": 10.157647,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Collegamento Campetti - Palabione",
+      "lat": 46.149926,
+      "lng": 10.160082,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Collegamento A Palabione - Baradello",
+      "lat": 46.140944,
+      "lng": 10.160025,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Collegamento Campetti - Baradello",
+      "lat": 46.152226,
+      "lng": 10.162889,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: Collegamento Baradello - Campetti",
+      "lat": 46.150744,
+      "lng": 10.162326,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: Campetti",
+      "lat": 46.150886,
+      "lng": 10.158256,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Campetti",
+      "lat": 46.152585,
+      "lng": 10.158166,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_41994509",
+      "name": "Palabione",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.4,
+      "duration": 3,
+      "elevation": 308,
+      "geometry": [
+        [
+          46.151694,
+          10.154143
+        ],
+        [
+          46.150922,
+          10.154444
+        ],
+        [
+          46.14968,
+          10.154927
+        ],
+        [
+          46.14906,
+          10.155169
+        ],
+        [
+          46.148662,
+          10.155324
+        ],
+        [
+          46.147856,
+          10.155638
+        ],
+        [
+          46.146586,
+          10.156133
+        ],
+        [
+          46.145532,
+          10.156543
+        ],
+        [
+          46.144119,
+          10.157094
+        ],
+        [
+          46.142718,
+          10.15764
+        ],
+        [
+          46.14091,
+          10.158344
+        ],
+        [
+          46.139928,
+          10.158727
+        ],
+        [
+          46.139555,
+          10.158872
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_76605907",
+      "name": "Alpe Vago",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.29,
+      "duration": 2,
+      "elevation": 63,
+      "geometry": [
+        [
+          46.151851,
+          10.157075
+        ],
+        [
+          46.151328,
+          10.157402
+        ],
+        [
+          46.150832,
+          10.157713
+        ],
+        [
+          46.150232,
+          10.158089
+        ],
+        [
+          46.149595,
+          10.158488
+        ],
+        [
+          46.149467,
+          10.158568
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_151174604",
+      "name": "Palabione",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_1",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          46.140179,
+          10.158739
+        ],
+        [
+          46.139611,
+          10.159113
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_151177653",
+      "name": "San Pietro",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.41,
+      "duration": 2,
+      "elevation": 90,
+      "geometry": [
+        [
+          46.152809,
+          10.158817
+        ],
+        [
+          46.152383,
+          10.159029
+        ],
+        [
+          46.151476,
+          10.159483
+        ],
+        [
+          46.15049,
+          10.159975
+        ],
+        [
+          46.14958,
+          10.16043
+        ],
+        [
+          46.149362,
+          10.160539
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_151179258",
+      "name": "Quadri",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_7",
+      "distance": 0.27,
+      "duration": 2,
+      "elevation": 59,
+      "geometry": [
+        [
+          46.152759,
+          10.15838
+        ],
+        [
+          46.152713,
+          10.158405
+        ],
+        [
+          46.152457,
+          10.15854
+        ],
+        [
+          46.151525,
+          10.159035
+        ],
+        [
+          46.150629,
+          10.15951
+        ],
+        [
+          46.150497,
+          10.159574
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_151179264",
+      "name": "Fantaski",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.152061,
+          10.157759
+        ],
+        [
+          46.151618,
+          10.158159
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_322808489",
+      "name": "Cucciolo",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 2,
+      "elevation": 17,
+      "geometry": [
+        [
+          46.15261,
+          10.158179
+        ],
+        [
+          46.151969,
+          10.158534
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_76605550_2",
+      "name": "Collegamento Magnolta - B",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.146528,
+          10.147928
+        ],
+        [
+          46.146711,
+          10.148058
+        ],
+        [
+          46.146886,
+          10.148286
+        ],
+        [
+          46.147488,
+          10.149335
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151174010_0",
+      "name": "Magnolta Inferiore",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.76,
+      "duration": 1,
+      "elevation": -121,
+      "geometry": [
+        [
+          46.138202,
+          10.141607
+        ],
+        [
+          46.139029,
+          10.141934
+        ],
+        [
+          46.13943,
+          10.142273
+        ],
+        [
+          46.139942,
+          10.142596
+        ],
+        [
+          46.140601,
+          10.142438
+        ],
+        [
+          46.140988,
+          10.142404
+        ],
+        [
+          46.141524,
+          10.142653
+        ],
+        [
+          46.1419,
+          10.143076
+        ],
+        [
+          46.142954,
+          10.143624
+        ],
+        [
+          46.144211,
+          10.144193
+        ],
+        [
+          46.14464,
+          10.144363
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_151174010_1",
+      "name": "Magnolta Inferiore",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.14464,
+          10.144363
+        ],
+        [
+          46.146691,
+          10.14518
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_151174010_3",
+      "name": "Magnolta Inferiore",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.146756,
+          10.145199
+        ],
+        [
+          46.147116,
+          10.145305
+        ],
+        [
+          46.147465,
+          10.145679
+        ],
+        [
+          46.148099,
+          10.146048
+        ],
+        [
+          46.148673,
+          10.146315
+        ],
+        [
+          46.149155,
+          10.146499
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_151176900_2",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.58,
+      "duration": 1,
+      "elevation": -92,
+      "geometry": [
+        [
+          46.140658,
+          10.156305
+        ],
+        [
+          46.14102,
+          10.155684
+        ],
+        [
+          46.141126,
+          10.155437
+        ],
+        [
+          46.141191,
+          10.155016
+        ],
+        [
+          46.141173,
+          10.154162
+        ],
+        [
+          46.141134,
+          10.15397
+        ],
+        [
+          46.140875,
+          10.153201
+        ],
+        [
+          46.140833,
+          10.152949
+        ],
+        [
+          46.140854,
+          10.152563
+        ],
+        [
+          46.140921,
+          10.15229
+        ],
+        [
+          46.140993,
+          10.152161
+        ],
+        [
+          46.141092,
+          10.152071
+        ],
+        [
+          46.141266,
+          10.151911
+        ],
+        [
+          46.141503,
+          10.151799
+        ],
+        [
+          46.141741,
+          10.151627
+        ],
+        [
+          46.141855,
+          10.151621
+        ],
+        [
+          46.141985,
+          10.151644
+        ],
+        [
+          46.142267,
+          10.151573
+        ],
+        [
+          46.142329,
+          10.151571
+        ],
+        [
+          46.142422,
+          10.151604
+        ],
+        [
+          46.142549,
+          10.151656
+        ],
+        [
+          46.142638,
+          10.151666
+        ],
+        [
+          46.142861,
+          10.151681
+        ],
+        [
+          46.142926,
+          10.151653
+        ],
+        [
+          46.142974,
+          10.151597
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151176902_0",
+      "name": "Piste 151176902",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_4",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.139611,
+          10.159113
+        ],
+        [
+          46.139901,
+          10.159235
+        ],
+        [
+          46.140073,
+          10.159177
+        ],
+        [
+          46.140287,
+          10.159021
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_151176904_3",
+      "name": "Collegamento B - Magnolta",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.145109,
+          10.147385
+        ],
+        [
+          46.144909,
+          10.147315
+        ],
+        [
+          46.144714,
+          10.147326
+        ],
+        [
+          46.144649,
+          10.14733
+        ],
+        [
+          46.144241,
+          10.147297
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151177647_0",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.14072,
+          10.157885
+        ],
+        [
+          46.140976,
+          10.157611
+        ],
+        [
+          46.141298,
+          10.157275
+        ],
+        [
+          46.141658,
+          10.156714
+        ],
+        [
+          46.141752,
+          10.156612
+        ],
+        [
+          46.142054,
+          10.156222
+        ],
+        [
+          46.1422,
+          10.156035
+        ],
+        [
+          46.142354,
+          10.155836
+        ],
+        [
+          46.142464,
+          10.155643
+        ],
+        [
+          46.142659,
+          10.155419
+        ],
+        [
+          46.142853,
+          10.155278
+        ],
+        [
+          46.143056,
+          10.1552
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177647_3",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_25",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.143345,
+          10.15521
+        ],
+        [
+          46.14356,
+          10.155475
+        ],
+        [
+          46.143592,
+          10.155588
+        ],
+        [
+          46.143859,
+          10.156052
+        ],
+        [
+          46.1442,
+          10.156617
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177648_2",
+      "name": "K",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.79,
+      "duration": 1,
+      "elevation": -126,
+      "geometry": [
+        [
+          46.145179,
+          10.161942
+        ],
+        [
+          46.145239,
+          10.162105
+        ],
+        [
+          46.145372,
+          10.162273
+        ],
+        [
+          46.145533,
+          10.162381
+        ],
+        [
+          46.145685,
+          10.162683
+        ],
+        [
+          46.145787,
+          10.162749
+        ],
+        [
+          46.145902,
+          10.162751
+        ],
+        [
+          46.146043,
+          10.162638
+        ],
+        [
+          46.14611,
+          10.162553
+        ],
+        [
+          46.146208,
+          10.162503
+        ],
+        [
+          46.146296,
+          10.162514
+        ],
+        [
+          46.146366,
+          10.162563
+        ],
+        [
+          46.146434,
+          10.162764
+        ],
+        [
+          46.146484,
+          10.163542
+        ],
+        [
+          46.146518,
+          10.163672
+        ],
+        [
+          46.146505,
+          10.163873
+        ],
+        [
+          46.146533,
+          10.163997
+        ],
+        [
+          46.146612,
+          10.164061
+        ],
+        [
+          46.146695,
+          10.164063
+        ],
+        [
+          46.146772,
+          10.163946
+        ],
+        [
+          46.146796,
+          10.163837
+        ],
+        [
+          46.146813,
+          10.163557
+        ],
+        [
+          46.146838,
+          10.163495
+        ],
+        [
+          46.146885,
+          10.163437
+        ],
+        [
+          46.146954,
+          10.163429
+        ],
+        [
+          46.147007,
+          10.163435
+        ],
+        [
+          46.147067,
+          10.163501
+        ],
+        [
+          46.147099,
+          10.1636
+        ],
+        [
+          46.147114,
+          10.164525
+        ],
+        [
+          46.14714,
+          10.164614
+        ],
+        [
+          46.147193,
+          10.164646
+        ],
+        [
+          46.147276,
+          10.164653
+        ],
+        [
+          46.147364,
+          10.164595
+        ],
+        [
+          46.147601,
+          10.164354
+        ],
+        [
+          46.147644,
+          10.164189
+        ],
+        [
+          46.147661,
+          10.163988
+        ],
+        [
+          46.147994,
+          10.163213
+        ],
+        [
+          46.148116,
+          10.162909
+        ],
+        [
+          46.148289,
+          10.162546
+        ],
+        [
+          46.148389,
+          10.162444
+        ],
+        [
+          46.148755,
+          10.162207
+        ],
+        [
+          46.148808,
+          10.162138
+        ],
+        [
+          46.148866,
+          10.161991
+        ],
+        [
+          46.148949,
+          10.161675
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177649_1",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.145616,
+          10.157158
+        ],
+        [
+          46.145718,
+          10.157021
+        ],
+        [
+          46.145976,
+          10.156493
+        ],
+        [
+          46.146114,
+          10.156174
+        ],
+        [
+          46.146377,
+          10.155333
+        ],
+        [
+          46.14647,
+          10.154813
+        ],
+        [
+          46.146529,
+          10.154495
+        ],
+        [
+          46.146529,
+          10.15426
+        ],
+        [
+          46.146486,
+          10.153468
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177649_5",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.146703,
+          10.153229
+        ],
+        [
+          46.14681,
+          10.153293
+        ],
+        [
+          46.14701,
+          10.153507
+        ],
+        [
+          46.147092,
+          10.153837
+        ],
+        [
+          46.147115,
+          10.154089
+        ],
+        [
+          46.147481,
+          10.154858
+        ],
+        [
+          46.147605,
+          10.154953
+        ],
+        [
+          46.147644,
+          10.154889
+        ],
+        [
+          46.147654,
+          10.154645
+        ],
+        [
+          46.147802,
+          10.154283
+        ],
+        [
+          46.147856,
+          10.153542
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177649_8",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.148094,
+          10.153584
+        ],
+        [
+          46.148187,
+          10.153695
+        ],
+        [
+          46.148459,
+          10.154526
+        ],
+        [
+          46.148665,
+          10.154963
+        ],
+        [
+          46.148924,
+          10.155511
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177655_2",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_32",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.149524,
+          10.160589
+        ],
+        [
+          46.149743,
+          10.160643
+        ],
+        [
+          46.150112,
+          10.160524
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151177655_3",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.150112,
+          10.160524
+        ],
+        [
+          46.15193,
+          10.159594
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151177655_5",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.152101,
+          10.159506
+        ],
+        [
+          46.152808,
+          10.159031
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151177655_7",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_5",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.152854,
+          10.158961
+        ],
+        [
+          46.152877,
+          10.158862
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_151177656_0",
+      "name": "Piste 151177656",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_32",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.151848,
+          10.159828
+        ],
+        [
+          46.150133,
+          10.160633
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_151177656_2",
+      "name": "Piste 151177656",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.150064,
+          10.160665
+        ],
+        [
+          46.151164,
+          10.16148
+        ],
+        [
+          46.151598,
+          10.160452
+        ],
+        [
+          46.151848,
+          10.159828
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_319691947_3",
+      "name": "Collegamento Magnolta - B",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.144936,
+          10.145679
+        ],
+        [
+          46.145028,
+          10.145789
+        ],
+        [
+          46.145038,
+          10.145937
+        ],
+        [
+          46.144993,
+          10.146175
+        ],
+        [
+          46.144813,
+          10.146544
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_412400180_1",
+      "name": "Collegamento Magnolta - B",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_12",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.144446,
+          10.147159
+        ],
+        [
+          46.144745,
+          10.147106
+        ],
+        [
+          46.145004,
+          10.147029
+        ],
+        [
+          46.145092,
+          10.147013
+        ],
+        [
+          46.145243,
+          10.146942
+        ],
+        [
+          46.145348,
+          10.146927
+        ],
+        [
+          46.145444,
+          10.146898
+        ],
+        [
+          46.145732,
+          10.146929
+        ],
+        [
+          46.145783,
+          10.146993
+        ],
+        [
+          46.145857,
+          10.147199
+        ],
+        [
+          46.145945,
+          10.147372
+        ],
+        [
+          46.146071,
+          10.14747
+        ],
+        [
+          46.146208,
+          10.147512
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_434738238_2",
+      "name": "Variante dell'Orso",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_37",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.146421,
+          10.153114
+        ],
+        [
+          46.146394,
+          10.152969
+        ],
+        [
+          46.146313,
+          10.152688
+        ],
+        [
+          46.146241,
+          10.152478
+        ],
+        [
+          46.146148,
+          10.152215
+        ],
+        [
+          46.145988,
+          10.151687
+        ],
+        [
+          46.145825,
+          10.151213
+        ],
+        [
+          46.145729,
+          10.150917
+        ],
+        [
+          46.145572,
+          10.150533
+        ],
+        [
+          46.145398,
+          10.150136
+        ],
+        [
+          46.145312,
+          10.149928
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_474031795_1",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.147594,
+          10.149498
+        ],
+        [
+          46.147841,
+          10.150062
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_599300444_0",
+      "name": "Piste 599300444",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.143638,
+          10.160137
+        ],
+        [
+          46.143929,
+          10.159335
+        ],
+        [
+          46.143974,
+          10.159014
+        ],
+        [
+          46.143932,
+          10.158693
+        ],
+        [
+          46.143941,
+          10.158571
+        ],
+        [
+          46.14424,
+          10.157996
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_696101037_0",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_41",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.147841,
+          10.150062
+        ],
+        [
+          46.147917,
+          10.150586
+        ],
+        [
+          46.148041,
+          10.150929
+        ],
+        [
+          46.148091,
+          10.15103
+        ],
+        [
+          46.148209,
+          10.151245
+        ],
+        [
+          46.148336,
+          10.151442
+        ],
+        [
+          46.148551,
+          10.151725
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_711579784_3",
+      "name": "Collegamento B - Magnolta",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_43",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.144991,
+          10.146323
+        ],
+        [
+          46.145057,
+          10.146247
+        ],
+        [
+          46.14511,
+          10.14618
+        ],
+        [
+          46.145203,
+          10.14609
+        ],
+        [
+          46.145262,
+          10.146022
+        ],
+        [
+          46.145304,
+          10.145898
+        ],
+        [
+          46.145302,
+          10.145689
+        ],
+        [
+          46.145321,
+          10.145484
+        ],
+        [
+          46.145358,
+          10.14541
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1104508535_1",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_13",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.146001,
+          10.148237
+        ],
+        [
+          46.146162,
+          10.148258
+        ],
+        [
+          46.146404,
+          10.148297
+        ],
+        [
+          46.14654,
+          10.148356
+        ],
+        [
+          46.146732,
+          10.148487
+        ],
+        [
+          46.146853,
+          10.14863
+        ],
+        [
+          46.147488,
+          10.149335
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1105620748_1",
+      "name": "Collegamento Baradello - Campetti",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.150934,
+          10.163652
+        ],
+        [
+          46.15077,
+          10.163271
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125730335_1",
+      "name": "Collegamento B - Magnolta",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.145861,
+          10.145414
+        ],
+        [
+          46.146007,
+          10.145437
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125730335_3",
+      "name": "Collegamento B - Magnolta",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.146119,
+          10.145427
+        ],
+        [
+          46.146257,
+          10.145346
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125730336_1",
+      "name": "Piste 1125730336",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.144544,
+          10.146654
+        ],
+        [
+          46.144737,
+          10.146574
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125730338_0",
+      "name": "Collegamento Magnolta - B",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.144756,
+          10.144787
+        ],
+        [
+          46.144689,
+          10.145063
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125791924_0",
+      "name": "Benedetti",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_39",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          46.140691,
+          10.159694
+        ],
+        [
+          46.140992,
+          10.159583
+        ],
+        [
+          46.142054,
+          10.158954
+        ],
+        [
+          46.142429,
+          10.158888
+        ],
+        [
+          46.142834,
+          10.159089
+        ],
+        [
+          46.143638,
+          10.160137
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1125791924_2",
+      "name": "Benedetti",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_51",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.143672,
+          10.160182
+        ],
+        [
+          46.144354,
+          10.161087
+        ],
+        [
+          46.144717,
+          10.161185
+        ],
+        [
+          46.144954,
+          10.161309
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1125793619_0",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_23",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.140573,
+          10.158655
+        ],
+        [
+          46.140515,
+          10.157689
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793619_1",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.140515,
+          10.157689
+        ],
+        [
+          46.140526,
+          10.156979
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793619_2",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.140526,
+          10.156979
+        ],
+        [
+          46.140563,
+          10.156658
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793621_0",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_54",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.143048,
+          10.151262
+        ],
+        [
+          46.143115,
+          10.150865
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793621_1",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          46.143115,
+          10.150865
+        ],
+        [
+          46.143054,
+          10.150219
+        ],
+        [
+          46.143174,
+          10.149499
+        ],
+        [
+          46.143391,
+          10.149267
+        ],
+        [
+          46.144272,
+          10.149463
+        ],
+        [
+          46.144689,
+          10.14918
+        ],
+        [
+          46.144852,
+          10.148864
+        ],
+        [
+          46.144941,
+          10.14849
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793621_4",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.145132,
+          10.148047
+        ],
+        [
+          46.145424,
+          10.147967
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793621_5",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.145424,
+          10.147967
+        ],
+        [
+          46.145871,
+          10.148212
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793624_3",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_57",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.148703,
+          10.151959
+        ],
+        [
+          46.148751,
+          10.152122
+        ],
+        [
+          46.148762,
+          10.152169
+        ],
+        [
+          46.148765,
+          10.152212
+        ],
+        [
+          46.148781,
+          10.152339
+        ],
+        [
+          46.148824,
+          10.152455
+        ],
+        [
+          46.149057,
+          10.153148
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793625_1",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_59",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.149659,
+          10.15353
+        ],
+        [
+          46.150009,
+          10.154257
+        ],
+        [
+          46.150197,
+          10.154554
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125793625_4",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_60",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.150504,
+          10.154896
+        ],
+        [
+          46.151008,
+          10.154877
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795069_3",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_4",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.139703,
+          10.159422
+        ],
+        [
+          46.139906,
+          10.159493
+        ],
+        [
+          46.140115,
+          10.15949
+        ],
+        [
+          46.140432,
+          10.159112
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795069_5",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.140573,
+          10.158655
+        ],
+        [
+          46.140589,
+          10.158304
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795069_6",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.140589,
+          10.158304
+        ],
+        [
+          46.14072,
+          10.157885
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795072_0",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.144275,
+          10.156802
+        ],
+        [
+          46.144356,
+          10.157175
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795072_4",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.144434,
+          10.157973
+        ],
+        [
+          46.14445,
+          10.158077
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795073_2",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_28",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.144668,
+          10.158051
+        ],
+        [
+          46.144764,
+          10.157741
+        ],
+        [
+          46.145001,
+          10.15745
+        ],
+        [
+          46.145445,
+          10.157282
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795074_1",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_59",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.14909,
+          10.155604
+        ],
+        [
+          46.149834,
+          10.155427
+        ],
+        [
+          46.150408,
+          10.155085
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795074_2",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_60",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.150408,
+          10.155085
+        ],
+        [
+          46.151008,
+          10.154877
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125795075_0",
+      "name": "Piste 1125795075",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_0",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.151008,
+          10.154877
+        ],
+        [
+          46.151455,
+          10.154599
+        ],
+        [
+          46.151647,
+          10.1544
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125830283_1",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_57",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.148021,
+          10.153245
+        ],
+        [
+          46.148336,
+          10.153042
+        ],
+        [
+          46.148752,
+          10.153156
+        ],
+        [
+          46.149057,
+          10.153148
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1125830284_1",
+      "name": "Variante dell'Orso",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.145106,
+          10.149434
+        ],
+        [
+          46.145006,
+          10.14906
+        ],
+        [
+          46.144966,
+          10.148753
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125831330_1",
+      "name": "K",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_51",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.144505,
+          10.158483
+        ],
+        [
+          46.1445,
+          10.158899
+        ],
+        [
+          46.14444,
+          10.159091
+        ],
+        [
+          46.144427,
+          10.159516
+        ],
+        [
+          46.144487,
+          10.159721
+        ],
+        [
+          46.144547,
+          10.16002
+        ],
+        [
+          46.144541,
+          10.160515
+        ],
+        [
+          46.144568,
+          10.160664
+        ],
+        [
+          46.144703,
+          10.16089
+        ],
+        [
+          46.144825,
+          10.160979
+        ],
+        [
+          46.144964,
+          10.160993
+        ],
+        [
+          46.145053,
+          10.161074
+        ],
+        [
+          46.145127,
+          10.161246
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125831331_0",
+      "name": "K",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_32",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.14909,
+          10.16147
+        ],
+        [
+          46.149401,
+          10.161109
+        ],
+        [
+          46.150112,
+          10.160524
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1125836710_3",
+      "name": "Collegamento Campetti - Palabione",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.149731,
+          10.160317
+        ],
+        [
+          46.149926,
+          10.160082
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125836710_4",
+      "name": "Collegamento Campetti - Palabione",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_0",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.149926,
+          10.160082
+        ],
+        [
+          46.150022,
+          10.159206
+        ],
+        [
+          46.150152,
+          10.158535
+        ],
+        [
+          46.15045,
+          10.157833
+        ],
+        [
+          46.150757,
+          10.157612
+        ],
+        [
+          46.150987,
+          10.157305
+        ],
+        [
+          46.151055,
+          10.156739
+        ],
+        [
+          46.151147,
+          10.155702
+        ],
+        [
+          46.151301,
+          10.154844
+        ],
+        [
+          46.151659,
+          10.154448
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1125844277_2",
+      "name": "Collegamento A Palabione - Baradello",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_64",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.140771,
+          10.159795
+        ],
+        [
+          46.140903,
+          10.15986
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126012973_1",
+      "name": "Collegamento Campetti - Baradello",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_42",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.150264,
+          10.160755
+        ],
+        [
+          46.150588,
+          10.161181
+        ],
+        [
+          46.151036,
+          10.161569
+        ],
+        [
+          46.151361,
+          10.162037
+        ],
+        [
+          46.151636,
+          10.162405
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126012974_0",
+      "name": "Collegamento Campetti - Baradello",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_65",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.151905,
+          10.162703
+        ],
+        [
+          46.152151,
+          10.162831
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126012977_1",
+      "name": "Collegamento Baradello - Campetti",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_33",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.150744,
+          10.161986
+        ],
+        [
+          46.150715,
+          10.161757
+        ],
+        [
+          46.150792,
+          10.161589
+        ],
+        [
+          46.151129,
+          10.161164
+        ],
+        [
+          46.151598,
+          10.160452
+        ],
+        [
+          46.15193,
+          10.159594
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126012978_2",
+      "name": "Collegamento Baradello - Campetti",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.150712,
+          10.162602
+        ],
+        [
+          46.150716,
+          10.162483
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021463_0",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_5",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.149926,
+          10.160082
+        ],
+        [
+          46.150824,
+          10.159657
+        ],
+        [
+          46.152196,
+          10.1589
+        ],
+        [
+          46.152716,
+          10.158627
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021465_1",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_67",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.150568,
+          10.15926
+        ],
+        [
+          46.150631,
+          10.158648
+        ],
+        [
+          46.150886,
+          10.158256
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021466_2",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_67",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.149546,
+          10.159072
+        ],
+        [
+          46.149918,
+          10.158943
+        ],
+        [
+          46.150587,
+          10.158444
+        ],
+        [
+          46.150886,
+          10.158256
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021466_3",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_2",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.150886,
+          10.158256
+        ],
+        [
+          46.151868,
+          10.157384
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021467_2",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.151679,
+          10.15787
+        ],
+        [
+          46.151942,
+          10.157652
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021468_1",
+      "name": "Campetti",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.151999,
+          10.1583
+        ],
+        [
+          46.152416,
+          10.15803
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021469_0",
+      "name": "Piste 1126021469",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_2",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.150343,
+          10.154716
+        ],
+        [
+          46.150884,
+          10.155934
+        ],
+        [
+          46.151311,
+          10.156894
+        ],
+        [
+          46.151534,
+          10.157339
+        ],
+        [
+          46.151942,
+          10.157652
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1126021469_2",
+      "name": "Piste 1126021469",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.152061,
+          10.157759
+        ],
+        [
+          46.152416,
+          10.15803
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1127337621_0",
+      "name": "Collegamento Campetti - Baradello",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_32",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.149546,
+          10.159072
+        ],
+        [
+          46.14982,
+          10.159676
+        ],
+        [
+          46.150112,
+          10.160524
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1127345441_0",
+      "name": "Collegamento B - Magnolta",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_21",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.145132,
+          10.148047
+        ],
+        [
+          46.145251,
+          10.14782
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1127345443_1",
+      "name": "Funslope",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.140794,
+          10.157556
+        ],
+        [
+          46.1409,
+          10.157272
+        ],
+        [
+          46.14161,
+          10.156347
+        ],
+        [
+          46.142327,
+          10.155532
+        ],
+        [
+          46.1427,
+          10.155147
+        ],
+        [
+          46.142962,
+          10.155096
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1415182010_1",
+      "name": "Piste 1415182010",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.150934,
+          10.163652
+        ],
+        [
+          46.15077,
+          10.163271
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1415182010_4",
+      "name": "Piste 1415182010",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.1507,
+          10.162911
+        ],
+        [
+          46.150712,
+          10.162602
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1464579325_2",
+      "name": "B del Palabione",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.149233,
+          10.153256
+        ],
+        [
+          46.149586,
+          10.153441
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1553523994_2",
+      "name": "C del Palabione",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.149233,
+          10.153256
+        ],
+        [
+          46.149586,
+          10.153441
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "walk_node_1_node_4",
+      "name": "Walk: Palabione (Summit / Top) ↔ Palabione (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_4",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.13958,
+          10.159135
+        ],
+        [
+          46.140409,
+          10.158847
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_5",
+      "name": "Walk: Alpe Vago (Base) ↔ San Pietro (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_5",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151948,
+          10.157375
+        ],
+        [
+          46.152815,
+          10.158599
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_8",
+      "name": "Walk: Alpe Vago (Base) ↔ Fantaski (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_8",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151948,
+          10.157375
+        ],
+        [
+          46.152061,
+          10.157759
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_9",
+      "name": "Walk: Alpe Vago (Base) ↔ Fantaski (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_9",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151948,
+          10.157375
+        ],
+        [
+          46.151633,
+          10.158015
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_10",
+      "name": "Walk: Alpe Vago (Base) ↔ Cucciolo (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151948,
+          10.157375
+        ],
+        [
+          46.151984,
+          10.158417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_6",
+      "name": "Walk: Alpe Vago (Summit / Top) ↔ San Pietro (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_6",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.149498,
+          10.158861
+        ],
+        [
+          46.149483,
+          10.16049
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_7",
+      "name": "Walk: Alpe Vago (Summit / Top) ↔ Quadri (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_7",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.149498,
+          10.158861
+        ],
+        [
+          46.150532,
+          10.159417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_47",
+      "name": "Walk: Palabione (Base) ↔ Junction: Benedetti",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_47",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140409,
+          10.158847
+        ],
+        [
+          46.140567,
+          10.159344
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_61",
+      "name": "Walk: Palabione (Base) ↔ Junction: C del Palabione",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140409,
+          10.158847
+        ],
+        [
+          46.140589,
+          10.158304
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_8",
+      "name": "Walk: San Pietro (Base) ↔ Fantaski (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_8",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152815,
+          10.158599
+        ],
+        [
+          46.152061,
+          10.157759
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_9",
+      "name": "Walk: San Pietro (Base) ↔ Fantaski (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_9",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152815,
+          10.158599
+        ],
+        [
+          46.151633,
+          10.158015
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_10",
+      "name": "Walk: San Pietro (Base) ↔ Cucciolo (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152815,
+          10.158599
+        ],
+        [
+          46.151984,
+          10.158417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_34",
+      "name": "Walk: San Pietro (Base) ↔ Junction: Campetti",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_34",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152815,
+          10.158599
+        ],
+        [
+          46.152831,
+          10.158996
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_68",
+      "name": "Walk: San Pietro (Base) ↔ Junction: Campetti",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_68",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152815,
+          10.158599
+        ],
+        [
+          46.152585,
+          10.158166
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_63",
+      "name": "Walk: San Pietro (Summit / Top) ↔ Junction: Collegamento Campetti - Palabione",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_63",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.149483,
+          10.16049
+        ],
+        [
+          46.149926,
+          10.160082
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_9",
+      "name": "Walk: Fantaski (Base) ↔ Fantaski (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152061,
+          10.157759
+        ],
+        [
+          46.151633,
+          10.158015
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_10",
+      "name": "Walk: Fantaski (Base) ↔ Cucciolo (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152061,
+          10.157759
+        ],
+        [
+          46.151984,
+          10.158417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_68",
+      "name": "Walk: Fantaski (Base) ↔ Junction: Campetti",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_68",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152061,
+          10.157759
+        ],
+        [
+          46.152585,
+          10.158166
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_10",
+      "name": "Walk: Fantaski (Summit / Top) ↔ Cucciolo (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151633,
+          10.158015
+        ],
+        [
+          46.151984,
+          10.158417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_68",
+      "name": "Walk: Cucciolo (Summit / Top) ↔ Junction: Campetti",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_68",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151984,
+          10.158417
+        ],
+        [
+          46.152585,
+          10.158166
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_45",
+      "name": "Walk: Junction: Collegamento Magnolta - B ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_45",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.146354,
+          10.147692
+        ],
+        [
+          46.145936,
+          10.148224
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_38",
+      "name": "Walk: Junction: Collegamento Magnolta - B ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_38",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.14753,
+          10.149401
+        ],
+        [
+          46.147841,
+          10.150062
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_35",
+      "name": "Walk: Junction: Magnolta Inferiore ↔ Junction: Collegamento Magnolta - B",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_35",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.144718,
+          10.144555
+        ],
+        [
+          46.144773,
+          10.145404
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_49",
+      "name": "Walk: Junction: Magnolta Inferiore ↔ Junction: Collegamento B - Magnolta",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_49",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.146709,
+          10.145198
+        ],
+        [
+          46.146395,
+          10.145297
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_53",
+      "name": "Walk: Junction: B del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_53",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140605,
+          10.156472
+        ],
+        [
+          46.140526,
+          10.156979
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_54",
+      "name": "Walk: Junction: B del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_54",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.143009,
+          10.151463
+        ],
+        [
+          46.143115,
+          10.150865
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_55",
+      "name": "Walk: Junction: Collegamento B - Magnolta ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_55",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145242,
+          10.147551
+        ],
+        [
+          46.145022,
+          10.148368
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_56",
+      "name": "Walk: Junction: Collegamento B - Magnolta ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_56",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145242,
+          10.147551
+        ],
+        [
+          46.145424,
+          10.147967
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_46",
+      "name": "Walk: Junction: Collegamento B - Magnolta ↔ Junction: Collegamento Magnolta - B",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_46",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.144257,
+          10.147091
+        ],
+        [
+          46.144428,
+          10.146786
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_53",
+      "name": "Walk: Junction: C del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_53",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140682,
+          10.157735
+        ],
+        [
+          46.140526,
+          10.156979
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_61",
+      "name": "Walk: Junction: C del Palabione ↔ Junction: C del Palabione",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140682,
+          10.157735
+        ],
+        [
+          46.140589,
+          10.158304
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_51",
+      "name": "Walk: Junction: K ↔ Junction: Benedetti",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_51",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145164,
+          10.161813
+        ],
+        [
+          46.145075,
+          10.161368
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_63",
+      "name": "Walk: Junction: Campetti ↔ Junction: Collegamento Campetti - Palabione",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.150135,
+          10.160611
+        ],
+        [
+          46.149926,
+          10.160082
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_34_node_68",
+      "name": "Walk: Junction: Campetti ↔ Junction: Campetti",
+      "type": "walk",
+      "from": "node_34",
+      "to": "node_68",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.152831,
+          10.158996
+        ],
+        [
+          46.152585,
+          10.158166
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_36_node_46",
+      "name": "Walk: Junction: Collegamento Magnolta - B ↔ Junction: Collegamento Magnolta - B",
+      "type": "walk",
+      "from": "node_36",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.144862,
+          10.146477
+        ],
+        [
+          46.144428,
+          10.146786
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_40_node_62",
+      "name": "Walk: Junction: C del Palabione ↔ Junction: C del Palabione",
+      "type": "walk",
+      "from": "node_40",
+      "to": "node_62",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.144473,
+          10.158116
+        ],
+        [
+          46.144404,
+          10.157647
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_65",
+      "name": "Walk: Junction: Collegamento Campetti - Baradello ↔ Junction: Collegamento Campetti - Baradello",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_65",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.151744,
+          10.162589
+        ],
+        [
+          46.152226,
+          10.162889
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_50",
+      "name": "Walk: Junction: Collegamento B - Magnolta ↔ Junction: Collegamento B - Magnolta",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145608,
+          10.145406
+        ],
+        [
+          46.146063,
+          10.145432
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_48",
+      "name": "Walk: Junction: Collegamento Baradello - Campetti ↔ Junction: Collegamento Baradello - Campetti",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.150722,
+          10.163035
+        ],
+        [
+          46.15098,
+          10.163823
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_66",
+      "name": "Walk: Junction: Collegamento Baradello - Campetti ↔ Junction: Collegamento Baradello - Campetti",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.150722,
+          10.163035
+        ],
+        [
+          46.150744,
+          10.162326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_45_node_56",
+      "name": "Walk: Junction: B del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_45",
+      "to": "node_56",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145936,
+          10.148224
+        ],
+        [
+          46.145424,
+          10.147967
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_47_node_52",
+      "name": "Walk: Junction: Benedetti ↔ Junction: Medici",
+      "type": "walk",
+      "from": "node_47",
+      "to": "node_52",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140567,
+          10.159344
+        ],
+        [
+          46.140483,
+          10.159913
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_47_node_64",
+      "name": "Walk: Junction: Benedetti ↔ Junction: Collegamento A Palabione - Baradello",
+      "type": "walk",
+      "from": "node_47",
+      "to": "node_64",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140567,
+          10.159344
+        ],
+        [
+          46.140944,
+          10.160025
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_49_node_50",
+      "name": "Walk: Junction: Collegamento B - Magnolta ↔ Junction: Collegamento B - Magnolta",
+      "type": "walk",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.146395,
+          10.145297
+        ],
+        [
+          46.146063,
+          10.145432
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_64",
+      "name": "Walk: Junction: Medici ↔ Junction: Collegamento A Palabione - Baradello",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_64",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.140483,
+          10.159913
+        ],
+        [
+          46.140944,
+          10.160025
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_55_node_56",
+      "name": "Walk: Junction: B del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.145022,
+          10.148368
+        ],
+        [
+          46.145424,
+          10.147967
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_57_node_58",
+      "name": "Walk: Junction: B del Palabione ↔ Junction: B del Palabione",
+      "type": "walk",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.149157,
+          10.15321
+        ],
+        [
+          46.149615,
+          10.153477
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_11_node_65",
+      "name": "Piste Access: Kip Baradello (Mid-Station / Hub) ➔ Junction: Collegamento Campetti - Baradello",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_11",
+      "to": "node_65",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.154735,
+          10.167041
+        ],
+        [
+          46.152226,
+          10.162889
+        ]
+      ]
+    },
+    {
+      "id": "base_access_node_65_node_11",
+      "name": "Piste Access to Kip Baradello (Mid-Station / Hub)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_65",
+      "to": "node_11",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          46.152226,
+          10.162889
+        ],
+        [
+          46.154735,
+          10.167041
+        ]
+      ]
+    },
+    {
+      "id": "slope_return_node_11_node_48",
+      "name": "Skiway: Kip Baradello (Mid-Station / Hub) ➔ Junction: Collegamento Baradello - Campetti",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_11",
+      "to": "node_48",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          46.154735,
+          10.167041
+        ],
+        [
+          46.15098,
+          10.163823
+        ]
+      ]
+    }
+  ]
+}

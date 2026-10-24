@@ -1,0 +1,9225 @@
+{
+  "id": "tarvisio",
+  "name": "Tarvisio - Monte Lussari",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.471,
+      13.5156
+    ],
+    [
+      46.5116,
+      13.584
+    ]
+  ],
+  "center": [
+    46.4963,
+    13.5522
+  ],
+  "stats": {
+    "slopes": "24.0 km",
+    "lifts": 17,
+    "elevation": "754m - 1760m",
+    "drop": "1006m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Seggiovia Hütte (Base)",
+      "lat": 46.477481,
+      "lng": 13.53723,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Seggiovia Hütte (Summit / Top)",
+      "lat": 46.486104,
+      "lng": 13.546853,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Skilift Campo Scuola (Base)",
+      "lat": 46.504864,
+      "lng": 13.567771,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Skilift Campo Scuola (Summit / Top)",
+      "lat": 46.502007,
+      "lng": 13.563357,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Seggiovia Duca d'Aosta (Base)",
+      "lat": 46.50379,
+      "lng": 13.57101,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Seggiovia Duca d'Aosta (Summit / Top)",
+      "lat": 46.500535,
+      "lng": 13.568123,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Seggiovia Florianca (Base)",
+      "lat": 46.491214,
+      "lng": 13.564604,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Seggiovia Florianca (Summit / Top)",
+      "lat": 46.485619,
+      "lng": 13.546863,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Seggiovia Priesnig (Base)",
+      "lat": 46.504348,
+      "lng": 13.561518,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Seggiovia Priesnig (Summit / Top)",
+      "lat": 46.489131,
+      "lng": 13.558009,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Seggiovia Nuova Tarvisio (Base)",
+      "lat": 46.503022,
+      "lng": 13.56766,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Seggiovia Nuova Tarvisio (Summit / Top)",
+      "lat": 46.49827,
+      "lng": 13.563886,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Seggiovia Tschopfen (Summit / Top)",
+      "lat": 46.501385,
+      "lng": 13.562697,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Seggiovia dell'Angelo (Base)",
+      "lat": 46.505851,
+      "lng": 13.552578,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Seggiovia dell'Angelo (Summit / Top)",
+      "lat": 46.502807,
+      "lng": 13.550134,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Tappeto Campo Scuola (Base)",
+      "lat": 46.504261,
+      "lng": 13.568328,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Tappeto Campo Scuola (Summit / Top)",
+      "lat": 46.503581,
+      "lng": 13.567073,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Tappeto Valle 2 (Base)",
+      "lat": 46.504047,
+      "lng": 13.561193,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Tappeto Valle 2 (Summit / Top)",
+      "lat": 46.503202,
+      "lng": 13.561893,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Tappeto Valle 1 (Base)",
+      "lat": 46.504212,
+      "lng": 13.560424,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Tappeto Valle 1 (Summit / Top)",
+      "lat": 46.503551,
+      "lng": 13.557153,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Telecabina Monte Lussari (Base)",
+      "lat": 46.506558,
+      "lng": 13.534895,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Telecabina Monte Lussari (Summit / Top)",
+      "lat": 46.481744,
+      "lng": 13.520789,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "Seggiovia Prasnig (Base)",
+      "lat": 46.477003,
+      "lng": 13.536653,
+      "type": "station"
+    },
+    {
+      "id": "node_24",
+      "name": "Seggiovia Prasnig (Summit / Top)",
+      "lat": 46.477906,
+      "lng": 13.525939,
+      "type": "station"
+    },
+    {
+      "id": "node_25",
+      "name": "Tappeto Campo Scuola (Summit / Top)",
+      "lat": 46.504024,
+      "lng": 13.568083,
+      "type": "station"
+    },
+    {
+      "id": "node_26",
+      "name": "Tappeto Parco Giochi 1 (Base)",
+      "lat": 46.505963,
+      "lng": 13.555658,
+      "type": "station"
+    },
+    {
+      "id": "node_27",
+      "name": "Tappeto Parco Giochi 2 (Mid-Station / Hub)",
+      "lat": 46.505148,
+      "lng": 13.556305,
+      "type": "station"
+    },
+    {
+      "id": "node_28",
+      "name": "Tappeto Parco Giochi 2 (Summit / Top)",
+      "lat": 46.504647,
+      "lng": 13.55666,
+      "type": "station"
+    },
+    {
+      "id": "node_29",
+      "name": "Tappeto Campo Scuola Evoland (Summit / Top)",
+      "lat": 46.50409,
+      "lng": 13.559863,
+      "type": "station"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction #31",
+      "lat": 46.480663,
+      "lng": 13.523061,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Di Prampero alta",
+      "lat": 46.481354,
+      "lng": 13.521501,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Variante Dell'Angelo",
+      "lat": 46.505467,
+      "lng": 13.553956,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: \"A\"",
+      "lat": 46.491308,
+      "lng": 13.565399,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: \"A\"",
+      "lat": 46.492525,
+      "lng": 13.571287,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: \"A\"",
+      "lat": 46.491104,
+      "lng": 13.579018,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: \"A\"",
+      "lat": 46.500549,
+      "lng": 13.567883,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: \"A\"",
+      "lat": 46.490848,
+      "lng": 13.578688,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Duca d'Aosta",
+      "lat": 46.500982,
+      "lng": 13.567841,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Duca d'Aosta",
+      "lat": 46.501273,
+      "lng": 13.568018,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction #41",
+      "lat": 46.502708,
+      "lng": 13.568166,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.503668,
+      "lng": 13.56735,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Variante \"B\"",
+      "lat": 46.499372,
+      "lng": 13.558847,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Variante \"B\"",
+      "lat": 46.500477,
+      "lng": 13.56233,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: \"B\"",
+      "lat": 46.489781,
+      "lng": 13.559035,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: \"B\"",
+      "lat": 46.4993,
+      "lng": 13.558537,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: \"B\"",
+      "lat": 46.501389,
+      "lng": 13.559623,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction #48",
+      "lat": 46.489527,
+      "lng": 13.558526,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: \"D\"",
+      "lat": 46.500798,
+      "lng": 13.562831,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: \"D\"",
+      "lat": 46.501484,
+      "lng": 13.564478,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: \"D\"",
+      "lat": 46.502932,
+      "lng": 13.566368,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: \"C\"",
+      "lat": 46.499286,
+      "lng": 13.563711,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Misconca",
+      "lat": 46.482416,
+      "lng": 13.520617,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.504331,
+      "lng": 13.568004,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Dell'Angelo",
+      "lat": 46.502772,
+      "lng": 13.552299,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: Dell'Angelo",
+      "lat": 46.504724,
+      "lng": 13.555747,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Dell'Angelo",
+      "lat": 46.502831,
+      "lng": 13.551821,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: Di Prampero bassa",
+      "lat": 46.493542,
+      "lng": 13.528479,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Di Prampero bassa",
+      "lat": 46.499001,
+      "lng": 13.530698,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: Di Prampero bassa",
+      "lat": 46.501119,
+      "lng": 13.534186,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Di Prampero bassa",
+      "lat": 46.503995,
+      "lng": 13.536342,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Di Prampero bassa",
+      "lat": 46.506367,
+      "lng": 13.535545,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Di Prampero alta",
+      "lat": 46.481485,
+      "lng": 13.521118,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Di Prampero alta",
+      "lat": 46.485044,
+      "lng": 13.52354,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Di Prampero alta",
+      "lat": 46.493422,
+      "lng": 13.52808,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Duca d'Aosta",
+      "lat": 46.502484,
+      "lng": 13.569353,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: Florianca",
+      "lat": 46.490226,
+      "lng": 13.562112,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: Florianca",
+      "lat": 46.491139,
+      "lng": 13.565096,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Florianca",
+      "lat": 46.485751,
+      "lng": 13.547529,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction: Florianca",
+      "lat": 46.488888,
+      "lng": 13.556997,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction: Florianca",
+      "lat": 46.489151,
+      "lng": 13.558742,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction: Foresta",
+      "lat": 46.485649,
+      "lng": 13.546316,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction: Rio Argento",
+      "lat": 46.503872,
+      "lng": 13.544157,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction: Skiweg dell'Angelo - \"B\"",
+      "lat": 46.5037,
+      "lng": 13.557906,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction: Skiweg dell'Angelo - \"B\"",
+      "lat": 46.503826,
+      "lng": 13.558904,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction: Skiweg \"B\"",
+      "lat": 46.502065,
+      "lng": 13.562999,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction: Skiweg Tarvisio - Di Prampero",
+      "lat": 46.50486,
+      "lng": 13.540004,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction: Rio Argento",
+      "lat": 46.505438,
+      "lng": 13.547431,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction: Rio Argento",
+      "lat": 46.505926,
+      "lng": 13.55222,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction: Malga",
+      "lat": 46.476007,
+      "lng": 13.533558,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction: Variante dell'Angelo",
+      "lat": 46.503606,
+      "lng": 13.556707,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction: Variante dell'Angelo",
+      "lat": 46.504068,
+      "lng": 13.556535,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction: Skiweg \"B\" - dell'Angelo",
+      "lat": 46.502933,
+      "lng": 13.557201,
+      "type": "intersection"
+    },
+    {
+      "id": "node_83",
+      "name": "Junction: Skiweg Di Prampero - Tarvisio 1",
+      "lat": 46.504735,
+      "lng": 13.539955,
+      "type": "intersection"
+    },
+    {
+      "id": "node_84",
+      "name": "Junction: Campo Scuola Duca d'Aosta",
+      "lat": 46.501619,
+      "lng": 13.56327,
+      "type": "intersection"
+    },
+    {
+      "id": "node_85",
+      "name": "Junction: Campo Scuola Duca d'Aosta",
+      "lat": 46.503715,
+      "lng": 13.566444,
+      "type": "intersection"
+    },
+    {
+      "id": "node_86",
+      "name": "Junction: Campo Scuola Duca d'Aosta",
+      "lat": 46.504202,
+      "lng": 13.567253,
+      "type": "intersection"
+    },
+    {
+      "id": "node_87",
+      "name": "Junction: Skiweg Di Prampero - Tarvisio 2",
+      "lat": 46.504649,
+      "lng": 13.540611,
+      "type": "intersection"
+    },
+    {
+      "id": "node_88",
+      "name": "Junction: Skiweg Campo Scuola",
+      "lat": 46.503277,
+      "lng": 13.564121,
+      "type": "intersection"
+    },
+    {
+      "id": "node_89",
+      "name": "Junction: Campo Scuola Duca d'Aosta",
+      "lat": 46.502249,
+      "lng": 13.563787,
+      "type": "intersection"
+    },
+    {
+      "id": "node_90",
+      "name": "Junction #91",
+      "lat": 46.477039,
+      "lng": 13.537053,
+      "type": "intersection"
+    },
+    {
+      "id": "node_91",
+      "name": "Junction: Malga",
+      "lat": 46.476584,
+      "lng": 13.526197,
+      "type": "intersection"
+    },
+    {
+      "id": "node_92",
+      "name": "Junction: Malga",
+      "lat": 46.476483,
+      "lng": 13.526713,
+      "type": "intersection"
+    },
+    {
+      "id": "node_93",
+      "name": "Junction: Malga",
+      "lat": 46.478764,
+      "lng": 13.524641,
+      "type": "intersection"
+    },
+    {
+      "id": "node_94",
+      "name": "Junction: Misconca",
+      "lat": 46.48276,
+      "lng": 13.520594,
+      "type": "intersection"
+    },
+    {
+      "id": "node_95",
+      "name": "Junction: Misconca",
+      "lat": 46.485595,
+      "lng": 13.521305,
+      "type": "intersection"
+    },
+    {
+      "id": "node_96",
+      "name": "Junction #97",
+      "lat": 46.480191,
+      "lng": 13.524412,
+      "type": "intersection"
+    },
+    {
+      "id": "node_97",
+      "name": "Junction #98",
+      "lat": 46.48053,
+      "lng": 13.523397,
+      "type": "intersection"
+    },
+    {
+      "id": "node_98",
+      "name": "Junction #99",
+      "lat": 46.484899,
+      "lng": 13.522412,
+      "type": "intersection"
+    },
+    {
+      "id": "node_99",
+      "name": "Junction #100",
+      "lat": 46.47918,
+      "lng": 13.524658,
+      "type": "intersection"
+    },
+    {
+      "id": "node_100",
+      "name": "Junction: Skiweg Campo Scuola",
+      "lat": 46.502582,
+      "lng": 13.563491,
+      "type": "intersection"
+    },
+    {
+      "id": "node_101",
+      "name": "Junction #102",
+      "lat": 46.501559,
+      "lng": 13.564095,
+      "type": "intersection"
+    },
+    {
+      "id": "node_102",
+      "name": "Junction #103",
+      "lat": 46.503454,
+      "lng": 13.568088,
+      "type": "intersection"
+    },
+    {
+      "id": "node_103",
+      "name": "Junction: \"A\"",
+      "lat": 46.500582,
+      "lng": 13.567372,
+      "type": "intersection"
+    },
+    {
+      "id": "node_104",
+      "name": "Junction #105",
+      "lat": 46.498987,
+      "lng": 13.563754,
+      "type": "intersection"
+    },
+    {
+      "id": "node_105",
+      "name": "Junction #106",
+      "lat": 46.50176,
+      "lng": 13.562621,
+      "type": "intersection"
+    },
+    {
+      "id": "node_106",
+      "name": "Junction #107",
+      "lat": 46.489114,
+      "lng": 13.557566,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_196797647",
+      "name": "Seggiovia Hütte",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.2,
+      "duration": 4,
+      "elevation": 264,
+      "geometry": [
+        [
+          46.477551,
+          13.537365
+        ],
+        [
+          46.477661,
+          13.537485
+        ],
+        [
+          46.477947,
+          13.537797
+        ],
+        [
+          46.478177,
+          13.538052
+        ],
+        [
+          46.478753,
+          13.538678
+        ],
+        [
+          46.479579,
+          13.539575
+        ],
+        [
+          46.48051,
+          13.540586
+        ],
+        [
+          46.481211,
+          13.54135
+        ],
+        [
+          46.481923,
+          13.542125
+        ],
+        [
+          46.482145,
+          13.542367
+        ],
+        [
+          46.482973,
+          13.543261
+        ],
+        [
+          46.483499,
+          13.543835
+        ],
+        [
+          46.483998,
+          13.544379
+        ],
+        [
+          46.484313,
+          13.544724
+        ],
+        [
+          46.485363,
+          13.54587
+        ],
+        [
+          46.48573,
+          13.546271
+        ],
+        [
+          46.486,
+          13.546566
+        ],
+        [
+          46.486164,
+          13.546744
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797660",
+      "name": "Skilift Campo Scuola",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.47,
+      "duration": 2,
+      "elevation": 103,
+      "geometry": [
+        [
+          46.504943,
+          13.567698
+        ],
+        [
+          46.504496,
+          13.567038
+        ],
+        [
+          46.503789,
+          13.565979
+        ],
+        [
+          46.502995,
+          13.564811
+        ],
+        [
+          46.502385,
+          13.563914
+        ],
+        [
+          46.502254,
+          13.563722
+        ],
+        [
+          46.502044,
+          13.563413
+        ],
+        [
+          46.502007,
+          13.563357
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_196797661",
+      "name": "Seggiovia Duca d'Aosta",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.42,
+      "duration": 2,
+      "elevation": 92,
+      "geometry": [
+        [
+          46.503784,
+          13.570822
+        ],
+        [
+          46.503708,
+          13.570759
+        ],
+        [
+          46.503369,
+          13.570477
+        ],
+        [
+          46.502778,
+          13.569986
+        ],
+        [
+          46.501957,
+          13.569304
+        ],
+        [
+          46.501257,
+          13.568723
+        ],
+        [
+          46.5006,
+          13.568177
+        ],
+        [
+          46.500541,
+          13.568127
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797662",
+      "name": "Seggiovia Florianca",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.48,
+      "duration": 5,
+      "elevation": 325,
+      "geometry": [
+        [
+          46.49119,
+          13.564533
+        ],
+        [
+          46.491133,
+          13.564362
+        ],
+        [
+          46.491115,
+          13.564306
+        ],
+        [
+          46.490826,
+          13.563436
+        ],
+        [
+          46.490217,
+          13.561599
+        ],
+        [
+          46.489622,
+          13.559808
+        ],
+        [
+          46.489245,
+          13.558669
+        ],
+        [
+          46.488641,
+          13.556849
+        ],
+        [
+          46.487616,
+          13.553765
+        ],
+        [
+          46.487049,
+          13.55206
+        ],
+        [
+          46.486545,
+          13.550531
+        ],
+        [
+          46.485982,
+          13.548847
+        ],
+        [
+          46.48553,
+          13.547494
+        ],
+        [
+          46.485396,
+          13.547093
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797663",
+      "name": "Seggiovia Priesnig",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 1.7,
+      "duration": 6,
+      "elevation": 374,
+      "geometry": [
+        [
+          46.504305,
+          13.561557
+        ],
+        [
+          46.504125,
+          13.561513
+        ],
+        [
+          46.503663,
+          13.561399
+        ],
+        [
+          46.502455,
+          13.561102
+        ],
+        [
+          46.501711,
+          13.560918
+        ],
+        [
+          46.500427,
+          13.560602
+        ],
+        [
+          46.500336,
+          13.560579
+        ],
+        [
+          46.499527,
+          13.560378
+        ],
+        [
+          46.498616,
+          13.560153
+        ],
+        [
+          46.498196,
+          13.560049
+        ],
+        [
+          46.497178,
+          13.559798
+        ],
+        [
+          46.497129,
+          13.559786
+        ],
+        [
+          46.49687,
+          13.559722
+        ],
+        [
+          46.496812,
+          13.559708
+        ],
+        [
+          46.495819,
+          13.559462
+        ],
+        [
+          46.495419,
+          13.559362
+        ],
+        [
+          46.494529,
+          13.559142
+        ],
+        [
+          46.493574,
+          13.558906
+        ],
+        [
+          46.492591,
+          13.558662
+        ],
+        [
+          46.491287,
+          13.558338
+        ],
+        [
+          46.490612,
+          13.558172
+        ],
+        [
+          46.490554,
+          13.558158
+        ],
+        [
+          46.490056,
+          13.558035
+        ],
+        [
+          46.489577,
+          13.557917
+        ],
+        [
+          46.489526,
+          13.557905
+        ],
+        [
+          46.489463,
+          13.557889
+        ],
+        [
+          46.489233,
+          13.557833
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797664",
+      "name": "Seggiovia Nuova Tarvisio",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.59,
+      "duration": 2,
+      "elevation": 129,
+      "geometry": [
+        [
+          46.502945,
+          13.567638
+        ],
+        [
+          46.502821,
+          13.567541
+        ],
+        [
+          46.502374,
+          13.567195
+        ],
+        [
+          46.501462,
+          13.566489
+        ],
+        [
+          46.500234,
+          13.565538
+        ],
+        [
+          46.498909,
+          13.564512
+        ],
+        [
+          46.498406,
+          13.564122
+        ],
+        [
+          46.498263,
+          13.564011
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797665",
+      "name": "Seggiovia Tschopfen",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_12",
+      "distance": 0.53,
+      "duration": 2,
+      "elevation": 116,
+      "geometry": [
+        [
+          46.504793,
+          13.567655
+        ],
+        [
+          46.504713,
+          13.567538
+        ],
+        [
+          46.504511,
+          13.567238
+        ],
+        [
+          46.503935,
+          13.566385
+        ],
+        [
+          46.503299,
+          13.565443
+        ],
+        [
+          46.502669,
+          13.564511
+        ],
+        [
+          46.502029,
+          13.563562
+        ],
+        [
+          46.501555,
+          13.562861
+        ],
+        [
+          46.501426,
+          13.562669
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797666",
+      "name": "Seggiovia dell'Angelo",
+      "type": "lift",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.37,
+      "duration": 2,
+      "elevation": 81,
+      "geometry": [
+        [
+          46.505838,
+          13.552362
+        ],
+        [
+          46.505704,
+          13.552262
+        ],
+        [
+          46.505611,
+          13.552193
+        ],
+        [
+          46.505274,
+          13.551941
+        ],
+        [
+          46.504546,
+          13.5514
+        ],
+        [
+          46.504165,
+          13.551116
+        ],
+        [
+          46.503842,
+          13.550875
+        ],
+        [
+          46.503273,
+          13.550451
+        ],
+        [
+          46.503018,
+          13.550261
+        ],
+        [
+          46.502841,
+          13.550129
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_196797667",
+      "name": "Tappeto Campo Scuola",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.11,
+      "duration": 2,
+      "elevation": 24,
+      "geometry": [
+        [
+          46.504342,
+          13.568304
+        ],
+        [
+          46.503639,
+          13.567373
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_196797669",
+      "name": "Tappeto Valle 2",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.503998,
+          13.561274
+        ],
+        [
+          46.503204,
+          13.561932
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_196797670",
+      "name": "Tappeto Valle 1",
+      "type": "lift",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.26,
+      "duration": 2,
+      "elevation": 57,
+      "geometry": [
+        [
+          46.504228,
+          13.560366
+        ],
+        [
+          46.50366,
+          13.557136
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_196797673",
+      "name": "Telecabina Monte Lussari",
+      "type": "lift",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 2.94,
+      "duration": 8,
+      "elevation": 646,
+      "geometry": [
+        [
+          46.506495,
+          13.534639
+        ],
+        [
+          46.506345,
+          13.53457
+        ],
+        [
+          46.506164,
+          13.534487
+        ],
+        [
+          46.505605,
+          13.53423
+        ],
+        [
+          46.505008,
+          13.533955
+        ],
+        [
+          46.504122,
+          13.533546
+        ],
+        [
+          46.502511,
+          13.532804
+        ],
+        [
+          46.501652,
+          13.532409
+        ],
+        [
+          46.500373,
+          13.531819
+        ],
+        [
+          46.49769,
+          13.530584
+        ],
+        [
+          46.496218,
+          13.529906
+        ],
+        [
+          46.495746,
+          13.529689
+        ],
+        [
+          46.493764,
+          13.528776
+        ],
+        [
+          46.493707,
+          13.52875
+        ],
+        [
+          46.493298,
+          13.528561
+        ],
+        [
+          46.492991,
+          13.528352
+        ],
+        [
+          46.492928,
+          13.52831
+        ],
+        [
+          46.49288,
+          13.528277
+        ],
+        [
+          46.49245,
+          13.527985
+        ],
+        [
+          46.49239,
+          13.527944
+        ],
+        [
+          46.491458,
+          13.52731
+        ],
+        [
+          46.489462,
+          13.525953
+        ],
+        [
+          46.488205,
+          13.525099
+        ],
+        [
+          46.486229,
+          13.523755
+        ],
+        [
+          46.484175,
+          13.522359
+        ],
+        [
+          46.483966,
+          13.522217
+        ],
+        [
+          46.483926,
+          13.52219
+        ],
+        [
+          46.482796,
+          13.521422
+        ],
+        [
+          46.482358,
+          13.521124
+        ],
+        [
+          46.482323,
+          13.5211
+        ],
+        [
+          46.482266,
+          13.521061
+        ],
+        [
+          46.482211,
+          13.521024
+        ],
+        [
+          46.481856,
+          13.520783
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_207601638",
+      "name": "Seggiovia Prasnig",
+      "type": "lift",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.79,
+      "duration": 3,
+      "elevation": 173,
+      "geometry": [
+        [
+          46.47706,
+          13.536346
+        ],
+        [
+          46.477097,
+          13.53588
+        ],
+        [
+          46.477236,
+          13.534146
+        ],
+        [
+          46.47732,
+          13.533091
+        ],
+        [
+          46.477468,
+          13.531252
+        ],
+        [
+          46.477577,
+          13.529885
+        ],
+        [
+          46.477703,
+          13.528323
+        ],
+        [
+          46.47782,
+          13.526855
+        ],
+        [
+          46.477857,
+          13.526398
+        ],
+        [
+          46.477879,
+          13.526127
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1095120988",
+      "name": "Tappeto Campo Scuola",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.50418,
+          13.568353
+        ],
+        [
+          46.503892,
+          13.568107
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1095122337",
+      "name": "Tappeto Parco Giochi 1",
+      "type": "lift",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.505963,
+          13.555658
+        ],
+        [
+          46.505201,
+          13.556357
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1095122338",
+      "name": "Tappeto Parco Giochi 2",
+      "type": "lift",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.505094,
+          13.556253
+        ],
+        [
+          46.504647,
+          13.55666
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1471916710",
+      "name": "Tappeto Campo Scuola Evoland",
+      "type": "lift",
+      "from": "node_19",
+      "to": "node_29",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.50429,
+          13.560465
+        ],
+        [
+          46.504157,
+          13.55967
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_117577831_2",
+      "name": "Piste 117577831",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.480716,
+          13.522964
+        ],
+        [
+          46.480781,
+          13.522807
+        ],
+        [
+          46.480849,
+          13.52255
+        ],
+        [
+          46.480896,
+          13.522411
+        ],
+        [
+          46.481001,
+          13.522057
+        ],
+        [
+          46.481042,
+          13.521954
+        ],
+        [
+          46.48112,
+          13.521736
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_185446082_1",
+      "name": "Variante Dell'Angelo",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_13",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.505522,
+          13.553802
+        ],
+        [
+          46.505582,
+          13.553622
+        ],
+        [
+          46.5056,
+          13.553569
+        ],
+        [
+          46.505647,
+          13.553433
+        ],
+        [
+          46.505687,
+          13.553233
+        ],
+        [
+          46.50573,
+          13.55291
+        ],
+        [
+          46.505774,
+          13.552733
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797579_2",
+      "name": "\"A\"",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.58,
+      "duration": 1,
+      "elevation": -92,
+      "geometry": [
+        [
+          46.491374,
+          13.565462
+        ],
+        [
+          46.491504,
+          13.565593
+        ],
+        [
+          46.491708,
+          13.565858
+        ],
+        [
+          46.491915,
+          13.566043
+        ],
+        [
+          46.492049,
+          13.566163
+        ],
+        [
+          46.492203,
+          13.566325
+        ],
+        [
+          46.492378,
+          13.566465
+        ],
+        [
+          46.492629,
+          13.566594
+        ],
+        [
+          46.492861,
+          13.566747
+        ],
+        [
+          46.492958,
+          13.56687
+        ],
+        [
+          46.49306,
+          13.566996
+        ],
+        [
+          46.493175,
+          13.56717
+        ],
+        [
+          46.493246,
+          13.567306
+        ],
+        [
+          46.493265,
+          13.567391
+        ],
+        [
+          46.493319,
+          13.567699
+        ],
+        [
+          46.493319,
+          13.568064
+        ],
+        [
+          46.493276,
+          13.568312
+        ],
+        [
+          46.493168,
+          13.568538
+        ],
+        [
+          46.493074,
+          13.568765
+        ],
+        [
+          46.492979,
+          13.56903
+        ],
+        [
+          46.492928,
+          13.569312
+        ],
+        [
+          46.492896,
+          13.569645
+        ],
+        [
+          46.492841,
+          13.570021
+        ],
+        [
+          46.492737,
+          13.570478
+        ],
+        [
+          46.49265,
+          13.570837
+        ],
+        [
+          46.492525,
+          13.571287
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797584_1",
+      "name": "\"A\"",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 1.39,
+      "duration": 2,
+      "elevation": -222,
+      "geometry": [
+        [
+          46.491217,
+          13.579102
+        ],
+        [
+          46.491404,
+          13.579226
+        ],
+        [
+          46.491534,
+          13.579322
+        ],
+        [
+          46.491687,
+          13.57941
+        ],
+        [
+          46.491895,
+          13.579446
+        ],
+        [
+          46.492059,
+          13.579433
+        ],
+        [
+          46.492228,
+          13.579379
+        ],
+        [
+          46.492383,
+          13.579263
+        ],
+        [
+          46.492476,
+          13.579138
+        ],
+        [
+          46.49261,
+          13.578911
+        ],
+        [
+          46.492678,
+          13.578791
+        ],
+        [
+          46.492761,
+          13.578627
+        ],
+        [
+          46.49289,
+          13.578352
+        ],
+        [
+          46.49299,
+          13.578251
+        ],
+        [
+          46.493357,
+          13.577952
+        ],
+        [
+          46.493545,
+          13.577718
+        ],
+        [
+          46.493674,
+          13.577532
+        ],
+        [
+          46.493888,
+          13.577302
+        ],
+        [
+          46.49406,
+          13.57702
+        ],
+        [
+          46.494124,
+          13.576933
+        ],
+        [
+          46.494339,
+          13.576776
+        ],
+        [
+          46.494473,
+          13.576565
+        ],
+        [
+          46.494619,
+          13.57635
+        ],
+        [
+          46.494739,
+          13.576176
+        ],
+        [
+          46.494859,
+          13.575987
+        ],
+        [
+          46.494983,
+          13.57584
+        ],
+        [
+          46.495215,
+          13.57554
+        ],
+        [
+          46.495365,
+          13.575351
+        ],
+        [
+          46.495455,
+          13.575269
+        ],
+        [
+          46.495553,
+          13.575207
+        ],
+        [
+          46.495653,
+          13.575102
+        ],
+        [
+          46.49581,
+          13.574816
+        ],
+        [
+          46.495947,
+          13.57453
+        ],
+        [
+          46.496071,
+          13.57439
+        ],
+        [
+          46.49631,
+          13.574135
+        ],
+        [
+          46.496542,
+          13.573925
+        ],
+        [
+          46.496787,
+          13.573507
+        ],
+        [
+          46.496856,
+          13.573333
+        ],
+        [
+          46.497029,
+          13.573128
+        ],
+        [
+          46.497348,
+          13.572785
+        ],
+        [
+          46.497462,
+          13.572668
+        ],
+        [
+          46.497598,
+          13.572403
+        ],
+        [
+          46.497738,
+          13.57205
+        ],
+        [
+          46.498015,
+          13.571706
+        ],
+        [
+          46.498331,
+          13.571142
+        ],
+        [
+          46.498438,
+          13.570905
+        ],
+        [
+          46.498608,
+          13.570489
+        ],
+        [
+          46.49872,
+          13.570292
+        ],
+        [
+          46.498809,
+          13.570136
+        ],
+        [
+          46.498978,
+          13.569921
+        ],
+        [
+          46.499103,
+          13.569697
+        ],
+        [
+          46.499226,
+          13.569522
+        ],
+        [
+          46.499414,
+          13.569329
+        ],
+        [
+          46.499712,
+          13.568908
+        ],
+        [
+          46.499915,
+          13.568573
+        ],
+        [
+          46.500092,
+          13.568234
+        ],
+        [
+          46.500238,
+          13.567862
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797591_0",
+      "name": "\"A\"",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_37",
+      "distance": 0.69,
+      "duration": 1,
+      "elevation": -110,
+      "geometry": [
+        [
+          46.492525,
+          13.571287
+        ],
+        [
+          46.492433,
+          13.572145
+        ],
+        [
+          46.492387,
+          13.57241
+        ],
+        [
+          46.492336,
+          13.572761
+        ],
+        [
+          46.492308,
+          13.573038
+        ],
+        [
+          46.492312,
+          13.573262
+        ],
+        [
+          46.492338,
+          13.573538
+        ],
+        [
+          46.492398,
+          13.573811
+        ],
+        [
+          46.49244,
+          13.574013
+        ],
+        [
+          46.492446,
+          13.57415
+        ],
+        [
+          46.492423,
+          13.574309
+        ],
+        [
+          46.492361,
+          13.574493
+        ],
+        [
+          46.492294,
+          13.574651
+        ],
+        [
+          46.492223,
+          13.574758
+        ],
+        [
+          46.492092,
+          13.574923
+        ],
+        [
+          46.491971,
+          13.575076
+        ],
+        [
+          46.491881,
+          13.575223
+        ],
+        [
+          46.491791,
+          13.575404
+        ],
+        [
+          46.491716,
+          13.575585
+        ],
+        [
+          46.491681,
+          13.575779
+        ],
+        [
+          46.49167,
+          13.575939
+        ],
+        [
+          46.491684,
+          13.576141
+        ],
+        [
+          46.491716,
+          13.576322
+        ],
+        [
+          46.4918,
+          13.576587
+        ],
+        [
+          46.491864,
+          13.576882
+        ],
+        [
+          46.491878,
+          13.577088
+        ],
+        [
+          46.491878,
+          13.577222
+        ],
+        [
+          46.491861,
+          13.577454
+        ],
+        [
+          46.491826,
+          13.577612
+        ],
+        [
+          46.491761,
+          13.57776
+        ],
+        [
+          46.49168,
+          13.577848
+        ],
+        [
+          46.491583,
+          13.577894
+        ],
+        [
+          46.491507,
+          13.57793
+        ],
+        [
+          46.491392,
+          13.577961
+        ],
+        [
+          46.491261,
+          13.577988
+        ],
+        [
+          46.49107,
+          13.578014
+        ],
+        [
+          46.490969,
+          13.578035
+        ],
+        [
+          46.490873,
+          13.578071
+        ],
+        [
+          46.490814,
+          13.578145
+        ],
+        [
+          46.490777,
+          13.57824
+        ],
+        [
+          46.490783,
+          13.578366
+        ],
+        [
+          46.490801,
+          13.578517
+        ],
+        [
+          46.490828,
+          13.578642
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797591_2",
+      "name": "\"A\"",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.490869,
+          13.578735
+        ],
+        [
+          46.490991,
+          13.578934
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797597_2",
+      "name": "Piste 196797597",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501114,
+          13.567732
+        ],
+        [
+          46.501293,
+          13.567857
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797597_3",
+      "name": "Piste 196797597",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.501293,
+          13.567857
+        ],
+        [
+          46.501824,
+          13.568052
+        ],
+        [
+          46.502124,
+          13.568136
+        ],
+        [
+          46.502401,
+          13.568189
+        ],
+        [
+          46.50258,
+          13.568197
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797597_5",
+      "name": "Piste 196797597",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.502793,
+          13.568145
+        ],
+        [
+          46.502962,
+          13.567979
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797597_9",
+      "name": "Piste 196797597",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503189,
+          13.56754
+        ],
+        [
+          46.503284,
+          13.567358
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797600_1",
+      "name": "Variante \"B\"",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.499366,
+          13.558936
+        ],
+        [
+          46.499338,
+          13.559137
+        ],
+        [
+          46.499204,
+          13.559597
+        ],
+        [
+          46.499138,
+          13.55989
+        ],
+        [
+          46.499141,
+          13.560111
+        ],
+        [
+          46.49915,
+          13.560277
+        ],
+        [
+          46.499213,
+          13.560482
+        ],
+        [
+          46.499301,
+          13.560669
+        ],
+        [
+          46.499387,
+          13.560851
+        ],
+        [
+          46.49949,
+          13.561053
+        ],
+        [
+          46.499566,
+          13.561205
+        ],
+        [
+          46.499719,
+          13.561389
+        ],
+        [
+          46.500036,
+          13.561787
+        ],
+        [
+          46.500208,
+          13.562001
+        ],
+        [
+          46.500414,
+          13.562239
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797604_0",
+      "name": "\"B\"",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 1.13,
+      "duration": 1,
+      "elevation": -180,
+      "geometry": [
+        [
+          46.489781,
+          13.559035
+        ],
+        [
+          46.490049,
+          13.559396
+        ],
+        [
+          46.490331,
+          13.559476
+        ],
+        [
+          46.490548,
+          13.559456
+        ],
+        [
+          46.490914,
+          13.559208
+        ],
+        [
+          46.491273,
+          13.558974
+        ],
+        [
+          46.491534,
+          13.55885
+        ],
+        [
+          46.491769,
+          13.558825
+        ],
+        [
+          46.492023,
+          13.558842
+        ],
+        [
+          46.492306,
+          13.558951
+        ],
+        [
+          46.49253,
+          13.559056
+        ],
+        [
+          46.492932,
+          13.55911
+        ],
+        [
+          46.493282,
+          13.558984
+        ],
+        [
+          46.493723,
+          13.558734
+        ],
+        [
+          46.494163,
+          13.55845
+        ],
+        [
+          46.494657,
+          13.558096
+        ],
+        [
+          46.495057,
+          13.557756
+        ],
+        [
+          46.495428,
+          13.557541
+        ],
+        [
+          46.495903,
+          13.55748
+        ],
+        [
+          46.496247,
+          13.557434
+        ],
+        [
+          46.496634,
+          13.55726
+        ],
+        [
+          46.496815,
+          13.557201
+        ],
+        [
+          46.496999,
+          13.5572
+        ],
+        [
+          46.497273,
+          13.557428
+        ],
+        [
+          46.497524,
+          13.557709
+        ],
+        [
+          46.497664,
+          13.557811
+        ],
+        [
+          46.497835,
+          13.557801
+        ],
+        [
+          46.49803,
+          13.557754
+        ],
+        [
+          46.498282,
+          13.557745
+        ],
+        [
+          46.498511,
+          13.557815
+        ],
+        [
+          46.498878,
+          13.558105
+        ],
+        [
+          46.499214,
+          13.558405
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797604_2",
+      "name": "\"B\"",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.499385,
+          13.55867
+        ],
+        [
+          46.499758,
+          13.559066
+        ],
+        [
+          46.500082,
+          13.559395
+        ],
+        [
+          46.500486,
+          13.559676
+        ],
+        [
+          46.500751,
+          13.559721
+        ],
+        [
+          46.501155,
+          13.559684
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797604_5",
+      "name": "\"B\"",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_17",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.501491,
+          13.559651
+        ],
+        [
+          46.50183,
+          13.559722
+        ],
+        [
+          46.502182,
+          13.559912
+        ],
+        [
+          46.502373,
+          13.559989
+        ],
+        [
+          46.502727,
+          13.560117
+        ],
+        [
+          46.503245,
+          13.56037
+        ],
+        [
+          46.503435,
+          13.560488
+        ],
+        [
+          46.50363,
+          13.560668
+        ],
+        [
+          46.503874,
+          13.561015
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797610_7",
+      "name": "Piste 196797610",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.489401,
+          13.558172
+        ],
+        [
+          46.489452,
+          13.558451
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797618_2",
+      "name": "\"D\"",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_43",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.498163,
+          13.563611
+        ],
+        [
+          46.49812,
+          13.563229
+        ],
+        [
+          46.498159,
+          13.563122
+        ],
+        [
+          46.498229,
+          13.563042
+        ],
+        [
+          46.498513,
+          13.562926
+        ],
+        [
+          46.498788,
+          13.562841
+        ],
+        [
+          46.499174,
+          13.562723
+        ],
+        [
+          46.499755,
+          13.562568
+        ],
+        [
+          46.500176,
+          13.562475
+        ],
+        [
+          46.500523,
+          13.562397
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797618_3",
+      "name": "\"D\"",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500523,
+          13.562397
+        ],
+        [
+          46.500779,
+          13.562801
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797618_5",
+      "name": "\"D\"",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.500826,
+          13.562875
+        ],
+        [
+          46.50099,
+          13.563147
+        ],
+        [
+          46.501172,
+          13.563481
+        ],
+        [
+          46.501575,
+          13.564337
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797618_6",
+      "name": "\"D\"",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.501575,
+          13.564337
+        ],
+        [
+          46.502055,
+          13.565103
+        ],
+        [
+          46.502909,
+          13.56616
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797620_2",
+      "name": "\"C\"",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_49",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.499434,
+          13.563689
+        ],
+        [
+          46.499668,
+          13.563664
+        ],
+        [
+          46.499886,
+          13.563676
+        ],
+        [
+          46.500167,
+          13.563748
+        ],
+        [
+          46.500369,
+          13.563807
+        ],
+        [
+          46.500589,
+          13.563873
+        ],
+        [
+          46.500771,
+          13.563897
+        ],
+        [
+          46.50106,
+          13.564052
+        ],
+        [
+          46.501264,
+          13.564336
+        ],
+        [
+          46.501393,
+          13.56462
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797620_3",
+      "name": "\"C\"",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.501393,
+          13.56462
+        ],
+        [
+          46.501528,
+          13.564882
+        ],
+        [
+          46.501747,
+          13.565139
+        ],
+        [
+          46.502015,
+          13.56544
+        ],
+        [
+          46.50219,
+          13.565644
+        ],
+        [
+          46.50257,
+          13.566088
+        ],
+        [
+          46.502949,
+          13.566525
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797621_0",
+      "name": "\"C2\"",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_10",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.499151,
+          13.563732
+        ],
+        [
+          46.49941,
+          13.563996
+        ],
+        [
+          46.499675,
+          13.564289
+        ],
+        [
+          46.499888,
+          13.564524
+        ],
+        [
+          46.500199,
+          13.564784
+        ],
+        [
+          46.500497,
+          13.565051
+        ],
+        [
+          46.50077,
+          13.565265
+        ],
+        [
+          46.500844,
+          13.565331
+        ],
+        [
+          46.500885,
+          13.56537
+        ],
+        [
+          46.50096,
+          13.565449
+        ],
+        [
+          46.501083,
+          13.565573
+        ],
+        [
+          46.501174,
+          13.565658
+        ],
+        [
+          46.501278,
+          13.565751
+        ],
+        [
+          46.501752,
+          13.566216
+        ],
+        [
+          46.502206,
+          13.566662
+        ],
+        [
+          46.502591,
+          13.567011
+        ],
+        [
+          46.502986,
+          13.567348
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797626_4",
+      "name": "Misconca",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.482103,
+          13.520711
+        ],
+        [
+          46.4822,
+          13.520748
+        ],
+        [
+          46.482272,
+          13.520746
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797627_4",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50399,
+          13.567499
+        ],
+        [
+          46.504059,
+          13.567583
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_196797627_16",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504255,
+          13.568343
+        ],
+        [
+          46.504183,
+          13.568292
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_196797627_22",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50384,
+          13.56788
+        ],
+        [
+          46.503775,
+          13.567783
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_196797629_1",
+      "name": "Dell'Angelo",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.502846,
+          13.552445
+        ],
+        [
+          46.502773,
+          13.553013
+        ],
+        [
+          46.502754,
+          13.553366
+        ],
+        [
+          46.502752,
+          13.553646
+        ],
+        [
+          46.502757,
+          13.553846
+        ],
+        [
+          46.502783,
+          13.55403
+        ],
+        [
+          46.502846,
+          13.554372
+        ],
+        [
+          46.502965,
+          13.554754
+        ],
+        [
+          46.503122,
+          13.555106
+        ],
+        [
+          46.503276,
+          13.555375
+        ],
+        [
+          46.503433,
+          13.555659
+        ],
+        [
+          46.5035,
+          13.555751
+        ],
+        [
+          46.503708,
+          13.555855
+        ],
+        [
+          46.503941,
+          13.55589
+        ],
+        [
+          46.504097,
+          13.55589
+        ],
+        [
+          46.504233,
+          13.555869
+        ],
+        [
+          46.504378,
+          13.55585
+        ],
+        [
+          46.504673,
+          13.555838
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797630_4",
+      "name": "Dell'Angelo",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_56",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.50279,
+          13.550427
+        ],
+        [
+          46.502827,
+          13.550846
+        ],
+        [
+          46.502832,
+          13.551587
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797631_0",
+      "name": "Di Prampero bassa",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.67,
+      "duration": 1,
+      "elevation": -107,
+      "geometry": [
+        [
+          46.493777,
+          13.528292
+        ],
+        [
+          46.494635,
+          13.528935
+        ],
+        [
+          46.494957,
+          13.529193
+        ],
+        [
+          46.495166,
+          13.529412
+        ],
+        [
+          46.495413,
+          13.529712
+        ],
+        [
+          46.495497,
+          13.529852
+        ],
+        [
+          46.495663,
+          13.530055
+        ],
+        [
+          46.495796,
+          13.530148
+        ],
+        [
+          46.495927,
+          13.530194
+        ],
+        [
+          46.496054,
+          13.530224
+        ],
+        [
+          46.496327,
+          13.530233
+        ],
+        [
+          46.496736,
+          13.53022
+        ],
+        [
+          46.497036,
+          13.53022
+        ],
+        [
+          46.497214,
+          13.53019
+        ],
+        [
+          46.497349,
+          13.530143
+        ],
+        [
+          46.497488,
+          13.530073
+        ],
+        [
+          46.497774,
+          13.529828
+        ],
+        [
+          46.497918,
+          13.529676
+        ],
+        [
+          46.498065,
+          13.529597
+        ],
+        [
+          46.498222,
+          13.529592
+        ],
+        [
+          46.498431,
+          13.529612
+        ],
+        [
+          46.498662,
+          13.529758
+        ],
+        [
+          46.498813,
+          13.529916
+        ],
+        [
+          46.498931,
+          13.530257
+        ],
+        [
+          46.498992,
+          13.530453
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797631_4",
+      "name": "Di Prampero bassa",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_59",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.498984,
+          13.530818
+        ],
+        [
+          46.498921,
+          13.531343
+        ],
+        [
+          46.498938,
+          13.531562
+        ],
+        [
+          46.498917,
+          13.531922
+        ],
+        [
+          46.498945,
+          13.532321
+        ],
+        [
+          46.498973,
+          13.532597
+        ],
+        [
+          46.499017,
+          13.532824
+        ],
+        [
+          46.499104,
+          13.53311
+        ],
+        [
+          46.49922,
+          13.533359
+        ],
+        [
+          46.49933,
+          13.533565
+        ],
+        [
+          46.499454,
+          13.533691
+        ],
+        [
+          46.499605,
+          13.533763
+        ],
+        [
+          46.499744,
+          13.533813
+        ],
+        [
+          46.499886,
+          13.533834
+        ],
+        [
+          46.500037,
+          13.533851
+        ],
+        [
+          46.500182,
+          13.533872
+        ],
+        [
+          46.500315,
+          13.533919
+        ],
+        [
+          46.500634,
+          13.534032
+        ],
+        [
+          46.500822,
+          13.534091
+        ],
+        [
+          46.50097,
+          13.534142
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797631_8",
+      "name": "Di Prampero bassa",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_60",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.501312,
+          13.534335
+        ],
+        [
+          46.501529,
+          13.534495
+        ],
+        [
+          46.5017,
+          13.534643
+        ],
+        [
+          46.501825,
+          13.534811
+        ],
+        [
+          46.501961,
+          13.535022
+        ],
+        [
+          46.502054,
+          13.535207
+        ],
+        [
+          46.502216,
+          13.535514
+        ],
+        [
+          46.502341,
+          13.535736
+        ],
+        [
+          46.502477,
+          13.535977
+        ],
+        [
+          46.502642,
+          13.536179
+        ],
+        [
+          46.502853,
+          13.53636
+        ],
+        [
+          46.503042,
+          13.53644
+        ],
+        [
+          46.503207,
+          13.536491
+        ],
+        [
+          46.503395,
+          13.536503
+        ],
+        [
+          46.503586,
+          13.536474
+        ],
+        [
+          46.503752,
+          13.536419
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797631_12",
+      "name": "Di Prampero bassa",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.504144,
+          13.536178
+        ],
+        [
+          46.504337,
+          13.535956
+        ],
+        [
+          46.504456,
+          13.535822
+        ],
+        [
+          46.504589,
+          13.535691
+        ],
+        [
+          46.504734,
+          13.535615
+        ],
+        [
+          46.504882,
+          13.535598
+        ],
+        [
+          46.505108,
+          13.53559
+        ],
+        [
+          46.505316,
+          13.535603
+        ],
+        [
+          46.505487,
+          13.535628
+        ],
+        [
+          46.505757,
+          13.535687
+        ],
+        [
+          46.506012,
+          13.535708
+        ],
+        [
+          46.506242,
+          13.535682
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797633_2",
+      "name": "Di Prampero alta",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.481563,
+          13.521027
+        ],
+        [
+          46.481514,
+          13.521073
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797633_4",
+      "name": "Di Prampero alta",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.481455,
+          13.521162
+        ],
+        [
+          46.481454,
+          13.521352
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797633_10",
+      "name": "Di Prampero alta",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_63",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.481544,
+          13.521771
+        ],
+        [
+          46.481631,
+          13.521843
+        ],
+        [
+          46.481778,
+          13.521896
+        ],
+        [
+          46.481909,
+          13.521929
+        ],
+        [
+          46.482117,
+          13.521974
+        ],
+        [
+          46.482506,
+          13.52209
+        ],
+        [
+          46.48276,
+          13.522191
+        ],
+        [
+          46.483025,
+          13.522339
+        ],
+        [
+          46.483073,
+          13.522362
+        ],
+        [
+          46.483102,
+          13.522381
+        ],
+        [
+          46.483185,
+          13.522439
+        ],
+        [
+          46.48326,
+          13.522497
+        ],
+        [
+          46.483569,
+          13.52271
+        ],
+        [
+          46.484339,
+          13.523044
+        ],
+        [
+          46.484741,
+          13.523279
+        ],
+        [
+          46.484957,
+          13.523442
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797633_13",
+      "name": "Di Prampero alta",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_64",
+      "distance": 1.0,
+      "duration": 1,
+      "elevation": -160,
+      "geometry": [
+        [
+          46.485139,
+          13.523646
+        ],
+        [
+          46.48533,
+          13.523953
+        ],
+        [
+          46.485519,
+          13.52434
+        ],
+        [
+          46.485761,
+          13.524752
+        ],
+        [
+          46.486026,
+          13.525123
+        ],
+        [
+          46.486364,
+          13.525559
+        ],
+        [
+          46.486574,
+          13.525752
+        ],
+        [
+          46.486747,
+          13.525883
+        ],
+        [
+          46.486908,
+          13.525954
+        ],
+        [
+          46.487155,
+          13.525998
+        ],
+        [
+          46.487303,
+          13.526024
+        ],
+        [
+          46.487625,
+          13.526042
+        ],
+        [
+          46.487914,
+          13.526021
+        ],
+        [
+          46.48815,
+          13.525993
+        ],
+        [
+          46.488359,
+          13.526027
+        ],
+        [
+          46.489038,
+          13.526362
+        ],
+        [
+          46.489431,
+          13.526441
+        ],
+        [
+          46.489737,
+          13.526432
+        ],
+        [
+          46.489943,
+          13.526356
+        ],
+        [
+          46.49019,
+          13.526228
+        ],
+        [
+          46.490527,
+          13.526058
+        ],
+        [
+          46.490601,
+          13.526021
+        ],
+        [
+          46.490792,
+          13.526025
+        ],
+        [
+          46.491015,
+          13.526106
+        ],
+        [
+          46.491538,
+          13.526529
+        ],
+        [
+          46.49187,
+          13.526759
+        ],
+        [
+          46.492158,
+          13.526814
+        ],
+        [
+          46.492351,
+          13.526884
+        ],
+        [
+          46.492673,
+          13.527062
+        ],
+        [
+          46.492933,
+          13.527297
+        ],
+        [
+          46.493158,
+          13.52757
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797637_1",
+      "name": "Duca d'Aosta",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500529,
+          13.568118
+        ],
+        [
+          46.500522,
+          13.568093
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797637_6",
+      "name": "Duca d'Aosta",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500803,
+          13.567884
+        ],
+        [
+          46.500914,
+          13.567937
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797637_9",
+      "name": "Duca d'Aosta",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501103,
+          13.568057
+        ],
+        [
+          46.501252,
+          13.568178
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797637_10",
+      "name": "Duca d'Aosta",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_65",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.501252,
+          13.568178
+        ],
+        [
+          46.5015,
+          13.568364
+        ],
+        [
+          46.501835,
+          13.568601
+        ],
+        [
+          46.502046,
+          13.568846
+        ],
+        [
+          46.502152,
+          13.56897
+        ],
+        [
+          46.502395,
+          13.569358
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797637_13",
+      "name": "Duca d'Aosta",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_4",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.502533,
+          13.569664
+        ],
+        [
+          46.502606,
+          13.56995
+        ],
+        [
+          46.502706,
+          13.570334
+        ],
+        [
+          46.502926,
+          13.570813
+        ],
+        [
+          46.503125,
+          13.571013
+        ],
+        [
+          46.503372,
+          13.57117
+        ],
+        [
+          46.503495,
+          13.571174
+        ],
+        [
+          46.503587,
+          13.57117
+        ],
+        [
+          46.503655,
+          13.571157
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797640_0",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.490226,
+          13.562112
+        ],
+        [
+          46.490331,
+          13.562547
+        ],
+        [
+          46.490472,
+          13.563095
+        ],
+        [
+          46.490574,
+          13.563416
+        ],
+        [
+          46.4907,
+          13.564189
+        ],
+        [
+          46.490847,
+          13.564758
+        ],
+        [
+          46.490931,
+          13.565012
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797641_5",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.485713,
+          13.547395
+        ],
+        [
+          46.48577,
+          13.547596
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797641_6",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_69",
+      "distance": 0.83,
+      "duration": 1,
+      "elevation": -132,
+      "geometry": [
+        [
+          46.48577,
+          13.547596
+        ],
+        [
+          46.485824,
+          13.547795
+        ],
+        [
+          46.485856,
+          13.548035
+        ],
+        [
+          46.485878,
+          13.548477
+        ],
+        [
+          46.485896,
+          13.549398
+        ],
+        [
+          46.485905,
+          13.549762
+        ],
+        [
+          46.485921,
+          13.549933
+        ],
+        [
+          46.485949,
+          13.550085
+        ],
+        [
+          46.486304,
+          13.550744
+        ],
+        [
+          46.486464,
+          13.551086
+        ],
+        [
+          46.48664,
+          13.551542
+        ],
+        [
+          46.486762,
+          13.5519
+        ],
+        [
+          46.486903,
+          13.552395
+        ],
+        [
+          46.486971,
+          13.552644
+        ],
+        [
+          46.487055,
+          13.552858
+        ],
+        [
+          46.48715,
+          13.55301
+        ],
+        [
+          46.487268,
+          13.553123
+        ],
+        [
+          46.487364,
+          13.553195
+        ],
+        [
+          46.48757,
+          13.553367
+        ],
+        [
+          46.487717,
+          13.553534
+        ],
+        [
+          46.487811,
+          13.55368
+        ],
+        [
+          46.487951,
+          13.553955
+        ],
+        [
+          46.488113,
+          13.554308
+        ],
+        [
+          46.488303,
+          13.554726
+        ],
+        [
+          46.488419,
+          13.55501
+        ],
+        [
+          46.488562,
+          13.555389
+        ],
+        [
+          46.488659,
+          13.555708
+        ],
+        [
+          46.488709,
+          13.555932
+        ],
+        [
+          46.48878,
+          13.556338
+        ],
+        [
+          46.488888,
+          13.556997
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797641_7",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.488888,
+          13.556997
+        ],
+        [
+          46.48896,
+          13.557702
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797641_11",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.489042,
+          13.558346
+        ],
+        [
+          46.489076,
+          13.558546
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797641_13",
+      "name": "Florianca",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_66",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.489162,
+          13.558887
+        ],
+        [
+          46.489293,
+          13.559403
+        ],
+        [
+          46.489515,
+          13.560163
+        ],
+        [
+          46.489569,
+          13.560305
+        ],
+        [
+          46.489812,
+          13.560946
+        ],
+        [
+          46.490023,
+          13.56149
+        ],
+        [
+          46.490226,
+          13.562112
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797642_6",
+      "name": "Foresta",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.485951,
+          13.546882
+        ],
+        [
+          46.485865,
+          13.546824
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797645_1",
+      "name": "Piste 196797645",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_71",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.485572,
+          13.546592
+        ],
+        [
+          46.485619,
+          13.546455
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797646_3",
+      "name": "Foresta",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_71",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.485702,
+          13.546595
+        ],
+        [
+          46.48567,
+          13.546481
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797646_6",
+      "name": "Foresta",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_0",
+      "distance": 1.17,
+      "duration": 2,
+      "elevation": -187,
+      "geometry": [
+        [
+          46.485662,
+          13.546
+        ],
+        [
+          46.485687,
+          13.545784
+        ],
+        [
+          46.485704,
+          13.545609
+        ],
+        [
+          46.485709,
+          13.545302
+        ],
+        [
+          46.485692,
+          13.545113
+        ],
+        [
+          46.48564,
+          13.544876
+        ],
+        [
+          46.485576,
+          13.544701
+        ],
+        [
+          46.485421,
+          13.544469
+        ],
+        [
+          46.485315,
+          13.544337
+        ],
+        [
+          46.485244,
+          13.544299
+        ],
+        [
+          46.485174,
+          13.544256
+        ],
+        [
+          46.485012,
+          13.54403
+        ],
+        [
+          46.484674,
+          13.543606
+        ],
+        [
+          46.48446,
+          13.543314
+        ],
+        [
+          46.484398,
+          13.543122
+        ],
+        [
+          46.484225,
+          13.542809
+        ],
+        [
+          46.483848,
+          13.542223
+        ],
+        [
+          46.483538,
+          13.54184
+        ],
+        [
+          46.483134,
+          13.541505
+        ],
+        [
+          46.482585,
+          13.54113
+        ],
+        [
+          46.482169,
+          13.541014
+        ],
+        [
+          46.481815,
+          13.540854
+        ],
+        [
+          46.481412,
+          13.540655
+        ],
+        [
+          46.48124,
+          13.54056
+        ],
+        [
+          46.481182,
+          13.540528
+        ],
+        [
+          46.480897,
+          13.540262
+        ],
+        [
+          46.480685,
+          13.539955
+        ],
+        [
+          46.480439,
+          13.539551
+        ],
+        [
+          46.48018,
+          13.539178
+        ],
+        [
+          46.480057,
+          13.539069
+        ],
+        [
+          46.479933,
+          13.53892
+        ],
+        [
+          46.4798,
+          13.538813
+        ],
+        [
+          46.479658,
+          13.5387
+        ],
+        [
+          46.479388,
+          13.538536
+        ],
+        [
+          46.479242,
+          13.538381
+        ],
+        [
+          46.478842,
+          13.53817
+        ],
+        [
+          46.478443,
+          13.537925
+        ],
+        [
+          46.47825,
+          13.537723
+        ],
+        [
+          46.478048,
+          13.537474
+        ],
+        [
+          46.477905,
+          13.537314
+        ],
+        [
+          46.477718,
+          13.537225
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797649_2",
+      "name": "Rio Argento",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_72",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.502848,
+          13.549763
+        ],
+        [
+          46.503066,
+          13.548238
+        ],
+        [
+          46.503117,
+          13.54784
+        ],
+        [
+          46.50324,
+          13.546884
+        ],
+        [
+          46.50323,
+          13.546576
+        ],
+        [
+          46.503208,
+          13.546328
+        ],
+        [
+          46.503163,
+          13.546076
+        ],
+        [
+          46.503155,
+          13.545959
+        ],
+        [
+          46.503146,
+          13.545817
+        ],
+        [
+          46.503169,
+          13.545501
+        ],
+        [
+          46.503221,
+          13.545306
+        ],
+        [
+          46.503348,
+          13.544973
+        ],
+        [
+          46.50347,
+          13.544608
+        ],
+        [
+          46.50355,
+          13.544415
+        ],
+        [
+          46.503615,
+          13.544308
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797674_1",
+      "name": "Variante F.I.S.",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_59",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.49903,
+          13.53083
+        ],
+        [
+          46.499329,
+          13.531428
+        ],
+        [
+          46.49957,
+          13.531725
+        ],
+        [
+          46.499752,
+          13.531973
+        ],
+        [
+          46.499895,
+          13.532205
+        ],
+        [
+          46.500071,
+          13.532462
+        ],
+        [
+          46.500332,
+          13.532849
+        ],
+        [
+          46.500529,
+          13.53311
+        ],
+        [
+          46.500681,
+          13.533354
+        ],
+        [
+          46.50079,
+          13.533577
+        ],
+        [
+          46.501003,
+          13.533972
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797696_1",
+      "name": "Skiweg dell'Angelo - \"B\"",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_74",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503762,
+          13.558103
+        ],
+        [
+          46.503812,
+          13.558343
+        ],
+        [
+          46.50383,
+          13.558586
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797697_5",
+      "name": "Skiweg dell'Angelo - \"B\"",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_73",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503594,
+          13.557526
+        ],
+        [
+          46.503647,
+          13.557729
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797698_2",
+      "name": "Skiweg dell'Angelo - \"B\"",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503824,
+          13.559197
+        ],
+        [
+          46.503862,
+          13.559525
+        ],
+        [
+          46.503912,
+          13.559877
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797698_5",
+      "name": "Skiweg dell'Angelo - \"B\"",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503995,
+          13.560405
+        ],
+        [
+          46.504084,
+          13.561108
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797699_0",
+      "name": "Skiweg \"B\"",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_18",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.501935,
+          13.562855
+        ],
+        [
+          46.502852,
+          13.561968
+        ],
+        [
+          46.50316,
+          13.56154
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797699_1",
+      "name": "Skiweg \"B\"",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.50316,
+          13.56154
+        ],
+        [
+          46.503334,
+          13.561295
+        ],
+        [
+          46.503399,
+          13.561248
+        ],
+        [
+          46.50352,
+          13.561181
+        ],
+        [
+          46.503587,
+          13.561169
+        ],
+        [
+          46.503641,
+          13.561165
+        ],
+        [
+          46.50373,
+          13.561169
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797700_4",
+      "name": "Skiweg Tarvisio - Di Prampero",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_61",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.505004,
+          13.539635
+        ],
+        [
+          46.50509,
+          13.539432
+        ],
+        [
+          46.505275,
+          13.538825
+        ],
+        [
+          46.505452,
+          13.538237
+        ],
+        [
+          46.50554,
+          13.537902
+        ],
+        [
+          46.505601,
+          13.537513
+        ],
+        [
+          46.506011,
+          13.536477
+        ],
+        [
+          46.506347,
+          13.535649
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797774_2",
+      "name": "Rio Argento",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_77",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.504132,
+          13.544323
+        ],
+        [
+          46.504205,
+          13.544496
+        ],
+        [
+          46.504295,
+          13.544744
+        ],
+        [
+          46.504397,
+          13.544997
+        ],
+        [
+          46.504434,
+          13.545153
+        ],
+        [
+          46.504489,
+          13.545443
+        ],
+        [
+          46.504544,
+          13.545628
+        ],
+        [
+          46.504663,
+          13.545885
+        ],
+        [
+          46.504846,
+          13.546348
+        ],
+        [
+          46.504979,
+          13.54671
+        ],
+        [
+          46.505098,
+          13.546967
+        ],
+        [
+          46.505225,
+          13.547199
+        ],
+        [
+          46.505353,
+          13.547384
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797774_4",
+      "name": "Rio Argento",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.50548,
+          13.547527
+        ],
+        [
+          46.505595,
+          13.548369
+        ],
+        [
+          46.505651,
+          13.54898
+        ],
+        [
+          46.505673,
+          13.549245
+        ],
+        [
+          46.505692,
+          13.549451
+        ],
+        [
+          46.505705,
+          13.549757
+        ],
+        [
+          46.505684,
+          13.550406
+        ],
+        [
+          46.505707,
+          13.551222
+        ],
+        [
+          46.50573,
+          13.551578
+        ],
+        [
+          46.50574,
+          13.551669
+        ],
+        [
+          46.50576,
+          13.551786
+        ],
+        [
+          46.505773,
+          13.551854
+        ],
+        [
+          46.505801,
+          13.551913
+        ],
+        [
+          46.505826,
+          13.551958
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797786_1",
+      "name": "Malga",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_23",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.476053,
+          13.533757
+        ],
+        [
+          46.47624,
+          13.534116
+        ],
+        [
+          46.476405,
+          13.534602
+        ],
+        [
+          46.476554,
+          13.53512
+        ],
+        [
+          46.476755,
+          13.53558
+        ],
+        [
+          46.476809,
+          13.535749
+        ],
+        [
+          46.476824,
+          13.535975
+        ],
+        [
+          46.476832,
+          13.536247
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_196797797_1",
+      "name": "Variante Dell'Angelo",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_32",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.5048,
+          13.55561
+        ],
+        [
+          46.504898,
+          13.555472
+        ],
+        [
+          46.504992,
+          13.555324
+        ],
+        [
+          46.50507,
+          13.555161
+        ],
+        [
+          46.505219,
+          13.554718
+        ],
+        [
+          46.505412,
+          13.55411
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797811_1",
+      "name": "Variante dell'Angelo",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_54",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.502792,
+          13.551953
+        ],
+        [
+          46.502651,
+          13.552248
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797811_2",
+      "name": "Variante dell'Angelo",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_80",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.502651,
+          13.552248
+        ],
+        [
+          46.502466,
+          13.552546
+        ],
+        [
+          46.502294,
+          13.552897
+        ],
+        [
+          46.502253,
+          13.553008
+        ],
+        [
+          46.502159,
+          13.55326
+        ],
+        [
+          46.502089,
+          13.553546
+        ],
+        [
+          46.502007,
+          13.553885
+        ],
+        [
+          46.501942,
+          13.55423
+        ],
+        [
+          46.501917,
+          13.554546
+        ],
+        [
+          46.501938,
+          13.554873
+        ],
+        [
+          46.501999,
+          13.555052
+        ],
+        [
+          46.50211,
+          13.555266
+        ],
+        [
+          46.502257,
+          13.555439
+        ],
+        [
+          46.50243,
+          13.555624
+        ],
+        [
+          46.502639,
+          13.555903
+        ],
+        [
+          46.502782,
+          13.556189
+        ],
+        [
+          46.502888,
+          13.556315
+        ],
+        [
+          46.503033,
+          13.556387
+        ],
+        [
+          46.503157,
+          13.556413
+        ],
+        [
+          46.503335,
+          13.55645
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797811_4",
+      "name": "Variante dell'Angelo",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_81",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503612,
+          13.5565
+        ],
+        [
+          46.503813,
+          13.556535
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797815_1",
+      "name": "Skiweg \"B\" - dell'Angelo",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_82",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.501571,
+          13.559481
+        ],
+        [
+          46.501653,
+          13.559413
+        ],
+        [
+          46.50182,
+          13.559237
+        ],
+        [
+          46.502027,
+          13.558979
+        ],
+        [
+          46.502282,
+          13.558569
+        ],
+        [
+          46.502434,
+          13.558227
+        ],
+        [
+          46.502543,
+          13.557862
+        ],
+        [
+          46.502626,
+          13.5576
+        ],
+        [
+          46.502735,
+          13.557359
+        ],
+        [
+          46.50283,
+          13.557255
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797824_1",
+      "name": "Skiweg Di Prampero - Tarvisio 1",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_83",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.504113,
+          13.536517
+        ],
+        [
+          46.504258,
+          13.536764
+        ],
+        [
+          46.504359,
+          13.537017
+        ],
+        [
+          46.504453,
+          13.537317
+        ],
+        [
+          46.504522,
+          13.537612
+        ],
+        [
+          46.50457,
+          13.537935
+        ],
+        [
+          46.504613,
+          13.538234
+        ],
+        [
+          46.504618,
+          13.538427
+        ],
+        [
+          46.504586,
+          13.538646
+        ],
+        [
+          46.504549,
+          13.539155
+        ],
+        [
+          46.504552,
+          13.539388
+        ],
+        [
+          46.50458,
+          13.539589
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_196797831_5",
+      "name": "Campo Scuola Duca d'Aosta",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501423,
+          13.563141
+        ],
+        [
+          46.501568,
+          13.563415
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797831_6",
+      "name": "Campo Scuola Duca d'Aosta",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_85",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.501568,
+          13.563415
+        ],
+        [
+          46.501885,
+          13.563831
+        ],
+        [
+          46.503119,
+          13.565627
+        ],
+        [
+          46.503189,
+          13.565737
+        ],
+        [
+          46.503744,
+          13.56648
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797831_7",
+      "name": "Campo Scuola Duca d'Aosta",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_86",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.503744,
+          13.56648
+        ],
+        [
+          46.503948,
+          13.566765
+        ],
+        [
+          46.504265,
+          13.567281
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797834_2",
+      "name": "Skiweg Di Prampero - Tarvisio 2",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_77",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.504726,
+          13.540874
+        ],
+        [
+          46.504773,
+          13.541094
+        ],
+        [
+          46.504788,
+          13.541356
+        ],
+        [
+          46.504785,
+          13.541627
+        ],
+        [
+          46.504796,
+          13.541819
+        ],
+        [
+          46.504826,
+          13.541939
+        ],
+        [
+          46.504893,
+          13.542099
+        ],
+        [
+          46.504984,
+          13.54228
+        ],
+        [
+          46.505067,
+          13.542539
+        ],
+        [
+          46.505135,
+          13.542747
+        ],
+        [
+          46.505237,
+          13.543147
+        ],
+        [
+          46.505275,
+          13.543507
+        ],
+        [
+          46.505251,
+          13.544515
+        ],
+        [
+          46.505227,
+          13.544902
+        ],
+        [
+          46.505228,
+          13.545293
+        ],
+        [
+          46.505281,
+          13.545771
+        ],
+        [
+          46.50531,
+          13.545991
+        ],
+        [
+          46.505351,
+          13.546267
+        ],
+        [
+          46.505389,
+          13.546698
+        ],
+        [
+          46.505407,
+          13.546963
+        ],
+        [
+          46.505458,
+          13.547334
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797859_1",
+      "name": "Skiweg Campo Scuola",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_88",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.50324,
+          13.562208
+        ],
+        [
+          46.503299,
+          13.562549
+        ],
+        [
+          46.503363,
+          13.562942
+        ],
+        [
+          46.503377,
+          13.563246
+        ],
+        [
+          46.503373,
+          13.563474
+        ],
+        [
+          46.503365,
+          13.563643
+        ],
+        [
+          46.50333,
+          13.563961
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797885_3",
+      "name": "Piste 196797885",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_86",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503978,
+          13.567169
+        ],
+        [
+          46.504106,
+          13.567211
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_196797889_2",
+      "name": "Piste 196797889",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_64",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.493453,
+          13.528323
+        ],
+        [
+          46.493478,
+          13.5283
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_207601635_0",
+      "name": "Piste 207601635",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.477203,
+          13.537046
+        ],
+        [
+          46.47717,
+          13.536989
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_207601673_1",
+      "name": "Piste 207601673",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.476897,
+          13.5369
+        ],
+        [
+          46.476928,
+          13.537007
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_207601719_2",
+      "name": "Malga",
+      "type": "slope",
+      "from": "node_91",
+      "to": "node_92",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.476544,
+          13.526463
+        ],
+        [
+          46.476452,
+          13.526837
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_207601719_3",
+      "name": "Malga",
+      "type": "slope",
+      "from": "node_92",
+      "to": "node_79",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.476452,
+          13.526837
+        ],
+        [
+          46.476394,
+          13.527137
+        ],
+        [
+          46.476363,
+          13.527434
+        ],
+        [
+          46.476338,
+          13.527672
+        ],
+        [
+          46.476295,
+          13.527939
+        ],
+        [
+          46.476244,
+          13.528203
+        ],
+        [
+          46.47617,
+          13.528581
+        ],
+        [
+          46.476143,
+          13.528887
+        ],
+        [
+          46.476143,
+          13.5292
+        ],
+        [
+          46.476127,
+          13.529559
+        ],
+        [
+          46.476101,
+          13.529893
+        ],
+        [
+          46.476085,
+          13.530079
+        ],
+        [
+          46.476076,
+          13.530208
+        ],
+        [
+          46.476056,
+          13.5303
+        ],
+        [
+          46.476016,
+          13.530411
+        ],
+        [
+          46.475975,
+          13.530541
+        ],
+        [
+          46.475937,
+          13.530664
+        ],
+        [
+          46.475904,
+          13.530796
+        ],
+        [
+          46.475878,
+          13.530953
+        ],
+        [
+          46.475865,
+          13.53112
+        ],
+        [
+          46.475858,
+          13.531339
+        ],
+        [
+          46.475869,
+          13.531583
+        ],
+        [
+          46.475884,
+          13.531772
+        ],
+        [
+          46.475924,
+          13.531926
+        ],
+        [
+          46.475949,
+          13.532055
+        ],
+        [
+          46.475957,
+          13.53228
+        ],
+        [
+          46.475951,
+          13.532459
+        ],
+        [
+          46.475933,
+          13.532716
+        ],
+        [
+          46.475931,
+          13.532989
+        ],
+        [
+          46.475951,
+          13.53332
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_207601870_2",
+      "name": "Malga",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_93",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.477942,
+          13.525804
+        ],
+        [
+          46.47831,
+          13.525307
+        ],
+        [
+          46.478462,
+          13.525079
+        ],
+        [
+          46.478589,
+          13.524902
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_219098599_0",
+      "name": "Misconca",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_94",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.48255,
+          13.520514
+        ],
+        [
+          46.48276,
+          13.520594
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_219098599_1",
+      "name": "Misconca",
+      "type": "slope",
+      "from": "node_94",
+      "to": "node_95",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.48276,
+          13.520594
+        ],
+        [
+          46.482906,
+          13.520622
+        ],
+        [
+          46.483111,
+          13.520672
+        ],
+        [
+          46.483461,
+          13.520767
+        ],
+        [
+          46.483794,
+          13.520787
+        ],
+        [
+          46.484116,
+          13.5208
+        ],
+        [
+          46.484336,
+          13.520809
+        ],
+        [
+          46.484534,
+          13.520819
+        ],
+        [
+          46.484727,
+          13.520905
+        ],
+        [
+          46.484815,
+          13.520963
+        ],
+        [
+          46.485056,
+          13.52108
+        ],
+        [
+          46.485245,
+          13.521121
+        ],
+        [
+          46.485436,
+          13.521146
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_219098603_3",
+      "name": "Piste 219098603",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.485736,
+          13.547244
+        ],
+        [
+          46.485713,
+          13.547395
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_219098616_1",
+      "name": "Piste 219098616",
+      "type": "slope",
+      "from": "node_90",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.477043,
+          13.537172
+        ],
+        [
+          46.477511,
+          13.537321
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_240163587_2",
+      "name": "Piste 240163587",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_57",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.493621,
+          13.528238
+        ],
+        [
+          46.493777,
+          13.528292
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_288784236_0",
+      "name": "Piste 288784236",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.489042,
+          13.558346
+        ],
+        [
+          46.489452,
+          13.558451
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_288784236_2",
+      "name": "Piste 288784236",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.489639,
+          13.558637
+        ],
+        [
+          46.489781,
+          13.559035
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_288784236_3",
+      "name": "Piste 288784236",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_66",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.489781,
+          13.559035
+        ],
+        [
+          46.48991,
+          13.559926
+        ],
+        [
+          46.489965,
+          13.560412
+        ],
+        [
+          46.490226,
+          13.562112
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_329017450_0",
+      "name": "Gold Snowpark",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_36",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.500903,
+          13.567979
+        ],
+        [
+          46.502046,
+          13.568846
+        ],
+        [
+          46.501967,
+          13.569083
+        ],
+        [
+          46.500568,
+          13.568019
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_329017450_2",
+      "name": "Gold Snowpark",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500619,
+          13.567864
+        ],
+        [
+          46.500903,
+          13.567979
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_329017465_6",
+      "name": "Piste 329017465",
+      "type": "slope",
+      "from": "node_96",
+      "to": "node_97",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.480238,
+          13.52419
+        ],
+        [
+          46.480266,
+          13.524081
+        ],
+        [
+          46.480277,
+          13.524038
+        ],
+        [
+          46.480286,
+          13.52399
+        ],
+        [
+          46.480285,
+          13.523862
+        ],
+        [
+          46.480291,
+          13.523786
+        ],
+        [
+          46.480321,
+          13.523705
+        ],
+        [
+          46.480409,
+          13.523588
+        ],
+        [
+          46.480475,
+          13.523523
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_329017471_1",
+      "name": "Piste 329017471",
+      "type": "slope",
+      "from": "node_95",
+      "to": "node_98",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.48552,
+          13.521551
+        ],
+        [
+          46.485267,
+          13.521828
+        ],
+        [
+          46.485071,
+          13.522077
+        ],
+        [
+          46.484954,
+          13.522248
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_329017484_1",
+      "name": "Piste 329017484",
+      "type": "slope",
+      "from": "node_98",
+      "to": "node_63",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.484878,
+          13.52256
+        ],
+        [
+          46.484943,
+          13.523086
+        ],
+        [
+          46.485038,
+          13.523533
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_329017486_1",
+      "name": "Malga",
+      "type": "slope",
+      "from": "node_93",
+      "to": "node_91",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.478507,
+          13.524618
+        ],
+        [
+          46.478334,
+          13.524685
+        ],
+        [
+          46.478223,
+          13.524733
+        ],
+        [
+          46.478139,
+          13.524769
+        ],
+        [
+          46.477859,
+          13.524991
+        ],
+        [
+          46.477804,
+          13.525062
+        ],
+        [
+          46.477731,
+          13.525095
+        ],
+        [
+          46.477487,
+          13.525122
+        ],
+        [
+          46.477313,
+          13.525162
+        ],
+        [
+          46.477171,
+          13.525177
+        ],
+        [
+          46.477101,
+          13.52521
+        ],
+        [
+          46.477017,
+          13.525296
+        ],
+        [
+          46.476932,
+          13.525414
+        ],
+        [
+          46.476613,
+          13.526018
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_940526658_2",
+      "name": "Piste 940526658",
+      "type": "slope",
+      "from": "node_93",
+      "to": "node_99",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.479041,
+          13.524612
+        ],
+        [
+          46.47918,
+          13.524658
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_940526658_3",
+      "name": "Piste 940526658",
+      "type": "slope",
+      "from": "node_99",
+      "to": "node_96",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.47918,
+          13.524658
+        ],
+        [
+          46.479216,
+          13.524678
+        ],
+        [
+          46.479266,
+          13.524682
+        ],
+        [
+          46.479304,
+          13.52468
+        ],
+        [
+          46.479632,
+          13.524609
+        ],
+        [
+          46.479832,
+          13.524582
+        ],
+        [
+          46.480008,
+          13.524566
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130954875_0",
+      "name": "Piste 1130954875",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_84",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.501935,
+          13.562855
+        ],
+        [
+          46.501568,
+          13.563415
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130954876_1",
+      "name": "Skiweg Campo Scuola",
+      "type": "slope",
+      "from": "node_88",
+      "to": "node_2",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.503308,
+          13.564319
+        ],
+        [
+          46.503262,
+          13.564712
+        ],
+        [
+          46.503285,
+          13.564998
+        ],
+        [
+          46.503445,
+          13.565186
+        ],
+        [
+          46.503629,
+          13.565296
+        ],
+        [
+          46.503777,
+          13.565439
+        ],
+        [
+          46.503825,
+          13.565518
+        ],
+        [
+          46.503888,
+          13.565606
+        ],
+        [
+          46.50395,
+          13.565747
+        ],
+        [
+          46.504027,
+          13.565913
+        ],
+        [
+          46.504095,
+          13.566103
+        ],
+        [
+          46.504223,
+          13.566368
+        ],
+        [
+          46.504378,
+          13.56661
+        ],
+        [
+          46.504592,
+          13.566943
+        ],
+        [
+          46.504753,
+          13.567158
+        ],
+        [
+          46.504842,
+          13.567292
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130954877_2",
+      "name": "Skiweg Campo Scuola",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_100",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50228,
+          13.563229
+        ],
+        [
+          46.502582,
+          13.563491
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130954877_3",
+      "name": "Skiweg Campo Scuola",
+      "type": "slope",
+      "from": "node_100",
+      "to": "node_88",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.502582,
+          13.563491
+        ],
+        [
+          46.503141,
+          13.563944
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130954879_3",
+      "name": "Variante dell'Angelo",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_55",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.504257,
+          13.556499
+        ],
+        [
+          46.504353,
+          13.556416
+        ],
+        [
+          46.504468,
+          13.556235
+        ],
+        [
+          46.504673,
+          13.555838
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1132045299_0",
+      "name": "Piste 1132045299",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503658,
+          13.566371
+        ],
+        [
+          46.503552,
+          13.566923
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1132045299_1",
+      "name": "Piste 1132045299",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503552,
+          13.566923
+        ],
+        [
+          46.503507,
+          13.567159
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1132045299_3",
+      "name": "Piste 1132045299",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_65",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.503435,
+          13.567412
+        ],
+        [
+          46.503302,
+          13.56776
+        ],
+        [
+          46.503118,
+          13.568254
+        ],
+        [
+          46.503082,
+          13.568337
+        ],
+        [
+          46.503054,
+          13.568402
+        ],
+        [
+          46.502996,
+          13.568498
+        ],
+        [
+          46.502918,
+          13.568625
+        ],
+        [
+          46.50278,
+          13.568797
+        ],
+        [
+          46.502649,
+          13.568968
+        ],
+        [
+          46.502571,
+          13.569081
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1238001844_0",
+      "name": "Skiweg \"B\" - dell'Angelo",
+      "type": "slope",
+      "from": "node_82",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503036,
+          13.557148
+        ],
+        [
+          46.503277,
+          13.557106
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1238001844_2",
+      "name": "Skiweg \"B\" - dell'Angelo",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_80",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503384,
+          13.557046
+        ],
+        [
+          46.503487,
+          13.556957
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1392307640_0",
+      "name": "Piste 1392307640",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_41",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.502949,
+          13.566525
+        ],
+        [
+          46.503507,
+          13.567159
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1392307641_0",
+      "name": "Piste 1392307641",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_101",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501568,
+          13.563415
+        ],
+        [
+          46.501551,
+          13.563974
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1392316989_0",
+      "name": "Skiweg \"B\"",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_12",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.500779,
+          13.562801
+        ],
+        [
+          46.501271,
+          13.562573
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1392318604_0",
+      "name": "Piste 1392318604",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_41",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.502909,
+          13.56616
+        ],
+        [
+          46.503552,
+          13.566923
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1392320450_0",
+      "name": "Piste 1392320450",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501423,
+          13.563141
+        ],
+        [
+          46.501723,
+          13.562978
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1392320450_1",
+      "name": "Piste 1392320450",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_75",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501723,
+          13.562978
+        ],
+        [
+          46.501935,
+          13.562855
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1396181803_0",
+      "name": "Piste 1396181803",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_80",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50366,
+          13.557136
+        ],
+        [
+          46.50364,
+          13.556999
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1423272478_1",
+      "name": "Di Prampero",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_57",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.493519,
+          13.528021
+        ],
+        [
+          46.493777,
+          13.528292
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1423282909_2",
+      "name": "Piste 1423282909",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504319,
+          13.561349
+        ],
+        [
+          46.504369,
+          13.561408
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1423284535_2",
+      "name": "Piste 1423284535",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_21",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.506487,
+          13.535289
+        ],
+        [
+          46.506561,
+          13.535064
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1423308581_0",
+      "name": "Piste 1423308581",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504319,
+          13.567949
+        ],
+        [
+          46.504493,
+          13.567966
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1423308581_2",
+      "name": "Piste 1423308581",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504612,
+          13.567961
+        ],
+        [
+          46.504702,
+          13.56794
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1423308583_2",
+      "name": "Piste 1423308583",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_102",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.503497,
+          13.567701
+        ],
+        [
+          46.503477,
+          13.567941
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1423317784_0",
+      "name": "\"A\"",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_103",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500329,
+          13.567598
+        ],
+        [
+          46.500449,
+          13.567372
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1431136283_3",
+      "name": "Piste 1431136283",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_104",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.498424,
+          13.56386
+        ],
+        [
+          46.498592,
+          13.563826
+        ],
+        [
+          46.498751,
+          13.56379
+        ],
+        [
+          46.498906,
+          13.563764
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1431141031_0",
+      "name": "Campo Scuola Duca d'Aosta",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504265,
+          13.567281
+        ],
+        [
+          46.504515,
+          13.56765
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431141031_1",
+      "name": "Campo Scuola Duca d'Aosta",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504515,
+          13.56765
+        ],
+        [
+          46.504702,
+          13.56794
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431174691_0",
+      "name": "Skiweg Di Prampero - Tarvisio 2",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504764,
+          13.54034
+        ],
+        [
+          46.504707,
+          13.540486
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431174692_1",
+      "name": "Skiweg Tarvisio - Di Prampero",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_87",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.5039,
+          13.543855
+        ],
+        [
+          46.503984,
+          13.543517
+        ],
+        [
+          46.504052,
+          13.543245
+        ],
+        [
+          46.504155,
+          13.542868
+        ],
+        [
+          46.504217,
+          13.542555
+        ],
+        [
+          46.504329,
+          13.541816
+        ],
+        [
+          46.504376,
+          13.541323
+        ],
+        [
+          46.504413,
+          13.540982
+        ],
+        [
+          46.504497,
+          13.540672
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431174693_0",
+      "name": "Skiweg Tarvisio - Di Prampero",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_83",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504678,
+          13.540477
+        ],
+        [
+          46.504742,
+          13.540315
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431189021_1",
+      "name": "Piste 1431189021",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_105",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501559,
+          13.562445
+        ],
+        [
+          46.501717,
+          13.56254
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1431189021_3",
+      "name": "Piste 1431189021",
+      "type": "slope",
+      "from": "node_105",
+      "to": "node_75",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501803,
+          13.562701
+        ],
+        [
+          46.501935,
+          13.562855
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1463177086_2",
+      "name": "Skiweg Campo Scuola",
+      "type": "slope",
+      "from": "node_89",
+      "to": "node_100",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.502415,
+          13.563581
+        ],
+        [
+          46.502582,
+          13.563491
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1471916711_2",
+      "name": "Campo Scuola Evoland",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504145,
+          13.55973
+        ],
+        [
+          46.50426,
+          13.56042
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1487550892_0",
+      "name": "Piste 1487550892",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.48914,
+          13.558045
+        ],
+        [
+          46.489211,
+          13.558718
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1487550893_0",
+      "name": "Piste 1487550893",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_106",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.488888,
+          13.556997
+        ],
+        [
+          46.489111,
+          13.557446
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1492239149_0",
+      "name": "Piste 1492239149",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.502793,
+          13.568145
+        ],
+        [
+          46.502955,
+          13.56787
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1492539747_0",
+      "name": "Piste 1492539747",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_10",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.502949,
+          13.566525
+        ],
+        [
+          46.503007,
+          13.566998
+        ],
+        [
+          46.503031,
+          13.567423
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_23",
+      "name": "Walk: Seggiovia Hütte (Base) ↔ Seggiovia Prasnig (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_23",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.477481,
+          13.53723
+        ],
+        [
+          46.477003,
+          13.536653
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_90",
+      "name": "Walk: Seggiovia Hütte (Base) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.477481,
+          13.53723
+        ],
+        [
+          46.477039,
+          13.537053
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_7",
+      "name": "Walk: Seggiovia Hütte (Summit / Top) ↔ Seggiovia Florianca (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.486104,
+          13.546853
+        ],
+        [
+          46.485619,
+          13.546863
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_68",
+      "name": "Walk: Seggiovia Hütte (Summit / Top) ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_68",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.486104,
+          13.546853
+        ],
+        [
+          46.485751,
+          13.547529
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_71",
+      "name": "Walk: Seggiovia Hütte (Summit / Top) ↔ Junction: Foresta",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_71",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.486104,
+          13.546853
+        ],
+        [
+          46.485649,
+          13.546316
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_15",
+      "name": "Walk: Skilift Campo Scuola (Base) ↔ Tappeto Campo Scuola (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_15",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504864,
+          13.567771
+        ],
+        [
+          46.504261,
+          13.568328
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_25",
+      "name": "Walk: Skilift Campo Scuola (Base) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_25",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504864,
+          13.567771
+        ],
+        [
+          46.504024,
+          13.568083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_53",
+      "name": "Walk: Skilift Campo Scuola (Base) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_53",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504864,
+          13.567771
+        ],
+        [
+          46.504331,
+          13.568004
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_12",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Seggiovia Tschopfen (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_12",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.501385,
+          13.562697
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_75",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Junction: Skiweg \"B\"",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_75",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.502065,
+          13.562999
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_84",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_84",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.501619,
+          13.56327
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_89",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_89",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.502249,
+          13.563787
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_100",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Junction: Skiweg Campo Scuola",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_100",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.502582,
+          13.563491
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_105",
+      "name": "Walk: Skilift Campo Scuola (Summit / Top) ↔ Junction #106",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_105",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502007,
+          13.563357
+        ],
+        [
+          46.50176,
+          13.562621
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_36",
+      "name": "Walk: Seggiovia Duca d'Aosta (Summit / Top) ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_36",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500535,
+          13.568123
+        ],
+        [
+          46.500549,
+          13.567883
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_38",
+      "name": "Walk: Seggiovia Duca d'Aosta (Summit / Top) ↔ Junction: Duca d'Aosta",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500535,
+          13.568123
+        ],
+        [
+          46.500982,
+          13.567841
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_103",
+      "name": "Walk: Seggiovia Duca d'Aosta (Summit / Top) ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_103",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500535,
+          13.568123
+        ],
+        [
+          46.500582,
+          13.567372
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_33",
+      "name": "Walk: Seggiovia Florianca (Base) ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.491214,
+          13.564604
+        ],
+        [
+          46.491308,
+          13.565399
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_67",
+      "name": "Walk: Seggiovia Florianca (Base) ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_67",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.491214,
+          13.564604
+        ],
+        [
+          46.491139,
+          13.565096
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_68",
+      "name": "Walk: Seggiovia Florianca (Summit / Top) ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.485619,
+          13.546863
+        ],
+        [
+          46.485751,
+          13.547529
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_71",
+      "name": "Walk: Seggiovia Florianca (Summit / Top) ↔ Junction: Foresta",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_71",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.485619,
+          13.546863
+        ],
+        [
+          46.485649,
+          13.546316
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_17",
+      "name": "Walk: Seggiovia Priesnig (Base) ↔ Tappeto Valle 2 (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_17",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504348,
+          13.561518
+        ],
+        [
+          46.504047,
+          13.561193
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_18",
+      "name": "Walk: Seggiovia Priesnig (Base) ↔ Tappeto Valle 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_18",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504348,
+          13.561518
+        ],
+        [
+          46.503202,
+          13.561893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_19",
+      "name": "Walk: Seggiovia Priesnig (Base) ↔ Tappeto Valle 1 (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_19",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504348,
+          13.561518
+        ],
+        [
+          46.504212,
+          13.560424
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_29",
+      "name": "Walk: Seggiovia Priesnig (Base) ↔ Tappeto Campo Scuola Evoland (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_29",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504348,
+          13.561518
+        ],
+        [
+          46.50409,
+          13.559863
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_47",
+      "name": "Walk: Seggiovia Priesnig (Summit / Top) ↔ Junction #48",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_47",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.489131,
+          13.558009
+        ],
+        [
+          46.489527,
+          13.558526
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_70",
+      "name": "Walk: Seggiovia Priesnig (Summit / Top) ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_70",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.489131,
+          13.558009
+        ],
+        [
+          46.489151,
+          13.558742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_106",
+      "name": "Walk: Seggiovia Priesnig (Summit / Top) ↔ Junction #107",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_106",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.489131,
+          13.558009
+        ],
+        [
+          46.489114,
+          13.557566
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_16",
+      "name": "Walk: Seggiovia Nuova Tarvisio (Base) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_16",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503022,
+          13.56766
+        ],
+        [
+          46.503581,
+          13.567073
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_25",
+      "name": "Walk: Seggiovia Nuova Tarvisio (Base) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_25",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503022,
+          13.56766
+        ],
+        [
+          46.504024,
+          13.568083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_40",
+      "name": "Walk: Seggiovia Nuova Tarvisio (Base) ↔ Junction #41",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503022,
+          13.56766
+        ],
+        [
+          46.502708,
+          13.568166
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_102",
+      "name": "Walk: Seggiovia Nuova Tarvisio (Base) ↔ Junction #103",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_102",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503022,
+          13.56766
+        ],
+        [
+          46.503454,
+          13.568088
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_48",
+      "name": "Walk: Seggiovia Tschopfen (Summit / Top) ↔ Junction: \"D\"",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501385,
+          13.562697
+        ],
+        [
+          46.500798,
+          13.562831
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_84",
+      "name": "Walk: Seggiovia Tschopfen (Summit / Top) ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501385,
+          13.562697
+        ],
+        [
+          46.501619,
+          13.56327
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_105",
+      "name": "Walk: Seggiovia Tschopfen (Summit / Top) ↔ Junction #106",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_105",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501385,
+          13.562697
+        ],
+        [
+          46.50176,
+          13.562621
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_78",
+      "name": "Walk: Seggiovia dell'Angelo (Base) ↔ Junction: Rio Argento",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_78",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505851,
+          13.552578
+        ],
+        [
+          46.505926,
+          13.55222
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_16",
+      "name": "Walk: Tappeto Campo Scuola (Base) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504261,
+          13.568328
+        ],
+        [
+          46.503581,
+          13.567073
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_25",
+      "name": "Walk: Tappeto Campo Scuola (Base) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504261,
+          13.568328
+        ],
+        [
+          46.504024,
+          13.568083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_53",
+      "name": "Walk: Tappeto Campo Scuola (Base) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_53",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504261,
+          13.568328
+        ],
+        [
+          46.504331,
+          13.568004
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_25",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Tappeto Campo Scuola (Summit / Top)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503581,
+          13.567073
+        ],
+        [
+          46.504024,
+          13.568083
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_41",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_41",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503581,
+          13.567073
+        ],
+        [
+          46.503668,
+          13.56735
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_85",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_85",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503581,
+          13.567073
+        ],
+        [
+          46.503715,
+          13.566444
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_18",
+      "name": "Walk: Tappeto Valle 2 (Base) ↔ Tappeto Valle 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504047,
+          13.561193
+        ],
+        [
+          46.503202,
+          13.561893
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_19",
+      "name": "Walk: Tappeto Valle 2 (Base) ↔ Tappeto Valle 1 (Base)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_19",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504047,
+          13.561193
+        ],
+        [
+          46.504212,
+          13.560424
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_29",
+      "name": "Walk: Tappeto Valle 2 (Base) ↔ Tappeto Campo Scuola Evoland (Summit / Top)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_29",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504047,
+          13.561193
+        ],
+        [
+          46.50409,
+          13.559863
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_29",
+      "name": "Walk: Tappeto Valle 1 (Base) ↔ Tappeto Campo Scuola Evoland (Summit / Top)",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504212,
+          13.560424
+        ],
+        [
+          46.50409,
+          13.559863
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_28",
+      "name": "Walk: Tappeto Valle 1 (Summit / Top) ↔ Tappeto Parco Giochi 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_28",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503551,
+          13.557153
+        ],
+        [
+          46.504647,
+          13.55666
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_73",
+      "name": "Walk: Tappeto Valle 1 (Summit / Top) ↔ Junction: Skiweg dell'Angelo - \"B\"",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_73",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503551,
+          13.557153
+        ],
+        [
+          46.5037,
+          13.557906
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_80",
+      "name": "Walk: Tappeto Valle 1 (Summit / Top) ↔ Junction: Variante dell'Angelo",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_80",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503551,
+          13.557153
+        ],
+        [
+          46.503606,
+          13.556707
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_82",
+      "name": "Walk: Tappeto Valle 1 (Summit / Top) ↔ Junction: Skiweg \"B\" - dell'Angelo",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_82",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503551,
+          13.557153
+        ],
+        [
+          46.502933,
+          13.557201
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_61",
+      "name": "Walk: Telecabina Monte Lussari (Base) ↔ Junction: Di Prampero bassa",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506558,
+          13.534895
+        ],
+        [
+          46.506367,
+          13.535545
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_31",
+      "name": "Walk: Telecabina Monte Lussari (Summit / Top) ↔ Junction: Di Prampero alta",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_31",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.481744,
+          13.520789
+        ],
+        [
+          46.481354,
+          13.521501
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_62",
+      "name": "Walk: Telecabina Monte Lussari (Summit / Top) ↔ Junction: Di Prampero alta",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_62",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.481744,
+          13.520789
+        ],
+        [
+          46.481485,
+          13.521118
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_90",
+      "name": "Walk: Seggiovia Prasnig (Base) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_90",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.477003,
+          13.536653
+        ],
+        [
+          46.477039,
+          13.537053
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_41",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_41",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504024,
+          13.568083
+        ],
+        [
+          46.503668,
+          13.56735
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_53",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_53",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504024,
+          13.568083
+        ],
+        [
+          46.504331,
+          13.568004
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_86",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_86",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504024,
+          13.568083
+        ],
+        [
+          46.504202,
+          13.567253
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_102",
+      "name": "Walk: Tappeto Campo Scuola (Summit / Top) ↔ Junction #103",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_102",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504024,
+          13.568083
+        ],
+        [
+          46.503454,
+          13.568088
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Tappeto Parco Giochi 1 (Base) ↔ Tappeto Parco Giochi 2 (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505963,
+          13.555658
+        ],
+        [
+          46.505148,
+          13.556305
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_28",
+      "name": "Walk: Tappeto Parco Giochi 2 (Mid-Station / Hub) ↔ Tappeto Parco Giochi 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505148,
+          13.556305
+        ],
+        [
+          46.504647,
+          13.55666
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_55",
+      "name": "Walk: Tappeto Parco Giochi 2 (Mid-Station / Hub) ↔ Junction: Dell'Angelo",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_55",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505148,
+          13.556305
+        ],
+        [
+          46.504724,
+          13.555747
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_81",
+      "name": "Walk: Tappeto Parco Giochi 2 (Summit / Top) ↔ Junction: Variante dell'Angelo",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_81",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504647,
+          13.55666
+        ],
+        [
+          46.504068,
+          13.556535
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_97",
+      "name": "Walk: Junction #31 ↔ Junction #98",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_97",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.480663,
+          13.523061
+        ],
+        [
+          46.48053,
+          13.523397
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_31_node_62",
+      "name": "Walk: Junction: Di Prampero alta ↔ Junction: Di Prampero alta",
+      "type": "walk",
+      "from": "node_31",
+      "to": "node_62",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.481354,
+          13.521501
+        ],
+        [
+          46.481485,
+          13.521118
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_33_node_67",
+      "name": "Walk: Junction: \"A\" ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_33",
+      "to": "node_67",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.491308,
+          13.565399
+        ],
+        [
+          46.491139,
+          13.565096
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_35_node_37",
+      "name": "Walk: Junction: \"A\" ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_35",
+      "to": "node_37",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.491104,
+          13.579018
+        ],
+        [
+          46.490848,
+          13.578688
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_36_node_38",
+      "name": "Walk: Junction: \"A\" ↔ Junction: Duca d'Aosta",
+      "type": "walk",
+      "from": "node_36",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500549,
+          13.567883
+        ],
+        [
+          46.500982,
+          13.567841
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_36_node_103",
+      "name": "Walk: Junction: \"A\" ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_36",
+      "to": "node_103",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500549,
+          13.567883
+        ],
+        [
+          46.500582,
+          13.567372
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_38_node_39",
+      "name": "Walk: Junction: Duca d'Aosta ↔ Junction: Duca d'Aosta",
+      "type": "walk",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500982,
+          13.567841
+        ],
+        [
+          46.501273,
+          13.568018
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_38_node_103",
+      "name": "Walk: Junction: Duca d'Aosta ↔ Junction: \"A\"",
+      "type": "walk",
+      "from": "node_38",
+      "to": "node_103",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500982,
+          13.567841
+        ],
+        [
+          46.500582,
+          13.567372
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_85",
+      "name": "Walk: Junction: Campo Scuola ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_85",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503668,
+          13.56735
+        ],
+        [
+          46.503715,
+          13.566444
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_86",
+      "name": "Walk: Junction: Campo Scuola ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_86",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503668,
+          13.56735
+        ],
+        [
+          46.504202,
+          13.567253
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_102",
+      "name": "Walk: Junction: Campo Scuola ↔ Junction #103",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_102",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503668,
+          13.56735
+        ],
+        [
+          46.503454,
+          13.568088
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_45",
+      "name": "Walk: Junction: Variante \"B\" ↔ Junction: \"B\"",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_45",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.499372,
+          13.558847
+        ],
+        [
+          46.4993,
+          13.558537
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_48",
+      "name": "Walk: Junction: Variante \"B\" ↔ Junction: \"D\"",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500477,
+          13.56233
+        ],
+        [
+          46.500798,
+          13.562831
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_47",
+      "name": "Walk: Junction: \"B\" ↔ Junction #48",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.489781,
+          13.559035
+        ],
+        [
+          46.489527,
+          13.558526
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_47_node_70",
+      "name": "Walk: Junction #48 ↔ Junction: Florianca",
+      "type": "walk",
+      "from": "node_47",
+      "to": "node_70",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.489527,
+          13.558526
+        ],
+        [
+          46.489151,
+          13.558742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_49_node_101",
+      "name": "Walk: Junction: \"D\" ↔ Junction #102",
+      "type": "walk",
+      "from": "node_49",
+      "to": "node_101",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501484,
+          13.564478
+        ],
+        [
+          46.501559,
+          13.564095
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_51_node_104",
+      "name": "Walk: Junction: \"C\" ↔ Junction #105",
+      "type": "walk",
+      "from": "node_51",
+      "to": "node_104",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.499286,
+          13.563711
+        ],
+        [
+          46.498987,
+          13.563754
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_94",
+      "name": "Walk: Junction: Misconca ↔ Junction: Misconca",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_94",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.482416,
+          13.520617
+        ],
+        [
+          46.48276,
+          13.520594
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_53_node_86",
+      "name": "Walk: Junction: Campo Scuola ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_53",
+      "to": "node_86",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504331,
+          13.568004
+        ],
+        [
+          46.504202,
+          13.567253
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_56",
+      "name": "Walk: Junction: Dell'Angelo ↔ Junction: Dell'Angelo",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_56",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502772,
+          13.552299
+        ],
+        [
+          46.502831,
+          13.551821
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_57_node_64",
+      "name": "Walk: Junction: Di Prampero bassa ↔ Junction: Di Prampero alta",
+      "type": "walk",
+      "from": "node_57",
+      "to": "node_64",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.493542,
+          13.528479
+        ],
+        [
+          46.493422,
+          13.52808
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_69_node_106",
+      "name": "Walk: Junction: Florianca ↔ Junction #107",
+      "type": "walk",
+      "from": "node_69",
+      "to": "node_106",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.488888,
+          13.556997
+        ],
+        [
+          46.489114,
+          13.557566
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_75_node_84",
+      "name": "Walk: Junction: Skiweg \"B\" ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_75",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502065,
+          13.562999
+        ],
+        [
+          46.501619,
+          13.56327
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_75_node_89",
+      "name": "Walk: Junction: Skiweg \"B\" ↔ Junction: Campo Scuola Duca d'Aosta",
+      "type": "walk",
+      "from": "node_75",
+      "to": "node_89",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502065,
+          13.562999
+        ],
+        [
+          46.502249,
+          13.563787
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_75_node_100",
+      "name": "Walk: Junction: Skiweg \"B\" ↔ Junction: Skiweg Campo Scuola",
+      "type": "walk",
+      "from": "node_75",
+      "to": "node_100",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502065,
+          13.562999
+        ],
+        [
+          46.502582,
+          13.563491
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_75_node_105",
+      "name": "Walk: Junction: Skiweg \"B\" ↔ Junction #106",
+      "type": "walk",
+      "from": "node_75",
+      "to": "node_105",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502065,
+          13.562999
+        ],
+        [
+          46.50176,
+          13.562621
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_76_node_83",
+      "name": "Walk: Junction: Skiweg Tarvisio - Di Prampero ↔ Junction: Skiweg Di Prampero - Tarvisio 1",
+      "type": "walk",
+      "from": "node_76",
+      "to": "node_83",
+      "distance": 0.01,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.50486,
+          13.540004
+        ],
+        [
+          46.504735,
+          13.539955
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_76_node_87",
+      "name": "Walk: Junction: Skiweg Tarvisio - Di Prampero ↔ Junction: Skiweg Di Prampero - Tarvisio 2",
+      "type": "walk",
+      "from": "node_76",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.50486,
+          13.540004
+        ],
+        [
+          46.504649,
+          13.540611
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_80_node_81",
+      "name": "Walk: Junction: Variante dell'Angelo ↔ Junction: Variante dell'Angelo",
+      "type": "walk",
+      "from": "node_80",
+      "to": "node_81",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.503606,
+          13.556707
+        ],
+        [
+          46.504068,
+          13.556535
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_83_node_87",
+      "name": "Walk: Junction: Skiweg Di Prampero - Tarvisio 1 ↔ Junction: Skiweg Di Prampero - Tarvisio 2",
+      "type": "walk",
+      "from": "node_83",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504735,
+          13.539955
+        ],
+        [
+          46.504649,
+          13.540611
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_84_node_101",
+      "name": "Walk: Junction: Campo Scuola Duca d'Aosta ↔ Junction #102",
+      "type": "walk",
+      "from": "node_84",
+      "to": "node_101",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501619,
+          13.56327
+        ],
+        [
+          46.501559,
+          13.564095
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_84_node_105",
+      "name": "Walk: Junction: Campo Scuola Duca d'Aosta ↔ Junction #106",
+      "type": "walk",
+      "from": "node_84",
+      "to": "node_105",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501619,
+          13.56327
+        ],
+        [
+          46.50176,
+          13.562621
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_89_node_100",
+      "name": "Walk: Junction: Campo Scuola Duca d'Aosta ↔ Junction: Skiweg Campo Scuola",
+      "type": "walk",
+      "from": "node_89",
+      "to": "node_100",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.502249,
+          13.563787
+        ],
+        [
+          46.502582,
+          13.563491
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_91_node_92",
+      "name": "Walk: Junction: Malga ↔ Junction: Malga",
+      "type": "walk",
+      "from": "node_91",
+      "to": "node_92",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.476584,
+          13.526197
+        ],
+        [
+          46.476483,
+          13.526713
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_93_node_99",
+      "name": "Walk: Junction: Malga ↔ Junction #100",
+      "type": "walk",
+      "from": "node_93",
+      "to": "node_99",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.478764,
+          13.524641
+        ],
+        [
+          46.47918,
+          13.524658
+        ]
+      ]
+    }
+  ]
+}

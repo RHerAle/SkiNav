@@ -1,0 +1,330 @@
+{
+  "id": "santaines",
+  "name": "Punto de Nieve Santa Inés",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.0324,
+      -2.7909
+    ],
+    [
+      42.0437,
+      -2.774
+    ]
+  ],
+  "center": [
+    42.0382,
+    -2.7836
+  ],
+  "stats": {
+    "slopes": "1.0 km",
+    "lifts": 2,
+    "elevation": "1753m - 1832m",
+    "drop": "79m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Alpino (Base)",
+      "lat": 42.038269,
+      "lng": -2.784251,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Alpino (Summit / Top)",
+      "lat": 42.037448,
+      "lng": -2.778968,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Debutantes (Base)",
+      "lat": 42.038381,
+      "lng": -2.785165,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Debutantes (Summit / Top)",
+      "lat": 42.038692,
+      "lng": -2.78589,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Junction: Pista Técnica",
+      "lat": 42.038355,
+      "lng": -2.783791,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_148769810",
+      "name": "Alpino",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.46,
+      "duration": 2,
+      "elevation": 101,
+      "geometry": [
+        [
+          42.038211,
+          -2.784511
+        ],
+        [
+          42.037322,
+          -2.77904
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_259270183",
+      "name": "Debutantes",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.08,
+      "duration": 2,
+      "elevation": 17,
+      "geometry": [
+        [
+          42.038309,
+          -2.785165
+        ],
+        [
+          42.038676,
+          -2.785999
+        ]
+      ],
+      "subtype": "rope_tow"
+    },
+    {
+      "id": "piste_148769813_0",
+      "name": "Pista Alpino",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_0",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          42.037347,
+          -2.778959
+        ],
+        [
+          42.037467,
+          -2.779418
+        ],
+        [
+          42.037496,
+          -2.77958
+        ],
+        [
+          42.037641,
+          -2.780405
+        ],
+        [
+          42.037951,
+          -2.782244
+        ],
+        [
+          42.038289,
+          -2.784095
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_817488615_1",
+      "name": "Pista Técnica",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_4",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          42.037613,
+          -2.778942
+        ],
+        [
+          42.037728,
+          -2.779047
+        ],
+        [
+          42.037797,
+          -2.779262
+        ],
+        [
+          42.037905,
+          -2.77957
+        ],
+        [
+          42.037979,
+          -2.779984
+        ],
+        [
+          42.038082,
+          -2.780374
+        ],
+        [
+          42.038185,
+          -2.780678
+        ],
+        [
+          42.038183,
+          -2.781122
+        ],
+        [
+          42.038185,
+          -2.78135
+        ],
+        [
+          42.038202,
+          -2.781628
+        ],
+        [
+          42.038325,
+          -2.782058
+        ],
+        [
+          42.038443,
+          -2.782313
+        ],
+        [
+          42.038519,
+          -2.782587
+        ],
+        [
+          42.03848,
+          -2.782918
+        ],
+        [
+          42.038438,
+          -2.783262
+        ],
+        [
+          42.038355,
+          -2.783791
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_817488615_2",
+      "name": "Pista Técnica",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.038355,
+          -2.783791
+        ],
+        [
+          42.038289,
+          -2.784095
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_817488616_3",
+      "name": "Iniciación",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.038661,
+          -2.78569
+        ],
+        [
+          42.038583,
+          -2.785469
+        ],
+        [
+          42.038447,
+          -2.78521
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "walk_node_0_node_2",
+      "name": "Walk: Alpino (Base) ↔ Debutantes (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.038269,
+          -2.784251
+        ],
+        [
+          42.038381,
+          -2.785165
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_4",
+      "name": "Walk: Alpino (Base) ↔ Junction: Pista Técnica",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.038269,
+          -2.784251
+        ],
+        [
+          42.038355,
+          -2.783791
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Debutantes (Base) ↔ Debutantes (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.038381,
+          -2.785165
+        ],
+        [
+          42.038692,
+          -2.78589
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3295 @@
+{
+  "id": "lapinilla",
+  "name": "La Pinilla",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      41.1803,
+      -3.4861
+    ],
+    [
+      41.2101,
+      -3.4672
+    ]
+  ],
+  "center": [
+    41.1928,
+    -3.4753
+  ],
+  "stats": {
+    "slopes": "11.2 km",
+    "lifts": 13,
+    "elevation": "1500m - 2050m",
+    "drop": "550m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Super Express (Base)",
+      "lat": 41.203758,
+      "lng": -3.472418,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Super Express (Summit / Top)",
+      "lat": 41.191142,
+      "lng": -3.472854,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Pinilla I (Mid-Station / Hub)",
+      "lat": 41.191598,
+      "lng": -3.475482,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Pinilla I (Summit / Top)",
+      "lat": 41.186115,
+      "lng": -3.476976,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Gran Plató (Base)",
+      "lat": 41.191319,
+      "lng": -3.473975,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Gran Plató (Summit / Top)",
+      "lat": 41.18769,
+      "lng": -3.474801,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "El Mirador (Base)",
+      "lat": 41.191551,
+      "lng": -3.473477,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "El Mirador (Summit / Top)",
+      "lat": 41.185756,
+      "lng": -3.473735,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Testero (Base)",
+      "lat": 41.197639,
+      "lng": -3.477266,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Testero (Summit / Top)",
+      "lat": 41.189138,
+      "lng": -3.479088,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Telebaby (Mid-Station / Hub)",
+      "lat": 41.191901,
+      "lng": -3.47343,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Cerezuelo (Base)",
+      "lat": 41.191587,
+      "lng": -3.474058,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Testero (Base)",
+      "lat": 41.203702,
+      "lng": -3.472914,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Testero (Summit / Top)",
+      "lat": 41.202082,
+      "lng": -3.473972,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Telebaby (Summit / Top)",
+      "lat": 41.191711,
+      "lng": -3.472668,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Las Focas (Base)",
+      "lat": 41.192252,
+      "lng": -3.476926,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Las Focas (Summit / Top)",
+      "lat": 41.188411,
+      "lng": -3.479055,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Escuela (Summit / Top)",
+      "lat": 41.189818,
+      "lng": -3.474564,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "La Cabaña (Base)",
+      "lat": 41.205076,
+      "lng": -3.475081,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "La Cabaña (Summit / Top)",
+      "lat": 41.204481,
+      "lng": -3.473411,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Hoya",
+      "lat": 41.18921,
+      "lng": -3.472685,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Periferico",
+      "lat": 41.186493,
+      "lng": -3.477706,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Periferico",
+      "lat": 41.187787,
+      "lng": -3.478799,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Chozo",
+      "lat": 41.192402,
+      "lng": -3.481055,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Chozo",
+      "lat": 41.192806,
+      "lng": -3.478646,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Chozo",
+      "lat": 41.192622,
+      "lng": -3.477223,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Pinilla2",
+      "lat": 41.190818,
+      "lng": -3.47628,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Pinilla2",
+      "lat": 41.191276,
+      "lng": -3.475864,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Retorno",
+      "lat": 41.19709,
+      "lng": -3.477257,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Retorno",
+      "lat": 41.20197,
+      "lng": -3.473436,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Pinilla1",
+      "lat": 41.187665,
+      "lng": -3.476225,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Cervunal",
+      "lat": 41.187694,
+      "lng": -3.475487,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction #33",
+      "lat": 41.188792,
+      "lng": -3.478651,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Periferico",
+      "lat": 41.19021,
+      "lng": -3.479877,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Mirador",
+      "lat": 41.187134,
+      "lng": -3.472981,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Mirador",
+      "lat": 41.187906,
+      "lng": -3.472233,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Pinilla1",
+      "lat": 41.191315,
+      "lng": -3.47525,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Ardillas",
+      "lat": 41.196234,
+      "lng": -3.473185,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Ardillas",
+      "lat": 41.199746,
+      "lng": -3.472412,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Corzo",
+      "lat": 41.19628,
+      "lng": -3.477975,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Ardillas",
+      "lat": 41.195757,
+      "lng": -3.47324,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Bosque",
+      "lat": 41.196232,
+      "lng": -3.472611,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Bosque",
+      "lat": 41.192727,
+      "lng": -3.472582,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Bosque",
+      "lat": 41.194044,
+      "lng": -3.472638,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Las Focas",
+      "lat": 41.188328,
+      "lng": -3.478449,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Las Focas",
+      "lat": 41.191725,
+      "lng": -3.476878,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Bosque",
+      "lat": 41.197347,
+      "lng": -3.472371,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction #48",
+      "lat": 41.185274,
+      "lng": -3.475691,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_60960182",
+      "name": "Super Express",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.38,
+      "duration": 5,
+      "elevation": 303,
+      "geometry": [
+        [
+          41.203655,
+          -3.472317
+        ],
+        [
+          41.203205,
+          -3.47233
+        ],
+        [
+          41.202864,
+          -3.472339
+        ],
+        [
+          41.201866,
+          -3.472368
+        ],
+        [
+          41.200966,
+          -3.472393
+        ],
+        [
+          41.200486,
+          -3.472407
+        ],
+        [
+          41.199842,
+          -3.472425
+        ],
+        [
+          41.199013,
+          -3.472449
+        ],
+        [
+          41.198167,
+          -3.472473
+        ],
+        [
+          41.197164,
+          -3.472502
+        ],
+        [
+          41.196851,
+          -3.47251
+        ],
+        [
+          41.195784,
+          -3.472541
+        ],
+        [
+          41.194792,
+          -3.472569
+        ],
+        [
+          41.193588,
+          -3.472603
+        ],
+        [
+          41.192708,
+          -3.472628
+        ],
+        [
+          41.19151,
+          -3.472662
+        ],
+        [
+          41.191212,
+          -3.472671
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_60960183",
+      "name": "Pinilla I",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.61,
+      "duration": 2,
+      "elevation": 134,
+      "geometry": [
+        [
+          41.191479,
+          -3.475542
+        ],
+        [
+          41.186145,
+          -3.476972
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_60960190",
+      "name": "Gran Plató",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.41,
+      "duration": 2,
+      "elevation": 90,
+      "geometry": [
+        [
+          41.191174,
+          -3.473917
+        ],
+        [
+          41.187591,
+          -3.474997
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_60960191",
+      "name": "El Mirador",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.63,
+      "duration": 2,
+      "elevation": 138,
+      "geometry": [
+        [
+          41.19146,
+          -3.473164
+        ],
+        [
+          41.190978,
+          -3.473215
+        ],
+        [
+          41.19019,
+          -3.4733
+        ],
+        [
+          41.18999,
+          -3.473321
+        ],
+        [
+          41.188592,
+          -3.473471
+        ],
+        [
+          41.188244,
+          -3.473508
+        ],
+        [
+          41.186934,
+          -3.473648
+        ],
+        [
+          41.186208,
+          -3.473726
+        ],
+        [
+          41.185831,
+          -3.473767
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_60960192",
+      "name": "Testero",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.96,
+      "duration": 3,
+      "elevation": 211,
+      "geometry": [
+        [
+          41.197639,
+          -3.477266
+        ],
+        [
+          41.197294,
+          -3.477338
+        ],
+        [
+          41.196434,
+          -3.477519
+        ],
+        [
+          41.195826,
+          -3.477646
+        ],
+        [
+          41.194787,
+          -3.477864
+        ],
+        [
+          41.193978,
+          -3.478034
+        ],
+        [
+          41.193415,
+          -3.478153
+        ],
+        [
+          41.192225,
+          -3.478402
+        ],
+        [
+          41.191607,
+          -3.478532
+        ],
+        [
+          41.190915,
+          -3.478681
+        ],
+        [
+          41.190325,
+          -3.478801
+        ],
+        [
+          41.189548,
+          -3.478965
+        ],
+        [
+          41.189251,
+          -3.479027
+        ],
+        [
+          41.189153,
+          -3.479047
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_60960200",
+      "name": "Telecabina Gran Plató",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_10",
+      "distance": 1.31,
+      "duration": 3,
+      "elevation": 288,
+      "geometry": [
+        [
+          41.20386,
+          -3.47252
+        ],
+        [
+          41.202922,
+          -3.472616
+        ],
+        [
+          41.201619,
+          -3.472749
+        ],
+        [
+          41.200707,
+          -3.472842
+        ],
+        [
+          41.200185,
+          -3.472895
+        ],
+        [
+          41.198791,
+          -3.472999
+        ],
+        [
+          41.198572,
+          -3.473015
+        ],
+        [
+          41.197905,
+          -3.473075
+        ],
+        [
+          41.197034,
+          -3.473153
+        ],
+        [
+          41.196785,
+          -3.473176
+        ],
+        [
+          41.195677,
+          -3.473316
+        ],
+        [
+          41.194016,
+          -3.473479
+        ],
+        [
+          41.193634,
+          -3.473518
+        ],
+        [
+          41.193392,
+          -3.473558
+        ],
+        [
+          41.192069,
+          -3.4736
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_102628837",
+      "name": "Cerezuelo",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_2",
+      "distance": 0.11,
+      "duration": 2,
+      "elevation": 24,
+      "geometry": [
+        [
+          41.191534,
+          -3.474003
+        ],
+        [
+          41.191752,
+          -3.475323
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_102628841",
+      "name": "Testero",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.19,
+      "duration": 2,
+      "elevation": 41,
+      "geometry": [
+        [
+          41.203869,
+          -3.473371
+        ],
+        [
+          41.202206,
+          -3.47406
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_102628846",
+      "name": "Pinilla II",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.6,
+      "duration": 2,
+      "elevation": 132,
+      "geometry": [
+        [
+          41.191488,
+          -3.475637
+        ],
+        [
+          41.18617,
+          -3.477052
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_102628859",
+      "name": "Telebaby",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          41.191846,
+          -3.473336
+        ],
+        [
+          41.191814,
+          -3.472745
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_254403138",
+      "name": "Las Focas",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.44,
+      "duration": 2,
+      "elevation": 96,
+      "geometry": [
+        [
+          41.192185,
+          -3.476991
+        ],
+        [
+          41.191107,
+          -3.477493
+        ],
+        [
+          41.190541,
+          -3.477754
+        ],
+        [
+          41.189627,
+          -3.478192
+        ],
+        [
+          41.189248,
+          -3.47836
+        ],
+        [
+          41.188863,
+          -3.478553
+        ],
+        [
+          41.18844,
+          -3.47876
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259614675",
+      "name": "Escuela",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_17",
+      "distance": 0.16,
+      "duration": 2,
+      "elevation": 35,
+      "geometry": [
+        [
+          41.191254,
+          -3.473991
+        ],
+        [
+          41.18983,
+          -3.474475
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259615210",
+      "name": "La Cabaña",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.16,
+      "duration": 2,
+      "elevation": 35,
+      "geometry": [
+        [
+          41.205018,
+          -3.475138
+        ],
+        [
+          41.204396,
+          -3.473461
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "piste_102628825_0",
+      "name": "Hoya",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_20",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          41.187765,
+          -3.474654
+        ],
+        [
+          41.187956,
+          -3.474043
+        ],
+        [
+          41.188346,
+          -3.473625
+        ],
+        [
+          41.188479,
+          -3.473264
+        ],
+        [
+          41.188625,
+          -3.47314
+        ],
+        [
+          41.188803,
+          -3.472969
+        ],
+        [
+          41.189165,
+          -3.472636
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628827_0",
+      "name": "Periferico",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_21",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.186135,
+          -3.477135
+        ],
+        [
+          41.186493,
+          -3.477706
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628827_1",
+      "name": "Periferico",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          41.186493,
+          -3.477706
+        ],
+        [
+          41.18764,
+          -3.47874
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628827_4",
+      "name": "Periferico",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.187864,
+          -3.47883
+        ],
+        [
+          41.188315,
+          -3.479092
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628828_0",
+      "name": "Chozo",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          41.192402,
+          -3.481055
+        ],
+        [
+          41.192712,
+          -3.479608
+        ],
+        [
+          41.192752,
+          -3.478746
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628828_1",
+      "name": "Chozo",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_25",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          41.192752,
+          -3.478746
+        ],
+        [
+          41.19263,
+          -3.477655
+        ],
+        [
+          41.192622,
+          -3.477223
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628830_0",
+      "name": "Pinilla2",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_26",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          41.186135,
+          -3.477135
+        ],
+        [
+          41.186922,
+          -3.477238
+        ],
+        [
+          41.188565,
+          -3.476866
+        ],
+        [
+          41.189447,
+          -3.476677
+        ],
+        [
+          41.190818,
+          -3.47628
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628830_1",
+      "name": "Pinilla2",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.190818,
+          -3.47628
+        ],
+        [
+          41.191276,
+          -3.475864
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628830_2",
+      "name": "Pinilla2",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.191276,
+          -3.475864
+        ],
+        [
+          41.191498,
+          -3.475691
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628831_0",
+      "name": "Piste 102628831",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.191753,
+          -3.472764
+        ],
+        [
+          41.191787,
+          -3.473355
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_102628833_0",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_6",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.191119,
+          -3.472915
+        ],
+        [
+          41.191504,
+          -3.473444
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628833_2",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_15",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          41.191669,
+          -3.473682
+        ],
+        [
+          41.192049,
+          -3.474264
+        ],
+        [
+          41.192142,
+          -3.474531
+        ],
+        [
+          41.192217,
+          -3.475236
+        ],
+        [
+          41.192285,
+          -3.475646
+        ],
+        [
+          41.192267,
+          -3.47586
+        ],
+        [
+          41.192232,
+          -3.476461
+        ],
+        [
+          41.192275,
+          -3.476904
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628833_3",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.192275,
+          -3.476904
+        ],
+        [
+          41.192622,
+          -3.477223
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628833_4",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_28",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          41.192622,
+          -3.477223
+        ],
+        [
+          41.193099,
+          -3.477185
+        ],
+        [
+          41.193981,
+          -3.477114
+        ],
+        [
+          41.194483,
+          -3.47709
+        ],
+        [
+          41.195294,
+          -3.477242
+        ],
+        [
+          41.196499,
+          -3.477204
+        ],
+        [
+          41.19709,
+          -3.477257
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628833_5",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.65,
+      "duration": 1,
+      "elevation": -104,
+      "geometry": [
+        [
+          41.19709,
+          -3.477257
+        ],
+        [
+          41.197653,
+          -3.476861
+        ],
+        [
+          41.19803,
+          -3.476466
+        ],
+        [
+          41.198342,
+          -3.475808
+        ],
+        [
+          41.198776,
+          -3.475041
+        ],
+        [
+          41.199199,
+          -3.474469
+        ],
+        [
+          41.199719,
+          -3.474021
+        ],
+        [
+          41.200131,
+          -3.473716
+        ],
+        [
+          41.200672,
+          -3.473406
+        ],
+        [
+          41.201081,
+          -3.47322
+        ],
+        [
+          41.201425,
+          -3.473182
+        ],
+        [
+          41.201769,
+          -3.473273
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628833_8",
+      "name": "Retorno",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_12",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          41.202114,
+          -3.473435
+        ],
+        [
+          41.202372,
+          -3.473425
+        ],
+        [
+          41.20283,
+          -3.473406
+        ],
+        [
+          41.203679,
+          -3.473076
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628835_1",
+      "name": "Stadium",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          41.187765,
+          -3.474654
+        ],
+        [
+          41.189387,
+          -3.474079
+        ],
+        [
+          41.190881,
+          -3.473612
+        ],
+        [
+          41.191504,
+          -3.473444
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628839_0",
+      "name": "Piste 102628839",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.187665,
+          -3.476225
+        ],
+        [
+          41.187694,
+          -3.475487
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628847_0",
+      "name": "Piste 102628847",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.188792,
+          -3.478651
+        ],
+        [
+          41.189131,
+          -3.479108
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628847_1",
+      "name": "Piste 102628847",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_33",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          41.189131,
+          -3.479108
+        ],
+        [
+          41.189664,
+          -3.479392
+        ],
+        [
+          41.18995,
+          -3.479541
+        ],
+        [
+          41.190297,
+          -3.4799
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_102628851_0",
+      "name": "Mirador",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_34",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          41.185719,
+          -3.473719
+        ],
+        [
+          41.186136,
+          -3.473614
+        ],
+        [
+          41.186514,
+          -3.473554
+        ],
+        [
+          41.186863,
+          -3.473327
+        ],
+        [
+          41.187134,
+          -3.472981
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628851_1",
+      "name": "Mirador",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          41.187134,
+          -3.472981
+        ],
+        [
+          41.187483,
+          -3.472492
+        ],
+        [
+          41.187801,
+          -3.472254
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628851_3",
+      "name": "Mirador",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_20",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          41.188063,
+          -3.472201
+        ],
+        [
+          41.188335,
+          -3.472171
+        ],
+        [
+          41.188509,
+          -3.472212
+        ],
+        [
+          41.188637,
+          -3.472277
+        ],
+        [
+          41.18884,
+          -3.472383
+        ],
+        [
+          41.189165,
+          -3.472636
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628851_5",
+      "name": "Mirador",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_1",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          41.189276,
+          -3.472759
+        ],
+        [
+          41.189443,
+          -3.472881
+        ],
+        [
+          41.189603,
+          -3.472939
+        ],
+        [
+          41.190123,
+          -3.472933
+        ],
+        [
+          41.190549,
+          -3.472945
+        ],
+        [
+          41.191119,
+          -3.472915
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628856_0",
+      "name": "C",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_11",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          41.191861,
+          -3.475389
+        ],
+        [
+          41.19164,
+          -3.474112
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_102628857_0",
+      "name": "Miravalles",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_35",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          41.185719,
+          -3.473719
+        ],
+        [
+          41.186168,
+          -3.473003
+        ],
+        [
+          41.186441,
+          -3.472627
+        ],
+        [
+          41.186667,
+          -3.47237
+        ],
+        [
+          41.187298,
+          -3.472184
+        ],
+        [
+          41.187801,
+          -3.472254
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628858_0",
+      "name": "Diagonal Hoya",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_5",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          41.187134,
+          -3.472981
+        ],
+        [
+          41.187571,
+          -3.472784
+        ],
+        [
+          41.187711,
+          -3.472873
+        ],
+        [
+          41.187767,
+          -3.473164
+        ],
+        [
+          41.18775,
+          -3.473841
+        ],
+        [
+          41.187765,
+          -3.474654
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628860_2",
+      "name": "Pinilla1",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_30",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          41.186087,
+          -3.476696
+        ],
+        [
+          41.187665,
+          -3.476225
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628860_3",
+      "name": "Pinilla1",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_36",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          41.187665,
+          -3.476225
+        ],
+        [
+          41.188532,
+          -3.475889
+        ],
+        [
+          41.189551,
+          -3.475656
+        ],
+        [
+          41.191315,
+          -3.47525
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628860_4",
+      "name": "Pinilla1",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.191315,
+          -3.47525
+        ],
+        [
+          41.191509,
+          -3.475311
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_102628863_0",
+      "name": "Ardillas",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          41.196234,
+          -3.473185
+        ],
+        [
+          41.197383,
+          -3.473198
+        ],
+        [
+          41.198526,
+          -3.472957
+        ],
+        [
+          41.198959,
+          -3.472799
+        ],
+        [
+          41.199655,
+          -3.472453
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403156_1",
+      "name": "Corzo",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_39",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          41.192887,
+          -3.478496
+        ],
+        [
+          41.192984,
+          -3.478332
+        ],
+        [
+          41.193123,
+          -3.47813
+        ],
+        [
+          41.193397,
+          -3.478044
+        ],
+        [
+          41.194094,
+          -3.477916
+        ],
+        [
+          41.194592,
+          -3.477837
+        ],
+        [
+          41.195555,
+          -3.477638
+        ],
+        [
+          41.195809,
+          -3.47757
+        ],
+        [
+          41.196049,
+          -3.477693
+        ],
+        [
+          41.19628,
+          -3.477975
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_254403157_0",
+      "name": "Piste 254403157",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          41.195757,
+          -3.47324
+        ],
+        [
+          41.196158,
+          -3.472614
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403158_2",
+      "name": "Piste 254403158",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.201987,
+          -3.473854
+        ],
+        [
+          41.201959,
+          -3.473672
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_254403159_0",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          41.192754,
+          -3.472599
+        ],
+        [
+          41.193041,
+          -3.472417
+        ],
+        [
+          41.193454,
+          -3.47236
+        ],
+        [
+          41.193716,
+          -3.472344
+        ],
+        [
+          41.193986,
+          -3.472445
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403160_0",
+      "name": "Las Focas",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_44",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.187834,
+          -3.478818
+        ],
+        [
+          41.188328,
+          -3.478449
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403160_1",
+      "name": "Las Focas",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          41.188328,
+          -3.478449
+        ],
+        [
+          41.188517,
+          -3.478132
+        ],
+        [
+          41.188829,
+          -3.477781
+        ],
+        [
+          41.189489,
+          -3.477545
+        ],
+        [
+          41.19012,
+          -3.477347
+        ],
+        [
+          41.190856,
+          -3.47712
+        ],
+        [
+          41.191725,
+          -3.476878
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403160_2",
+      "name": "Las Focas",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_15",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          41.191725,
+          -3.476878
+        ],
+        [
+          41.192275,
+          -3.476904
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_0",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.191119,
+          -3.472915
+        ],
+        [
+          41.191549,
+          -3.472745
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_2",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_42",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          41.1918,
+          -3.472505
+        ],
+        [
+          41.192225,
+          -3.472469
+        ],
+        [
+          41.192672,
+          -3.472548
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_5",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_41",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          41.194129,
+          -3.472667
+        ],
+        [
+          41.194893,
+          -3.472649
+        ],
+        [
+          41.195629,
+          -3.472637
+        ],
+        [
+          41.196158,
+          -3.472614
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_7",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_46",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          41.196343,
+          -3.472606
+        ],
+        [
+          41.197347,
+          -3.472371
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_8",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_38",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          41.197347,
+          -3.472371
+        ],
+        [
+          41.197767,
+          -3.472402
+        ],
+        [
+          41.198242,
+          -3.472374
+        ],
+        [
+          41.198912,
+          -3.472371
+        ],
+        [
+          41.199655,
+          -3.472453
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_254403161_10",
+      "name": "Bosque",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_12",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -67,
+      "geometry": [
+        [
+          41.199883,
+          -3.47235
+        ],
+        [
+          41.200305,
+          -3.472441
+        ],
+        [
+          41.200702,
+          -3.472481
+        ],
+        [
+          41.201218,
+          -3.472484
+        ],
+        [
+          41.201824,
+          -3.472469
+        ],
+        [
+          41.202276,
+          -3.472527
+        ],
+        [
+          41.202973,
+          -3.472435
+        ],
+        [
+          41.2036,
+          -3.472667
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_403847405_0",
+      "name": "Testero",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_39",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          41.192402,
+          -3.481055
+        ],
+        [
+          41.193684,
+          -3.480273
+        ],
+        [
+          41.19628,
+          -3.477975
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_403847405_1",
+      "name": "Testero",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_28",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          41.19628,
+          -3.477975
+        ],
+        [
+          41.19709,
+          -3.477257
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_403847406_1",
+      "name": "Periferico",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_33",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          41.188493,
+          -3.479165
+        ],
+        [
+          41.188697,
+          -3.479263
+        ],
+        [
+          41.189025,
+          -3.479439
+        ],
+        [
+          41.189248,
+          -3.479533
+        ],
+        [
+          41.189647,
+          -3.479682
+        ],
+        [
+          41.18998,
+          -3.47981
+        ],
+        [
+          41.19008,
+          -3.479842
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_403847406_3",
+      "name": "Periferico",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_23",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          41.190297,
+          -3.4799
+        ],
+        [
+          41.19066,
+          -3.480127
+        ],
+        [
+          41.191029,
+          -3.480475
+        ],
+        [
+          41.191524,
+          -3.481003
+        ],
+        [
+          41.1919,
+          -3.481085
+        ],
+        [
+          41.192402,
+          -3.481055
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_403847407_0",
+      "name": "Cervunal",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.187591,
+          -3.474997
+        ],
+        [
+          41.187694,
+          -3.475487
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_403847407_1",
+      "name": "Cervunal",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_4",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          41.187694,
+          -3.475487
+        ],
+        [
+          41.189631,
+          -3.475031
+        ],
+        [
+          41.191092,
+          -3.474601
+        ],
+        [
+          41.191423,
+          -3.473995
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_403847408_0",
+      "name": "L",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_4",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          41.189806,
+          -3.474653
+        ],
+        [
+          41.190499,
+          -3.474423
+        ],
+        [
+          41.191007,
+          -3.474255
+        ],
+        [
+          41.191423,
+          -3.473995
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_404052403_0",
+      "name": "Ardillas",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_40",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          41.194129,
+          -3.472667
+        ],
+        [
+          41.194664,
+          -3.473158
+        ],
+        [
+          41.194905,
+          -3.473314
+        ],
+        [
+          41.195366,
+          -3.473307
+        ],
+        [
+          41.195757,
+          -3.47324
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_404052403_1",
+      "name": "Ardillas",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          41.195757,
+          -3.47324
+        ],
+        [
+          41.196234,
+          -3.473185
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_404052403_2",
+      "name": "Ardillas",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_46",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          41.196234,
+          -3.473185
+        ],
+        [
+          41.196817,
+          -3.472822
+        ],
+        [
+          41.197094,
+          -3.472618
+        ],
+        [
+          41.197347,
+          -3.472371
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_404052405_0",
+      "name": "CA",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_18",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          41.204566,
+          -3.47336
+        ],
+        [
+          41.205135,
+          -3.475025
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_812829701_1",
+      "name": "Piste 812829701",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_21",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          41.185282,
+          -3.475741
+        ],
+        [
+          41.1854,
+          -3.476182
+        ],
+        [
+          41.185594,
+          -3.476783
+        ],
+        [
+          41.185692,
+          -3.477089
+        ],
+        [
+          41.186025,
+          -3.477492
+        ],
+        [
+          41.186493,
+          -3.477706
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1342227442_0",
+      "name": "La Fábrica",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_45",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          41.190818,
+          -3.47628
+        ],
+        [
+          41.191725,
+          -3.476878
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_12",
+      "name": "Walk: Super Express (Base) ↔ Testero (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_12",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.203758,
+          -3.472418
+        ],
+        [
+          41.203702,
+          -3.472914
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_19",
+      "name": "Walk: Super Express (Base) ↔ La Cabaña (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_19",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.203758,
+          -3.472418
+        ],
+        [
+          41.204481,
+          -3.473411
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_4",
+      "name": "Walk: Super Express (Summit / Top) ↔ Gran Plató (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_4",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191142,
+          -3.472854
+        ],
+        [
+          41.191319,
+          -3.473975
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_6",
+      "name": "Walk: Super Express (Summit / Top) ↔ El Mirador (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_6",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191142,
+          -3.472854
+        ],
+        [
+          41.191551,
+          -3.473477
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_10",
+      "name": "Walk: Super Express (Summit / Top) ↔ Telebaby (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191142,
+          -3.472854
+        ],
+        [
+          41.191901,
+          -3.47343
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_11",
+      "name": "Walk: Super Express (Summit / Top) ↔ Cerezuelo (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_11",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191142,
+          -3.472854
+        ],
+        [
+          41.191587,
+          -3.474058
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_14",
+      "name": "Walk: Super Express (Summit / Top) ↔ Telebaby (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191142,
+          -3.472854
+        ],
+        [
+          41.191711,
+          -3.472668
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_4",
+      "name": "Walk: Pinilla I (Mid-Station / Hub) ↔ Gran Plató (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_4",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191598,
+          -3.475482
+        ],
+        [
+          41.191319,
+          -3.473975
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_11",
+      "name": "Walk: Pinilla I (Mid-Station / Hub) ↔ Cerezuelo (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_11",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191598,
+          -3.475482
+        ],
+        [
+          41.191587,
+          -3.474058
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_27",
+      "name": "Walk: Pinilla I (Mid-Station / Hub) ↔ Junction: Pinilla2",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191598,
+          -3.475482
+        ],
+        [
+          41.191276,
+          -3.475864
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_36",
+      "name": "Walk: Pinilla I (Mid-Station / Hub) ↔ Junction: Pinilla1",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_36",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191598,
+          -3.475482
+        ],
+        [
+          41.191315,
+          -3.47525
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_6",
+      "name": "Walk: Gran Plató (Base) ↔ El Mirador (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191319,
+          -3.473975
+        ],
+        [
+          41.191551,
+          -3.473477
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_10",
+      "name": "Walk: Gran Plató (Base) ↔ Telebaby (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191319,
+          -3.473975
+        ],
+        [
+          41.191901,
+          -3.47343
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_11",
+      "name": "Walk: Gran Plató (Base) ↔ Cerezuelo (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_11",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191319,
+          -3.473975
+        ],
+        [
+          41.191587,
+          -3.474058
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_14",
+      "name": "Walk: Gran Plató (Base) ↔ Telebaby (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_14",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191319,
+          -3.473975
+        ],
+        [
+          41.191711,
+          -3.472668
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_31",
+      "name": "Walk: Gran Plató (Summit / Top) ↔ Junction: Cervunal",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_31",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.18769,
+          -3.474801
+        ],
+        [
+          41.187694,
+          -3.475487
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_10",
+      "name": "Walk: El Mirador (Base) ↔ Telebaby (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_10",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191551,
+          -3.473477
+        ],
+        [
+          41.191901,
+          -3.47343
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_11",
+      "name": "Walk: El Mirador (Base) ↔ Cerezuelo (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191551,
+          -3.473477
+        ],
+        [
+          41.191587,
+          -3.474058
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_14",
+      "name": "Walk: El Mirador (Base) ↔ Telebaby (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191551,
+          -3.473477
+        ],
+        [
+          41.191711,
+          -3.472668
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_28",
+      "name": "Walk: Testero (Base) ↔ Junction: Retorno",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.197639,
+          -3.477266
+        ],
+        [
+          41.19709,
+          -3.477257
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_16",
+      "name": "Walk: Testero (Summit / Top) ↔ Las Focas (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_16",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.189138,
+          -3.479088
+        ],
+        [
+          41.188411,
+          -3.479055
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_32",
+      "name": "Walk: Testero (Summit / Top) ↔ Junction #33",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.189138,
+          -3.479088
+        ],
+        [
+          41.188792,
+          -3.478651
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_11",
+      "name": "Walk: Telebaby (Mid-Station / Hub) ↔ Cerezuelo (Base)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191901,
+          -3.47343
+        ],
+        [
+          41.191587,
+          -3.474058
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_14",
+      "name": "Walk: Telebaby (Mid-Station / Hub) ↔ Telebaby (Summit / Top)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191901,
+          -3.47343
+        ],
+        [
+          41.191711,
+          -3.472668
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_14",
+      "name": "Walk: Cerezuelo (Base) ↔ Telebaby (Summit / Top)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191587,
+          -3.474058
+        ],
+        [
+          41.191711,
+          -3.472668
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_19",
+      "name": "Walk: Testero (Base) ↔ La Cabaña (Summit / Top)",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_19",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.203702,
+          -3.472914
+        ],
+        [
+          41.204481,
+          -3.473411
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_29",
+      "name": "Walk: Testero (Summit / Top) ↔ Junction: Retorno",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.202082,
+          -3.473972
+        ],
+        [
+          41.20197,
+          -3.473436
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_25",
+      "name": "Walk: Las Focas (Base) ↔ Junction: Chozo",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.192252,
+          -3.476926
+        ],
+        [
+          41.192622,
+          -3.477223
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_45",
+      "name": "Walk: Las Focas (Base) ↔ Junction: Las Focas",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_45",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.192252,
+          -3.476926
+        ],
+        [
+          41.191725,
+          -3.476878
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_32",
+      "name": "Walk: Las Focas (Summit / Top) ↔ Junction #33",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.188411,
+          -3.479055
+        ],
+        [
+          41.188792,
+          -3.478651
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_44",
+      "name": "Walk: Las Focas (Summit / Top) ↔ Junction: Las Focas",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.188411,
+          -3.479055
+        ],
+        [
+          41.188328,
+          -3.478449
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_44",
+      "name": "Walk: Junction: Periferico ↔ Junction: Las Focas",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_44",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.187787,
+          -3.478799
+        ],
+        [
+          41.188328,
+          -3.478449
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Junction: Pinilla2 ↔ Junction: Pinilla2",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.190818,
+          -3.47628
+        ],
+        [
+          41.191276,
+          -3.475864
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_36",
+      "name": "Walk: Junction: Pinilla2 ↔ Junction: Pinilla1",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.191276,
+          -3.475864
+        ],
+        [
+          41.191315,
+          -3.47525
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_31",
+      "name": "Walk: Junction: Pinilla1 ↔ Junction: Cervunal",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.187665,
+          -3.476225
+        ],
+        [
+          41.187694,
+          -3.475487
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_44",
+      "name": "Walk: Junction #33 ↔ Junction: Las Focas",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.188792,
+          -3.478651
+        ],
+        [
+          41.188328,
+          -3.478449
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_37_node_40",
+      "name": "Walk: Junction: Ardillas ↔ Junction: Ardillas",
+      "type": "walk",
+      "from": "node_37",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.196234,
+          -3.473185
+        ],
+        [
+          41.195757,
+          -3.47324
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_37_node_41",
+      "name": "Walk: Junction: Ardillas ↔ Junction: Bosque",
+      "type": "walk",
+      "from": "node_37",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          41.196234,
+          -3.473185
+        ],
+        [
+          41.196232,
+          -3.472611
+        ]
+      ]
+    }
+  ]
+}

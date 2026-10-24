@@ -1,0 +1,4369 @@
+{
+  "id": "racines",
+  "name": "Racines-Giovo (Ratschings-Jaufen)",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.8353,
+      11.2788
+    ],
+    [
+      46.8694,
+      11.3272
+    ]
+  ],
+  "center": [
+    46.8486,
+    11.3037
+  ],
+  "stats": {
+    "slopes": "23.7 km",
+    "lifts": 11,
+    "elevation": "1300m - 2150m",
+    "drop": "850m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Ratschings-Jaufen - Racines-Giovo (Base)",
+      "lat": 46.864052,
+      "lng": 11.308885,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Ratschings-Jaufen - Racines-Giovo (Summit / Top)",
+      "lat": 46.847663,
+      "lng": 11.304847,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Wasserfalleralm (Base)",
+      "lat": 46.861046,
+      "lng": 11.301944,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Wasserfalleralm (Summit / Top)",
+      "lat": 46.845821,
+      "lng": 11.295383,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Saxner (Base)",
+      "lat": 46.85004,
+      "lng": 11.295085,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Saxner (Summit / Top)",
+      "lat": 46.841387,
+      "lng": 11.28436,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Kalcher Alm - Malga Calice (Base)",
+      "lat": 46.85076,
+      "lng": 11.321663,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Kalcher Alm - Malga Calice (Summit / Top)",
+      "lat": 46.8425,
+      "lng": 11.322163,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Rinneralm - Malga Rinner (Base)",
+      "lat": 46.849069,
+      "lng": 11.307055,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Rinneralm - Malga Rinner (Summit / Top)",
+      "lat": 46.840335,
+      "lng": 11.314337,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Enzian (Base)",
+      "lat": 46.848163,
+      "lng": 11.303294,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Enzian (Summit / Top)",
+      "lat": 46.8407,
+      "lng": 11.301925,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Blosegg - Maso Blasegger (Base)",
+      "lat": 46.864426,
+      "lng": 11.307396,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Blosegg - Maso Blasegger (Summit / Top)",
+      "lat": 46.859782,
+      "lng": 11.302582,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Aberhamwiese",
+      "lat": 46.863848,
+      "lng": 11.309726,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction #16",
+      "lat": 46.861493,
+      "lng": 11.309226,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction #17",
+      "lat": 46.849159,
+      "lng": 11.305525,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction #18",
+      "lat": 46.849136,
+      "lng": 11.306328,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction #19",
+      "lat": 46.849497,
+      "lng": 11.305786,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction #20",
+      "lat": 46.849432,
+      "lng": 11.306473,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction #21",
+      "lat": 46.84998,
+      "lng": 11.305903,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: 16 Saxner II",
+      "lat": 46.842419,
+      "lng": 11.28376,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: 16 Saxner II",
+      "lat": 46.84702,
+      "lng": 11.288966,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: 16 Saxner II",
+      "lat": 46.848907,
+      "lng": 11.29459,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: 16 Saxner II",
+      "lat": 46.849669,
+      "lng": 11.295272,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Verbindung Ratschungs Jaufen",
+      "lat": 46.847275,
+      "lng": 11.317629,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Kalcher Alm I",
+      "lat": 46.842456,
+      "lng": 11.321588,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Kalcher Alm I",
+      "lat": 46.847189,
+      "lng": 11.321018,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Kalcher Alm I",
+      "lat": 46.849955,
+      "lng": 11.321307,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Verbindung Jaufen-Ratschings",
+      "lat": 46.847681,
+      "lng": 11.309294,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Rinneralm II",
+      "lat": 46.84619,
+      "lng": 11.308965,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Rinneralm I",
+      "lat": 46.841579,
+      "lng": 11.311645,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Rinneralm Profi",
+      "lat": 46.845676,
+      "lng": 11.306279,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Saxner I",
+      "lat": 46.843992,
+      "lng": 11.290464,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Saxner I",
+      "lat": 46.845671,
+      "lng": 11.294031,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Saxner I",
+      "lat": 46.846257,
+      "lng": 11.294832,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Wasserfalleralm - Malga Cascata",
+      "lat": 46.840853,
+      "lng": 11.300755,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Wasserfalleralm - Malga Cascata",
+      "lat": 46.841523,
+      "lng": 11.298479,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Enzian I",
+      "lat": 46.841783,
+      "lng": 11.303729,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Enzian I",
+      "lat": 46.84663,
+      "lng": 11.305795,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction #41",
+      "lat": 46.841774,
+      "lng": 11.306908,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Verbindung Wasserfalleralm-Enzian",
+      "lat": 46.846357,
+      "lng": 11.295855,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Saxner I",
+      "lat": 46.84584,
+      "lng": 11.290041,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Saxner II",
+      "lat": 46.846759,
+      "lng": 11.289336,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: 12 Enzian II",
+      "lat": 46.842732,
+      "lng": 11.299924,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: 12 Enzian II",
+      "lat": 46.845901,
+      "lng": 11.301728,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: 12 Enzian II",
+      "lat": 46.847863,
+      "lng": 11.301607,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction #48",
+      "lat": 46.847932,
+      "lng": 11.305926,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Aberhamwiese",
+      "lat": 46.861863,
+      "lng": 11.309414,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Blosegg",
+      "lat": 46.861908,
+      "lng": 11.302874,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "lat": 46.846976,
+      "lng": 11.29621,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Blosegg",
+      "lat": 46.860135,
+      "lng": 11.302594,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Rinneralm Profi",
+      "lat": 46.846697,
+      "lng": 11.304006,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Rinneralm I",
+      "lat": 46.843851,
+      "lng": 11.309973,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "lat": 46.846037,
+      "lng": 11.296607,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_22789138",
+      "name": "Ratschings-Jaufen - Racines-Giovo",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.83,
+      "duration": 4,
+      "elevation": 402,
+      "geometry": [
+        [
+          46.864084,
+          11.308987
+        ],
+        [
+          46.863411,
+          11.308822
+        ],
+        [
+          46.861816,
+          11.308431
+        ],
+        [
+          46.859719,
+          11.307916
+        ],
+        [
+          46.858282,
+          11.307564
+        ],
+        [
+          46.856805,
+          11.307201
+        ],
+        [
+          46.855609,
+          11.306908
+        ],
+        [
+          46.854391,
+          11.306609
+        ],
+        [
+          46.852882,
+          11.306239
+        ],
+        [
+          46.851286,
+          11.305847
+        ],
+        [
+          46.850361,
+          11.30562
+        ],
+        [
+          46.848988,
+          11.305283
+        ],
+        [
+          46.848167,
+          11.305082
+        ],
+        [
+          46.847818,
+          11.304996
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_22789141",
+      "name": "Wasserfalleralm",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.74,
+      "duration": 6,
+      "elevation": 382,
+      "geometry": [
+        [
+          46.860966,
+          11.301835
+        ],
+        [
+          46.860271,
+          11.301542
+        ],
+        [
+          46.859145,
+          11.301095
+        ],
+        [
+          46.858373,
+          11.300772
+        ],
+        [
+          46.857546,
+          11.300425
+        ],
+        [
+          46.856164,
+          11.299846
+        ],
+        [
+          46.854644,
+          11.299209
+        ],
+        [
+          46.853262,
+          11.29863
+        ],
+        [
+          46.852253,
+          11.298207
+        ],
+        [
+          46.851046,
+          11.297702
+        ],
+        [
+          46.8501,
+          11.297305
+        ],
+        [
+          46.849236,
+          11.296943
+        ],
+        [
+          46.848278,
+          11.296542
+        ],
+        [
+          46.847239,
+          11.296107
+        ],
+        [
+          46.846147,
+          11.295649
+        ],
+        [
+          46.845888,
+          11.29554
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_22789147",
+      "name": "Saxner",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.22,
+      "duration": 4,
+      "elevation": 268,
+      "geometry": [
+        [
+          46.849972,
+          11.294901
+        ],
+        [
+          46.849491,
+          11.2943
+        ],
+        [
+          46.848695,
+          11.293305
+        ],
+        [
+          46.847884,
+          11.292291
+        ],
+        [
+          46.847679,
+          11.292036
+        ],
+        [
+          46.846878,
+          11.291034
+        ],
+        [
+          46.846586,
+          11.29067
+        ],
+        [
+          46.845701,
+          11.289563
+        ],
+        [
+          46.844723,
+          11.288341
+        ],
+        [
+          46.844266,
+          11.28777
+        ],
+        [
+          46.843323,
+          11.286592
+        ],
+        [
+          46.842746,
+          11.28587
+        ],
+        [
+          46.841789,
+          11.284674
+        ],
+        [
+          46.841604,
+          11.284443
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_22789152",
+      "name": "Kalcher Alm - Malga Calice",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.91,
+      "duration": 3,
+      "elevation": 200,
+      "geometry": [
+        [
+          46.850682,
+          11.321434
+        ],
+        [
+          46.849941,
+          11.321477
+        ],
+        [
+          46.848904,
+          11.321573
+        ],
+        [
+          46.847637,
+          11.32169
+        ],
+        [
+          46.846298,
+          11.32181
+        ],
+        [
+          46.844904,
+          11.321939
+        ],
+        [
+          46.844096,
+          11.322013
+        ],
+        [
+          46.842836,
+          11.322119
+        ],
+        [
+          46.842553,
+          11.322149
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_22789154",
+      "name": "Rinneralm - Malga Rinner",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 1.1,
+      "duration": 4,
+      "elevation": 242,
+      "geometry": [
+        [
+          46.848908,
+          11.307075
+        ],
+        [
+          46.848791,
+          11.307175
+        ],
+        [
+          46.848153,
+          11.307721
+        ],
+        [
+          46.847355,
+          11.308404
+        ],
+        [
+          46.846517,
+          11.309122
+        ],
+        [
+          46.845206,
+          11.310244
+        ],
+        [
+          46.844465,
+          11.310878
+        ],
+        [
+          46.843401,
+          11.31179
+        ],
+        [
+          46.842262,
+          11.312776
+        ],
+        [
+          46.841459,
+          11.313457
+        ],
+        [
+          46.840591,
+          11.314188
+        ],
+        [
+          46.840371,
+          11.314383
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_22789157",
+      "name": "Enzian",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.8,
+      "duration": 3,
+      "elevation": 176,
+      "geometry": [
+        [
+          46.847916,
+          11.303288
+        ],
+        [
+          46.847776,
+          11.30326
+        ],
+        [
+          46.847166,
+          11.30314
+        ],
+        [
+          46.846296,
+          11.302967
+        ],
+        [
+          46.845285,
+          11.302767
+        ],
+        [
+          46.844476,
+          11.302607
+        ],
+        [
+          46.843988,
+          11.30251
+        ],
+        [
+          46.843311,
+          11.302376
+        ],
+        [
+          46.841884,
+          11.302093
+        ],
+        [
+          46.841206,
+          11.301959
+        ],
+        [
+          46.841014,
+          11.301921
+        ],
+        [
+          46.840815,
+          11.301881
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_207590650",
+      "name": "Blosegg - Maso Blasegger",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.6,
+      "duration": 2,
+      "elevation": 132,
+      "geometry": [
+        [
+          46.864426,
+          11.307396
+        ],
+        [
+          46.864318,
+          11.307285
+        ],
+        [
+          46.864019,
+          11.306979
+        ],
+        [
+          46.863468,
+          11.306413
+        ],
+        [
+          46.863111,
+          11.306048
+        ],
+        [
+          46.861743,
+          11.304646
+        ],
+        [
+          46.860795,
+          11.303673
+        ],
+        [
+          46.860304,
+          11.303162
+        ],
+        [
+          46.860003,
+          11.302861
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_207590654",
+      "name": "Lift 207590654",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.27,
+      "duration": 2,
+      "elevation": 59,
+      "geometry": [
+        [
+          46.863934,
+          11.309601
+        ],
+        [
+          46.863879,
+          11.309593
+        ],
+        [
+          46.863509,
+          11.309536
+        ],
+        [
+          46.862784,
+          11.309425
+        ],
+        [
+          46.861919,
+          11.309291
+        ],
+        [
+          46.861879,
+          11.309285
+        ],
+        [
+          46.861493,
+          11.309226
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_208062338",
+      "name": "Lift 208062338",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.849159,
+          11.305525
+        ],
+        [
+          46.84904,
+          11.306138
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_208062339",
+      "name": "Lift 208062339",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.849507,
+          11.305821
+        ],
+        [
+          46.849432,
+          11.306473
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_208062341",
+      "name": "Lift 208062341",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_18",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.84998,
+          11.305903
+        ],
+        [
+          46.849488,
+          11.305751
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_22789203_1",
+      "name": "16 Saxner II",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_21",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.841462,
+          11.284115
+        ],
+        [
+          46.841573,
+          11.283966
+        ],
+        [
+          46.841755,
+          11.283752
+        ],
+        [
+          46.841943,
+          11.2837
+        ],
+        [
+          46.842419,
+          11.28376
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789203_2",
+      "name": "16 Saxner II",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.97,
+      "duration": 1,
+      "elevation": -155,
+      "geometry": [
+        [
+          46.842419,
+          11.28376
+        ],
+        [
+          46.842794,
+          11.283597
+        ],
+        [
+          46.843317,
+          11.283177
+        ],
+        [
+          46.843951,
+          11.282859
+        ],
+        [
+          46.844514,
+          11.282842
+        ],
+        [
+          46.84526,
+          11.282979
+        ],
+        [
+          46.845941,
+          11.28334
+        ],
+        [
+          46.847456,
+          11.284207
+        ],
+        [
+          46.847544,
+          11.28431
+        ],
+        [
+          46.84754,
+          11.284664
+        ],
+        [
+          46.847497,
+          11.284825
+        ],
+        [
+          46.847291,
+          11.285528
+        ],
+        [
+          46.847262,
+          11.285992
+        ],
+        [
+          46.847009,
+          11.287091
+        ],
+        [
+          46.84688,
+          11.287863
+        ],
+        [
+          46.846915,
+          11.288292
+        ],
+        [
+          46.84702,
+          11.288966
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789203_3",
+      "name": "16 Saxner II",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.84702,
+          11.288966
+        ],
+        [
+          46.848048,
+          11.290043
+        ],
+        [
+          46.848084,
+          11.29018
+        ],
+        [
+          46.848213,
+          11.29073
+        ],
+        [
+          46.848311,
+          11.292934
+        ],
+        [
+          46.848478,
+          11.293666
+        ],
+        [
+          46.848869,
+          11.294447
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789203_5",
+      "name": "16 Saxner II",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.848937,
+          11.294697
+        ],
+        [
+          46.849583,
+          11.295212
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789203_7",
+      "name": "16 Saxner II",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.849839,
+          11.295391
+        ],
+        [
+          46.849993,
+          11.295371
+        ],
+        [
+          46.850071,
+          11.295245
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789246_2",
+      "name": "Verbindung Ratschungs Jaufen",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_25",
+      "distance": 0.81,
+      "duration": 1,
+      "elevation": -129,
+      "geometry": [
+        [
+          46.840411,
+          11.314591
+        ],
+        [
+          46.840822,
+          11.314522
+        ],
+        [
+          46.841644,
+          11.314333
+        ],
+        [
+          46.841784,
+          11.31435
+        ],
+        [
+          46.84209,
+          11.314282
+        ],
+        [
+          46.842624,
+          11.314393
+        ],
+        [
+          46.843123,
+          11.314616
+        ],
+        [
+          46.843634,
+          11.315114
+        ],
+        [
+          46.84381,
+          11.315312
+        ],
+        [
+          46.845389,
+          11.316599
+        ],
+        [
+          46.845794,
+          11.316848
+        ],
+        [
+          46.846956,
+          11.317166
+        ],
+        [
+          46.847178,
+          11.317281
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_22789249_0",
+      "name": "Kalcher Alm I",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          46.842403,
+          11.321679
+        ],
+        [
+          46.842841,
+          11.321414
+        ],
+        [
+          46.843029,
+          11.321371
+        ],
+        [
+          46.84388,
+          11.320994
+        ],
+        [
+          46.844309,
+          11.321122
+        ],
+        [
+          46.845008,
+          11.321045
+        ],
+        [
+          46.846099,
+          11.320977
+        ],
+        [
+          46.846522,
+          11.32102
+        ],
+        [
+          46.84664,
+          11.321088
+        ],
+        [
+          46.847121,
+          11.320977
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789249_2",
+      "name": "Kalcher Alm I",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.847291,
+          11.32108
+        ],
+        [
+          46.847907,
+          11.320874
+        ],
+        [
+          46.848436,
+          11.320753
+        ],
+        [
+          46.848987,
+          11.320775
+        ],
+        [
+          46.849569,
+          11.320994
+        ],
+        [
+          46.849955,
+          11.321307
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789249_3",
+      "name": "Kalcher Alm I",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_6",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.849955,
+          11.321307
+        ],
+        [
+          46.850361,
+          11.321637
+        ],
+        [
+          46.850622,
+          11.321822
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789257_1",
+      "name": "Verbindung Jaufen-Ratschings",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_29",
+      "distance": 0.73,
+      "duration": 1,
+      "elevation": -116,
+      "geometry": [
+        [
+          46.847327,
+          11.317391
+        ],
+        [
+          46.847254,
+          11.317194
+        ],
+        [
+          46.846927,
+          11.31702
+        ],
+        [
+          46.846651,
+          11.316942
+        ],
+        [
+          46.846522,
+          11.316848
+        ],
+        [
+          46.846334,
+          11.316556
+        ],
+        [
+          46.846312,
+          11.316328
+        ],
+        [
+          46.846345,
+          11.315983
+        ],
+        [
+          46.846328,
+          11.315526
+        ],
+        [
+          46.846355,
+          11.31503
+        ],
+        [
+          46.846399,
+          11.314582
+        ],
+        [
+          46.846449,
+          11.314294
+        ],
+        [
+          46.846506,
+          11.313907
+        ],
+        [
+          46.846584,
+          11.313531
+        ],
+        [
+          46.846645,
+          11.312926
+        ],
+        [
+          46.846614,
+          11.312399
+        ],
+        [
+          46.846569,
+          11.312158
+        ],
+        [
+          46.846592,
+          11.311943
+        ],
+        [
+          46.84673,
+          11.311424
+        ],
+        [
+          46.846921,
+          11.31096
+        ],
+        [
+          46.84718,
+          11.310437
+        ],
+        [
+          46.84773,
+          11.309306
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_22789257_2",
+      "name": "Verbindung Jaufen-Ratschings",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_8",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.84773,
+          11.309306
+        ],
+        [
+          46.848059,
+          11.308932
+        ],
+        [
+          46.848247,
+          11.308623
+        ],
+        [
+          46.848663,
+          11.307612
+        ],
+        [
+          46.848921,
+          11.307467
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_22789260_0",
+      "name": "Piste 22789260",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_29",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.84619,
+          11.308965
+        ],
+        [
+          46.846583,
+          11.308652
+        ],
+        [
+          46.847143,
+          11.308789
+        ],
+        [
+          46.847585,
+          11.309269
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789264_0",
+      "name": "Piste 22789264",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_31",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.840285,
+          11.314172
+        ],
+        [
+          46.840768,
+          11.313627
+        ],
+        [
+          46.841579,
+          11.311645
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789264_1",
+      "name": "Piste 22789264",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          46.841579,
+          11.311645
+        ],
+        [
+          46.841984,
+          11.310657
+        ],
+        [
+          46.84204,
+          11.310218
+        ],
+        [
+          46.842129,
+          11.310093
+        ],
+        [
+          46.842217,
+          11.31005
+        ],
+        [
+          46.842538,
+          11.310179
+        ],
+        [
+          46.842991,
+          11.310033
+        ],
+        [
+          46.844076,
+          11.308294
+        ],
+        [
+          46.845093,
+          11.306793
+        ],
+        [
+          46.845457,
+          11.306274
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789291_2",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_33",
+      "distance": 0.71,
+      "duration": 1,
+      "elevation": -113,
+      "geometry": [
+        [
+          46.841297,
+          11.284619
+        ],
+        [
+          46.841344,
+          11.285031
+        ],
+        [
+          46.841338,
+          11.28552
+        ],
+        [
+          46.841433,
+          11.286689
+        ],
+        [
+          46.841456,
+          11.287136
+        ],
+        [
+          46.841432,
+          11.287664
+        ],
+        [
+          46.841387,
+          11.288323
+        ],
+        [
+          46.841335,
+          11.288922
+        ],
+        [
+          46.841332,
+          11.289271
+        ],
+        [
+          46.84135,
+          11.289614
+        ],
+        [
+          46.841436,
+          11.289923
+        ],
+        [
+          46.841638,
+          11.290163
+        ],
+        [
+          46.841961,
+          11.290406
+        ],
+        [
+          46.842313,
+          11.290563
+        ],
+        [
+          46.842725,
+          11.29062
+        ],
+        [
+          46.843147,
+          11.290515
+        ],
+        [
+          46.843463,
+          11.290465
+        ],
+        [
+          46.843992,
+          11.290464
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789291_3",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          46.843992,
+          11.290464
+        ],
+        [
+          46.84442,
+          11.291116
+        ],
+        [
+          46.844679,
+          11.291511
+        ],
+        [
+          46.844902,
+          11.291992
+        ],
+        [
+          46.844972,
+          11.292266
+        ],
+        [
+          46.844972,
+          11.292455
+        ],
+        [
+          46.845002,
+          11.292738
+        ],
+        [
+          46.844937,
+          11.293245
+        ],
+        [
+          46.845013,
+          11.293622
+        ],
+        [
+          46.845201,
+          11.29382
+        ],
+        [
+          46.845576,
+          11.293969
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789291_6",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.845782,
+          11.294129
+        ],
+        [
+          46.846135,
+          11.294753
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789291_9",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_23",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.846405,
+          11.294807
+        ],
+        [
+          46.847908,
+          11.294597
+        ],
+        [
+          46.848937,
+          11.294697
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789291_10",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.848937,
+          11.294697
+        ],
+        [
+          46.849583,
+          11.295212
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789301_2",
+      "name": "Wasserfalleralm - Malga Cascata",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_36",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.840681,
+          11.301785
+        ],
+        [
+          46.840831,
+          11.300886
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789301_4",
+      "name": "Wasserfalleralm - Malga Cascata",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.840886,
+          11.300558
+        ],
+        [
+          46.84088,
+          11.30012
+        ],
+        [
+          46.840845,
+          11.299734
+        ],
+        [
+          46.840845,
+          11.299382
+        ],
+        [
+          46.84098,
+          11.298867
+        ],
+        [
+          46.841186,
+          11.298652
+        ],
+        [
+          46.841523,
+          11.298479
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789301_5",
+      "name": "Wasserfalleralm - Malga Cascata",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_3",
+      "distance": 0.52,
+      "duration": 1,
+      "elevation": -83,
+      "geometry": [
+        [
+          46.841523,
+          11.298479
+        ],
+        [
+          46.842165,
+          11.297934
+        ],
+        [
+          46.843097,
+          11.297308
+        ],
+        [
+          46.843481,
+          11.297047
+        ],
+        [
+          46.84377,
+          11.296776
+        ],
+        [
+          46.843951,
+          11.296635
+        ],
+        [
+          46.844168,
+          11.296352
+        ],
+        [
+          46.844409,
+          11.29612
+        ],
+        [
+          46.845178,
+          11.295588
+        ],
+        [
+          46.845689,
+          11.295373
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789301_7",
+      "name": "Wasserfalleralm - Malga Cascata",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_35",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.845755,
+          11.295302
+        ],
+        [
+          46.84624,
+          11.294901
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789311_0",
+      "name": "Enzian I",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_38",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.840751,
+          11.301888
+        ],
+        [
+          46.840704,
+          11.302566
+        ],
+        [
+          46.840663,
+          11.302884
+        ],
+        [
+          46.840769,
+          11.303244
+        ],
+        [
+          46.841015,
+          11.303441
+        ],
+        [
+          46.841197,
+          11.303467
+        ],
+        [
+          46.841473,
+          11.303613
+        ],
+        [
+          46.841783,
+          11.303729
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789311_1",
+      "name": "Enzian I",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.841783,
+          11.303729
+        ],
+        [
+          46.842172,
+          11.303836
+        ],
+        [
+          46.842464,
+          11.303734
+        ],
+        [
+          46.842722,
+          11.303687
+        ],
+        [
+          46.843023,
+          11.303716
+        ],
+        [
+          46.843311,
+          11.303913
+        ],
+        [
+          46.843687,
+          11.304214
+        ],
+        [
+          46.843921,
+          11.304617
+        ],
+        [
+          46.844503,
+          11.304995
+        ],
+        [
+          46.84469,
+          11.305003
+        ],
+        [
+          46.845536,
+          11.305407
+        ],
+        [
+          46.845788,
+          11.305416
+        ],
+        [
+          46.846528,
+          11.305656
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789317_2",
+      "name": "Piste 2C",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_40",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.840546,
+          11.302128
+        ],
+        [
+          46.840469,
+          11.302377
+        ],
+        [
+          46.840434,
+          11.302978
+        ],
+        [
+          46.840516,
+          11.303527
+        ],
+        [
+          46.840833,
+          11.304248
+        ],
+        [
+          46.841327,
+          11.305553
+        ],
+        [
+          46.841644,
+          11.306814
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_22789335_5",
+      "name": "Blosegg",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.847679,
+          11.304488
+        ],
+        [
+          46.847972,
+          11.303828
+        ],
+        [
+          46.848174,
+          11.303353
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52390077_3",
+      "name": "Verbindung Wasserfalleralm-Enzian",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_41",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.846,
+          11.295305
+        ],
+        [
+          46.846193,
+          11.29545
+        ],
+        [
+          46.846481,
+          11.295905
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_52390078_0",
+      "name": "Piste 52390078",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_2",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.859814,
+          11.302485
+        ],
+        [
+          46.860445,
+          11.302351
+        ],
+        [
+          46.860956,
+          11.30224
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52624809_0",
+      "name": "Saxner I",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_42",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.843992,
+          11.290464
+        ],
+        [
+          46.844557,
+          11.290421
+        ],
+        [
+          46.845144,
+          11.290314
+        ],
+        [
+          46.845929,
+          11.29012
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52624810_0",
+      "name": "Saxner II",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_42",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          46.842419,
+          11.28376
+        ],
+        [
+          46.842766,
+          11.284164
+        ],
+        [
+          46.843082,
+          11.284541
+        ],
+        [
+          46.843252,
+          11.284636
+        ],
+        [
+          46.843786,
+          11.285211
+        ],
+        [
+          46.844279,
+          11.286026
+        ],
+        [
+          46.844638,
+          11.286936
+        ],
+        [
+          46.844849,
+          11.287623
+        ],
+        [
+          46.845119,
+          11.288206
+        ],
+        [
+          46.84536,
+          11.288833
+        ],
+        [
+          46.845439,
+          11.289078
+        ],
+        [
+          46.845477,
+          11.289322
+        ],
+        [
+          46.845548,
+          11.289588
+        ],
+        [
+          46.845706,
+          11.289923
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52624810_2",
+      "name": "Saxner II",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.845929,
+          11.29012
+        ],
+        [
+          46.846227,
+          11.290026
+        ],
+        [
+          46.846499,
+          11.2897
+        ],
+        [
+          46.846731,
+          11.28931
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52624810_3",
+      "name": "Saxner II",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.846731,
+          11.28931
+        ],
+        [
+          46.84702,
+          11.288966
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_52624813_0",
+      "name": "Waldabfahrt",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_2",
+      "distance": 1.46,
+      "duration": 2,
+      "elevation": -233,
+      "geometry": [
+        [
+          46.849583,
+          11.295212
+        ],
+        [
+          46.849924,
+          11.295698
+        ],
+        [
+          46.850062,
+          11.295957
+        ],
+        [
+          46.850261,
+          11.296154
+        ],
+        [
+          46.850719,
+          11.296309
+        ],
+        [
+          46.851177,
+          11.296326
+        ],
+        [
+          46.851617,
+          11.296438
+        ],
+        [
+          46.852316,
+          11.296738
+        ],
+        [
+          46.853736,
+          11.298008
+        ],
+        [
+          46.854071,
+          11.298137
+        ],
+        [
+          46.85457,
+          11.298223
+        ],
+        [
+          46.854717,
+          11.298291
+        ],
+        [
+          46.855138,
+          11.298277
+        ],
+        [
+          46.855644,
+          11.298257
+        ],
+        [
+          46.855843,
+          11.298291
+        ],
+        [
+          46.85635,
+          11.298499
+        ],
+        [
+          46.856736,
+          11.29844
+        ],
+        [
+          46.857076,
+          11.298618
+        ],
+        [
+          46.857141,
+          11.298643
+        ],
+        [
+          46.857405,
+          11.298995
+        ],
+        [
+          46.857593,
+          11.29939
+        ],
+        [
+          46.857853,
+          11.299751
+        ],
+        [
+          46.858121,
+          11.299779
+        ],
+        [
+          46.858389,
+          11.299635
+        ],
+        [
+          46.858608,
+          11.299519
+        ],
+        [
+          46.859072,
+          11.299648
+        ],
+        [
+          46.860104,
+          11.300351
+        ],
+        [
+          46.860363,
+          11.300549
+        ],
+        [
+          46.860521,
+          11.300781
+        ],
+        [
+          46.861073,
+          11.301193
+        ],
+        [
+          46.861158,
+          11.301762
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_91154014_0",
+      "name": "Verbindung Jaufen-Ratschings",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.842553,
+          11.322149
+        ],
+        [
+          46.842403,
+          11.321679
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_91154014_2",
+      "name": "Verbindung Jaufen-Ratschings",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_25",
+      "distance": 0.6,
+      "duration": 1,
+      "elevation": -96,
+      "geometry": [
+        [
+          46.842535,
+          11.321452
+        ],
+        [
+          46.843197,
+          11.320862
+        ],
+        [
+          46.844623,
+          11.319103
+        ],
+        [
+          46.845357,
+          11.318313
+        ],
+        [
+          46.845645,
+          11.31821
+        ],
+        [
+          46.846525,
+          11.317979
+        ],
+        [
+          46.847036,
+          11.317901
+        ],
+        [
+          46.847185,
+          11.317834
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_91154016_2",
+      "name": "Verbindung Ratschungs Jaufen",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_27",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.847285,
+          11.317972
+        ],
+        [
+          46.846968,
+          11.31817
+        ],
+        [
+          46.846716,
+          11.318402
+        ],
+        [
+          46.846516,
+          11.318711
+        ],
+        [
+          46.846405,
+          11.319346
+        ],
+        [
+          46.846393,
+          11.319835
+        ],
+        [
+          46.846457,
+          11.32035
+        ],
+        [
+          46.846628,
+          11.32065
+        ],
+        [
+          46.846745,
+          11.320753
+        ],
+        [
+          46.847121,
+          11.320977
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_100064158_0",
+      "name": "12 Enzian II",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_44",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.841523,
+          11.298479
+        ],
+        [
+          46.841946,
+          11.298602
+        ],
+        [
+          46.842262,
+          11.298789
+        ],
+        [
+          46.842653,
+          11.299293
+        ],
+        [
+          46.842832,
+          11.29992
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_100064158_1",
+      "name": "12 Enzian II",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.842832,
+          11.29992
+        ],
+        [
+          46.842994,
+          11.300921
+        ],
+        [
+          46.843089,
+          11.301844
+        ],
+        [
+          46.843325,
+          11.302145
+        ],
+        [
+          46.844786,
+          11.302209
+        ],
+        [
+          46.845141,
+          11.302183
+        ],
+        [
+          46.845415,
+          11.302073
+        ],
+        [
+          46.845882,
+          11.301741
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_100064158_3",
+      "name": "12 Enzian II",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.845929,
+          11.301708
+        ],
+        [
+          46.846777,
+          11.301208
+        ],
+        [
+          46.84726,
+          11.301032
+        ],
+        [
+          46.847466,
+          11.30111
+        ],
+        [
+          46.847612,
+          11.301251
+        ],
+        [
+          46.847863,
+          11.301607
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_126441056_1",
+      "name": "Rinneralm II",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_30",
+      "distance": 0.82,
+      "duration": 1,
+      "elevation": -131,
+      "geometry": [
+        [
+          46.840522,
+          11.314119
+        ],
+        [
+          46.840716,
+          11.314136
+        ],
+        [
+          46.841004,
+          11.314248
+        ],
+        [
+          46.841356,
+          11.31387
+        ],
+        [
+          46.841908,
+          11.31393
+        ],
+        [
+          46.842319,
+          11.313904
+        ],
+        [
+          46.842571,
+          11.313629
+        ],
+        [
+          46.842982,
+          11.31284
+        ],
+        [
+          46.843276,
+          11.312642
+        ],
+        [
+          46.843786,
+          11.312522
+        ],
+        [
+          46.843986,
+          11.312402
+        ],
+        [
+          46.844567,
+          11.311879
+        ],
+        [
+          46.845019,
+          11.311295
+        ],
+        [
+          46.845836,
+          11.310696
+        ],
+        [
+          46.84619,
+          11.308965
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_149662329_0",
+      "name": "Piste 149662329",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_47",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.84773,
+          11.309306
+        ],
+        [
+          46.847762,
+          11.308874
+        ],
+        [
+          46.847771,
+          11.308432
+        ],
+        [
+          46.847726,
+          11.308235
+        ],
+        [
+          46.847664,
+          11.308075
+        ],
+        [
+          46.84756,
+          11.30792
+        ],
+        [
+          46.847514,
+          11.307832
+        ],
+        [
+          46.847458,
+          11.307672
+        ],
+        [
+          46.847426,
+          11.307446
+        ],
+        [
+          46.847403,
+          11.307254
+        ],
+        [
+          46.847373,
+          11.307034
+        ],
+        [
+          46.847382,
+          11.306727
+        ],
+        [
+          46.847513,
+          11.306493
+        ],
+        [
+          46.84762,
+          11.306351
+        ],
+        [
+          46.847932,
+          11.305926
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_149662332_1",
+      "name": "Kalcher Alm III",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_28",
+      "distance": 1.15,
+      "duration": 2,
+      "elevation": -184,
+      "geometry": [
+        [
+          46.842422,
+          11.322185
+        ],
+        [
+          46.842721,
+          11.323124
+        ],
+        [
+          46.844468,
+          11.324984
+        ],
+        [
+          46.84536,
+          11.326024
+        ],
+        [
+          46.845863,
+          11.326357
+        ],
+        [
+          46.84642,
+          11.326462
+        ],
+        [
+          46.847353,
+          11.326039
+        ],
+        [
+          46.847469,
+          11.325568
+        ],
+        [
+          46.847687,
+          11.324896
+        ],
+        [
+          46.848404,
+          11.323352
+        ],
+        [
+          46.849177,
+          11.322203
+        ],
+        [
+          46.849955,
+          11.321307
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_149821399_3",
+      "name": "Aberhamwiese",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_14",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.8619,
+          11.309593
+        ],
+        [
+          46.862329,
+          11.309888
+        ],
+        [
+          46.862837,
+          11.310045
+        ],
+        [
+          46.863309,
+          11.310032
+        ],
+        [
+          46.863776,
+          11.309825
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_149821401_0",
+      "name": "Piste 149821401",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_49",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.861158,
+          11.301762
+        ],
+        [
+          46.861908,
+          11.302874
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_149821402_0",
+      "name": "Piste 149821402",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_17",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.847932,
+          11.305926
+        ],
+        [
+          46.8491,
+          11.306619
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_149821402_1",
+      "name": "Piste 149821402",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.8491,
+          11.306619
+        ],
+        [
+          46.849149,
+          11.30674
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_179202070_3",
+      "name": "Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_46",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.847066,
+          11.296341
+        ],
+        [
+          46.847097,
+          11.296447
+        ],
+        [
+          46.847096,
+          11.296605
+        ],
+        [
+          46.846993,
+          11.296725
+        ],
+        [
+          46.846902,
+          11.296867
+        ],
+        [
+          46.846817,
+          11.297059
+        ],
+        [
+          46.846813,
+          11.297318
+        ],
+        [
+          46.846876,
+          11.297675
+        ],
+        [
+          46.846892,
+          11.297763
+        ],
+        [
+          46.847029,
+          11.298298
+        ],
+        [
+          46.84705,
+          11.2986
+        ],
+        [
+          46.84701,
+          11.299086
+        ],
+        [
+          46.84697,
+          11.299318
+        ],
+        [
+          46.846968,
+          11.299536
+        ],
+        [
+          46.846986,
+          11.29967
+        ],
+        [
+          46.847031,
+          11.299779
+        ],
+        [
+          46.847219,
+          11.300017
+        ],
+        [
+          46.847415,
+          11.300306
+        ],
+        [
+          46.847703,
+          11.30066
+        ],
+        [
+          46.847794,
+          11.300823
+        ],
+        [
+          46.847819,
+          11.300985
+        ],
+        [
+          46.847863,
+          11.301607
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_179202070_4",
+      "name": "Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_10",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.847863,
+          11.301607
+        ],
+        [
+          46.847944,
+          11.302098
+        ],
+        [
+          46.848146,
+          11.303033
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_179202073_1",
+      "name": "Blosegg",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_10",
+      "distance": 1.56,
+      "duration": 2,
+      "elevation": -249,
+      "geometry": [
+        [
+          46.859624,
+          11.302588
+        ],
+        [
+          46.859171,
+          11.302815
+        ],
+        [
+          46.858849,
+          11.303004
+        ],
+        [
+          46.857933,
+          11.303321
+        ],
+        [
+          46.857309,
+          11.30306
+        ],
+        [
+          46.856013,
+          11.301603
+        ],
+        [
+          46.855656,
+          11.301032
+        ],
+        [
+          46.855308,
+          11.300706
+        ],
+        [
+          46.854775,
+          11.300145
+        ],
+        [
+          46.854617,
+          11.299948
+        ],
+        [
+          46.8543,
+          11.299725
+        ],
+        [
+          46.853103,
+          11.299553
+        ],
+        [
+          46.852708,
+          11.299416
+        ],
+        [
+          46.852193,
+          11.299267
+        ],
+        [
+          46.851962,
+          11.299459
+        ],
+        [
+          46.851817,
+          11.299744
+        ],
+        [
+          46.851753,
+          11.300235
+        ],
+        [
+          46.851824,
+          11.301027
+        ],
+        [
+          46.851743,
+          11.30164
+        ],
+        [
+          46.851603,
+          11.301974
+        ],
+        [
+          46.851201,
+          11.302447
+        ],
+        [
+          46.850779,
+          11.302779
+        ],
+        [
+          46.850602,
+          11.302892
+        ],
+        [
+          46.849727,
+          11.302961
+        ],
+        [
+          46.849264,
+          11.303084
+        ],
+        [
+          46.8488,
+          11.303381
+        ],
+        [
+          46.84862,
+          11.303416
+        ],
+        [
+          46.848266,
+          11.303363
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_179202073_3",
+      "name": "Blosegg",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_51",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.859814,
+          11.302485
+        ],
+        [
+          46.860135,
+          11.302594
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_179202073_4",
+      "name": "Blosegg",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_49",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.860135,
+          11.302594
+        ],
+        [
+          46.860855,
+          11.302831
+        ],
+        [
+          46.861426,
+          11.302785
+        ],
+        [
+          46.861908,
+          11.302874
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_179202073_5",
+      "name": "Blosegg",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_0",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.861908,
+          11.302874
+        ],
+        [
+          46.862655,
+          11.303251
+        ],
+        [
+          46.863035,
+          11.303618
+        ],
+        [
+          46.863245,
+          11.304313
+        ],
+        [
+          46.863313,
+          11.305147
+        ],
+        [
+          46.863815,
+          11.306915
+        ],
+        [
+          46.863951,
+          11.307421
+        ],
+        [
+          46.863904,
+          11.308176
+        ],
+        [
+          46.86402,
+          11.308784
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_3",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_40",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.840285,
+          11.314172
+        ],
+        [
+          46.840565,
+          11.313665
+        ],
+        [
+          46.840675,
+          11.313252
+        ],
+        [
+          46.840716,
+          11.312196
+        ],
+        [
+          46.840998,
+          11.309793
+        ],
+        [
+          46.841056,
+          11.308883
+        ],
+        [
+          46.841227,
+          11.308574
+        ],
+        [
+          46.841344,
+          11.308008
+        ],
+        [
+          46.841632,
+          11.307158
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_7",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_32",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.841955,
+          11.306789
+        ],
+        [
+          46.842266,
+          11.306557
+        ],
+        [
+          46.843716,
+          11.306214
+        ],
+        [
+          46.845013,
+          11.305948
+        ],
+        [
+          46.845313,
+          11.305948
+        ],
+        [
+          46.845689,
+          11.306205
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_8",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_52",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.845689,
+          11.306205
+        ],
+        [
+          46.846697,
+          11.304006
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_9",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_39",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.846697,
+          11.304006
+        ],
+        [
+          46.846698,
+          11.305888
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_10",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_47",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.846698,
+          11.305888
+        ],
+        [
+          46.847426,
+          11.305759
+        ],
+        [
+          46.847932,
+          11.305926
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_197627077_11",
+      "name": "Piste 2b",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_10",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.847932,
+          11.305926
+        ],
+        [
+          46.848254,
+          11.305784
+        ],
+        [
+          46.84836,
+          11.305793
+        ],
+        [
+          46.848442,
+          11.30539
+        ],
+        [
+          46.848383,
+          11.304772
+        ],
+        [
+          46.848266,
+          11.304265
+        ],
+        [
+          46.848177,
+          11.303373
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_675382284_0",
+      "name": "Rinneralm I",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_53",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.841579,
+          11.311645
+        ],
+        [
+          46.842324,
+          11.311813
+        ],
+        [
+          46.842937,
+          11.311673
+        ],
+        [
+          46.843282,
+          11.311
+        ],
+        [
+          46.843851,
+          11.309973
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_675382285_0",
+      "name": "Rinneralm I",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_1",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          46.843851,
+          11.309973
+        ],
+        [
+          46.844362,
+          11.309758
+        ],
+        [
+          46.84493,
+          11.309571
+        ],
+        [
+          46.845403,
+          11.30916
+        ],
+        [
+          46.845754,
+          11.308815
+        ],
+        [
+          46.846064,
+          11.308399
+        ],
+        [
+          46.84654,
+          11.307713
+        ],
+        [
+          46.847032,
+          11.306909
+        ],
+        [
+          46.847345,
+          11.306386
+        ],
+        [
+          46.847426,
+          11.305759
+        ],
+        [
+          46.847572,
+          11.304878
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_675382383_0",
+      "name": "Piste 675382383",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_44",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.840831,
+          11.300886
+        ],
+        [
+          46.841457,
+          11.30053
+        ],
+        [
+          46.842107,
+          11.300172
+        ],
+        [
+          46.842583,
+          11.299931
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_675382786_0",
+      "name": "Enzian I",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_45",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          46.841783,
+          11.303729
+        ],
+        [
+          46.842431,
+          11.303248
+        ],
+        [
+          46.842887,
+          11.303161
+        ],
+        [
+          46.843772,
+          11.303186
+        ],
+        [
+          46.844395,
+          11.303235
+        ],
+        [
+          46.844867,
+          11.303235
+        ],
+        [
+          46.845432,
+          11.303051
+        ],
+        [
+          46.845635,
+          11.302533
+        ],
+        [
+          46.845882,
+          11.301741
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_898105556_2",
+      "name": "Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_41",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.846058,
+          11.296477
+        ],
+        [
+          46.846058,
+          11.2962
+        ],
+        [
+          46.84608,
+          11.296029
+        ],
+        [
+          46.846153,
+          11.295846
+        ],
+        [
+          46.846219,
+          11.295807
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_898105556_5",
+      "name": "Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.846481,
+          11.295905
+        ],
+        [
+          46.846874,
+          11.296118
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1265241836_0",
+      "name": "Piste 1265241836",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_23",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          46.845659,
+          11.294009
+        ],
+        [
+          46.84595,
+          11.293988
+        ],
+        [
+          46.847799,
+          11.293725
+        ],
+        [
+          46.848103,
+          11.293822
+        ],
+        [
+          46.848869,
+          11.294447
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1377225353_0",
+      "name": "Rinneralm Profi",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_32",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          46.843851,
+          11.309973
+        ],
+        [
+          46.844407,
+          11.308983
+        ],
+        [
+          46.845129,
+          11.307927
+        ],
+        [
+          46.845493,
+          11.307255
+        ],
+        [
+          46.845876,
+          11.306396
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1377225353_1",
+      "name": "Rinneralm Profi",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_52",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.845876,
+          11.306396
+        ],
+        [
+          46.846697,
+          11.304006
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "walk_node_0_node_12",
+      "name": "Walk: Ratschings-Jaufen - Racines-Giovo (Base) ↔ Blosegg - Maso Blasegger (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_12",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.864052,
+          11.308885
+        ],
+        [
+          46.864426,
+          11.307396
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_14",
+      "name": "Walk: Ratschings-Jaufen - Racines-Giovo (Base) ↔ Junction: Aberhamwiese",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.864052,
+          11.308885
+        ],
+        [
+          46.863848,
+          11.309726
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_10",
+      "name": "Walk: Ratschings-Jaufen - Racines-Giovo (Summit / Top) ↔ Enzian (Base)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_10",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.847663,
+          11.304847
+        ],
+        [
+          46.848163,
+          11.303294
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_35",
+      "name": "Walk: Wasserfalleralm (Summit / Top) ↔ Junction: Saxner I",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_35",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.845821,
+          11.295383
+        ],
+        [
+          46.846257,
+          11.294832
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_41",
+      "name": "Walk: Wasserfalleralm (Summit / Top) ↔ Junction: Verbindung Wasserfalleralm-Enzian",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_41",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.845821,
+          11.295383
+        ],
+        [
+          46.846357,
+          11.295855
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_24",
+      "name": "Walk: Saxner (Base) ↔ Junction: 16 Saxner II",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_24",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.85004,
+          11.295085
+        ],
+        [
+          46.849669,
+          11.295272
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_26",
+      "name": "Walk: Kalcher Alm - Malga Calice (Summit / Top) ↔ Junction: Kalcher Alm I",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_26",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.8425,
+          11.322163
+        ],
+        [
+          46.842456,
+          11.321588
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_16",
+      "name": "Walk: Rinneralm - Malga Rinner (Base) ↔ Junction #17",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_16",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849069,
+          11.307055
+        ],
+        [
+          46.849159,
+          11.305525
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_17",
+      "name": "Walk: Rinneralm - Malga Rinner (Base) ↔ Junction #18",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_17",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849069,
+          11.307055
+        ],
+        [
+          46.849136,
+          11.306328
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_18",
+      "name": "Walk: Rinneralm - Malga Rinner (Base) ↔ Junction #19",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_18",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849069,
+          11.307055
+        ],
+        [
+          46.849497,
+          11.305786
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_19",
+      "name": "Walk: Rinneralm - Malga Rinner (Base) ↔ Junction #20",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_19",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849069,
+          11.307055
+        ],
+        [
+          46.849432,
+          11.306473
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_20",
+      "name": "Walk: Rinneralm - Malga Rinner (Base) ↔ Junction #21",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_20",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849069,
+          11.307055
+        ],
+        [
+          46.84998,
+          11.305903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_51",
+      "name": "Walk: Blosegg - Maso Blasegger (Summit / Top) ↔ Junction: Blosegg",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_51",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.859782,
+          11.302582
+        ],
+        [
+          46.860135,
+          11.302594
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_48",
+      "name": "Walk: Junction #16 ↔ Junction: Aberhamwiese",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_48",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.861493,
+          11.309226
+        ],
+        [
+          46.861863,
+          11.309414
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_17",
+      "name": "Walk: Junction #17 ↔ Junction #18",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849159,
+          11.305525
+        ],
+        [
+          46.849136,
+          11.306328
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_18",
+      "name": "Walk: Junction #17 ↔ Junction #19",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_18",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849159,
+          11.305525
+        ],
+        [
+          46.849497,
+          11.305786
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_19",
+      "name": "Walk: Junction #17 ↔ Junction #20",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_19",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849159,
+          11.305525
+        ],
+        [
+          46.849432,
+          11.306473
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_20",
+      "name": "Walk: Junction #17 ↔ Junction #21",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_20",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849159,
+          11.305525
+        ],
+        [
+          46.84998,
+          11.305903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_18",
+      "name": "Walk: Junction #18 ↔ Junction #19",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849136,
+          11.306328
+        ],
+        [
+          46.849497,
+          11.305786
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_19",
+      "name": "Walk: Junction #18 ↔ Junction #20",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_19",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849136,
+          11.306328
+        ],
+        [
+          46.849432,
+          11.306473
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_20",
+      "name": "Walk: Junction #18 ↔ Junction #21",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_20",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849136,
+          11.306328
+        ],
+        [
+          46.84998,
+          11.305903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_19",
+      "name": "Walk: Junction #19 ↔ Junction #20",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849497,
+          11.305786
+        ],
+        [
+          46.849432,
+          11.306473
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_20",
+      "name": "Walk: Junction #19 ↔ Junction #21",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849497,
+          11.305786
+        ],
+        [
+          46.84998,
+          11.305903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_20",
+      "name": "Walk: Junction #20 ↔ Junction #21",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.849432,
+          11.306473
+        ],
+        [
+          46.84998,
+          11.305903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_43",
+      "name": "Walk: Junction: 16 Saxner II ↔ Junction: Saxner II",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_43",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.84702,
+          11.288966
+        ],
+        [
+          46.846759,
+          11.289336
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_54",
+      "name": "Walk: Junction: Verbindung Wasserfalleralm-Enzian ↔ Junction: Verbindung Wasserfalleralm-Enzian - Collegamento Malga Cascata-Enzian",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_54",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.846357,
+          11.295855
+        ],
+        [
+          46.846037,
+          11.296607
+        ]
+      ]
+    }
+  ]
+}

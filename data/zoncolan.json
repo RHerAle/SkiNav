@@ -1,0 +1,8023 @@
+{
+  "id": "zoncolan",
+  "name": "Monte Zoncolan",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.4855,
+      12.9116
+    ],
+    [
+      46.5265,
+      12.9572
+    ]
+  ],
+  "center": [
+    46.5063,
+    12.9371
+  ],
+  "stats": {
+    "slopes": "23.7 km",
+    "lifts": 17,
+    "elevation": "950m - 1970m",
+    "drop": "1020m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Tappeto Cima Zoncolan (Base)",
+      "lat": 46.505823,
+      "lng": 12.931552,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Tappeto Cima Zoncolan (Summit / Top)",
+      "lat": 46.505321,
+      "lng": 12.930361,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Seggiovia Cuel d'Ajar (Mid-Station / Hub)",
+      "lat": 46.510723,
+      "lng": 12.950905,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Seggiovia Cuel d'Ajar (Summit / Top)",
+      "lat": 46.501749,
+      "lng": 12.944372,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Lavet (Base)",
+      "lat": 46.521052,
+      "lng": 12.921372,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Lavet (Summit / Top)",
+      "lat": 46.514394,
+      "lng": 12.926937,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Seggiovia Tamai 2000 (Base)",
+      "lat": 46.501306,
+      "lng": 12.942045,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Seggiovia Tamai 2000 (Summit / Top)",
+      "lat": 46.493655,
+      "lng": 12.93293,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Seggiovia Valvan (Base)",
+      "lat": 46.511683,
+      "lng": 12.951112,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Seggiovia Valvan (Summit / Top)",
+      "lat": 46.506439,
+      "lng": 12.932566,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Funivia Funifor Monte Zoncolan (Base)",
+      "lat": 46.521537,
+      "lng": 12.919839,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Funivia Funifor Monte Zoncolan (Summit / Top)",
+      "lat": 46.507218,
+      "lng": 12.932363,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Seggiovia Cima Tamai (Base)",
+      "lat": 46.495003,
+      "lng": 12.935257,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Seggiovia Cima Tamai (Summit / Top)",
+      "lat": 46.490463,
+      "lng": 12.936379,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Madessa 1 (Base)",
+      "lat": 46.520636,
+      "lng": 12.920482,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Madessa 1 (Summit / Top)",
+      "lat": 46.519953,
+      "lng": 12.921745,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Madessa 1 (Base)",
+      "lat": 46.520371,
+      "lng": 12.919721,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Madessa 1 (Summit / Top)",
+      "lat": 46.519725,
+      "lng": 12.920654,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Tappeto Lausc (Base)",
+      "lat": 46.511967,
+      "lng": 12.950738,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Tappeto Lausc (Summit / Top)",
+      "lat": 46.511411,
+      "lng": 12.948856,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Tappeto Cjalcenal (Base)",
+      "lat": 46.510621,
+      "lng": 12.952208,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Skilift Arvenis (Base)",
+      "lat": 46.500244,
+      "lng": 12.93568,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Skilift Arvenis (Summit / Top)",
+      "lat": 46.496017,
+      "lng": 12.934698,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "Seggiovia Giro d'Italia (Base)",
+      "lat": 46.504619,
+      "lng": 12.941846,
+      "type": "station"
+    },
+    {
+      "id": "node_24",
+      "name": "Seggiovia Giro d'Italia (Summit / Top)",
+      "lat": 46.500305,
+      "lng": 12.928347,
+      "type": "station"
+    },
+    {
+      "id": "node_25",
+      "name": "Tappeto Collegamento Parcheggi - Casse Skipass (Base)",
+      "lat": 46.51271,
+      "lng": 12.951049,
+      "type": "station"
+    },
+    {
+      "id": "node_26",
+      "name": "Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top)",
+      "lat": 46.512213,
+      "lng": 12.951282,
+      "type": "station"
+    },
+    {
+      "id": "node_27",
+      "name": "Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "lat": 46.511457,
+      "lng": 12.951167,
+      "type": "station"
+    },
+    {
+      "id": "node_28",
+      "name": "Madessa 3 (Base)",
+      "lat": 46.520522,
+      "lng": 12.916939,
+      "type": "station"
+    },
+    {
+      "id": "node_29",
+      "name": "Madessa 3 (Summit / Top)",
+      "lat": 46.519661,
+      "lng": 12.916582,
+      "type": "station"
+    },
+    {
+      "id": "node_30",
+      "name": "Madessa 2 (Base)",
+      "lat": 46.519811,
+      "lng": 12.918905,
+      "type": "station"
+    },
+    {
+      "id": "node_31",
+      "name": "Madessa 2 (Summit / Top)",
+      "lat": 46.519265,
+      "lng": 12.918584,
+      "type": "station"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: 2 A -Variante Zoncolan 2",
+      "lat": 46.506889,
+      "lng": 12.932599,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Zoncolan 1",
+      "lat": 46.509444,
+      "lng": 12.939601,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.509689,
+      "lng": 12.941329,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Zoncolan 1",
+      "lat": 46.51055,
+      "lng": 12.942731,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.510292,
+      "lng": 12.943524,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.501131,
+      "lng": 12.94309,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.501958,
+      "lng": 12.942108,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.503282,
+      "lng": 12.942318,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.504005,
+      "lng": 12.942381,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.505135,
+      "lng": 12.942816,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.50634,
+      "lng": 12.946263,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.507668,
+      "lng": 12.947028,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.508799,
+      "lng": 12.946045,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.509465,
+      "lng": 12.946306,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Zoncolan 4",
+      "lat": 46.510031,
+      "lng": 12.94696,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Zoncolan 3 - Bassa",
+      "lat": 46.506676,
+      "lng": 12.942795,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Zoncolan 3 - Bassa",
+      "lat": 46.5108,
+      "lng": 12.948694,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Goles",
+      "lat": 46.501877,
+      "lng": 12.927119,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Goles",
+      "lat": 46.50312,
+      "lng": 12.929354,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Goles",
+      "lat": 46.50403,
+      "lng": 12.933581,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: A - Skiweg Goles",
+      "lat": 46.501294,
+      "lng": 12.931282,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: 5 A - Variante Goles",
+      "lat": 46.502829,
+      "lng": 12.934023,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Tamai 1",
+      "lat": 46.500179,
+      "lng": 12.935104,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: Tamai 1",
+      "lat": 46.500596,
+      "lng": 12.934927,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Tamai 1",
+      "lat": 46.501574,
+      "lng": 12.941503,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: B - Skiweg Arvenis 1",
+      "lat": 46.499867,
+      "lng": 12.934508,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.506304,
+      "lng": 12.932236,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction #60",
+      "lat": 46.504549,
+      "lng": 12.94212,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.506907,
+      "lng": 12.935306,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.507194,
+      "lng": 12.937073,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Zoncolan 2",
+      "lat": 46.511264,
+      "lng": 12.948976,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Zoncolan 1",
+      "lat": 46.507211,
+      "lng": 12.933016,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Zoncolan 1",
+      "lat": 46.511316,
+      "lng": 12.948352,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Tamai",
+      "lat": 46.494975,
+      "lng": 12.935009,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: Tamai",
+      "lat": 46.496299,
+      "lng": 12.935729,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: Tamai",
+      "lat": 46.496707,
+      "lng": 12.93617,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Canalone",
+      "lat": 46.511927,
+      "lng": 12.930943,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction: Canalone",
+      "lat": 46.51273,
+      "lng": 12.92893,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction: Canalone",
+      "lat": 46.51276,
+      "lng": 12.928645,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction: 8 A - Variante Tamai 2",
+      "lat": 46.494262,
+      "lng": 12.932054,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction: 8 A - Variante Tamai 2",
+      "lat": 46.49486,
+      "lng": 12.932454,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction: 8 A - Variante Tamai 2",
+      "lat": 46.497159,
+      "lng": 12.937169,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction: 8 A - Variante Tamai 2",
+      "lat": 46.497836,
+      "lng": 12.937872,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction: 8 A - Variante Tamai 2",
+      "lat": 46.497816,
+      "lng": 12.938942,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction: Area Freestyle",
+      "lat": 46.49652,
+      "lng": 12.935617,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction: Area Freestyle",
+      "lat": 46.497369,
+      "lng": 12.936562,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction: Area Freestyle",
+      "lat": 46.500178,
+      "lng": 12.935742,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction: Collegamento Valvan - Parcheggi",
+      "lat": 46.512628,
+      "lng": 12.951881,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction #81",
+      "lat": 46.512371,
+      "lng": 12.950145,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction: 8b - Vecchia Tamai",
+      "lat": 46.498758,
+      "lng": 12.940086,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction: 3 A - Zoncolan 3 - Alta",
+      "lat": 46.503313,
+      "lng": 12.939152,
+      "type": "intersection"
+    },
+    {
+      "id": "node_83",
+      "name": "Junction: 3 A - Zoncolan 3 - Alta",
+      "lat": 46.502455,
+      "lng": 12.93598,
+      "type": "intersection"
+    },
+    {
+      "id": "node_84",
+      "name": "Junction: Campo Scuola Cjalcenal",
+      "lat": 46.510675,
+      "lng": 12.951688,
+      "type": "intersection"
+    },
+    {
+      "id": "node_85",
+      "name": "Junction: 2 C - Variante Laugiane",
+      "lat": 46.507394,
+      "lng": 12.939878,
+      "type": "intersection"
+    },
+    {
+      "id": "node_86",
+      "name": "Junction: 6 A - Arvenis",
+      "lat": 46.496433,
+      "lng": 12.935036,
+      "type": "intersection"
+    },
+    {
+      "id": "node_87",
+      "name": "Junction: 6 A - Arvenis",
+      "lat": 46.496584,
+      "lng": 12.934497,
+      "type": "intersection"
+    },
+    {
+      "id": "node_88",
+      "name": "Junction #89",
+      "lat": 46.506663,
+      "lng": 12.932074,
+      "type": "intersection"
+    },
+    {
+      "id": "node_89",
+      "name": "Junction: Arena Freestyle",
+      "lat": 46.499727,
+      "lng": 12.935937,
+      "type": "intersection"
+    },
+    {
+      "id": "node_90",
+      "name": "Junction #91",
+      "lat": 46.511081,
+      "lng": 12.95125,
+      "type": "intersection"
+    },
+    {
+      "id": "node_91",
+      "name": "Junction: Skiweb Stella Alpina",
+      "lat": 46.51447,
+      "lng": 12.927342,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_29153417",
+      "name": "Tappeto Cima Zoncolan",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.11,
+      "duration": 2,
+      "elevation": 24,
+      "geometry": [
+        [
+          46.505866,
+          12.931589
+        ],
+        [
+          46.505373,
+          12.930347
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_79596437",
+      "name": "Seggiovia Cuel d'Ajar",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.1,
+      "duration": 4,
+      "elevation": 242,
+      "geometry": [
+        [
+          46.510661,
+          12.95061
+        ],
+        [
+          46.510408,
+          12.950434
+        ],
+        [
+          46.509592,
+          12.949864
+        ],
+        [
+          46.509108,
+          12.949525
+        ],
+        [
+          46.508162,
+          12.948857
+        ],
+        [
+          46.507006,
+          12.948047
+        ],
+        [
+          46.506671,
+          12.947815
+        ],
+        [
+          46.505747,
+          12.947159
+        ],
+        [
+          46.505053,
+          12.946682
+        ],
+        [
+          46.504345,
+          12.946188
+        ],
+        [
+          46.503501,
+          12.945595
+        ],
+        [
+          46.502979,
+          12.94523
+        ],
+        [
+          46.502812,
+          12.945113
+        ],
+        [
+          46.502057,
+          12.944587
+        ],
+        [
+          46.501997,
+          12.944543
+        ],
+        [
+          46.501749,
+          12.944372
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_79596511",
+      "name": "Lavet",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.85,
+      "duration": 3,
+      "elevation": 187,
+      "geometry": [
+        [
+          46.521052,
+          12.921372
+        ],
+        [
+          46.520659,
+          12.921721
+        ],
+        [
+          46.520154,
+          12.922168
+        ],
+        [
+          46.519444,
+          12.922799
+        ],
+        [
+          46.518916,
+          12.923267
+        ],
+        [
+          46.518634,
+          12.923517
+        ],
+        [
+          46.51818,
+          12.92392
+        ],
+        [
+          46.517495,
+          12.924527
+        ],
+        [
+          46.516834,
+          12.925114
+        ],
+        [
+          46.516115,
+          12.925752
+        ],
+        [
+          46.515877,
+          12.925963
+        ],
+        [
+          46.515385,
+          12.926399
+        ],
+        [
+          46.514837,
+          12.926885
+        ],
+        [
+          46.514563,
+          12.927129
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_79596581",
+      "name": "Seggiovia Tamai 2000",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.09,
+      "duration": 4,
+      "elevation": 239,
+      "geometry": [
+        [
+          46.501153,
+          12.941983
+        ],
+        [
+          46.501021,
+          12.941828
+        ],
+        [
+          46.50098,
+          12.941779
+        ],
+        [
+          46.500846,
+          12.941621
+        ],
+        [
+          46.500118,
+          12.940766
+        ],
+        [
+          46.499501,
+          12.940038
+        ],
+        [
+          46.498583,
+          12.938954
+        ],
+        [
+          46.49798,
+          12.938252
+        ],
+        [
+          46.497426,
+          12.937585
+        ],
+        [
+          46.496497,
+          12.936499
+        ],
+        [
+          46.496133,
+          12.936069
+        ],
+        [
+          46.495045,
+          12.934786
+        ],
+        [
+          46.494377,
+          12.93401
+        ],
+        [
+          46.494332,
+          12.93395
+        ],
+        [
+          46.493832,
+          12.933365
+        ],
+        [
+          46.493788,
+          12.933309
+        ],
+        [
+          46.49357,
+          12.933053
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_79596639",
+      "name": "Seggiovia Valvan",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 1.54,
+      "duration": 6,
+      "elevation": 338,
+      "geometry": [
+        [
+          46.511597,
+          12.950972
+        ],
+        [
+          46.511529,
+          12.950704
+        ],
+        [
+          46.511374,
+          12.950131
+        ],
+        [
+          46.510979,
+          12.948662
+        ],
+        [
+          46.510472,
+          12.946784
+        ],
+        [
+          46.510017,
+          12.945078
+        ],
+        [
+          46.509693,
+          12.943874
+        ],
+        [
+          46.509509,
+          12.943184
+        ],
+        [
+          46.509156,
+          12.941868
+        ],
+        [
+          46.508649,
+          12.939984
+        ],
+        [
+          46.508402,
+          12.939057
+        ],
+        [
+          46.508256,
+          12.938525
+        ],
+        [
+          46.508102,
+          12.93794
+        ],
+        [
+          46.507957,
+          12.937407
+        ],
+        [
+          46.507691,
+          12.936425
+        ],
+        [
+          46.507495,
+          12.935705
+        ],
+        [
+          46.507134,
+          12.934361
+        ],
+        [
+          46.507115,
+          12.934295
+        ],
+        [
+          46.506888,
+          12.933436
+        ],
+        [
+          46.506684,
+          12.932668
+        ],
+        [
+          46.506563,
+          12.932201
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_79596762",
+      "name": "Funivia Funifor Monte Zoncolan",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 1.85,
+      "duration": 5,
+      "elevation": 407,
+      "geometry": [
+        [
+          46.521537,
+          12.919839
+        ],
+        [
+          46.514492,
+          12.925972
+        ],
+        [
+          46.507249,
+          12.932278
+        ]
+      ],
+      "subtype": "cable_car",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_249172671",
+      "name": "Seggiovia Cima Tamai",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.51,
+      "duration": 2,
+      "elevation": 112,
+      "geometry": [
+        [
+          46.495003,
+          12.935257
+        ],
+        [
+          46.494891,
+          12.93528
+        ],
+        [
+          46.494573,
+          12.935352
+        ],
+        [
+          46.493582,
+          12.935571
+        ],
+        [
+          46.49297,
+          12.935708
+        ],
+        [
+          46.492451,
+          12.935824
+        ],
+        [
+          46.49135,
+          12.93607
+        ],
+        [
+          46.490761,
+          12.936202
+        ],
+        [
+          46.490705,
+          12.936215
+        ],
+        [
+          46.490485,
+          12.936263
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_325097748",
+      "name": "Madessa 1",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 28,
+      "geometry": [
+        [
+          46.520648,
+          12.92045
+        ],
+        [
+          46.519951,
+          12.92175
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_325097749",
+      "name": "Madessa 1",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.52035,
+          12.919689
+        ],
+        [
+          46.519724,
+          12.920658
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_325098147",
+      "name": "Tappeto Lausc",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.16,
+      "duration": 2,
+      "elevation": 35,
+      "geometry": [
+        [
+          46.512053,
+          12.950663
+        ],
+        [
+          46.511451,
+          12.948826
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_325098299",
+      "name": "Tappeto Cjalcenal",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_2",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.510543,
+          12.952288
+        ],
+        [
+          46.510587,
+          12.951037
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_325098813",
+      "name": "Skilift Arvenis",
+      "type": "lift",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.46,
+      "duration": 2,
+      "elevation": 101,
+      "geometry": [
+        [
+          46.500244,
+          12.93568
+        ],
+        [
+          46.500229,
+          12.935677
+        ],
+        [
+          46.499864,
+          12.935584
+        ],
+        [
+          46.499432,
+          12.935472
+        ],
+        [
+          46.498809,
+          12.935311
+        ],
+        [
+          46.497785,
+          12.935047
+        ],
+        [
+          46.497078,
+          12.93486
+        ],
+        [
+          46.496623,
+          12.934745
+        ],
+        [
+          46.496487,
+          12.93471
+        ],
+        [
+          46.496144,
+          12.93462
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_948139049",
+      "name": "Seggiovia Giro d'Italia",
+      "type": "lift",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 1.11,
+      "duration": 4,
+      "elevation": 244,
+      "geometry": [
+        [
+          46.504565,
+          12.941549
+        ],
+        [
+          46.504514,
+          12.94139
+        ],
+        [
+          46.504223,
+          12.940544
+        ],
+        [
+          46.503779,
+          12.93924
+        ],
+        [
+          46.503464,
+          12.9383
+        ],
+        [
+          46.502937,
+          12.93659
+        ],
+        [
+          46.502325,
+          12.934743
+        ],
+        [
+          46.501835,
+          12.933245
+        ],
+        [
+          46.501492,
+          12.932188
+        ],
+        [
+          46.500715,
+          12.92982
+        ],
+        [
+          46.500338,
+          12.928688
+        ],
+        [
+          46.500273,
+          12.928491
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1462800881",
+      "name": "Tappeto Collegamento Parcheggi - Casse Skipass",
+      "type": "lift",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.512695,
+          12.950947
+        ],
+        [
+          46.512162,
+          12.951213
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1465033692",
+      "name": "Tappeto Collegamento Cjalcenal",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.510655,
+          12.950995
+        ],
+        [
+          46.511072,
+          12.951188
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1465073710",
+      "name": "Madessa 3",
+      "type": "lift",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.520571,
+          12.916965
+        ],
+        [
+          46.519674,
+          12.916556
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1465075691",
+      "name": "Madessa 2",
+      "type": "lift",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          46.519808,
+          12.919051
+        ],
+        [
+          46.519232,
+          12.918682
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_29131039_3",
+      "name": "2 A -Variante Zoncolan 2",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50673,
+          12.932709
+        ],
+        [
+          46.506665,
+          12.932753
+        ],
+        [
+          46.506602,
+          12.932739
+        ],
+        [
+          46.5065,
+          12.932649
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29131044_0",
+      "name": "Piste 29131044",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511215,
+          12.951124
+        ],
+        [
+          46.511498,
+          12.951131
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29131044_2",
+      "name": "Piste 29131044",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511083,
+          12.951109
+        ],
+        [
+          46.510974,
+          12.95094
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29131045_0",
+      "name": "Piste 29131045",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.509444,
+          12.939601
+        ],
+        [
+          46.509444,
+          12.940114
+        ],
+        [
+          46.509519,
+          12.940527
+        ],
+        [
+          46.509689,
+          12.941329
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_29131046_0",
+      "name": "Piste 29131046",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.510556,
+          12.942876
+        ],
+        [
+          46.510292,
+          12.943524
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153405_0",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_37",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.501749,
+          12.944372
+        ],
+        [
+          46.501426,
+          12.944109
+        ],
+        [
+          46.501289,
+          12.9439
+        ],
+        [
+          46.50119,
+          12.943652
+        ],
+        [
+          46.501132,
+          12.943194
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_1",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.501132,
+          12.943194
+        ],
+        [
+          46.501548,
+          12.942544
+        ],
+        [
+          46.501819,
+          12.942209
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_3",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.502027,
+          12.942058
+        ],
+        [
+          46.503282,
+          12.942318
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_4",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.503282,
+          12.942318
+        ],
+        [
+          46.503627,
+          12.942348
+        ],
+        [
+          46.503914,
+          12.942412
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_5",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.503914,
+          12.942412
+        ],
+        [
+          46.504806,
+          12.942589
+        ],
+        [
+          46.505135,
+          12.942816
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_6",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.505135,
+          12.942816
+        ],
+        [
+          46.505821,
+          12.94354
+        ],
+        [
+          46.505918,
+          12.943842
+        ],
+        [
+          46.505847,
+          12.944255
+        ],
+        [
+          46.505888,
+          12.94485
+        ],
+        [
+          46.506094,
+          12.945701
+        ],
+        [
+          46.50634,
+          12.946263
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_7",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.50634,
+          12.946263
+        ],
+        [
+          46.506689,
+          12.946509
+        ],
+        [
+          46.507198,
+          12.946781
+        ],
+        [
+          46.507517,
+          12.946955
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_9",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.507769,
+          12.947077
+        ],
+        [
+          46.508117,
+          12.947067
+        ],
+        [
+          46.508617,
+          12.946372
+        ],
+        [
+          46.508895,
+          12.946077
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_10",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.508895,
+          12.946077
+        ],
+        [
+          46.509365,
+          12.946222
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_12",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.509613,
+          12.946433
+        ],
+        [
+          46.509968,
+          12.946882
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153405_13",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_2",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.509968,
+          12.946882
+        ],
+        [
+          46.510186,
+          12.947516
+        ],
+        [
+          46.510348,
+          12.9482
+        ],
+        [
+          46.510598,
+          12.949846
+        ],
+        [
+          46.510889,
+          12.950799
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153407_0",
+      "name": "Zoncolan 3 - Bassa",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_47",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.505135,
+          12.942816
+        ],
+        [
+          46.505855,
+          12.942764
+        ],
+        [
+          46.50633,
+          12.942753
+        ],
+        [
+          46.506706,
+          12.942879
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153407_1",
+      "name": "Zoncolan 3 - Bassa",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_44",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.506706,
+          12.942879
+        ],
+        [
+          46.507119,
+          12.94351
+        ],
+        [
+          46.507821,
+          12.944831
+        ],
+        [
+          46.508199,
+          12.945499
+        ],
+        [
+          46.50841,
+          12.945802
+        ],
+        [
+          46.508656,
+          12.945997
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153408_1",
+      "name": "Zoncolan 3 - Bassa",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_48",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.510125,
+          12.947077
+        ],
+        [
+          46.510257,
+          12.947312
+        ],
+        [
+          46.510695,
+          12.948494
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153409_3",
+      "name": "Goles",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_49",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.50042,
+          12.928135
+        ],
+        [
+          46.500583,
+          12.927922
+        ],
+        [
+          46.500864,
+          12.9276
+        ],
+        [
+          46.50121,
+          12.927362
+        ],
+        [
+          46.501788,
+          12.927131
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153409_5",
+      "name": "Goles",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.501939,
+          12.927252
+        ],
+        [
+          46.502081,
+          12.927333
+        ],
+        [
+          46.502266,
+          12.927421
+        ],
+        [
+          46.502375,
+          12.927496
+        ],
+        [
+          46.502483,
+          12.927577
+        ],
+        [
+          46.502578,
+          12.927687
+        ],
+        [
+          46.502664,
+          12.927797
+        ],
+        [
+          46.502812,
+          12.92807
+        ],
+        [
+          46.502934,
+          12.928398
+        ],
+        [
+          46.503021,
+          12.928725
+        ],
+        [
+          46.503086,
+          12.929215
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153409_7",
+      "name": "Goles",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.503316,
+          12.92939
+        ],
+        [
+          46.503464,
+          12.929669
+        ],
+        [
+          46.503492,
+          12.929843
+        ],
+        [
+          46.503516,
+          12.930034
+        ],
+        [
+          46.503513,
+          12.930182
+        ],
+        [
+          46.503492,
+          12.930353
+        ],
+        [
+          46.503468,
+          12.930667
+        ],
+        [
+          46.503466,
+          12.930895
+        ],
+        [
+          46.503499,
+          12.931174
+        ],
+        [
+          46.503553,
+          12.931473
+        ],
+        [
+          46.503702,
+          12.93182
+        ],
+        [
+          46.503972,
+          12.932346
+        ],
+        [
+          46.504064,
+          12.932555
+        ],
+        [
+          46.504117,
+          12.932765
+        ],
+        [
+          46.504147,
+          12.933008
+        ],
+        [
+          46.504129,
+          12.93321
+        ],
+        [
+          46.504071,
+          12.9334
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153410_1",
+      "name": "F - Skiweg Cima Zoncolan - Goles",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_1",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.501991,
+          12.92696
+        ],
+        [
+          46.50211,
+          12.926927
+        ],
+        [
+          46.502221,
+          12.926933
+        ],
+        [
+          46.502312,
+          12.92691
+        ],
+        [
+          46.502399,
+          12.926882
+        ],
+        [
+          46.502506,
+          12.926831
+        ],
+        [
+          46.502607,
+          12.926745
+        ],
+        [
+          46.502722,
+          12.926657
+        ],
+        [
+          46.502822,
+          12.926621
+        ],
+        [
+          46.502929,
+          12.926627
+        ],
+        [
+          46.503017,
+          12.926662
+        ],
+        [
+          46.503206,
+          12.926757
+        ],
+        [
+          46.503447,
+          12.926939
+        ],
+        [
+          46.50358,
+          12.927048
+        ],
+        [
+          46.503691,
+          12.927171
+        ],
+        [
+          46.503878,
+          12.92748
+        ],
+        [
+          46.504051,
+          12.927832
+        ],
+        [
+          46.504131,
+          12.928038
+        ],
+        [
+          46.504254,
+          12.928237
+        ],
+        [
+          46.504387,
+          12.928441
+        ],
+        [
+          46.50447,
+          12.928644
+        ],
+        [
+          46.504554,
+          12.928907
+        ],
+        [
+          46.504924,
+          12.93012
+        ],
+        [
+          46.505019,
+          12.930211
+        ],
+        [
+          46.50512,
+          12.930274
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153411_3",
+      "name": "A - Skiweg Goles",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_50",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.50148,
+          12.931305
+        ],
+        [
+          46.501544,
+          12.931358
+        ],
+        [
+          46.501629,
+          12.931449
+        ],
+        [
+          46.501694,
+          12.931486
+        ],
+        [
+          46.501762,
+          12.931513
+        ],
+        [
+          46.501867,
+          12.931517
+        ],
+        [
+          46.501956,
+          12.931498
+        ],
+        [
+          46.502022,
+          12.931475
+        ],
+        [
+          46.502105,
+          12.931399
+        ],
+        [
+          46.502216,
+          12.93126
+        ],
+        [
+          46.502305,
+          12.931136
+        ],
+        [
+          46.502416,
+          12.930962
+        ],
+        [
+          46.502511,
+          12.930828
+        ],
+        [
+          46.502654,
+          12.93053
+        ],
+        [
+          46.502864,
+          12.930067
+        ],
+        [
+          46.50293,
+          12.929892
+        ],
+        [
+          46.502989,
+          12.929674
+        ],
+        [
+          46.503012,
+          12.929436
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153412_1",
+      "name": "5 A - Variante Goles",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_53",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.503102,
+          12.929514
+        ],
+        [
+          46.503106,
+          12.929725
+        ],
+        [
+          46.50313,
+          12.929934
+        ],
+        [
+          46.503128,
+          12.930079
+        ],
+        [
+          46.503104,
+          12.930187
+        ],
+        [
+          46.503071,
+          12.93034
+        ],
+        [
+          46.503045,
+          12.930549
+        ],
+        [
+          46.503036,
+          12.930855
+        ],
+        [
+          46.503054,
+          12.93116
+        ],
+        [
+          46.503082,
+          12.931319
+        ],
+        [
+          46.503089,
+          12.931461
+        ],
+        [
+          46.503085,
+          12.931741
+        ],
+        [
+          46.503074,
+          12.932166
+        ],
+        [
+          46.503073,
+          12.932394
+        ],
+        [
+          46.503047,
+          12.93259
+        ],
+        [
+          46.502813,
+          12.93343
+        ],
+        [
+          46.502792,
+          12.933658
+        ],
+        [
+          46.502799,
+          12.933843
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153413_1",
+      "name": "Tamai 1",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500242,
+          12.934902
+        ],
+        [
+          46.500504,
+          12.93491
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153413_4",
+      "name": "Tamai 1",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.500719,
+          12.934953
+        ],
+        [
+          46.500866,
+          12.935087
+        ],
+        [
+          46.500951,
+          12.935269
+        ],
+        [
+          46.501018,
+          12.935516
+        ],
+        [
+          46.501033,
+          12.935921
+        ],
+        [
+          46.501047,
+          12.936455
+        ],
+        [
+          46.501062,
+          12.936949
+        ],
+        [
+          46.501096,
+          12.937447
+        ],
+        [
+          46.501193,
+          12.93795
+        ],
+        [
+          46.501338,
+          12.938382
+        ],
+        [
+          46.501476,
+          12.938665
+        ],
+        [
+          46.501601,
+          12.938882
+        ],
+        [
+          46.50171,
+          12.93919
+        ],
+        [
+          46.501764,
+          12.939357
+        ],
+        [
+          46.501776,
+          12.939589
+        ],
+        [
+          46.501751,
+          12.939757
+        ],
+        [
+          46.501724,
+          12.939923
+        ],
+        [
+          46.501549,
+          12.940363
+        ],
+        [
+          46.501404,
+          12.940764
+        ],
+        [
+          46.501383,
+          12.940918
+        ],
+        [
+          46.501414,
+          12.941119
+        ],
+        [
+          46.50158,
+          12.941588
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153414_0",
+      "name": "B - Skiweg Arvenis 1",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_52",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.501788,
+          12.927131
+        ],
+        [
+          46.501753,
+          12.928061
+        ],
+        [
+          46.501743,
+          12.928907
+        ],
+        [
+          46.501742,
+          12.92921
+        ],
+        [
+          46.501714,
+          12.929571
+        ],
+        [
+          46.501634,
+          12.929897
+        ],
+        [
+          46.501461,
+          12.930278
+        ],
+        [
+          46.501332,
+          12.930463
+        ],
+        [
+          46.501221,
+          12.930633
+        ],
+        [
+          46.501188,
+          12.93075
+        ],
+        [
+          46.501193,
+          12.930897
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153414_4",
+      "name": "B - Skiweg Arvenis 1",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_57",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.501233,
+          12.931518
+        ],
+        [
+          46.501219,
+          12.931724
+        ],
+        [
+          46.501167,
+          12.931905
+        ],
+        [
+          46.50107,
+          12.932188
+        ],
+        [
+          46.500965,
+          12.932494
+        ],
+        [
+          46.50071,
+          12.932799
+        ],
+        [
+          46.500614,
+          12.933112
+        ],
+        [
+          46.500494,
+          12.933316
+        ],
+        [
+          46.500397,
+          12.933433
+        ],
+        [
+          46.500288,
+          12.933604
+        ],
+        [
+          46.500177,
+          12.933767
+        ],
+        [
+          46.500061,
+          12.93391
+        ],
+        [
+          46.499965,
+          12.934085
+        ],
+        [
+          46.499885,
+          12.93428
+        ],
+        [
+          46.49986,
+          12.934384
+        ],
+        [
+          46.499867,
+          12.934508
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153414_5",
+      "name": "B - Skiweg Arvenis 1",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_54",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.499867,
+          12.934508
+        ],
+        [
+          46.499947,
+          12.934871
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153415_2",
+      "name": "Campi Scuola Cima Zoncolan",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_0",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.50526,
+          12.930485
+        ],
+        [
+          46.505473,
+          12.931091
+        ],
+        [
+          46.505588,
+          12.931406
+        ],
+        [
+          46.505642,
+          12.931527
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_29153421_0",
+      "name": "Piste 29153421",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_58",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.505866,
+          12.931589
+        ],
+        [
+          46.506239,
+          12.932129
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_29153423_1",
+      "name": "Piste 29153423",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504142,
+          12.942334
+        ],
+        [
+          46.504345,
+          12.942251
+        ],
+        [
+          46.504502,
+          12.942156
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153423_3",
+      "name": "Piste 29153423",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.504596,
+          12.942085
+        ],
+        [
+          46.504642,
+          12.941986
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_29153424_2",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_60",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.506281,
+          12.932698
+        ],
+        [
+          46.506261,
+          12.933298
+        ],
+        [
+          46.506248,
+          12.933625
+        ],
+        [
+          46.506228,
+          12.934019
+        ],
+        [
+          46.506326,
+          12.934285
+        ],
+        [
+          46.50686,
+          12.935199
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_4",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.506979,
+          12.935466
+        ],
+        [
+          46.507077,
+          12.935731
+        ],
+        [
+          46.50714,
+          12.936079
+        ],
+        [
+          46.507204,
+          12.936474
+        ],
+        [
+          46.507225,
+          12.936898
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_6",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_34",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.507173,
+          12.93719
+        ],
+        [
+          46.507342,
+          12.937938
+        ],
+        [
+          46.507572,
+          12.938601
+        ],
+        [
+          46.507889,
+          12.939191
+        ],
+        [
+          46.508337,
+          12.940075
+        ],
+        [
+          46.508757,
+          12.940655
+        ],
+        [
+          46.509224,
+          12.940994
+        ],
+        [
+          46.509689,
+          12.941329
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_7",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_36",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.509689,
+          12.941329
+        ],
+        [
+          46.50996,
+          12.942613
+        ],
+        [
+          46.510292,
+          12.943524
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_8",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_48",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.510292,
+          12.943524
+        ],
+        [
+          46.510335,
+          12.94422
+        ],
+        [
+          46.510516,
+          12.945505
+        ],
+        [
+          46.510562,
+          12.94573
+        ],
+        [
+          46.510586,
+          12.945974
+        ],
+        [
+          46.510562,
+          12.946317
+        ],
+        [
+          46.510575,
+          12.946618
+        ],
+        [
+          46.510646,
+          12.947184
+        ],
+        [
+          46.510759,
+          12.947685
+        ],
+        [
+          46.510822,
+          12.948219
+        ],
+        [
+          46.510869,
+          12.948827
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_9",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.510869,
+          12.948827
+        ],
+        [
+          46.510952,
+          12.949118
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_29153424_11",
+      "name": "Zoncolan 2",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_27",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.511031,
+          12.949503
+        ],
+        [
+          46.511162,
+          12.950107
+        ],
+        [
+          46.511356,
+          12.950762
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_32201242_0",
+      "name": "Zoncolan 1",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.507014,
+          12.932688
+        ],
+        [
+          46.507176,
+          12.932923
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_32201242_2",
+      "name": "Zoncolan 1",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_33",
+      "distance": 0.58,
+      "duration": 1,
+      "elevation": -92,
+      "geometry": [
+        [
+          46.507348,
+          12.932979
+        ],
+        [
+          46.50748,
+          12.933108
+        ],
+        [
+          46.507709,
+          12.933526
+        ],
+        [
+          46.507978,
+          12.933993
+        ],
+        [
+          46.508296,
+          12.934615
+        ],
+        [
+          46.508394,
+          12.936018
+        ],
+        [
+          46.508421,
+          12.936836
+        ],
+        [
+          46.508557,
+          12.937429
+        ],
+        [
+          46.508766,
+          12.937948
+        ],
+        [
+          46.509444,
+          12.939601
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_32201242_3",
+      "name": "Zoncolan 1",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_35",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.509444,
+          12.939601
+        ],
+        [
+          46.509892,
+          12.940068
+        ],
+        [
+          46.510047,
+          12.940301
+        ],
+        [
+          46.510185,
+          12.940592
+        ],
+        [
+          46.510348,
+          12.941047
+        ],
+        [
+          46.510529,
+          12.941592
+        ],
+        [
+          46.510566,
+          12.941889
+        ],
+        [
+          46.510575,
+          12.942125
+        ],
+        [
+          46.51054,
+          12.942514
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_32201242_5",
+      "name": "Zoncolan 1",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_64",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          46.510556,
+          12.942876
+        ],
+        [
+          46.510756,
+          12.943467
+        ],
+        [
+          46.511031,
+          12.94386
+        ],
+        [
+          46.51127,
+          12.944037
+        ],
+        [
+          46.511555,
+          12.944463
+        ],
+        [
+          46.511721,
+          12.945161
+        ],
+        [
+          46.511826,
+          12.945921
+        ],
+        [
+          46.511814,
+          12.946191
+        ],
+        [
+          46.511753,
+          12.946454
+        ],
+        [
+          46.511605,
+          12.946969
+        ],
+        [
+          46.511464,
+          12.947572
+        ],
+        [
+          46.511305,
+          12.948169
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_32201242_7",
+      "name": "Zoncolan 1",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511256,
+          12.948355
+        ],
+        [
+          46.511181,
+          12.948903
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_32201243_0",
+      "name": "Piste 32201243",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.507188,
+          12.932449
+        ],
+        [
+          46.50699,
+          12.93258
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_32201245_3",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_65",
+      "distance": 0.79,
+      "duration": 1,
+      "elevation": -126,
+      "geometry": [
+        [
+          46.490576,
+          12.936538
+        ],
+        [
+          46.490666,
+          12.93659
+        ],
+        [
+          46.490792,
+          12.936674
+        ],
+        [
+          46.491078,
+          12.936957
+        ],
+        [
+          46.491358,
+          12.937246
+        ],
+        [
+          46.491661,
+          12.93758
+        ],
+        [
+          46.491824,
+          12.93772
+        ],
+        [
+          46.491901,
+          12.937812
+        ],
+        [
+          46.491951,
+          12.937931
+        ],
+        [
+          46.49205,
+          12.938122
+        ],
+        [
+          46.49217,
+          12.938297
+        ],
+        [
+          46.492251,
+          12.93837
+        ],
+        [
+          46.492359,
+          12.938361
+        ],
+        [
+          46.492421,
+          12.938325
+        ],
+        [
+          46.492487,
+          12.93819
+        ],
+        [
+          46.492531,
+          12.938053
+        ],
+        [
+          46.492548,
+          12.93793
+        ],
+        [
+          46.492532,
+          12.937782
+        ],
+        [
+          46.492439,
+          12.937606
+        ],
+        [
+          46.492349,
+          12.937366
+        ],
+        [
+          46.492229,
+          12.937048
+        ],
+        [
+          46.492173,
+          12.936793
+        ],
+        [
+          46.492138,
+          12.936594
+        ],
+        [
+          46.492121,
+          12.936317
+        ],
+        [
+          46.492136,
+          12.936004
+        ],
+        [
+          46.492151,
+          12.935868
+        ],
+        [
+          46.49219,
+          12.935722
+        ],
+        [
+          46.492273,
+          12.935446
+        ],
+        [
+          46.492402,
+          12.935155
+        ],
+        [
+          46.492478,
+          12.934974
+        ],
+        [
+          46.492556,
+          12.934918
+        ],
+        [
+          46.492644,
+          12.934913
+        ],
+        [
+          46.492882,
+          12.935001
+        ],
+        [
+          46.493121,
+          12.935042
+        ],
+        [
+          46.493613,
+          12.935033
+        ],
+        [
+          46.49388,
+          12.935033
+        ],
+        [
+          46.494209,
+          12.934951
+        ],
+        [
+          46.494743,
+          12.934827
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_32201245_5",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_66",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.494917,
+          12.934799
+        ],
+        [
+          46.495305,
+          12.934875
+        ],
+        [
+          46.495467,
+          12.934966
+        ],
+        [
+          46.495607,
+          12.935095
+        ],
+        [
+          46.495698,
+          12.935197
+        ],
+        [
+          46.495793,
+          12.935312
+        ],
+        [
+          46.495966,
+          12.935562
+        ],
+        [
+          46.49616,
+          12.93583
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_32201245_7",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496368,
+          12.935973
+        ],
+        [
+          46.496587,
+          12.936216
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172667_2",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_69",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.511921,
+          12.930687
+        ],
+        [
+          46.511908,
+          12.930554
+        ],
+        [
+          46.511849,
+          12.930307
+        ],
+        [
+          46.51184,
+          12.930211
+        ],
+        [
+          46.511858,
+          12.930112
+        ],
+        [
+          46.511891,
+          12.930071
+        ],
+        [
+          46.511952,
+          12.930039
+        ],
+        [
+          46.512056,
+          12.930053
+        ],
+        [
+          46.512174,
+          12.930074
+        ],
+        [
+          46.512277,
+          12.930071
+        ],
+        [
+          46.512391,
+          12.930034
+        ],
+        [
+          46.512454,
+          12.929959
+        ],
+        [
+          46.512487,
+          12.929833
+        ],
+        [
+          46.512501,
+          12.929627
+        ],
+        [
+          46.512517,
+          12.929377
+        ],
+        [
+          46.512594,
+          12.929039
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172667_4",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.512715,
+          12.928681
+        ],
+        [
+          46.512807,
+          12.928452
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172667_5",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_29",
+      "distance": 1.6,
+      "duration": 2,
+      "elevation": -256,
+      "geometry": [
+        [
+          46.512807,
+          12.928452
+        ],
+        [
+          46.512915,
+          12.928218
+        ],
+        [
+          46.513022,
+          12.927859
+        ],
+        [
+          46.513051,
+          12.92729
+        ],
+        [
+          46.513002,
+          12.926587
+        ],
+        [
+          46.512926,
+          12.925977
+        ],
+        [
+          46.512815,
+          12.925369
+        ],
+        [
+          46.512743,
+          12.925008
+        ],
+        [
+          46.512675,
+          12.924672
+        ],
+        [
+          46.512593,
+          12.924346
+        ],
+        [
+          46.512515,
+          12.924031
+        ],
+        [
+          46.512449,
+          12.923744
+        ],
+        [
+          46.512356,
+          12.92349
+        ],
+        [
+          46.512247,
+          12.923189
+        ],
+        [
+          46.512212,
+          12.922958
+        ],
+        [
+          46.512207,
+          12.922727
+        ],
+        [
+          46.512234,
+          12.922599
+        ],
+        [
+          46.512281,
+          12.922393
+        ],
+        [
+          46.512331,
+          12.922206
+        ],
+        [
+          46.512449,
+          12.921824
+        ],
+        [
+          46.512749,
+          12.92113
+        ],
+        [
+          46.513284,
+          12.920113
+        ],
+        [
+          46.514454,
+          12.918501
+        ],
+        [
+          46.514846,
+          12.918065
+        ],
+        [
+          46.515075,
+          12.917782
+        ],
+        [
+          46.515286,
+          12.917454
+        ],
+        [
+          46.515489,
+          12.917039
+        ],
+        [
+          46.515641,
+          12.916603
+        ],
+        [
+          46.515945,
+          12.915826
+        ],
+        [
+          46.516022,
+          12.915657
+        ],
+        [
+          46.516105,
+          12.915496
+        ],
+        [
+          46.516214,
+          12.915405
+        ],
+        [
+          46.516351,
+          12.915341
+        ],
+        [
+          46.516561,
+          12.915322
+        ],
+        [
+          46.516965,
+          12.915255
+        ],
+        [
+          46.517292,
+          12.915229
+        ],
+        [
+          46.517608,
+          12.915212
+        ],
+        [
+          46.518008,
+          12.915303
+        ],
+        [
+          46.518413,
+          12.915427
+        ],
+        [
+          46.518676,
+          12.915555
+        ],
+        [
+          46.518887,
+          12.915722
+        ],
+        [
+          46.519065,
+          12.915941
+        ],
+        [
+          46.519285,
+          12.916328
+        ],
+        [
+          46.519461,
+          12.916794
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172667_6",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_16",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.519461,
+          12.916794
+        ],
+        [
+          46.519779,
+          12.918017
+        ],
+        [
+          46.520152,
+          12.919071
+        ],
+        [
+          46.520602,
+          12.919783
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172667_7",
+      "name": "Canalone",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.520602,
+          12.919783
+        ],
+        [
+          46.520893,
+          12.92029
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172669_0",
+      "name": "Lavet",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_68",
+      "distance": 1.46,
+      "duration": 2,
+      "elevation": -233,
+      "geometry": [
+        [
+          46.506239,
+          12.932129
+        ],
+        [
+          46.506203,
+          12.931305
+        ],
+        [
+          46.506212,
+          12.931192
+        ],
+        [
+          46.506237,
+          12.931109
+        ],
+        [
+          46.506274,
+          12.931016
+        ],
+        [
+          46.506346,
+          12.930899
+        ],
+        [
+          46.506396,
+          12.930834
+        ],
+        [
+          46.506458,
+          12.930814
+        ],
+        [
+          46.506565,
+          12.930828
+        ],
+        [
+          46.506676,
+          12.93088
+        ],
+        [
+          46.506863,
+          12.931
+        ],
+        [
+          46.507122,
+          12.931173
+        ],
+        [
+          46.507209,
+          12.931201
+        ],
+        [
+          46.507288,
+          12.931188
+        ],
+        [
+          46.507345,
+          12.93114
+        ],
+        [
+          46.507383,
+          12.931068
+        ],
+        [
+          46.507403,
+          12.930995
+        ],
+        [
+          46.507407,
+          12.9309
+        ],
+        [
+          46.507374,
+          12.93077
+        ],
+        [
+          46.507058,
+          12.930143
+        ],
+        [
+          46.506785,
+          12.929704
+        ],
+        [
+          46.50665,
+          12.929505
+        ],
+        [
+          46.506416,
+          12.929227
+        ],
+        [
+          46.5063,
+          12.929023
+        ],
+        [
+          46.506215,
+          12.928811
+        ],
+        [
+          46.506113,
+          12.928457
+        ],
+        [
+          46.50603,
+          12.928135
+        ],
+        [
+          46.505999,
+          12.927687
+        ],
+        [
+          46.506001,
+          12.927295
+        ],
+        [
+          46.505999,
+          12.926863
+        ],
+        [
+          46.506013,
+          12.92663
+        ],
+        [
+          46.506028,
+          12.926542
+        ],
+        [
+          46.50606,
+          12.926452
+        ],
+        [
+          46.506099,
+          12.926402
+        ],
+        [
+          46.506142,
+          12.92636
+        ],
+        [
+          46.506206,
+          12.926335
+        ],
+        [
+          46.506281,
+          12.926339
+        ],
+        [
+          46.506345,
+          12.926373
+        ],
+        [
+          46.5064,
+          12.926438
+        ],
+        [
+          46.506452,
+          12.926511
+        ],
+        [
+          46.506509,
+          12.926571
+        ],
+        [
+          46.506654,
+          12.926664
+        ],
+        [
+          46.506988,
+          12.926872
+        ],
+        [
+          46.507269,
+          12.926983
+        ],
+        [
+          46.507503,
+          12.927004
+        ],
+        [
+          46.508184,
+          12.926987
+        ],
+        [
+          46.508417,
+          12.927027
+        ],
+        [
+          46.508807,
+          12.927172
+        ],
+        [
+          46.509039,
+          12.927205
+        ],
+        [
+          46.509316,
+          12.92718
+        ],
+        [
+          46.509525,
+          12.927231
+        ],
+        [
+          46.509701,
+          12.92734
+        ],
+        [
+          46.510212,
+          12.927798
+        ],
+        [
+          46.510517,
+          12.928234
+        ],
+        [
+          46.510584,
+          12.928411
+        ],
+        [
+          46.510637,
+          12.928764
+        ],
+        [
+          46.510647,
+          12.929135
+        ],
+        [
+          46.510737,
+          12.929491
+        ],
+        [
+          46.510827,
+          12.929818
+        ],
+        [
+          46.510912,
+          12.930348
+        ],
+        [
+          46.511122,
+          12.930842
+        ],
+        [
+          46.511308,
+          12.930994
+        ],
+        [
+          46.511517,
+          12.931075
+        ],
+        [
+          46.511744,
+          12.931088
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_3",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_71",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.493758,
+          12.932767
+        ],
+        [
+          46.493822,
+          12.932621
+        ],
+        [
+          46.493976,
+          12.932363
+        ],
+        [
+          46.49411,
+          12.932222
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_5",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.494268,
+          12.9321
+        ],
+        [
+          46.494563,
+          12.932225
+        ],
+        [
+          46.494746,
+          12.93229
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_7",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_22",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.494884,
+          12.932361
+        ],
+        [
+          46.495145,
+          12.932544
+        ],
+        [
+          46.49525,
+          12.932648
+        ],
+        [
+          46.495366,
+          12.932786
+        ],
+        [
+          46.495465,
+          12.932966
+        ],
+        [
+          46.495621,
+          12.933324
+        ],
+        [
+          46.495774,
+          12.933646
+        ],
+        [
+          46.495815,
+          12.933938
+        ],
+        [
+          46.495913,
+          12.934472
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_9",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496056,
+          12.934962
+        ],
+        [
+          46.496269,
+          12.935416
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_11",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496399,
+          12.935697
+        ],
+        [
+          46.496587,
+          12.936216
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_12",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_73",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.496587,
+          12.936216
+        ],
+        [
+          46.497035,
+          12.936916
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_15",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_74",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.497331,
+          12.937233
+        ],
+        [
+          46.497501,
+          12.937372
+        ],
+        [
+          46.497751,
+          12.937762
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172704_18",
+      "name": "8 A - Variante Tamai 2",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_75",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.497831,
+          12.938161
+        ],
+        [
+          46.497885,
+          12.938557
+        ],
+        [
+          46.497917,
+          12.938995
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_249172708_2",
+      "name": "Area Freestyle",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_67",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496627,
+          12.935803
+        ],
+        [
+          46.496729,
+          12.936037
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_249172708_4",
+      "name": "Area Freestyle",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496863,
+          12.936235
+        ],
+        [
+          46.497039,
+          12.936442
+        ],
+        [
+          46.497147,
+          12.936515
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_249172708_7",
+      "name": "Area Freestyle",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.497421,
+          12.936549
+        ],
+        [
+          46.497717,
+          12.936439
+        ],
+        [
+          46.498038,
+          12.936305
+        ],
+        [
+          46.498599,
+          12.936127
+        ],
+        [
+          46.499031,
+          12.935999
+        ],
+        [
+          46.499501,
+          12.935854
+        ],
+        [
+          46.499762,
+          12.935798
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_323095126_1",
+      "name": "Piste 323095126",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50113,
+          12.942932
+        ],
+        [
+          46.501167,
+          12.942759
+        ],
+        [
+          46.501225,
+          12.942256
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_323095126_5",
+      "name": "Piste 323095126",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.501604,
+          12.941986
+        ],
+        [
+          46.502027,
+          12.942058
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_397785397_2",
+      "name": "Skiweg Pozza",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_65",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.494897,
+          12.932678
+        ],
+        [
+          46.494811,
+          12.933035
+        ],
+        [
+          46.494687,
+          12.933478
+        ],
+        [
+          46.494653,
+          12.933663
+        ],
+        [
+          46.49465,
+          12.933816
+        ],
+        [
+          46.49467,
+          12.933934
+        ],
+        [
+          46.494777,
+          12.934288
+        ],
+        [
+          46.494917,
+          12.934799
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_722692151_5",
+      "name": "Collegamento Valvan - Parcheggi",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_79",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.512358,
+          12.951418
+        ],
+        [
+          46.512487,
+          12.951545
+        ],
+        [
+          46.512562,
+          12.95164
+        ],
+        [
+          46.512608,
+          12.951771
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_802237707_3",
+      "name": "Campo Scuola Lausc",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511329,
+          12.948919
+        ],
+        [
+          46.511325,
+          12.948952
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_802237707_6",
+      "name": "Campo Scuola Lausc",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_18",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.511414,
+          12.949177
+        ],
+        [
+          46.511583,
+          12.949767
+        ],
+        [
+          46.511798,
+          12.950338
+        ],
+        [
+          46.511883,
+          12.950628
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_802237711_4",
+      "name": "Piste 802237711",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511383,
+          12.9486
+        ],
+        [
+          46.511395,
+          12.948732
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_802237712_1",
+      "name": "Piste 802237712",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_19",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511494,
+          12.948697
+        ],
+        [
+          46.511542,
+          12.94878
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_802237712_2",
+      "name": "Piste 802237712",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_80",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.511542,
+          12.94878
+        ],
+        [
+          46.511969,
+          12.949908
+        ],
+        [
+          46.5121,
+          12.950098
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904586283_3",
+      "name": "Skiweb Cuel Picciul",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_69",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.514247,
+          12.926923
+        ],
+        [
+          46.514206,
+          12.927316
+        ],
+        [
+          46.514137,
+          12.927529
+        ],
+        [
+          46.51402,
+          12.927734
+        ],
+        [
+          46.513868,
+          12.927939
+        ],
+        [
+          46.513612,
+          12.928345
+        ],
+        [
+          46.513442,
+          12.928554
+        ],
+        [
+          46.513172,
+          12.928803
+        ],
+        [
+          46.513027,
+          12.928963
+        ],
+        [
+          46.512935,
+          12.929049
+        ],
+        [
+          46.512827,
+          12.929035
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_904586283_5",
+      "name": "Skiweb Cuel Picciul",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.512782,
+          12.928966
+        ],
+        [
+          46.512735,
+          12.92882
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_907030844_5",
+      "name": "Collegamento Valvan - Parcheggi",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511727,
+          12.951343
+        ],
+        [
+          46.511773,
+          12.951345
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_948141727_0",
+      "name": "Skiweg Zoncolan 4",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.50634,
+          12.946263
+        ],
+        [
+          46.506386,
+          12.947071
+        ],
+        [
+          46.506512,
+          12.947565
+        ],
+        [
+          46.506541,
+          12.947966
+        ],
+        [
+          46.506604,
+          12.948139
+        ],
+        [
+          46.506664,
+          12.948338
+        ],
+        [
+          46.506704,
+          12.948394
+        ],
+        [
+          46.506757,
+          12.948391
+        ],
+        [
+          46.506788,
+          12.948381
+        ],
+        [
+          46.506855,
+          12.948308
+        ],
+        [
+          46.507026,
+          12.947721
+        ],
+        [
+          46.507222,
+          12.947385
+        ],
+        [
+          46.507443,
+          12.947138
+        ],
+        [
+          46.507769,
+          12.947077
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1040623874_0",
+      "name": "8b - Vecchia Tamai",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_56",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.498725,
+          12.93996
+        ],
+        [
+          46.499164,
+          12.940146
+        ],
+        [
+          46.499349,
+          12.940261
+        ],
+        [
+          46.499543,
+          12.940348
+        ],
+        [
+          46.500287,
+          12.94067
+        ],
+        [
+          46.500851,
+          12.94096
+        ],
+        [
+          46.501158,
+          12.941106
+        ],
+        [
+          46.50158,
+          12.941588
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1040623875_0",
+      "name": "3 A - Zoncolan 3 - Alta",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_82",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.504009,
+          12.933671
+        ],
+        [
+          46.50368,
+          12.934191
+        ],
+        [
+          46.503559,
+          12.934576
+        ],
+        [
+          46.503558,
+          12.935125
+        ],
+        [
+          46.503571,
+          12.935616
+        ],
+        [
+          46.503617,
+          12.936267
+        ],
+        [
+          46.503677,
+          12.936689
+        ],
+        [
+          46.503765,
+          12.937297
+        ],
+        [
+          46.503765,
+          12.937635
+        ],
+        [
+          46.503755,
+          12.937892
+        ],
+        [
+          46.503728,
+          12.938193
+        ],
+        [
+          46.503676,
+          12.938408
+        ],
+        [
+          46.503291,
+          12.939284
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1040623876_1",
+      "name": "3 A - Zoncolan 3 - Alta",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_82",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.502572,
+          12.936069
+        ],
+        [
+          46.50269,
+          12.936342
+        ],
+        [
+          46.502893,
+          12.936863
+        ],
+        [
+          46.503163,
+          12.937571
+        ],
+        [
+          46.503266,
+          12.937952
+        ],
+        [
+          46.50334,
+          12.938378
+        ],
+        [
+          46.503359,
+          12.938735
+        ],
+        [
+          46.503347,
+          12.938954
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1040623876_3",
+      "name": "3 A - Zoncolan 3 - Alta",
+      "type": "slope",
+      "from": "node_82",
+      "to": "node_39",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.503291,
+          12.939284
+        ],
+        [
+          46.503108,
+          12.940312
+        ],
+        [
+          46.503037,
+          12.940789
+        ],
+        [
+          46.503001,
+          12.941127
+        ],
+        [
+          46.503043,
+          12.941826
+        ],
+        [
+          46.503282,
+          12.942318
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1041698671_1",
+      "name": "C - Skiweg Arvenis 2",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_52",
+      "distance": 0.98,
+      "duration": 2,
+      "elevation": -156,
+      "geometry": [
+        [
+          46.494405,
+          12.931815
+        ],
+        [
+          46.494545,
+          12.931607
+        ],
+        [
+          46.494618,
+          12.931497
+        ],
+        [
+          46.494722,
+          12.931406
+        ],
+        [
+          46.494829,
+          12.931368
+        ],
+        [
+          46.494932,
+          12.931372
+        ],
+        [
+          46.495007,
+          12.931395
+        ],
+        [
+          46.495077,
+          12.931477
+        ],
+        [
+          46.495133,
+          12.93158
+        ],
+        [
+          46.495188,
+          12.931775
+        ],
+        [
+          46.495313,
+          12.93224
+        ],
+        [
+          46.495519,
+          12.932778
+        ],
+        [
+          46.495636,
+          12.933073
+        ],
+        [
+          46.495733,
+          12.93338
+        ],
+        [
+          46.495774,
+          12.933646
+        ],
+        [
+          46.495986,
+          12.933938
+        ],
+        [
+          46.496221,
+          12.934118
+        ],
+        [
+          46.496485,
+          12.934177
+        ],
+        [
+          46.496832,
+          12.934177
+        ],
+        [
+          46.497085,
+          12.933912
+        ],
+        [
+          46.497451,
+          12.933706
+        ],
+        [
+          46.497803,
+          12.933408
+        ],
+        [
+          46.498001,
+          12.933338
+        ],
+        [
+          46.498081,
+          12.933326
+        ],
+        [
+          46.498162,
+          12.933332
+        ],
+        [
+          46.49875,
+          12.933487
+        ],
+        [
+          46.499047,
+          12.933552
+        ],
+        [
+          46.499198,
+          12.933574
+        ],
+        [
+          46.499344,
+          12.933569
+        ],
+        [
+          46.499466,
+          12.933572
+        ],
+        [
+          46.499535,
+          12.933573
+        ],
+        [
+          46.499592,
+          12.933553
+        ],
+        [
+          46.499697,
+          12.933458
+        ],
+        [
+          46.499794,
+          12.933346
+        ],
+        [
+          46.500302,
+          12.932822
+        ],
+        [
+          46.500645,
+          12.932362
+        ],
+        [
+          46.500963,
+          12.931847
+        ],
+        [
+          46.501241,
+          12.931294
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1154918635_1",
+      "name": "Campo Scuola Cjalcenal",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.510681,
+          12.951088
+        ],
+        [
+          46.510677,
+          12.951453
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1154918635_3",
+      "name": "Campo Scuola Cjalcenal",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.510672,
+          12.951923
+        ],
+        [
+          46.510669,
+          12.952111
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1356791814_0",
+      "name": "2 C - Variante Laugiane",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_85",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.507173,
+          12.93719
+        ],
+        [
+          46.507016,
+          12.937619
+        ],
+        [
+          46.506991,
+          12.937958
+        ],
+        [
+          46.507075,
+          12.938402
+        ],
+        [
+          46.507254,
+          12.938877
+        ],
+        [
+          46.507372,
+          12.93932
+        ],
+        [
+          46.50741,
+          12.939737
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1356791814_2",
+      "name": "2 C - Variante Laugiane",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_47",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.507368,
+          12.940089
+        ],
+        [
+          46.507154,
+          12.940553
+        ],
+        [
+          46.506977,
+          12.940889
+        ],
+        [
+          46.506813,
+          12.941243
+        ],
+        [
+          46.506612,
+          12.94167
+        ],
+        [
+          46.506523,
+          12.942018
+        ],
+        [
+          46.506566,
+          12.942447
+        ],
+        [
+          46.50663,
+          12.94267
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1356791815_0",
+      "name": "2 B - Laugiane",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_45",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.50741,
+          12.939737
+        ],
+        [
+          46.507685,
+          12.940297
+        ],
+        [
+          46.507766,
+          12.9409
+        ],
+        [
+          46.507833,
+          12.94244
+        ],
+        [
+          46.507988,
+          12.942957
+        ],
+        [
+          46.508352,
+          12.943516
+        ],
+        [
+          46.50873,
+          12.944033
+        ],
+        [
+          46.509041,
+          12.944722
+        ],
+        [
+          46.509204,
+          12.945498
+        ],
+        [
+          46.509365,
+          12.946222
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1462800880_3",
+      "name": "Collegamento Valvan - Parcheggi",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.51242,
+          12.951234
+        ],
+        [
+          46.512671,
+          12.951171
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462807364_1",
+      "name": "2 A - Variante Zoncolan 2",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_60",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.507127,
+          12.933193
+        ],
+        [
+          46.507075,
+          12.933427
+        ],
+        [
+          46.507064,
+          12.933668
+        ],
+        [
+          46.507058,
+          12.933907
+        ],
+        [
+          46.507003,
+          12.934296
+        ],
+        [
+          46.506922,
+          12.934674
+        ],
+        [
+          46.50686,
+          12.935199
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1462812539_0",
+      "name": "Piste 1462812539",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511911,
+          12.950774
+        ],
+        [
+          46.511816,
+          12.950954
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462812539_1",
+      "name": "Piste 1462812539",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511751,
+          12.951069
+        ],
+        [
+          46.511816,
+          12.950954
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462826671_0",
+      "name": "Piste 1462826671",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.50158,
+          12.941588
+        ],
+        [
+          46.501409,
+          12.941798
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462847169_1",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_75",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.497164,
+          12.937447
+        ],
+        [
+          46.497169,
+          12.937648
+        ],
+        [
+          46.497201,
+          12.938172
+        ],
+        [
+          46.497259,
+          12.938445
+        ],
+        [
+          46.497395,
+          12.938692
+        ],
+        [
+          46.497665,
+          12.938864
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1462847169_3",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_81",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.497917,
+          12.938995
+        ],
+        [
+          46.498157,
+          12.939264
+        ],
+        [
+          46.498446,
+          12.939626
+        ],
+        [
+          46.498725,
+          12.93996
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1462847169_5",
+      "name": "Tamai",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_6",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.498806,
+          12.940274
+        ],
+        [
+          46.498902,
+          12.9408
+        ],
+        [
+          46.498992,
+          12.941189
+        ],
+        [
+          46.499068,
+          12.941519
+        ],
+        [
+          46.499201,
+          12.941782
+        ],
+        [
+          46.499463,
+          12.942093
+        ],
+        [
+          46.499674,
+          12.942334
+        ],
+        [
+          46.499903,
+          12.942522
+        ],
+        [
+          46.500198,
+          12.942667
+        ],
+        [
+          46.500371,
+          12.942705
+        ],
+        [
+          46.500541,
+          12.942683
+        ],
+        [
+          46.500815,
+          12.942587
+        ],
+        [
+          46.501225,
+          12.942256
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1462853274_1",
+      "name": "Skiweg Tamai",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_78",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.497995,
+          12.937673
+        ],
+        [
+          46.49825,
+          12.937485
+        ],
+        [
+          46.498558,
+          12.937276
+        ],
+        [
+          46.498852,
+          12.937043
+        ],
+        [
+          46.499352,
+          12.936632
+        ],
+        [
+          46.49967,
+          12.936184
+        ],
+        [
+          46.499965,
+          12.935782
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1462853277_1",
+      "name": "Piste 1462853277",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496398,
+          12.935449
+        ],
+        [
+          46.496399,
+          12.935697
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1462855305_0",
+      "name": "6 A - Arvenis",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.496487,
+          12.93471
+        ],
+        [
+          46.496548,
+          12.934551
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462855305_2",
+      "name": "6 A - Arvenis",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_54",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.49662,
+          12.934443
+        ],
+        [
+          46.496832,
+          12.934177
+        ],
+        [
+          46.497414,
+          12.934128
+        ],
+        [
+          46.497957,
+          12.934068
+        ],
+        [
+          46.498456,
+          12.934093
+        ],
+        [
+          46.498905,
+          12.934223
+        ],
+        [
+          46.499233,
+          12.934484
+        ],
+        [
+          46.499947,
+          12.934871
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462855305_5",
+      "name": "6 A - Arvenis",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500133,
+          12.935412
+        ],
+        [
+          46.500366,
+          12.935664
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462855306_0",
+      "name": "Piste 1462855306",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_54",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500366,
+          12.935664
+        ],
+        [
+          46.500342,
+          12.935355
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1462855306_3",
+      "name": "Piste 1462855306",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.500397,
+          12.935023
+        ],
+        [
+          46.500504,
+          12.93491
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1462856150_3",
+      "name": "Piste 1462856150",
+      "type": "slope",
+      "from": "node_88",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.506731,
+          12.932126
+        ],
+        [
+          46.506915,
+          12.932449
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1462858570_4",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_51",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.506096,
+          12.932272
+        ],
+        [
+          46.505986,
+          12.932503
+        ],
+        [
+          46.505871,
+          12.932817
+        ],
+        [
+          46.505805,
+          12.932969
+        ],
+        [
+          46.50575,
+          12.933024
+        ],
+        [
+          46.505681,
+          12.933029
+        ],
+        [
+          46.505556,
+          12.932948
+        ],
+        [
+          46.505423,
+          12.932796
+        ],
+        [
+          46.505354,
+          12.932815
+        ],
+        [
+          46.505323,
+          12.932903
+        ],
+        [
+          46.505509,
+          12.933532
+        ],
+        [
+          46.505651,
+          12.933808
+        ],
+        [
+          46.50579,
+          12.933896
+        ],
+        [
+          46.505954,
+          12.933901
+        ],
+        [
+          46.506088,
+          12.933911
+        ],
+        [
+          46.506163,
+          12.933934
+        ],
+        [
+          46.506228,
+          12.934019
+        ],
+        [
+          46.506209,
+          12.934076
+        ],
+        [
+          46.506156,
+          12.934205
+        ],
+        [
+          46.506074,
+          12.93432
+        ],
+        [
+          46.505975,
+          12.934394
+        ],
+        [
+          46.505882,
+          12.934468
+        ],
+        [
+          46.505784,
+          12.934528
+        ],
+        [
+          46.505644,
+          12.934578
+        ],
+        [
+          46.505493,
+          12.934527
+        ],
+        [
+          46.505134,
+          12.934292
+        ],
+        [
+          46.504819,
+          12.933998
+        ],
+        [
+          46.504523,
+          12.933746
+        ],
+        [
+          46.504009,
+          12.933671
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462858570_5",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_53",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.504009,
+          12.933671
+        ],
+        [
+          46.503448,
+          12.933696
+        ],
+        [
+          46.503137,
+          12.93381
+        ],
+        [
+          46.502848,
+          12.934143
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462858570_6",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_83",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.502848,
+          12.934143
+        ],
+        [
+          46.502731,
+          12.934556
+        ],
+        [
+          46.502668,
+          12.934899
+        ],
+        [
+          46.502598,
+          12.93517
+        ],
+        [
+          46.502454,
+          12.935806
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462858570_8",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_56",
+      "distance": 0.42,
+      "duration": 1,
+      "elevation": -67,
+      "geometry": [
+        [
+          46.502339,
+          12.936152
+        ],
+        [
+          46.502301,
+          12.936407
+        ],
+        [
+          46.50228,
+          12.936727
+        ],
+        [
+          46.502257,
+          12.937171
+        ],
+        [
+          46.502245,
+          12.937573
+        ],
+        [
+          46.502271,
+          12.938016
+        ],
+        [
+          46.502269,
+          12.938377
+        ],
+        [
+          46.502229,
+          12.939223
+        ],
+        [
+          46.50221,
+          12.939679
+        ],
+        [
+          46.502172,
+          12.940005
+        ],
+        [
+          46.502098,
+          12.940189
+        ],
+        [
+          46.502029,
+          12.940272
+        ],
+        [
+          46.501963,
+          12.940312
+        ],
+        [
+          46.501793,
+          12.940524
+        ],
+        [
+          46.501655,
+          12.940792
+        ],
+        [
+          46.501581,
+          12.941038
+        ],
+        [
+          46.501557,
+          12.941291
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1462858570_10",
+      "name": "Zoncolan 4",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_38",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.50158,
+          12.941588
+        ],
+        [
+          46.502027,
+          12.942058
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1465030440_1",
+      "name": "Arena Freestyle",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_89",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.497583,
+          12.936621
+        ],
+        [
+          46.497809,
+          12.9366
+        ],
+        [
+          46.498248,
+          12.93645
+        ],
+        [
+          46.49888,
+          12.93624
+        ],
+        [
+          46.499164,
+          12.93616
+        ],
+        [
+          46.499415,
+          12.936053
+        ],
+        [
+          46.499727,
+          12.935937
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1465030440_2",
+      "name": "Arena Freestyle",
+      "type": "slope",
+      "from": "node_89",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.499727,
+          12.935937
+        ],
+        [
+          46.499965,
+          12.935782
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1465033689_0",
+      "name": "Piste 1465033689",
+      "type": "slope",
+      "from": "node_90",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511072,
+          12.951188
+        ],
+        [
+          46.511215,
+          12.951124
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465033691_0",
+      "name": "Piste 1465033691",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511215,
+          12.951124
+        ],
+        [
+          46.511086,
+          12.951281
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465033691_1",
+      "name": "Piste 1465033691",
+      "type": "slope",
+      "from": "node_90",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.511086,
+          12.951281
+        ],
+        [
+          46.510681,
+          12.951088
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465073708_4",
+      "name": "Campo Scuola Madessa 3",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_28",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.51984,
+          12.91633
+        ],
+        [
+          46.520497,
+          12.916658
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465073712_1",
+      "name": "Skiweb Stella Alpina",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_91",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.51217,
+          12.931021
+        ],
+        [
+          46.512727,
+          12.930809
+        ],
+        [
+          46.513008,
+          12.930681
+        ],
+        [
+          46.513291,
+          12.930468
+        ],
+        [
+          46.513422,
+          12.930281
+        ],
+        [
+          46.513527,
+          12.93007
+        ],
+        [
+          46.513936,
+          12.929069
+        ],
+        [
+          46.514107,
+          12.928662
+        ],
+        [
+          46.514221,
+          12.928153
+        ],
+        [
+          46.514411,
+          12.927768
+        ],
+        [
+          46.514463,
+          12.927515
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1465075686_4",
+      "name": "Campo Scuola Madessa 1",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_14",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.519852,
+          12.921555
+        ],
+        [
+          46.520451,
+          12.920434
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465075688_4",
+      "name": "Campo Scuola Madessa 1",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_16",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.519872,
+          12.92077
+        ],
+        [
+          46.520418,
+          12.919911
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1465075690_4",
+      "name": "Campo Scuola Madessa 2",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_30",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.51934,
+          12.918494
+        ],
+        [
+          46.519769,
+          12.918795
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "walk_node_0_node_1",
+      "name": "Walk: Tappeto Cima Zoncolan (Base) ↔ Tappeto Cima Zoncolan (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505823,
+          12.931552
+        ],
+        [
+          46.505321,
+          12.930361
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_9",
+      "name": "Walk: Tappeto Cima Zoncolan (Base) ↔ Seggiovia Valvan (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_9",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.505823,
+          12.931552
+        ],
+        [
+          46.506439,
+          12.932566
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_8",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Seggiovia Valvan (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_8",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.511683,
+          12.951112
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_18",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Tappeto Lausc (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_18",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.511967,
+          12.950738
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_20",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Tappeto Cjalcenal (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_20",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.510621,
+          12.952208
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_27",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_27",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_84",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Junction: Campo Scuola Cjalcenal",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_84",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.510675,
+          12.951688
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_90",
+      "name": "Walk: Seggiovia Cuel d'Ajar (Mid-Station / Hub) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510723,
+          12.950905
+        ],
+        [
+          46.511081,
+          12.95125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_10",
+      "name": "Walk: Lavet (Base) ↔ Funivia Funifor Monte Zoncolan (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_10",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.521052,
+          12.921372
+        ],
+        [
+          46.521537,
+          12.919839
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_14",
+      "name": "Walk: Lavet (Base) ↔ Madessa 1 (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_14",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.521052,
+          12.921372
+        ],
+        [
+          46.520636,
+          12.920482
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_15",
+      "name": "Walk: Lavet (Base) ↔ Madessa 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_15",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.521052,
+          12.921372
+        ],
+        [
+          46.519953,
+          12.921745
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_91",
+      "name": "Walk: Lavet (Summit / Top) ↔ Junction: Skiweb Stella Alpina",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_91",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.514394,
+          12.926937
+        ],
+        [
+          46.51447,
+          12.927342
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_56",
+      "name": "Walk: Seggiovia Tamai 2000 (Base) ↔ Junction: Tamai 1",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501306,
+          12.942045
+        ],
+        [
+          46.501574,
+          12.941503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_18",
+      "name": "Walk: Seggiovia Valvan (Base) ↔ Tappeto Lausc (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_18",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511683,
+          12.951112
+        ],
+        [
+          46.511967,
+          12.950738
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_25",
+      "name": "Walk: Seggiovia Valvan (Base) ↔ Tappeto Collegamento Parcheggi - Casse Skipass (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_25",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511683,
+          12.951112
+        ],
+        [
+          46.51271,
+          12.951049
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_26",
+      "name": "Walk: Seggiovia Valvan (Base) ↔ Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_26",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511683,
+          12.951112
+        ],
+        [
+          46.512213,
+          12.951282
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_27",
+      "name": "Walk: Seggiovia Valvan (Base) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_27",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511683,
+          12.951112
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_90",
+      "name": "Walk: Seggiovia Valvan (Base) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_90",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511683,
+          12.951112
+        ],
+        [
+          46.511081,
+          12.95125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_11",
+      "name": "Walk: Seggiovia Valvan (Summit / Top) ↔ Funivia Funifor Monte Zoncolan (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_11",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506439,
+          12.932566
+        ],
+        [
+          46.507218,
+          12.932363
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_32",
+      "name": "Walk: Seggiovia Valvan (Summit / Top) ↔ Junction: 2 A -Variante Zoncolan 2",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506439,
+          12.932566
+        ],
+        [
+          46.506889,
+          12.932599
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_58",
+      "name": "Walk: Seggiovia Valvan (Summit / Top) ↔ Junction: Zoncolan 2",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_58",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506439,
+          12.932566
+        ],
+        [
+          46.506304,
+          12.932236
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_88",
+      "name": "Walk: Seggiovia Valvan (Summit / Top) ↔ Junction #89",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_88",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506439,
+          12.932566
+        ],
+        [
+          46.506663,
+          12.932074
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_14",
+      "name": "Walk: Funivia Funifor Monte Zoncolan (Base) ↔ Madessa 1 (Base)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_14",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.521537,
+          12.919839
+        ],
+        [
+          46.520636,
+          12.920482
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_16",
+      "name": "Walk: Funivia Funifor Monte Zoncolan (Base) ↔ Madessa 1 (Base)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_16",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.521537,
+          12.919839
+        ],
+        [
+          46.520371,
+          12.919721
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_32",
+      "name": "Walk: Funivia Funifor Monte Zoncolan (Summit / Top) ↔ Junction: 2 A -Variante Zoncolan 2",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_32",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.507218,
+          12.932363
+        ],
+        [
+          46.506889,
+          12.932599
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_63",
+      "name": "Walk: Funivia Funifor Monte Zoncolan (Summit / Top) ↔ Junction: Zoncolan 1",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.507218,
+          12.932363
+        ],
+        [
+          46.507211,
+          12.933016
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_88",
+      "name": "Walk: Funivia Funifor Monte Zoncolan (Summit / Top) ↔ Junction #89",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_88",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.507218,
+          12.932363
+        ],
+        [
+          46.506663,
+          12.932074
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_22",
+      "name": "Walk: Seggiovia Cima Tamai (Base) ↔ Skilift Arvenis (Summit / Top)",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_22",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.495003,
+          12.935257
+        ],
+        [
+          46.496017,
+          12.934698
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_65",
+      "name": "Walk: Seggiovia Cima Tamai (Base) ↔ Junction: Tamai",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_65",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.495003,
+          12.935257
+        ],
+        [
+          46.494975,
+          12.935009
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_15",
+      "name": "Walk: Madessa 1 (Base) ↔ Madessa 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520636,
+          12.920482
+        ],
+        [
+          46.519953,
+          12.921745
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_16",
+      "name": "Walk: Madessa 1 (Base) ↔ Madessa 1 (Base)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_16",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520636,
+          12.920482
+        ],
+        [
+          46.520371,
+          12.919721
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_17",
+      "name": "Walk: Madessa 1 (Base) ↔ Madessa 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_17",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520636,
+          12.920482
+        ],
+        [
+          46.519725,
+          12.920654
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_17",
+      "name": "Walk: Madessa 1 (Summit / Top) ↔ Madessa 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.519953,
+          12.921745
+        ],
+        [
+          46.519725,
+          12.920654
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_17",
+      "name": "Walk: Madessa 1 (Base) ↔ Madessa 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520371,
+          12.919721
+        ],
+        [
+          46.519725,
+          12.920654
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_30",
+      "name": "Walk: Madessa 1 (Base) ↔ Madessa 2 (Base)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_30",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520371,
+          12.919721
+        ],
+        [
+          46.519811,
+          12.918905
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_30",
+      "name": "Walk: Madessa 1 (Summit / Top) ↔ Madessa 2 (Base)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_30",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.519725,
+          12.920654
+        ],
+        [
+          46.519811,
+          12.918905
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_25",
+      "name": "Walk: Tappeto Lausc (Base) ↔ Tappeto Collegamento Parcheggi - Casse Skipass (Base)",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_25",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511967,
+          12.950738
+        ],
+        [
+          46.51271,
+          12.951049
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_26",
+      "name": "Walk: Tappeto Lausc (Base) ↔ Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top)",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511967,
+          12.950738
+        ],
+        [
+          46.512213,
+          12.951282
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_27",
+      "name": "Walk: Tappeto Lausc (Base) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_27",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511967,
+          12.950738
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_80",
+      "name": "Walk: Tappeto Lausc (Base) ↔ Junction #81",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_80",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511967,
+          12.950738
+        ],
+        [
+          46.512371,
+          12.950145
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_48",
+      "name": "Walk: Tappeto Lausc (Summit / Top) ↔ Junction: Zoncolan 3 - Bassa",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511411,
+          12.948856
+        ],
+        [
+          46.5108,
+          12.948694
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_62",
+      "name": "Walk: Tappeto Lausc (Summit / Top) ↔ Junction: Zoncolan 2",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_62",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511411,
+          12.948856
+        ],
+        [
+          46.511264,
+          12.948976
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_64",
+      "name": "Walk: Tappeto Lausc (Summit / Top) ↔ Junction: Zoncolan 1",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_64",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511411,
+          12.948856
+        ],
+        [
+          46.511316,
+          12.948352
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_27",
+      "name": "Walk: Tappeto Cjalcenal (Base) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_27",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510621,
+          12.952208
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_84",
+      "name": "Walk: Tappeto Cjalcenal (Base) ↔ Junction: Campo Scuola Cjalcenal",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_84",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510621,
+          12.952208
+        ],
+        [
+          46.510675,
+          12.951688
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_54",
+      "name": "Walk: Skilift Arvenis (Base) ↔ Junction: Tamai 1",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_54",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500244,
+          12.93568
+        ],
+        [
+          46.500179,
+          12.935104
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_55",
+      "name": "Walk: Skilift Arvenis (Base) ↔ Junction: Tamai 1",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_55",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500244,
+          12.93568
+        ],
+        [
+          46.500596,
+          12.934927
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_78",
+      "name": "Walk: Skilift Arvenis (Base) ↔ Junction: Area Freestyle",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_78",
+      "distance": 0.01,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500244,
+          12.93568
+        ],
+        [
+          46.500178,
+          12.935742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_89",
+      "name": "Walk: Skilift Arvenis (Base) ↔ Junction: Arena Freestyle",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_89",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500244,
+          12.93568
+        ],
+        [
+          46.499727,
+          12.935937
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_86",
+      "name": "Walk: Skilift Arvenis (Summit / Top) ↔ Junction: 6 A - Arvenis",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_86",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496017,
+          12.934698
+        ],
+        [
+          46.496433,
+          12.935036
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_87",
+      "name": "Walk: Skilift Arvenis (Summit / Top) ↔ Junction: 6 A - Arvenis",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_87",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496017,
+          12.934698
+        ],
+        [
+          46.496584,
+          12.934497
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_59",
+      "name": "Walk: Seggiovia Giro d'Italia (Base) ↔ Junction #60",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_59",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504619,
+          12.941846
+        ],
+        [
+          46.504549,
+          12.94212
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_26",
+      "name": "Walk: Tappeto Collegamento Parcheggi - Casse Skipass (Base) ↔ Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top)",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.51271,
+          12.951049
+        ],
+        [
+          46.512213,
+          12.951282
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_27",
+      "name": "Walk: Tappeto Collegamento Parcheggi - Casse Skipass (Base) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_27",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.51271,
+          12.951049
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_79",
+      "name": "Walk: Tappeto Collegamento Parcheggi - Casse Skipass (Base) ↔ Junction: Collegamento Valvan - Parcheggi",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_79",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.51271,
+          12.951049
+        ],
+        [
+          46.512628,
+          12.951881
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top) ↔ Tappeto Collegamento Cjalcenal (Summit / Top)",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.512213,
+          12.951282
+        ],
+        [
+          46.511457,
+          12.951167
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_79",
+      "name": "Walk: Tappeto Collegamento Parcheggi - Casse Skipass (Summit / Top) ↔ Junction: Collegamento Valvan - Parcheggi",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_79",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.512213,
+          12.951282
+        ],
+        [
+          46.512628,
+          12.951881
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_90",
+      "name": "Walk: Tappeto Collegamento Cjalcenal (Summit / Top) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_90",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511457,
+          12.951167
+        ],
+        [
+          46.511081,
+          12.95125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_29",
+      "name": "Walk: Madessa 3 (Base) ↔ Madessa 3 (Summit / Top)",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.520522,
+          12.916939
+        ],
+        [
+          46.519661,
+          12.916582
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_31",
+      "name": "Walk: Madessa 2 (Base) ↔ Madessa 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.519811,
+          12.918905
+        ],
+        [
+          46.519265,
+          12.918584
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_63",
+      "name": "Walk: Junction: 2 A -Variante Zoncolan 2 ↔ Junction: Zoncolan 1",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506889,
+          12.932599
+        ],
+        [
+          46.507211,
+          12.933016
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_88",
+      "name": "Walk: Junction: 2 A -Variante Zoncolan 2 ↔ Junction #89",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_88",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506889,
+          12.932599
+        ],
+        [
+          46.506663,
+          12.932074
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_35_node_36",
+      "name": "Walk: Junction: Zoncolan 1 ↔ Junction: Zoncolan 2",
+      "type": "walk",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.51055,
+          12.942731
+        ],
+        [
+          46.510292,
+          12.943524
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_38_node_56",
+      "name": "Walk: Junction: Zoncolan 4 ↔ Junction: Tamai 1",
+      "type": "walk",
+      "from": "node_38",
+      "to": "node_56",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.501958,
+          12.942108
+        ],
+        [
+          46.501574,
+          12.941503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_40_node_59",
+      "name": "Walk: Junction: Zoncolan 4 ↔ Junction #60",
+      "type": "walk",
+      "from": "node_40",
+      "to": "node_59",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.504005,
+          12.942381
+        ],
+        [
+          46.504549,
+          12.94212
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_48_node_62",
+      "name": "Walk: Junction: Zoncolan 3 - Bassa ↔ Junction: Zoncolan 2",
+      "type": "walk",
+      "from": "node_48",
+      "to": "node_62",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.5108,
+          12.948694
+        ],
+        [
+          46.511264,
+          12.948976
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_48_node_64",
+      "name": "Walk: Junction: Zoncolan 3 - Bassa ↔ Junction: Zoncolan 1",
+      "type": "walk",
+      "from": "node_48",
+      "to": "node_64",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.5108,
+          12.948694
+        ],
+        [
+          46.511316,
+          12.948352
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_55",
+      "name": "Walk: Junction: Tamai 1 ↔ Junction: Tamai 1",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500179,
+          12.935104
+        ],
+        [
+          46.500596,
+          12.934927
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_57",
+      "name": "Walk: Junction: Tamai 1 ↔ Junction: B - Skiweg Arvenis 1",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_57",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500179,
+          12.935104
+        ],
+        [
+          46.499867,
+          12.934508
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_54_node_78",
+      "name": "Walk: Junction: Tamai 1 ↔ Junction: Area Freestyle",
+      "type": "walk",
+      "from": "node_54",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500179,
+          12.935104
+        ],
+        [
+          46.500178,
+          12.935742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_58_node_88",
+      "name": "Walk: Junction: Zoncolan 2 ↔ Junction #89",
+      "type": "walk",
+      "from": "node_58",
+      "to": "node_88",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.506304,
+          12.932236
+        ],
+        [
+          46.506663,
+          12.932074
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_62_node_64",
+      "name": "Walk: Junction: Zoncolan 2 ↔ Junction: Zoncolan 1",
+      "type": "walk",
+      "from": "node_62",
+      "to": "node_64",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.511264,
+          12.948976
+        ],
+        [
+          46.511316,
+          12.948352
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_66_node_67",
+      "name": "Walk: Junction: Tamai ↔ Junction: Tamai",
+      "type": "walk",
+      "from": "node_66",
+      "to": "node_67",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496299,
+          12.935729
+        ],
+        [
+          46.496707,
+          12.93617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_66_node_76",
+      "name": "Walk: Junction: Tamai ↔ Junction: Area Freestyle",
+      "type": "walk",
+      "from": "node_66",
+      "to": "node_76",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496299,
+          12.935729
+        ],
+        [
+          46.49652,
+          12.935617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_66_node_86",
+      "name": "Walk: Junction: Tamai ↔ Junction: 6 A - Arvenis",
+      "type": "walk",
+      "from": "node_66",
+      "to": "node_86",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496299,
+          12.935729
+        ],
+        [
+          46.496433,
+          12.935036
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_67_node_76",
+      "name": "Walk: Junction: Tamai ↔ Junction: Area Freestyle",
+      "type": "walk",
+      "from": "node_67",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496707,
+          12.93617
+        ],
+        [
+          46.49652,
+          12.935617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_69_node_70",
+      "name": "Walk: Junction: Canalone ↔ Junction: Canalone",
+      "type": "walk",
+      "from": "node_69",
+      "to": "node_70",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.51273,
+          12.92893
+        ],
+        [
+          46.51276,
+          12.928645
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_73_node_77",
+      "name": "Walk: Junction: 8 A - Variante Tamai 2 ↔ Junction: Area Freestyle",
+      "type": "walk",
+      "from": "node_73",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.497159,
+          12.937169
+        ],
+        [
+          46.497369,
+          12.936562
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_76_node_86",
+      "name": "Walk: Junction: Area Freestyle ↔ Junction: 6 A - Arvenis",
+      "type": "walk",
+      "from": "node_76",
+      "to": "node_86",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.49652,
+          12.935617
+        ],
+        [
+          46.496433,
+          12.935036
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_78_node_89",
+      "name": "Walk: Junction: Area Freestyle ↔ Junction: Arena Freestyle",
+      "type": "walk",
+      "from": "node_78",
+      "to": "node_89",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.500178,
+          12.935742
+        ],
+        [
+          46.499727,
+          12.935937
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_84_node_90",
+      "name": "Walk: Junction: Campo Scuola Cjalcenal ↔ Junction #91",
+      "type": "walk",
+      "from": "node_84",
+      "to": "node_90",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.510675,
+          12.951688
+        ],
+        [
+          46.511081,
+          12.95125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_86_node_87",
+      "name": "Walk: Junction: 6 A - Arvenis ↔ Junction: 6 A - Arvenis",
+      "type": "walk",
+      "from": "node_86",
+      "to": "node_87",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.496433,
+          12.935036
+        ],
+        [
+          46.496584,
+          12.934497
+        ]
+      ]
+    }
+  ]
+}

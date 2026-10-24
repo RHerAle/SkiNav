@@ -1,0 +1,793 @@
+{
+  "id": "navacerrada",
+  "name": "Puerto de Navacerrada",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      40.7804,
+      -4.0211
+    ],
+    [
+      40.7956,
+      -3.985
+    ]
+  ],
+  "center": [
+    40.788,
+    -4.0042
+  ],
+  "stats": {
+    "slopes": "2.9 km",
+    "lifts": 6,
+    "elevation": "1700m - 2177m",
+    "drop": "477m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Telégrafo (Base)",
+      "lat": 40.78878,
+      "lng": -4.004389,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Telégrafo (Summit / Top)",
+      "lat": 40.788447,
+      "lng": -4.008084,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Escaparate (Base)",
+      "lat": 40.790608,
+      "lng": -4.009047,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Guarramillas (Base)",
+      "lat": 40.788154,
+      "lng": -4.001848,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Guarramillas (Summit / Top)",
+      "lat": 40.78537,
+      "lng": -3.989968,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Bosque (Base)",
+      "lat": 40.79019,
+      "lng": -4.016058,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Bosque (Summit / Top)",
+      "lat": 40.787735,
+      "lng": -4.00818,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Cinta Alto Telégrafo (Base)",
+      "lat": 40.787107,
+      "lng": -4.007903,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Cinta Alto Telégrafo (Summit / Top)",
+      "lat": 40.786907,
+      "lng": -4.008685,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Cinta Alquiler (Base)",
+      "lat": 40.78833,
+      "lng": -4.004366,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Cinta Alquiler (Summit / Top)",
+      "lat": 40.788214,
+      "lng": -4.005249,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Junction: A",
+      "lat": 40.786803,
+      "lng": -3.995925,
+      "type": "intersection"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: A",
+      "lat": 40.787334,
+      "lng": -3.998075,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: A",
+      "lat": 40.788162,
+      "lng": -4.001482,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_29349922",
+      "name": "Telégrafo",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.29,
+      "duration": 2,
+      "elevation": 63,
+      "geometry": [
+        [
+          40.78878,
+          -4.004389
+        ],
+        [
+          40.788711,
+          -4.004778
+        ],
+        [
+          40.788576,
+          -4.005405
+        ],
+        [
+          40.788349,
+          -4.006501
+        ],
+        [
+          40.788243,
+          -4.007019
+        ],
+        [
+          40.788091,
+          -4.007721
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_29349931",
+      "name": "Escaparate",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_1",
+      "distance": 0.28,
+      "duration": 2,
+      "elevation": 61,
+      "geometry": [
+        [
+          40.790676,
+          -4.009158
+        ],
+        [
+          40.790388,
+          -4.009014
+        ],
+        [
+          40.789673,
+          -4.008655
+        ],
+        [
+          40.789233,
+          -4.008434
+        ],
+        [
+          40.788774,
+          -4.008203
+        ],
+        [
+          40.788592,
+          -4.008115
+        ],
+        [
+          40.788443,
+          -4.008043
+        ],
+        [
+          40.788289,
+          -4.007965
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_71299121",
+      "name": "Guarramillas",
+      "type": "lift",
+      "from": "node_3",
+      "to": "node_4",
+      "distance": 1.06,
+      "duration": 4,
+      "elevation": 233,
+      "geometry": [
+        [
+          40.788025,
+          -4.00209
+        ],
+        [
+          40.787828,
+          -4.001206
+        ],
+        [
+          40.787593,
+          -4.000078
+        ],
+        [
+          40.787366,
+          -3.999049
+        ],
+        [
+          40.787245,
+          -3.998593
+        ],
+        [
+          40.786994,
+          -3.997468
+        ],
+        [
+          40.786792,
+          -3.996559
+        ],
+        [
+          40.786645,
+          -3.995898
+        ],
+        [
+          40.78638,
+          -3.994714
+        ],
+        [
+          40.786117,
+          -3.993534
+        ],
+        [
+          40.785906,
+          -3.992585
+        ],
+        [
+          40.785684,
+          -3.991593
+        ],
+        [
+          40.78559,
+          -3.991172
+        ],
+        [
+          40.785573,
+          -3.991093
+        ],
+        [
+          40.785447,
+          -3.990414
+        ],
+        [
+          40.78537,
+          -3.989968
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_103406445",
+      "name": "Bosque",
+      "type": "lift",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.72,
+      "duration": 2,
+      "elevation": 158,
+      "geometry": [
+        [
+          40.79019,
+          -4.016058
+        ],
+        [
+          40.790087,
+          -4.015728
+        ],
+        [
+          40.789526,
+          -4.013922
+        ],
+        [
+          40.789245,
+          -4.013015
+        ],
+        [
+          40.788862,
+          -4.01178
+        ],
+        [
+          40.788519,
+          -4.010676
+        ],
+        [
+          40.788189,
+          -4.009613
+        ],
+        [
+          40.787977,
+          -4.00893
+        ],
+        [
+          40.787735,
+          -4.00818
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_254524811",
+      "name": "Cinta Alto Telégrafo",
+      "type": "lift",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          40.787107,
+          -4.007903
+        ],
+        [
+          40.786907,
+          -4.008685
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259602605",
+      "name": "Cinta Alquiler",
+      "type": "lift",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 2,
+      "elevation": 17,
+      "geometry": [
+        [
+          40.78833,
+          -4.004366
+        ],
+        [
+          40.788214,
+          -4.005249
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_103406446_2",
+      "name": "M",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_2",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          40.788642,
+          -4.008199
+        ],
+        [
+          40.789328,
+          -4.008723
+        ],
+        [
+          40.789893,
+          -4.009103
+        ],
+        [
+          40.789984,
+          -4.00913
+        ],
+        [
+          40.79008,
+          -4.009121
+        ],
+        [
+          40.790295,
+          -4.009005
+        ],
+        [
+          40.790453,
+          -4.008936
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103430501_0",
+      "name": "A",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          40.786803,
+          -3.995925
+        ],
+        [
+          40.78713,
+          -3.996993
+        ],
+        [
+          40.787157,
+          -3.99725
+        ],
+        [
+          40.787304,
+          -3.997936
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103442139_1",
+      "name": "A",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          40.787363,
+          -3.998215
+        ],
+        [
+          40.78745,
+          -3.998518
+        ],
+        [
+          40.787586,
+          -3.998828
+        ],
+        [
+          40.787657,
+          -3.999106
+        ],
+        [
+          40.787732,
+          -3.999439
+        ],
+        [
+          40.78784,
+          -3.999808
+        ],
+        [
+          40.787914,
+          -4.000352
+        ],
+        [
+          40.788074,
+          -4.001114
+        ],
+        [
+          40.788162,
+          -4.001482
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103442139_2",
+      "name": "A",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          40.788162,
+          -4.001482
+        ],
+        [
+          40.788205,
+          -4.001766
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_9",
+      "name": "Walk: Telégrafo (Base) ↔ Cinta Alquiler (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.78878,
+          -4.004389
+        ],
+        [
+          40.78833,
+          -4.004366
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_10",
+      "name": "Walk: Telégrafo (Base) ↔ Cinta Alquiler (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.78878,
+          -4.004389
+        ],
+        [
+          40.788214,
+          -4.005249
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_6",
+      "name": "Walk: Telégrafo (Summit / Top) ↔ Bosque (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_6",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.788447,
+          -4.008084
+        ],
+        [
+          40.787735,
+          -4.00818
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_13",
+      "name": "Walk: Guarramillas (Base) ↔ Junction: A",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_13",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.788154,
+          -4.001848
+        ],
+        [
+          40.788162,
+          -4.001482
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_7",
+      "name": "Walk: Bosque (Summit / Top) ↔ Cinta Alto Telégrafo (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.787735,
+          -4.00818
+        ],
+        [
+          40.787107,
+          -4.007903
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_8",
+      "name": "Walk: Bosque (Summit / Top) ↔ Cinta Alto Telégrafo (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.787735,
+          -4.00818
+        ],
+        [
+          40.786907,
+          -4.008685
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_8",
+      "name": "Walk: Cinta Alto Telégrafo (Base) ↔ Cinta Alto Telégrafo (Summit / Top)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.787107,
+          -4.007903
+        ],
+        [
+          40.786907,
+          -4.008685
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_10",
+      "name": "Walk: Cinta Alquiler (Base) ↔ Cinta Alquiler (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.78833,
+          -4.004366
+        ],
+        [
+          40.788214,
+          -4.005249
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_4_node_11",
+      "name": "Piste Access: Guarramillas (Summit / Top) ➔ Junction: A",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_4",
+      "to": "node_11",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          40.78537,
+          -3.989968
+        ],
+        [
+          40.786803,
+          -3.995925
+        ]
+      ]
+    },
+    {
+      "id": "base_access_node_2_node_5",
+      "name": "Piste Access to Bosque (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_2",
+      "to": "node_5",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          40.790608,
+          -4.009047
+        ],
+        [
+          40.79019,
+          -4.016058
+        ]
+      ]
+    },
+    {
+      "id": "piste_el_bosque",
+      "name": "Pista El Bosque",
+      "type": "slope",
+      "difficulty": "red",
+      "from": "node_6",
+      "to": "node_5",
+      "distance": 0.72,
+      "duration": 3,
+      "elevation": -170,
+      "bidirectional": false,
+      "geometry": [
+        [
+          40.787735,
+          -4.00818
+        ],
+        [
+          40.79019,
+          -4.016058
+        ]
+      ]
+    },
+    {
+      "id": "piste_telegrafo",
+      "name": "Pista Telégrafo",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_1",
+      "to": "node_0",
+      "distance": 0.31,
+      "duration": 2,
+      "elevation": -60,
+      "bidirectional": false,
+      "geometry": [
+        [
+          40.788447,
+          -4.008084
+        ],
+        [
+          40.78878,
+          -4.004389
+        ]
+      ]
+    },
+    {
+      "id": "walk_sector_node_9_node_3",
+      "name": "Walk: Cinta Alquiler (Base) ↔ Guarramillas (Base)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_3",
+      "distance": 0.21,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          40.78833,
+          -4.004366
+        ],
+        [
+          40.788154,
+          -4.001848
+        ]
+      ]
+    }
+  ]
+}

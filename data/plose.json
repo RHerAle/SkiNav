@@ -1,0 +1,4121 @@
+{
+  "id": "plose",
+  "name": "Plose (Bressanone)",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.671,
+      11.6779
+    ],
+    [
+      46.7035,
+      11.7523
+    ]
+  ],
+  "center": [
+    46.6882,
+    11.7252
+  ],
+  "stats": {
+    "slopes": "25.0 km",
+    "lifts": 7,
+    "elevation": "1067m - 2505m",
+    "drop": "1438m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Rifugio Cai (Base)",
+      "lat": 46.688622,
+      "lng": 11.734328,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Rifugio Cai (Summit / Top)",
+      "lat": 46.69499,
+      "lng": 11.733501,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Schönbodenbahn (Base)",
+      "lat": 46.683924,
+      "lng": 11.709515,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Schönbodenbahn (Summit / Top)",
+      "lat": 46.690722,
+      "lng": 11.725833,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Pfannspitz - Monte Fana (Base)",
+      "lat": 46.677666,
+      "lng": 11.737868,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Pfannspitz - Monte Fana (Summit / Top)",
+      "lat": 46.691349,
+      "lng": 11.746597,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Palmschoß - Plancios (Base)",
+      "lat": 46.67599,
+      "lng": 11.713092,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Palmschoß - Plancios (Summit / Top)",
+      "lat": 46.68428,
+      "lng": 11.711807,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Rossalm (Summit / Top)",
+      "lat": 46.692328,
+      "lng": 11.747325,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Plosebahn II (Mid-Station / Hub)",
+      "lat": 46.692206,
+      "lng": 11.699293,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Plosebahn II (Summit / Top)",
+      "lat": 46.68585,
+      "lng": 11.710323,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Plosebahn I (Base)",
+      "lat": 46.698284,
+      "lng": 11.682916,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Brixner Höhenweg 30",
+      "lat": 46.685113,
+      "lng": 11.710131,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: 01 Trametsch",
+      "lat": 46.686535,
+      "lng": 11.714055,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: 01 Trametsch",
+      "lat": 46.687821,
+      "lng": 11.711425,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: 01 Trametsch",
+      "lat": 46.687829,
+      "lng": 11.711052,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: 01 Trametsch",
+      "lat": 46.698529,
+      "lng": 11.68309,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Plose 3",
+      "lat": 46.691185,
+      "lng": 11.724842,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Plose 3",
+      "lat": 46.690791,
+      "lng": 11.723988,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Trainingspiste - CAI",
+      "lat": 46.694608,
+      "lng": 11.73249,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Trainingspiste - CAI",
+      "lat": 46.689046,
+      "lng": 11.73447,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Querfahrt - Attraversamento",
+      "lat": 46.690552,
+      "lng": 11.726758,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Querfahrt - Attraversamento",
+      "lat": 46.689203,
+      "lng": 11.732552,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.686178,
+      "lng": 11.712848,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.685467,
+      "lng": 11.710502,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.684819,
+      "lng": 11.710057,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.683483,
+      "lng": 11.710831,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.683785,
+      "lng": 11.711503,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Schönboden - Giogo Bello",
+      "lat": 46.687502,
+      "lng": 11.717721,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Rossalm",
+      "lat": 46.690072,
+      "lng": 11.740687,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Rossalm",
+      "lat": 46.689597,
+      "lng": 11.740593,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Rossalm",
+      "lat": 46.688807,
+      "lng": 11.740418,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Rossalm",
+      "lat": 46.688532,
+      "lng": 11.736583,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Rossalm",
+      "lat": 46.688804,
+      "lng": 11.735856,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Palmschoss - Plancios",
+      "lat": 46.683726,
+      "lng": 11.712239,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Rossalmweg",
+      "lat": 46.683389,
+      "lng": 11.711907,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Skiweg",
+      "lat": 46.692298,
+      "lng": 11.73925,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Skiweg",
+      "lat": 46.687955,
+      "lng": 11.721054,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Rossalm",
+      "lat": 46.692284,
+      "lng": 11.745275,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Rossalm",
+      "lat": 46.691027,
+      "lng": 11.740429,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca",
+      "lat": 46.691328,
+      "lng": 11.745922,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca",
+      "lat": 46.690535,
+      "lng": 11.744424,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Rossalm",
+      "lat": 46.691318,
+      "lng": 11.744444,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Pfannspitz - Monte Fana",
+      "lat": 46.689623,
+      "lng": 11.743244,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Schönjöchel",
+      "lat": 46.688902,
+      "lng": 11.719826,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction #46",
+      "lat": 46.685527,
+      "lng": 11.711656,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction #47",
+      "lat": 46.684097,
+      "lng": 11.710356,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Funpark Plose",
+      "lat": 46.690397,
+      "lng": 11.726091,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction #49",
+      "lat": 46.685294,
+      "lng": 11.740751,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Familienabfahrt",
+      "lat": 46.684577,
+      "lng": 11.738685,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Familienabfahrt",
+      "lat": 46.685125,
+      "lng": 11.736931,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Familienabfahrt",
+      "lat": 46.681057,
+      "lng": 11.736708,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Familienabfahrt",
+      "lat": 46.682663,
+      "lng": 11.739696,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Plose 2",
+      "lat": 46.691562,
+      "lng": 11.727214,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Plose 2",
+      "lat": 46.691116,
+      "lng": 11.726422,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_48468606",
+      "name": "Rifugio Cai",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.69,
+      "duration": 2,
+      "elevation": 151,
+      "geometry": [
+        [
+          46.688688,
+          11.734293
+        ],
+        [
+          46.688864,
+          11.734273
+        ],
+        [
+          46.689523,
+          11.734185
+        ],
+        [
+          46.68961,
+          11.734176
+        ],
+        [
+          46.690242,
+          11.734092
+        ],
+        [
+          46.691124,
+          11.733979
+        ],
+        [
+          46.691808,
+          11.733895
+        ],
+        [
+          46.692819,
+          11.733762
+        ],
+        [
+          46.693903,
+          11.733625
+        ],
+        [
+          46.69471,
+          11.733522
+        ],
+        [
+          46.694763,
+          11.733514
+        ],
+        [
+          46.694889,
+          11.733496
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_48468610",
+      "name": "Schönbodenbahn",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.46,
+      "duration": 5,
+      "elevation": 321,
+      "geometry": [
+        [
+          46.683979,
+          11.709442
+        ],
+        [
+          46.684051,
+          11.709618
+        ],
+        [
+          46.684079,
+          11.709687
+        ],
+        [
+          46.684334,
+          11.710316
+        ],
+        [
+          46.684684,
+          11.71118
+        ],
+        [
+          46.684842,
+          11.711569
+        ],
+        [
+          46.685246,
+          11.712567
+        ],
+        [
+          46.685811,
+          11.713961
+        ],
+        [
+          46.686117,
+          11.714716
+        ],
+        [
+          46.686501,
+          11.715662
+        ],
+        [
+          46.686909,
+          11.716669
+        ],
+        [
+          46.686934,
+          11.716733
+        ],
+        [
+          46.687318,
+          11.717679
+        ],
+        [
+          46.687679,
+          11.71857
+        ],
+        [
+          46.688225,
+          11.719917
+        ],
+        [
+          46.688755,
+          11.721227
+        ],
+        [
+          46.688963,
+          11.721739
+        ],
+        [
+          46.689253,
+          11.722455
+        ],
+        [
+          46.689671,
+          11.723487
+        ],
+        [
+          46.690056,
+          11.724436
+        ],
+        [
+          46.690478,
+          11.725477
+        ],
+        [
+          46.6905,
+          11.725531
+        ],
+        [
+          46.690646,
+          11.725891
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_48468616",
+      "name": "Pfannspitz - Monte Fana",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.65,
+      "duration": 4,
+      "elevation": 363,
+      "geometry": [
+        [
+          46.677676,
+          11.73791
+        ],
+        [
+          46.677864,
+          11.738031
+        ],
+        [
+          46.677947,
+          11.738084
+        ],
+        [
+          46.678201,
+          11.738248
+        ],
+        [
+          46.679484,
+          11.739073
+        ],
+        [
+          46.681132,
+          11.740132
+        ],
+        [
+          46.682732,
+          11.741162
+        ],
+        [
+          46.685494,
+          11.742938
+        ],
+        [
+          46.687726,
+          11.744374
+        ],
+        [
+          46.689414,
+          11.74546
+        ],
+        [
+          46.69099,
+          11.746474
+        ],
+        [
+          46.691055,
+          11.746515
+        ],
+        [
+          46.691282,
+          11.746661
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_50061557",
+      "name": "Palmschoß - Plancios",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.93,
+      "duration": 3,
+      "elevation": 204,
+      "geometry": [
+        [
+          46.675888,
+          11.712908
+        ],
+        [
+          46.67608,
+          11.712884
+        ],
+        [
+          46.677475,
+          11.712707
+        ],
+        [
+          46.678112,
+          11.712632
+        ],
+        [
+          46.679511,
+          11.712466
+        ],
+        [
+          46.680048,
+          11.712402
+        ],
+        [
+          46.680828,
+          11.712309
+        ],
+        [
+          46.681421,
+          11.712239
+        ],
+        [
+          46.682241,
+          11.712141
+        ],
+        [
+          46.682797,
+          11.712075
+        ],
+        [
+          46.684008,
+          11.711931
+        ],
+        [
+          46.684198,
+          11.711909
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_103429372",
+      "name": "Rossalm",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_8",
+      "distance": 1.06,
+      "duration": 4,
+      "elevation": 233,
+      "geometry": [
+        [
+          46.688573,
+          11.73446
+        ],
+        [
+          46.688639,
+          11.734681
+        ],
+        [
+          46.688667,
+          11.734774
+        ],
+        [
+          46.688921,
+          11.735624
+        ],
+        [
+          46.689433,
+          11.737343
+        ],
+        [
+          46.689831,
+          11.738681
+        ],
+        [
+          46.690168,
+          11.739811
+        ],
+        [
+          46.690649,
+          11.741424
+        ],
+        [
+          46.691254,
+          11.743453
+        ],
+        [
+          46.691748,
+          11.74511
+        ],
+        [
+          46.692226,
+          11.746731
+        ],
+        [
+          46.692371,
+          11.747234
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1082102039",
+      "name": "Plosebahn II",
+      "type": "lift",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 1.1,
+      "duration": 3,
+      "elevation": 242,
+      "geometry": [
+        [
+          46.692206,
+          11.699293
+        ],
+        [
+          46.691597,
+          11.700334
+        ],
+        [
+          46.690762,
+          11.701761
+        ],
+        [
+          46.689433,
+          11.704031
+        ],
+        [
+          46.688266,
+          11.706024
+        ],
+        [
+          46.68716,
+          11.707914
+        ],
+        [
+          46.685811,
+          11.71022
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_1082102040",
+      "name": "Plosebahn I",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_9",
+      "distance": 1.41,
+      "duration": 3,
+      "elevation": 310,
+      "geometry": [
+        [
+          46.698143,
+          11.682961
+        ],
+        [
+          46.697099,
+          11.685832
+        ],
+        [
+          46.696055,
+          11.688704
+        ],
+        [
+          46.695211,
+          11.691026
+        ],
+        [
+          46.694079,
+          11.694141
+        ],
+        [
+          46.693421,
+          11.695951
+        ],
+        [
+          46.69304,
+          11.697
+        ],
+        [
+          46.692206,
+          11.699293
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "piste_37532973_0",
+      "name": "Brixner Höhenweg 30",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.685624,
+          11.710473
+        ],
+        [
+          46.685335,
+          11.710216
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48466458_0",
+      "name": "01 Trametsch",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.686535,
+          11.714055
+        ],
+        [
+          46.686711,
+          11.713639
+        ],
+        [
+          46.686809,
+          11.713537
+        ],
+        [
+          46.687098,
+          11.713693
+        ],
+        [
+          46.687237,
+          11.713704
+        ],
+        [
+          46.687718,
+          11.713679
+        ],
+        [
+          46.688014,
+          11.713521
+        ],
+        [
+          46.688213,
+          11.713328
+        ],
+        [
+          46.68838,
+          11.712992
+        ],
+        [
+          46.688419,
+          11.712586
+        ],
+        [
+          46.688355,
+          11.71236
+        ],
+        [
+          46.687909,
+          11.711833
+        ],
+        [
+          46.687829,
+          11.711616
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48466458_2",
+      "name": "01 Trametsch",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.687813,
+          11.711235
+        ],
+        [
+          46.687837,
+          11.71096
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48466458_3",
+      "name": "01 Trametsch",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 3.5,
+      "duration": 6,
+      "elevation": -560,
+      "geometry": [
+        [
+          46.687837,
+          11.71096
+        ],
+        [
+          46.687911,
+          11.710656
+        ],
+        [
+          46.688065,
+          11.710401
+        ],
+        [
+          46.688729,
+          11.709889
+        ],
+        [
+          46.689113,
+          11.709555
+        ],
+        [
+          46.6893,
+          11.709505
+        ],
+        [
+          46.689644,
+          11.709291
+        ],
+        [
+          46.689768,
+          11.709115
+        ],
+        [
+          46.689771,
+          11.708941
+        ],
+        [
+          46.689614,
+          11.708493
+        ],
+        [
+          46.689493,
+          11.708338
+        ],
+        [
+          46.689405,
+          11.708155
+        ],
+        [
+          46.689439,
+          11.707975
+        ],
+        [
+          46.689577,
+          11.707618
+        ],
+        [
+          46.689759,
+          11.707479
+        ],
+        [
+          46.690147,
+          11.707225
+        ],
+        [
+          46.690348,
+          11.707064
+        ],
+        [
+          46.690529,
+          11.706581
+        ],
+        [
+          46.690457,
+          11.705999
+        ],
+        [
+          46.690354,
+          11.705406
+        ],
+        [
+          46.690346,
+          11.705227
+        ],
+        [
+          46.690462,
+          11.705043
+        ],
+        [
+          46.691226,
+          11.704346
+        ],
+        [
+          46.691426,
+          11.703793
+        ],
+        [
+          46.691508,
+          11.70338
+        ],
+        [
+          46.69148,
+          11.703181
+        ],
+        [
+          46.691494,
+          11.702988
+        ],
+        [
+          46.691959,
+          11.701958
+        ],
+        [
+          46.69206,
+          11.701654
+        ],
+        [
+          46.692955,
+          11.699447
+        ],
+        [
+          46.692971,
+          11.699227
+        ],
+        [
+          46.692945,
+          11.698943
+        ],
+        [
+          46.692872,
+          11.698735
+        ],
+        [
+          46.692781,
+          11.698567
+        ],
+        [
+          46.692661,
+          11.698456
+        ],
+        [
+          46.692485,
+          11.69833
+        ],
+        [
+          46.692073,
+          11.698158
+        ],
+        [
+          46.691978,
+          11.698003
+        ],
+        [
+          46.692007,
+          11.697828
+        ],
+        [
+          46.692159,
+          11.697561
+        ],
+        [
+          46.692481,
+          11.696693
+        ],
+        [
+          46.692645,
+          11.69644
+        ],
+        [
+          46.693139,
+          11.696266
+        ],
+        [
+          46.693208,
+          11.696228
+        ],
+        [
+          46.693256,
+          11.696142
+        ],
+        [
+          46.693272,
+          11.696037
+        ],
+        [
+          46.693212,
+          11.695763
+        ],
+        [
+          46.693033,
+          11.695588
+        ],
+        [
+          46.69278,
+          11.695495
+        ],
+        [
+          46.692312,
+          11.695457
+        ],
+        [
+          46.691535,
+          11.69578
+        ],
+        [
+          46.691056,
+          11.695787
+        ],
+        [
+          46.690951,
+          11.695599
+        ],
+        [
+          46.690991,
+          11.695388
+        ],
+        [
+          46.691411,
+          11.694996
+        ],
+        [
+          46.691478,
+          11.694792
+        ],
+        [
+          46.691457,
+          11.694563
+        ],
+        [
+          46.691305,
+          11.694457
+        ],
+        [
+          46.690444,
+          11.694221
+        ],
+        [
+          46.690269,
+          11.693979
+        ],
+        [
+          46.690292,
+          11.693661
+        ],
+        [
+          46.690548,
+          11.693248
+        ],
+        [
+          46.691082,
+          11.692676
+        ],
+        [
+          46.691346,
+          11.69215
+        ],
+        [
+          46.691665,
+          11.690692
+        ],
+        [
+          46.691806,
+          11.69042
+        ],
+        [
+          46.693035,
+          11.689542
+        ],
+        [
+          46.693592,
+          11.688865
+        ],
+        [
+          46.693847,
+          11.68849
+        ],
+        [
+          46.694183,
+          11.688265
+        ],
+        [
+          46.69446,
+          11.688377
+        ],
+        [
+          46.69468,
+          11.688681
+        ],
+        [
+          46.694934,
+          11.688874
+        ],
+        [
+          46.695285,
+          11.688871
+        ],
+        [
+          46.695499,
+          11.688701
+        ],
+        [
+          46.695651,
+          11.688432
+        ],
+        [
+          46.696285,
+          11.686406
+        ],
+        [
+          46.696486,
+          11.686118
+        ],
+        [
+          46.696803,
+          11.68585
+        ],
+        [
+          46.698362,
+          11.683874
+        ],
+        [
+          46.698522,
+          11.683583
+        ],
+        [
+          46.698575,
+          11.683304
+        ],
+        [
+          46.698529,
+          11.68309
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48466458_4",
+      "name": "01 Trametsch",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.698529,
+          11.68309
+        ],
+        [
+          46.698425,
+          11.68287
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48468601_1",
+      "name": "Plose 3",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.81,
+      "duration": 1,
+      "elevation": -129,
+      "geometry": [
+        [
+          46.69504,
+          11.733504
+        ],
+        [
+          46.6949,
+          11.732616
+        ],
+        [
+          46.694785,
+          11.731891
+        ],
+        [
+          46.694393,
+          11.730915
+        ],
+        [
+          46.693862,
+          11.730054
+        ],
+        [
+          46.693129,
+          11.728544
+        ],
+        [
+          46.692784,
+          11.727932
+        ],
+        [
+          46.692768,
+          11.727885
+        ],
+        [
+          46.692149,
+          11.726065
+        ],
+        [
+          46.691877,
+          11.725536
+        ],
+        [
+          46.691186,
+          11.724842
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468601_2",
+      "name": "Plose 3",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.691186,
+          11.724842
+        ],
+        [
+          46.690791,
+          11.723989
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468607_0",
+      "name": "Trainingspiste - CAI",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_19",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.69504,
+          11.733504
+        ],
+        [
+          46.694865,
+          11.732782
+        ],
+        [
+          46.694608,
+          11.73249
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48468607_1",
+      "name": "Trainingspiste - CAI",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.68,
+      "duration": 1,
+      "elevation": -108,
+      "geometry": [
+        [
+          46.694608,
+          11.73249
+        ],
+        [
+          46.694291,
+          11.732129
+        ],
+        [
+          46.693923,
+          11.73209
+        ],
+        [
+          46.69356,
+          11.732413
+        ],
+        [
+          46.693171,
+          11.733035
+        ],
+        [
+          46.692763,
+          11.733577
+        ],
+        [
+          46.69216,
+          11.733762
+        ],
+        [
+          46.691869,
+          11.733947
+        ],
+        [
+          46.69142,
+          11.734304
+        ],
+        [
+          46.690872,
+          11.734496
+        ],
+        [
+          46.69045,
+          11.734476
+        ],
+        [
+          46.689985,
+          11.734525
+        ],
+        [
+          46.689099,
+          11.734644
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_48468609_0",
+      "name": "Querfahrt - Attraversamento",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.690646,
+          11.725891
+        ],
+        [
+          46.690552,
+          11.726758
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468609_1",
+      "name": "Querfahrt - Attraversamento",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          46.690552,
+          11.726758
+        ],
+        [
+          46.690345,
+          11.728668
+        ],
+        [
+          46.69025,
+          11.730186
+        ],
+        [
+          46.690102,
+          11.731143
+        ],
+        [
+          46.6895,
+          11.732153
+        ],
+        [
+          46.689203,
+          11.732552
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_0",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.686222,
+          11.712883
+        ],
+        [
+          46.685832,
+          11.712017
+        ],
+        [
+          46.685615,
+          11.711166
+        ],
+        [
+          46.685411,
+          11.710607
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_2",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.685503,
+          11.710427
+        ],
+        [
+          46.685217,
+          11.710126
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_5",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.684943,
+          11.709896
+        ],
+        [
+          46.684741,
+          11.710028
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_6",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_2",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.684741,
+          11.710028
+        ],
+        [
+          46.684546,
+          11.710079
+        ],
+        [
+          46.684412,
+          11.710067
+        ],
+        [
+          46.684051,
+          11.709859
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_8",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_26",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.683825,
+          11.70939
+        ],
+        [
+          46.683486,
+          11.710287
+        ],
+        [
+          46.683553,
+          11.710631
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_10",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.683566,
+          11.710875
+        ],
+        [
+          46.683675,
+          11.711512
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_12",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.683752,
+          11.711638
+        ],
+        [
+          46.684203,
+          11.711599
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_14",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_28",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          46.68444,
+          11.711915
+        ],
+        [
+          46.684636,
+          11.712062
+        ],
+        [
+          46.685367,
+          11.712363
+        ],
+        [
+          46.68558,
+          11.71262
+        ],
+        [
+          46.685816,
+          11.713046
+        ],
+        [
+          46.686196,
+          11.714003
+        ],
+        [
+          46.686493,
+          11.715247
+        ],
+        [
+          46.686791,
+          11.715962
+        ],
+        [
+          46.687112,
+          11.716756
+        ],
+        [
+          46.687502,
+          11.717721
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_15",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_3",
+      "distance": 0.74,
+      "duration": 1,
+      "elevation": -118,
+      "geometry": [
+        [
+          46.687502,
+          11.717721
+        ],
+        [
+          46.687691,
+          11.719025
+        ],
+        [
+          46.688389,
+          11.719444
+        ],
+        [
+          46.690289,
+          11.724269
+        ],
+        [
+          46.690559,
+          11.724927
+        ],
+        [
+          46.690773,
+          11.725794
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_16",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_18",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.690773,
+          11.725794
+        ],
+        [
+          46.690791,
+          11.723989
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48468611_17",
+      "name": "Schönboden - Giogo Bello",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_23",
+      "distance": 1.03,
+      "duration": 2,
+      "elevation": -164,
+      "geometry": [
+        [
+          46.690791,
+          11.723989
+        ],
+        [
+          46.689604,
+          11.72126
+        ],
+        [
+          46.688764,
+          11.718714
+        ],
+        [
+          46.688241,
+          11.718774
+        ],
+        [
+          46.6872,
+          11.716425
+        ],
+        [
+          46.686762,
+          11.715316
+        ],
+        [
+          46.686222,
+          11.712883
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_0",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.690072,
+          11.740687
+        ],
+        [
+          46.689597,
+          11.740593
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_1",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.689597,
+          11.740593
+        ],
+        [
+          46.688844,
+          11.740427
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_3",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.688751,
+          11.740406
+        ],
+        [
+          46.688465,
+          11.740393
+        ],
+        [
+          46.688152,
+          11.739249
+        ],
+        [
+          46.688147,
+          11.737868
+        ],
+        [
+          46.688342,
+          11.737088
+        ],
+        [
+          46.688532,
+          11.736583
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_4",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.688532,
+          11.736583
+        ],
+        [
+          46.688804,
+          11.735856
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_5",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_20",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.688804,
+          11.735856
+        ],
+        [
+          46.689135,
+          11.735342
+        ],
+        [
+          46.689099,
+          11.734644
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48648578_7",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.688965,
+          11.734208
+        ],
+        [
+          46.688707,
+          11.73408
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_48920076_0",
+      "name": "Piste 48920076",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_0",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.689203,
+          11.732552
+        ],
+        [
+          46.688668,
+          11.733511
+        ],
+        [
+          46.688573,
+          11.734385
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_50061558_0",
+      "name": "Palmschoss - Plancios",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.684198,
+          11.711909
+        ],
+        [
+          46.683881,
+          11.711408
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_50061558_1",
+      "name": "Palmschoss - Plancios",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_34",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.683881,
+          11.711408
+        ],
+        [
+          46.683697,
+          11.711762
+        ],
+        [
+          46.683752,
+          11.712247
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_50061558_2",
+      "name": "Palmschoss - Plancios",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_6",
+      "distance": 1.4,
+      "duration": 2,
+      "elevation": -224,
+      "geometry": [
+        [
+          46.683752,
+          11.712247
+        ],
+        [
+          46.683773,
+          11.714205
+        ],
+        [
+          46.683678,
+          11.714653
+        ],
+        [
+          46.683435,
+          11.714997
+        ],
+        [
+          46.683295,
+          11.714989
+        ],
+        [
+          46.683158,
+          11.714892
+        ],
+        [
+          46.682963,
+          11.714566
+        ],
+        [
+          46.682656,
+          11.713823
+        ],
+        [
+          46.681211,
+          11.712673
+        ],
+        [
+          46.68096,
+          11.712703
+        ],
+        [
+          46.680583,
+          11.712924
+        ],
+        [
+          46.680465,
+          11.71287
+        ],
+        [
+          46.679846,
+          11.711832
+        ],
+        [
+          46.679687,
+          11.711839
+        ],
+        [
+          46.679181,
+          11.712123
+        ],
+        [
+          46.678902,
+          11.712133
+        ],
+        [
+          46.67841,
+          11.711886
+        ],
+        [
+          46.678212,
+          11.711951
+        ],
+        [
+          46.678157,
+          11.712214
+        ],
+        [
+          46.678275,
+          11.712824
+        ],
+        [
+          46.678251,
+          11.713154
+        ],
+        [
+          46.678077,
+          11.713283
+        ],
+        [
+          46.677838,
+          11.713069
+        ],
+        [
+          46.677669,
+          11.713185
+        ],
+        [
+          46.677584,
+          11.713488
+        ],
+        [
+          46.677487,
+          11.713865
+        ],
+        [
+          46.677324,
+          11.713893
+        ],
+        [
+          46.676983,
+          11.713567
+        ],
+        [
+          46.676645,
+          11.713055
+        ],
+        [
+          46.676398,
+          11.712509
+        ],
+        [
+          46.676276,
+          11.712363
+        ],
+        [
+          46.676169,
+          11.712354
+        ],
+        [
+          46.676117,
+          11.71247
+        ],
+        [
+          46.676127,
+          11.712603
+        ],
+        [
+          46.676204,
+          11.712886
+        ],
+        [
+          46.676176,
+          11.713062
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_50061561_1",
+      "name": "Piste 50061561",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_35",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.683286,
+          11.710965
+        ],
+        [
+          46.683206,
+          11.711031
+        ],
+        [
+          46.683188,
+          11.711238
+        ],
+        [
+          46.683259,
+          11.711681
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_50315670_1",
+      "name": "Trametschzufahrt",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_15",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.686042,
+          11.710453
+        ],
+        [
+          46.686681,
+          11.710579
+        ],
+        [
+          46.687366,
+          11.711108
+        ],
+        [
+          46.687813,
+          11.711235
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_103429371_0",
+      "name": "Skiweg",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 1.56,
+      "duration": 3,
+      "elevation": -249,
+      "geometry": [
+        [
+          46.692298,
+          11.73925
+        ],
+        [
+          46.692516,
+          11.736864
+        ],
+        [
+          46.692499,
+          11.734379
+        ],
+        [
+          46.692303,
+          11.733275
+        ],
+        [
+          46.692132,
+          11.732391
+        ],
+        [
+          46.691948,
+          11.731651
+        ],
+        [
+          46.69167,
+          11.730929
+        ],
+        [
+          46.691675,
+          11.730446
+        ],
+        [
+          46.691373,
+          11.729822
+        ],
+        [
+          46.690979,
+          11.728891
+        ],
+        [
+          46.690682,
+          11.727726
+        ],
+        [
+          46.689875,
+          11.726998
+        ],
+        [
+          46.689116,
+          11.726321
+        ],
+        [
+          46.688801,
+          11.725854
+        ],
+        [
+          46.688677,
+          11.724417
+        ],
+        [
+          46.688533,
+          11.72301
+        ],
+        [
+          46.687955,
+          11.721054
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429371_1",
+      "name": "Skiweg",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_28",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.687955,
+          11.721054
+        ],
+        [
+          46.687506,
+          11.718699
+        ],
+        [
+          46.687502,
+          11.717721
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429373_0",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.692284,
+          11.745275
+        ],
+        [
+          46.69163,
+          11.743286
+        ],
+        [
+          46.691303,
+          11.742065
+        ],
+        [
+          46.691027,
+          11.740429
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429373_1",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_29",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.691027,
+          11.740429
+        ],
+        [
+          46.690072,
+          11.740687
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429374_2",
+      "name": "Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_40",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.692175,
+          11.747491
+        ],
+        [
+          46.691983,
+          11.74734
+        ],
+        [
+          46.691548,
+          11.746242
+        ],
+        [
+          46.691328,
+          11.745922
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429374_3",
+      "name": "Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.691328,
+          11.745922
+        ],
+        [
+          46.690757,
+          11.745223
+        ],
+        [
+          46.690535,
+          11.744424
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429375_0",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_42",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.691328,
+          11.745922
+        ],
+        [
+          46.691318,
+          11.744444
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429375_1",
+      "name": "Rossalm",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_29",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.691318,
+          11.744444
+        ],
+        [
+          46.690756,
+          11.743373
+        ],
+        [
+          46.690313,
+          11.741856
+        ],
+        [
+          46.690072,
+          11.740687
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429376_0",
+      "name": "Piste 103429376",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_41",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.691318,
+          11.744444
+        ],
+        [
+          46.690535,
+          11.744424
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429377_0",
+      "name": "Pfannspitz - Monte Fana",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_43",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.690535,
+          11.744424
+        ],
+        [
+          46.689623,
+          11.743244
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103429377_1",
+      "name": "Pfannspitz - Monte Fana",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_31",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.689623,
+          11.743244
+        ],
+        [
+          46.689175,
+          11.742307
+        ],
+        [
+          46.688852,
+          11.741179
+        ],
+        [
+          46.688844,
+          11.740427
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103429378_0",
+      "name": "Rossalm 2",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_33",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.689597,
+          11.740593
+        ],
+        [
+          46.689172,
+          11.739347
+        ],
+        [
+          46.688836,
+          11.737135
+        ],
+        [
+          46.688804,
+          11.735856
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103429380_1",
+      "name": "Trainingspiste",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_38",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.692429,
+          11.747213
+        ],
+        [
+          46.692638,
+          11.746585
+        ],
+        [
+          46.692284,
+          11.745275
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429380_2",
+      "name": "Trainingspiste",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_36",
+      "distance": 0.47,
+      "duration": 1,
+      "elevation": -75,
+      "geometry": [
+        [
+          46.692284,
+          11.745275
+        ],
+        [
+          46.692114,
+          11.744257
+        ],
+        [
+          46.691989,
+          11.742629
+        ],
+        [
+          46.692228,
+          11.741503
+        ],
+        [
+          46.692355,
+          11.739831
+        ],
+        [
+          46.692298,
+          11.73925
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429382_0",
+      "name": "Plose Ost - Plose Est",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_36",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          46.69504,
+          11.733504
+        ],
+        [
+          46.694621,
+          11.734737
+        ],
+        [
+          46.694331,
+          11.735513
+        ],
+        [
+          46.693879,
+          11.736454
+        ],
+        [
+          46.692952,
+          11.738053
+        ],
+        [
+          46.692298,
+          11.73925
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_103429722_0",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_18",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.690773,
+          11.725794
+        ],
+        [
+          46.690791,
+          11.723989
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_1",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_44",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.690791,
+          11.723989
+        ],
+        [
+          46.690151,
+          11.723031
+        ],
+        [
+          46.689541,
+          11.721572
+        ],
+        [
+          46.688902,
+          11.719826
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_2",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_28",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.688902,
+          11.719826
+        ],
+        [
+          46.687854,
+          11.718727
+        ],
+        [
+          46.687502,
+          11.717721
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_3",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_13",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.687502,
+          11.717721
+        ],
+        [
+          46.686673,
+          11.715348
+        ],
+        [
+          46.686535,
+          11.714055
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_4",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_23",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.686535,
+          11.714055
+        ],
+        [
+          46.686135,
+          11.712812
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_5",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_45",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.686135,
+          11.712812
+        ],
+        [
+          46.685527,
+          11.711656
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_6",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_24",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.685527,
+          11.711656
+        ],
+        [
+          46.685383,
+          11.710595
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103429722_8",
+      "name": "Piste 103429722",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_10",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.685493,
+          11.710393
+        ],
+        [
+          46.685811,
+          11.71022
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103430648_0",
+      "name": "Schönjöchel",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_13",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          46.688902,
+          11.719826
+        ],
+        [
+          46.688592,
+          11.717241
+        ],
+        [
+          46.688493,
+          11.716773
+        ],
+        [
+          46.687384,
+          11.715002
+        ],
+        [
+          46.686535,
+          11.714055
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103430792_0",
+      "name": "Piste 103430792",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_46",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.683881,
+          11.711408
+        ],
+        [
+          46.684097,
+          11.710356
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103430793_0",
+      "name": "Funpark Plose",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.690646,
+          11.725891
+        ],
+        [
+          46.690397,
+          11.726091
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_103430793_1",
+      "name": "Funpark Plose",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_37",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.690397,
+          11.726091
+        ],
+        [
+          46.68959,
+          11.725283
+        ],
+        [
+          46.688955,
+          11.723637
+        ],
+        [
+          46.687955,
+          11.721054
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_466370732_2",
+      "name": "Rossalmweg",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_34",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.683545,
+          11.712137
+        ],
+        [
+          46.683688,
+          11.712228
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_674402658_0",
+      "name": "Bärenloch",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_22",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          46.691027,
+          11.740429
+        ],
+        [
+          46.691379,
+          11.738727
+        ],
+        [
+          46.691314,
+          11.738309
+        ],
+        [
+          46.690839,
+          11.736646
+        ],
+        [
+          46.690534,
+          11.734825
+        ],
+        [
+          46.690503,
+          11.734652
+        ],
+        [
+          46.69045,
+          11.734476
+        ],
+        [
+          46.690155,
+          11.733705
+        ],
+        [
+          46.690045,
+          11.733264
+        ],
+        [
+          46.689979,
+          11.732787
+        ],
+        [
+          46.689788,
+          11.732453
+        ],
+        [
+          46.689203,
+          11.732552
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_674402659_0",
+      "name": "Piste 674402659",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_39",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.692298,
+          11.73925
+        ],
+        [
+          46.691027,
+          11.740429
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_674402660_0",
+      "name": "Piste 674402660",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          46.689623,
+          11.743244
+        ],
+        [
+          46.689012,
+          11.742684
+        ],
+        [
+          46.688267,
+          11.742354
+        ],
+        [
+          46.687435,
+          11.742304
+        ],
+        [
+          46.686639,
+          11.74159
+        ],
+        [
+          46.68599,
+          11.741255
+        ],
+        [
+          46.685294,
+          11.740751
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_674402660_1",
+      "name": "Piste 674402660",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.685294,
+          11.740751
+        ],
+        [
+          46.684577,
+          11.738685
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_674402661_0",
+      "name": "Familienabfahrt",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_50",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.688532,
+          11.736583
+        ],
+        [
+          46.687787,
+          11.736094
+        ],
+        [
+          46.685125,
+          11.736931
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_674402661_1",
+      "name": "Familienabfahrt",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.685125,
+          11.736931
+        ],
+        [
+          46.68438,
+          11.737262
+        ],
+        [
+          46.684016,
+          11.737319
+        ],
+        [
+          46.683381,
+          11.736955
+        ],
+        [
+          46.682831,
+          11.736921
+        ],
+        [
+          46.682331,
+          11.736861
+        ],
+        [
+          46.681787,
+          11.736649
+        ],
+        [
+          46.681057,
+          11.736708
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_678145046_0",
+      "name": "Familienabfahrt",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_52",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.684577,
+          11.738685
+        ],
+        [
+          46.684055,
+          11.738984
+        ],
+        [
+          46.683545,
+          11.739759
+        ],
+        [
+          46.683275,
+          11.739919
+        ],
+        [
+          46.682663,
+          11.739696
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_678145046_1",
+      "name": "Familienabfahrt",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_51",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.682663,
+          11.739696
+        ],
+        [
+          46.682196,
+          11.738846
+        ],
+        [
+          46.681518,
+          11.738474
+        ],
+        [
+          46.681057,
+          11.736708
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_678145046_2",
+      "name": "Familienabfahrt",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_4",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.681057,
+          11.736708
+        ],
+        [
+          46.680788,
+          11.73691
+        ],
+        [
+          46.680498,
+          11.737023
+        ],
+        [
+          46.679883,
+          11.736264
+        ],
+        [
+          46.679266,
+          11.736296
+        ],
+        [
+          46.678471,
+          11.737241
+        ],
+        [
+          46.677655,
+          11.737826
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_678145047_0",
+      "name": "Piste 678145047",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.684577,
+          11.738685
+        ],
+        [
+          46.685006,
+          11.737921
+        ],
+        [
+          46.685125,
+          11.736931
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_678145048_0",
+      "name": "Piste 678145048",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_52",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.685294,
+          11.740751
+        ],
+        [
+          46.684595,
+          11.741043
+        ],
+        [
+          46.683132,
+          11.740288
+        ],
+        [
+          46.682663,
+          11.739696
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_678145049_0",
+      "name": "Plose 2",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_53",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          46.694608,
+          11.73249
+        ],
+        [
+          46.693862,
+          11.730054
+        ],
+        [
+          46.692453,
+          11.728553
+        ],
+        [
+          46.691609,
+          11.727285
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_678145049_2",
+      "name": "Plose 2",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_54",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.691491,
+          11.727107
+        ],
+        [
+          46.691116,
+          11.726422
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_678145049_3",
+      "name": "Plose 2",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_3",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.691116,
+          11.726422
+        ],
+        [
+          46.690773,
+          11.725794
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_678145050_0",
+      "name": "Piste 678145050",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.691116,
+          11.726422
+        ],
+        [
+          46.690552,
+          11.726758
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_678145051_0",
+      "name": "Piste 678145051",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_17",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.691609,
+          11.727285
+        ],
+        [
+          46.691343,
+          11.725415
+        ],
+        [
+          46.691186,
+          11.724842
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_771473890_0",
+      "name": "Piste 771473890",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.685527,
+          11.711656
+        ],
+        [
+          46.684625,
+          11.711309
+        ],
+        [
+          46.684097,
+          11.710356
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_771473890_1",
+      "name": "Piste 771473890",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_2",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.684097,
+          11.710356
+        ],
+        [
+          46.683825,
+          11.70939
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_987721258_4",
+      "name": "Piste 987721258",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.691384,
+          11.74642
+        ],
+        [
+          46.691328,
+          11.745922
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1212200080_0",
+      "name": "Piste 1212200080",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_2",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.684975,
+          11.710114
+        ],
+        [
+          46.684553,
+          11.710189
+        ],
+        [
+          46.68437,
+          11.710168
+        ],
+        [
+          46.683949,
+          11.709886
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1212200081_0",
+      "name": "Connection 1212200081",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.685811,
+          11.71022
+        ],
+        [
+          46.685624,
+          11.710473
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_0_node_20",
+      "name": "Walk: Rifugio Cai (Base) ↔ Junction: Trainingspiste - CAI",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.688622,
+          11.734328
+        ],
+        [
+          46.689046,
+          11.73447
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_46",
+      "name": "Walk: Schönbodenbahn (Base) ↔ Junction #47",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_46",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.683924,
+          11.709515
+        ],
+        [
+          46.684097,
+          11.710356
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_47",
+      "name": "Walk: Schönbodenbahn (Summit / Top) ↔ Junction: Funpark Plose",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_47",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.690722,
+          11.725833
+        ],
+        [
+          46.690397,
+          11.726091
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_54",
+      "name": "Walk: Schönbodenbahn (Summit / Top) ↔ Junction: Plose 2",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_54",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.690722,
+          11.725833
+        ],
+        [
+          46.691116,
+          11.726422
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_8",
+      "name": "Walk: Pfannspitz - Monte Fana (Summit / Top) ↔ Rossalm (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_8",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.691349,
+          11.746597
+        ],
+        [
+          46.692328,
+          11.747325
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_40",
+      "name": "Walk: Pfannspitz - Monte Fana (Summit / Top) ↔ Junction: Pfannspitz Gablervariante - Variante di Monte Fana Monte Forca",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.691349,
+          11.746597
+        ],
+        [
+          46.691328,
+          11.745922
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_27",
+      "name": "Walk: Palmschoß - Plancios (Summit / Top) ↔ Junction: Schönboden - Giogo Bello",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_27",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.68428,
+          11.711807
+        ],
+        [
+          46.683785,
+          11.711503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_34",
+      "name": "Walk: Palmschoß - Plancios (Summit / Top) ↔ Junction: Palmschoss - Plancios",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_34",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.68428,
+          11.711807
+        ],
+        [
+          46.683726,
+          11.712239
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_24",
+      "name": "Walk: Plosebahn II (Summit / Top) ↔ Junction: Schönboden - Giogo Bello",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_24",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.68585,
+          11.710323
+        ],
+        [
+          46.685467,
+          11.710502
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_16",
+      "name": "Walk: Plosebahn I (Base) ↔ Junction: 01 Trametsch",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_16",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.698284,
+          11.682916
+        ],
+        [
+          46.698529,
+          11.68309
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_24",
+      "name": "Walk: Junction: Brixner Höhenweg 30 ↔ Junction: Schönboden - Giogo Bello",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.685113,
+          11.710131
+        ],
+        [
+          46.685467,
+          11.710502
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_25",
+      "name": "Walk: Junction: Brixner Höhenweg 30 ↔ Junction: Schönboden - Giogo Bello",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_25",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.685113,
+          11.710131
+        ],
+        [
+          46.684819,
+          11.710057
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_15",
+      "name": "Walk: Junction: 01 Trametsch ↔ Junction: 01 Trametsch",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.687821,
+          11.711425
+        ],
+        [
+          46.687829,
+          11.711052
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_47",
+      "name": "Walk: Junction: Querfahrt - Attraversamento ↔ Junction: Funpark Plose",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.690552,
+          11.726758
+        ],
+        [
+          46.690397,
+          11.726091
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_54",
+      "name": "Walk: Junction: Querfahrt - Attraversamento ↔ Junction: Plose 2",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_54",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.690552,
+          11.726758
+        ],
+        [
+          46.691116,
+          11.726422
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_27",
+      "name": "Walk: Junction: Schönboden - Giogo Bello ↔ Junction: Schönboden - Giogo Bello",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.683483,
+          11.710831
+        ],
+        [
+          46.683785,
+          11.711503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_34",
+      "name": "Walk: Junction: Schönboden - Giogo Bello ↔ Junction: Palmschoss - Plancios",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_34",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.683785,
+          11.711503
+        ],
+        [
+          46.683726,
+          11.712239
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_35",
+      "name": "Walk: Junction: Schönboden - Giogo Bello ↔ Junction: Rossalmweg",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.683785,
+          11.711503
+        ],
+        [
+          46.683389,
+          11.711907
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_29_node_30",
+      "name": "Walk: Junction: Rossalm ↔ Junction: Rossalm",
+      "type": "walk",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.690072,
+          11.740687
+        ],
+        [
+          46.689597,
+          11.740593
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_33",
+      "name": "Walk: Junction: Rossalm ↔ Junction: Rossalm",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.688532,
+          11.736583
+        ],
+        [
+          46.688804,
+          11.735856
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_34_node_35",
+      "name": "Walk: Junction: Palmschoss - Plancios ↔ Junction: Rossalmweg",
+      "type": "walk",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.683726,
+          11.712239
+        ],
+        [
+          46.683389,
+          11.711907
+        ]
+      ]
+    }
+  ]
+}

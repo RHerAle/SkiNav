@@ -1,0 +1,10225 @@
+{
+  "id": "chiesa",
+  "name": "Chiesa in Valmalenco (Alpe Palù)",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.2684,
+      9.8358
+    ],
+    [
+      46.3133,
+      9.9043
+    ]
+  ],
+  "center": [
+    46.2934,
+    9.8742
+  ],
+  "stats": {
+    "slopes": "49.8 km",
+    "lifts": 9,
+    "elevation": "1000m - 2336m",
+    "drop": "1336m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Bocchel del Torno (Base)",
+      "lat": 46.299507,
+      "lng": 9.891222,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Bocchel del Torno (Summit / Top)",
+      "lat": 46.308312,
+      "lng": 9.8805,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Alpe Palú - Cima Motta (Base)",
+      "lat": 46.294267,
+      "lng": 9.868614,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Alpe Palú - Cima Motta (Summit / Top)",
+      "lat": 46.288077,
+      "lng": 9.884549,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Snow Eagle (Base)",
+      "lat": 46.273363,
+      "lng": 9.854954,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Snow Eagle (Summit / Top)",
+      "lat": 46.287268,
+      "lng": 9.863044,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Del Dosso (Base)",
+      "lat": 46.291117,
+      "lng": 9.865946,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Del Dosso (Summit / Top)",
+      "lat": 46.288717,
+      "lng": 9.867191,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Baby Bernina (Base)",
+      "lat": 46.294265,
+      "lng": 9.86154,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Baby Bernina (Summit / Top)",
+      "lat": 46.291681,
+      "lng": 9.867208,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Pedrana - Barchi - Palù (Base)",
+      "lat": 46.300294,
+      "lng": 9.840845,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Pedrana - Barchi - Palù (Summit / Top)",
+      "lat": 46.291966,
+      "lng": 9.865221,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Baby (Base)",
+      "lat": 46.291534,
+      "lng": 9.865813,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Baby (Summit / Top)",
+      "lat": 46.291021,
+      "lng": 9.867214,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Scerscen - Cima Motta (Base)",
+      "lat": 46.296502,
+      "lng": 9.899343,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Scerscen - Cima Motta (Summit / Top)",
+      "lat": 46.28809,
+      "lng": 9.885398,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Barchi",
+      "lat": 46.299905,
+      "lng": 9.854288,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Barchi",
+      "lat": 46.301002,
+      "lng": 9.852633,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction #24",
+      "lat": 46.291115,
+      "lng": 9.86432,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction #25",
+      "lat": 46.290822,
+      "lng": 9.863311,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Primavera",
+      "lat": 46.294705,
+      "lng": 9.862199,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Primavera",
+      "lat": 46.293682,
+      "lng": 9.864571,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Palu Park",
+      "lat": 46.292984,
+      "lng": 9.865498,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Palu Park",
+      "lat": 46.291857,
+      "lng": 9.86591,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.29226,
+      "lng": 9.865078,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.292712,
+      "lng": 9.864094,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.294683,
+      "lng": 9.861541,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.299883,
+      "lng": 9.850099,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.299905,
+      "lng": 9.84887,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: San Giuseppe",
+      "lat": 46.299349,
+      "lng": 9.85056,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Primavera",
+      "lat": 46.293303,
+      "lng": 9.864216,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction #37",
+      "lat": 46.292722,
+      "lng": 9.867439,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction #38",
+      "lat": 46.292162,
+      "lng": 9.868421,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction #39",
+      "lat": 46.291432,
+      "lng": 9.869598,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction #40",
+      "lat": 46.291378,
+      "lng": 9.865119,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction #41",
+      "lat": 46.288466,
+      "lng": 9.866134,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Halfpipe / Pista Allenamenti",
+      "lat": 46.289216,
+      "lng": 9.864115,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction #43",
+      "lat": 46.290663,
+      "lng": 9.864511,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Halfpipe / Pista Allenamenti",
+      "lat": 46.290859,
+      "lng": 9.865143,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction #45",
+      "lat": 46.289411,
+      "lng": 9.864126,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Aerials Trampolino",
+      "lat": 46.289004,
+      "lng": 9.865887,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction #47",
+      "lat": 46.288705,
+      "lng": 9.867799,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction #48",
+      "lat": 46.291045,
+      "lng": 9.870213,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction #49",
+      "lat": 46.290917,
+      "lng": 9.865665,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction #50",
+      "lat": 46.29416,
+      "lng": 9.869204,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction #51",
+      "lat": 46.291494,
+      "lng": 9.871916,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction #52",
+      "lat": 46.292137,
+      "lng": 9.881128,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction #53",
+      "lat": 46.291723,
+      "lng": 9.883485,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction #54",
+      "lat": 46.291486,
+      "lng": 9.884894,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction #55",
+      "lat": 46.288195,
+      "lng": 9.883842,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction #56",
+      "lat": 46.290575,
+      "lng": 9.883692,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction #57",
+      "lat": 46.291106,
+      "lng": 9.88373,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction #58",
+      "lat": 46.291586,
+      "lng": 9.883698,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction #59",
+      "lat": 46.292676,
+      "lng": 9.870964,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction #60",
+      "lat": 46.290553,
+      "lng": 9.881575,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction #61",
+      "lat": 46.291322,
+      "lng": 9.885149,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction #62",
+      "lat": 46.291537,
+      "lng": 9.885827,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction #63",
+      "lat": 46.292771,
+      "lng": 9.887867,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction #64",
+      "lat": 46.292547,
+      "lng": 9.885561,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction #65",
+      "lat": 46.298634,
+      "lng": 9.891242,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction #66",
+      "lat": 46.297554,
+      "lng": 9.893739,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction #67",
+      "lat": 46.299054,
+      "lng": 9.891449,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction #68",
+      "lat": 46.298604,
+      "lng": 9.889938,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction #69",
+      "lat": 46.297534,
+      "lng": 9.889159,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction #70",
+      "lat": 46.29212,
+      "lng": 9.884451,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction #71",
+      "lat": 46.294135,
+      "lng": 9.89085,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction #72",
+      "lat": 46.294069,
+      "lng": 9.890245,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction #73",
+      "lat": 46.289835,
+      "lng": 9.882176,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction #74",
+      "lat": 46.290599,
+      "lng": 9.882675,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction #75",
+      "lat": 46.289873,
+      "lng": 9.880328,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction #76",
+      "lat": 46.28936,
+      "lng": 9.881198,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction #77",
+      "lat": 46.291594,
+      "lng": 9.893655,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction #78",
+      "lat": 46.299257,
+      "lng": 9.88858,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction #79",
+      "lat": 46.298931,
+      "lng": 9.888835,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction #80",
+      "lat": 46.300642,
+      "lng": 9.888247,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction #81",
+      "lat": 46.306521,
+      "lng": 9.884798,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction #82",
+      "lat": 46.290666,
+      "lng": 9.87329,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction #83",
+      "lat": 46.290806,
+      "lng": 9.881899,
+      "type": "intersection"
+    },
+    {
+      "id": "node_83",
+      "name": "Junction #84",
+      "lat": 46.289815,
+      "lng": 9.882603,
+      "type": "intersection"
+    },
+    {
+      "id": "node_84",
+      "name": "Junction #85",
+      "lat": 46.290084,
+      "lng": 9.882459,
+      "type": "intersection"
+    },
+    {
+      "id": "node_85",
+      "name": "Junction #86",
+      "lat": 46.29913,
+      "lng": 9.890983,
+      "type": "intersection"
+    },
+    {
+      "id": "node_86",
+      "name": "Junction #87",
+      "lat": 46.296438,
+      "lng": 9.857417,
+      "type": "intersection"
+    },
+    {
+      "id": "node_87",
+      "name": "Junction #88",
+      "lat": 46.29151,
+      "lng": 9.884009,
+      "type": "intersection"
+    },
+    {
+      "id": "node_88",
+      "name": "Junction #89",
+      "lat": 46.290911,
+      "lng": 9.883867,
+      "type": "intersection"
+    },
+    {
+      "id": "node_89",
+      "name": "Junction #90",
+      "lat": 46.290728,
+      "lng": 9.872997,
+      "type": "intersection"
+    },
+    {
+      "id": "node_90",
+      "name": "Junction #91",
+      "lat": 46.296906,
+      "lng": 9.899234,
+      "type": "intersection"
+    },
+    {
+      "id": "node_91",
+      "name": "Junction #92",
+      "lat": 46.30019,
+      "lng": 9.888381,
+      "type": "intersection"
+    },
+    {
+      "id": "node_92",
+      "name": "Junction #93",
+      "lat": 46.299838,
+      "lng": 9.842094,
+      "type": "intersection"
+    },
+    {
+      "id": "node_93",
+      "name": "Junction #94",
+      "lat": 46.300045,
+      "lng": 9.840923,
+      "type": "intersection"
+    },
+    {
+      "id": "node_94",
+      "name": "Junction #95",
+      "lat": 46.298707,
+      "lng": 9.889451,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_245258987",
+      "name": "Bocchel del Torno",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.29,
+      "duration": 5,
+      "elevation": 283,
+      "geometry": [
+        [
+          46.2995,
+          9.891189
+        ],
+        [
+          46.300299,
+          9.890159
+        ],
+        [
+          46.300805,
+          9.889539
+        ],
+        [
+          46.301472,
+          9.888744
+        ],
+        [
+          46.302214,
+          9.887843
+        ],
+        [
+          46.302923,
+          9.886968
+        ],
+        [
+          46.303671,
+          9.886074
+        ],
+        [
+          46.304556,
+          9.885008
+        ],
+        [
+          46.305574,
+          9.883747
+        ],
+        [
+          46.306181,
+          9.883015
+        ],
+        [
+          46.307126,
+          9.88191
+        ],
+        [
+          46.307874,
+          9.880966
+        ],
+        [
+          46.308144,
+          9.880621
+        ],
+        [
+          46.308335,
+          9.88038
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_245258990",
+      "name": "Alpe Palú - Cima Motta",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.39,
+      "duration": 5,
+      "elevation": 305,
+      "geometry": [
+        [
+          46.294245,
+          9.868693
+        ],
+        [
+          46.293969,
+          9.86935
+        ],
+        [
+          46.293275,
+          9.871038
+        ],
+        [
+          46.292963,
+          9.871776
+        ],
+        [
+          46.292662,
+          9.872449
+        ],
+        [
+          46.2926,
+          9.872616
+        ],
+        [
+          46.292338,
+          9.873318
+        ],
+        [
+          46.292194,
+          9.873704
+        ],
+        [
+          46.291788,
+          9.874693
+        ],
+        [
+          46.29136,
+          9.875741
+        ],
+        [
+          46.290873,
+          9.876913
+        ],
+        [
+          46.290608,
+          9.877614
+        ],
+        [
+          46.290259,
+          9.878514
+        ],
+        [
+          46.290043,
+          9.879115
+        ],
+        [
+          46.289757,
+          9.879871
+        ],
+        [
+          46.289349,
+          9.880825
+        ],
+        [
+          46.289161,
+          9.881265
+        ],
+        [
+          46.288702,
+          9.882458
+        ],
+        [
+          46.288416,
+          9.883444
+        ],
+        [
+          46.288135,
+          9.884411
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_245258993",
+      "name": "Snow Eagle",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.65,
+      "duration": 4,
+      "elevation": 363,
+      "geometry": [
+        [
+          46.273363,
+          9.854954
+        ],
+        [
+          46.287151,
+          9.862919
+        ]
+      ],
+      "subtype": "cable_car",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_245258996",
+      "name": "Del Dosso",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.27,
+      "duration": 2,
+      "elevation": 59,
+      "geometry": [
+        [
+          46.290967,
+          9.865958
+        ],
+        [
+          46.290394,
+          9.866262
+        ],
+        [
+          46.289887,
+          9.866549
+        ],
+        [
+          46.289695,
+          9.866658
+        ],
+        [
+          46.289058,
+          9.86702
+        ],
+        [
+          46.288744,
+          9.867198
+        ],
+        [
+          46.288685,
+          9.867232
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_245258998",
+      "name": "Baby Bernina",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.5,
+      "duration": 2,
+      "elevation": 110,
+      "geometry": [
+        [
+          46.29419,
+          9.861615
+        ],
+        [
+          46.293854,
+          9.862395
+        ],
+        [
+          46.293645,
+          9.862848
+        ],
+        [
+          46.293298,
+          9.863599
+        ],
+        [
+          46.292835,
+          9.864599
+        ],
+        [
+          46.292115,
+          9.866155
+        ],
+        [
+          46.291725,
+          9.866997
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_263475150",
+      "name": "Pedrana - Barchi - Palù",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 2.12,
+      "duration": 8,
+      "elevation": 466,
+      "geometry": [
+        [
+          46.300145,
+          9.84099
+        ],
+        [
+          46.300056,
+          9.841832
+        ],
+        [
+          46.299918,
+          9.843135
+        ],
+        [
+          46.299789,
+          9.844352
+        ],
+        [
+          46.299737,
+          9.844846
+        ],
+        [
+          46.299607,
+          9.846074
+        ],
+        [
+          46.299502,
+          9.847061
+        ],
+        [
+          46.299348,
+          9.848516
+        ],
+        [
+          46.299273,
+          9.849222
+        ],
+        [
+          46.299163,
+          9.850266
+        ],
+        [
+          46.299143,
+          9.850456
+        ],
+        [
+          46.299119,
+          9.850636
+        ],
+        [
+          46.299086,
+          9.850746
+        ],
+        [
+          46.298977,
+          9.850962
+        ],
+        [
+          46.298551,
+          9.851809
+        ],
+        [
+          46.29847,
+          9.851969
+        ],
+        [
+          46.298312,
+          9.852282
+        ],
+        [
+          46.298059,
+          9.852784
+        ],
+        [
+          46.29746,
+          9.853974
+        ],
+        [
+          46.296789,
+          9.855305
+        ],
+        [
+          46.296266,
+          9.856343
+        ],
+        [
+          46.295949,
+          9.856973
+        ],
+        [
+          46.295572,
+          9.857722
+        ],
+        [
+          46.295286,
+          9.858289
+        ],
+        [
+          46.294681,
+          9.859489
+        ],
+        [
+          46.293911,
+          9.861017
+        ],
+        [
+          46.293183,
+          9.862463
+        ],
+        [
+          46.292538,
+          9.863741
+        ],
+        [
+          46.292039,
+          9.864733
+        ],
+        [
+          46.291848,
+          9.865097
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_322930298",
+      "name": "Baby",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          46.291475,
+          9.866003
+        ],
+        [
+          46.291269,
+          9.867162
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_892269866",
+      "name": "Scerscen - Cima Motta",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 1.42,
+      "duration": 5,
+      "elevation": 312,
+      "geometry": [
+        [
+          46.296463,
+          9.899359
+        ],
+        [
+          46.296315,
+          9.899091
+        ],
+        [
+          46.295905,
+          9.898364
+        ],
+        [
+          46.294799,
+          9.896537
+        ],
+        [
+          46.294083,
+          9.895316
+        ],
+        [
+          46.29376,
+          9.894778
+        ],
+        [
+          46.292797,
+          9.893128
+        ],
+        [
+          46.292197,
+          9.892111
+        ],
+        [
+          46.291565,
+          9.891067
+        ],
+        [
+          46.290947,
+          9.889983
+        ],
+        [
+          46.289586,
+          9.887686
+        ],
+        [
+          46.288994,
+          9.88677
+        ],
+        [
+          46.288635,
+          9.886258
+        ],
+        [
+          46.288093,
+          9.885483
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1244897667",
+      "name": "Baby 2",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_15",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          46.291151,
+          9.86598
+        ],
+        [
+          46.290985,
+          9.86707
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_300713930_1",
+      "name": "Piste 300713930",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.300044,
+          9.854163
+        ],
+        [
+          46.300546,
+          9.853678
+        ],
+        [
+          46.300613,
+          9.853599
+        ],
+        [
+          46.300655,
+          9.853568
+        ],
+        [
+          46.300703,
+          9.853489
+        ],
+        [
+          46.30073,
+          9.853422
+        ],
+        [
+          46.300764,
+          9.853324
+        ],
+        [
+          46.300796,
+          9.853258
+        ],
+        [
+          46.300841,
+          9.853154
+        ],
+        [
+          46.300913,
+          9.853016
+        ],
+        [
+          46.300991,
+          9.852874
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_399528134_0",
+      "name": "Piste 399528134",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.291104,
+          9.86436
+        ],
+        [
+          46.290822,
+          9.863311
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_891727838_1",
+      "name": "Piste 891727838",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.294671,
+          9.862141
+        ],
+        [
+          46.294296,
+          9.863029
+        ],
+        [
+          46.293981,
+          9.86386
+        ],
+        [
+          46.293785,
+          9.864236
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_891727838_5",
+      "name": "Piste 891727838",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_25",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.293894,
+          9.864745
+        ],
+        [
+          46.294182,
+          9.863956
+        ],
+        [
+          46.294767,
+          9.862283
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_891727839_2",
+      "name": "Palu Park",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.292933,
+          9.865308
+        ],
+        [
+          46.292557,
+          9.865542
+        ],
+        [
+          46.292151,
+          9.865747
+        ],
+        [
+          46.291857,
+          9.865959
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_891727839_3",
+      "name": "Palu Park",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_27",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.291857,
+          9.865959
+        ],
+        [
+          46.291975,
+          9.866143
+        ],
+        [
+          46.292278,
+          9.866128
+        ],
+        [
+          46.292619,
+          9.86598
+        ],
+        [
+          46.292879,
+          9.865821
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269836_0",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.292008,
+          9.865367
+        ],
+        [
+          46.29226,
+          9.865078
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_1",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.29226,
+          9.865078
+        ],
+        [
+          46.292671,
+          9.864219
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_3",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_8",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.292816,
+          9.864024
+        ],
+        [
+          46.293008,
+          9.863913
+        ],
+        [
+          46.293114,
+          9.863746
+        ],
+        [
+          46.29319,
+          9.863626
+        ],
+        [
+          46.29337,
+          9.863265
+        ],
+        [
+          46.293686,
+          9.862583
+        ],
+        [
+          46.293944,
+          9.86193
+        ],
+        [
+          46.29419,
+          9.861615
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_5",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294365,
+          9.8615
+        ],
+        [
+          46.294689,
+          9.861214
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_6",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 1.07,
+      "duration": 1,
+      "elevation": -171,
+      "geometry": [
+        [
+          46.294689,
+          9.861214
+        ],
+        [
+          46.29493,
+          9.860694
+        ],
+        [
+          46.295375,
+          9.860151
+        ],
+        [
+          46.295702,
+          9.859321
+        ],
+        [
+          46.296228,
+          9.858173
+        ],
+        [
+          46.29677,
+          9.857021
+        ],
+        [
+          46.297697,
+          9.855377
+        ],
+        [
+          46.299403,
+          9.853317
+        ],
+        [
+          46.299436,
+          9.852531
+        ],
+        [
+          46.299348,
+          9.851922
+        ],
+        [
+          46.299383,
+          9.851476
+        ],
+        [
+          46.299632,
+          9.850869
+        ],
+        [
+          46.300006,
+          9.850167
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_7",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_10",
+      "distance": 0.81,
+      "duration": 1,
+      "elevation": -129,
+      "geometry": [
+        [
+          46.300006,
+          9.850167
+        ],
+        [
+          46.300194,
+          9.849563
+        ],
+        [
+          46.300194,
+          9.848552
+        ],
+        [
+          46.299926,
+          9.847655
+        ],
+        [
+          46.299174,
+          9.846875
+        ],
+        [
+          46.299034,
+          9.84637
+        ],
+        [
+          46.29902,
+          9.845818
+        ],
+        [
+          46.298867,
+          9.845267
+        ],
+        [
+          46.299174,
+          9.844527
+        ],
+        [
+          46.299652,
+          9.843545
+        ],
+        [
+          46.299824,
+          9.843054
+        ],
+        [
+          46.300152,
+          9.84223
+        ],
+        [
+          46.300331,
+          9.841571
+        ],
+        [
+          46.30045,
+          9.840973
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_12",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_33",
+      "distance": 0.74,
+      "duration": 1,
+      "elevation": -118,
+      "geometry": [
+        [
+          46.300045,
+          9.840689
+        ],
+        [
+          46.299777,
+          9.841102
+        ],
+        [
+          46.299594,
+          9.84147
+        ],
+        [
+          46.299338,
+          9.842868
+        ],
+        [
+          46.298674,
+          9.844333
+        ],
+        [
+          46.298306,
+          9.845114
+        ],
+        [
+          46.298621,
+          9.84596
+        ],
+        [
+          46.298851,
+          9.846769
+        ],
+        [
+          46.29893,
+          9.847288
+        ],
+        [
+          46.299706,
+          9.848082
+        ],
+        [
+          46.29985,
+          9.848824
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_13",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_32",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.29985,
+          9.848824
+        ],
+        [
+          46.299707,
+          9.849999
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_14",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_34",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.299707,
+          9.849999
+        ],
+        [
+          46.299514,
+          9.850279
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269836_20",
+      "name": "San Giuseppe",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_11",
+      "distance": 1.38,
+      "duration": 2,
+      "elevation": -220,
+      "geometry": [
+        [
+          46.299169,
+          9.850822
+        ],
+        [
+          46.299001,
+          9.851361
+        ],
+        [
+          46.299026,
+          9.851866
+        ],
+        [
+          46.299077,
+          9.852359
+        ],
+        [
+          46.299103,
+          9.852683
+        ],
+        [
+          46.299053,
+          9.852855
+        ],
+        [
+          46.298914,
+          9.853139
+        ],
+        [
+          46.29757,
+          9.854511
+        ],
+        [
+          46.296588,
+          9.856301
+        ],
+        [
+          46.295775,
+          9.857993
+        ],
+        [
+          46.294673,
+          9.860124
+        ],
+        [
+          46.29371,
+          9.861559
+        ],
+        [
+          46.292727,
+          9.86354
+        ],
+        [
+          46.292335,
+          9.864277
+        ],
+        [
+          46.292042,
+          9.864949
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269839_1",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294689,
+          9.861214
+        ],
+        [
+          46.294365,
+          9.8615
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_3",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_35",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.29419,
+          9.861615
+        ],
+        [
+          46.294119,
+          9.862196
+        ],
+        [
+          46.294019,
+          9.862479
+        ],
+        [
+          46.293681,
+          9.863255
+        ],
+        [
+          46.293456,
+          9.86407
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_6",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_11",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.293246,
+          9.864384
+        ],
+        [
+          46.292823,
+          9.864985
+        ],
+        [
+          46.292558,
+          9.864932
+        ],
+        [
+          46.29226,
+          9.865078
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_8",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.292008,
+          9.865367
+        ],
+        [
+          46.291857,
+          9.865959
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_9",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_27",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.291857,
+          9.865959
+        ],
+        [
+          46.292151,
+          9.865747
+        ],
+        [
+          46.292557,
+          9.865542
+        ],
+        [
+          46.292933,
+          9.865308
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_10",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_26",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.292933,
+          9.865308
+        ],
+        [
+          46.293192,
+          9.865082
+        ],
+        [
+          46.293632,
+          9.864804
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_13",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_25",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.293785,
+          9.864236
+        ],
+        [
+          46.293981,
+          9.86386
+        ],
+        [
+          46.294296,
+          9.863029
+        ],
+        [
+          46.294671,
+          9.862141
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269839_14",
+      "name": "Primavera",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294671,
+          9.862141
+        ],
+        [
+          46.294667,
+          9.86161
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269841_0",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_25",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294667,
+          9.86161
+        ],
+        [
+          46.294671,
+          9.862141
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_2",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_21",
+      "distance": 0.92,
+      "duration": 1,
+      "elevation": -147,
+      "geometry": [
+        [
+          46.294767,
+          9.862283
+        ],
+        [
+          46.295681,
+          9.860746
+        ],
+        [
+          46.296804,
+          9.858976
+        ],
+        [
+          46.296696,
+          9.858149
+        ],
+        [
+          46.296735,
+          9.857553
+        ],
+        [
+          46.297605,
+          9.857346
+        ],
+        [
+          46.298476,
+          9.857094
+        ],
+        [
+          46.299115,
+          9.856609
+        ],
+        [
+          46.299347,
+          9.856179
+        ],
+        [
+          46.299508,
+          9.855534
+        ],
+        [
+          46.299502,
+          9.854965
+        ],
+        [
+          46.299579,
+          9.854638
+        ],
+        [
+          46.29976,
+          9.85447
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_4",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.300199,
+          9.854255
+        ],
+        [
+          46.300625,
+          9.853872
+        ],
+        [
+          46.300876,
+          9.853536
+        ],
+        [
+          46.300928,
+          9.853265
+        ],
+        [
+          46.301005,
+          9.852891
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_7",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_32",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.301083,
+          9.852294
+        ],
+        [
+          46.301012,
+          9.852023
+        ],
+        [
+          46.300747,
+          9.851686
+        ],
+        [
+          46.300625,
+          9.851322
+        ],
+        [
+          46.300463,
+          9.850967
+        ],
+        [
+          46.300244,
+          9.850678
+        ],
+        [
+          46.300173,
+          9.850267
+        ],
+        [
+          46.300194,
+          9.849563
+        ],
+        [
+          46.300006,
+          9.850167
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_8",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_22",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.300006,
+          9.850167
+        ],
+        [
+          46.299632,
+          9.850869
+        ],
+        [
+          46.299383,
+          9.851476
+        ],
+        [
+          46.299799,
+          9.851453
+        ],
+        [
+          46.300031,
+          9.851444
+        ],
+        [
+          46.300283,
+          9.851468
+        ],
+        [
+          46.300489,
+          9.851836
+        ],
+        [
+          46.300683,
+          9.852172
+        ],
+        [
+          46.30085,
+          9.852424
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_9",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_21",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.30085,
+          9.852424
+        ],
+        [
+          46.300767,
+          9.852994
+        ],
+        [
+          46.300599,
+          9.85348
+        ],
+        [
+          46.300141,
+          9.8539
+        ],
+        [
+          46.299689,
+          9.854255
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269841_10",
+      "name": "Barchi",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_31",
+      "distance": 0.91,
+      "duration": 1,
+      "elevation": -145,
+      "geometry": [
+        [
+          46.299689,
+          9.854255
+        ],
+        [
+          46.299444,
+          9.854488
+        ],
+        [
+          46.299289,
+          9.854974
+        ],
+        [
+          46.299263,
+          9.855544
+        ],
+        [
+          46.299127,
+          9.856151
+        ],
+        [
+          46.298766,
+          9.856534
+        ],
+        [
+          46.298411,
+          9.85673
+        ],
+        [
+          46.297643,
+          9.856963
+        ],
+        [
+          46.296991,
+          9.857141
+        ],
+        [
+          46.29677,
+          9.857021
+        ],
+        [
+          46.296228,
+          9.858173
+        ],
+        [
+          46.296362,
+          9.858328
+        ],
+        [
+          46.296335,
+          9.858716
+        ],
+        [
+          46.296152,
+          9.85898
+        ],
+        [
+          46.29582,
+          9.859406
+        ],
+        [
+          46.295702,
+          9.859321
+        ],
+        [
+          46.295375,
+          9.860151
+        ],
+        [
+          46.295402,
+          9.8604
+        ],
+        [
+          46.294978,
+          9.8613
+        ],
+        [
+          46.294667,
+          9.86161
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269842_0",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.293632,
+          9.864804
+        ],
+        [
+          46.293192,
+          9.865082
+        ],
+        [
+          46.293152,
+          9.865463
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_1",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_36",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.293152,
+          9.865463
+        ],
+        [
+          46.292971,
+          9.866183
+        ],
+        [
+          46.292831,
+          9.866792
+        ],
+        [
+          46.292683,
+          9.867192
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_2",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_28",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.292683,
+          9.867192
+        ],
+        [
+          46.292164,
+          9.866402
+        ],
+        [
+          46.291975,
+          9.866143
+        ],
+        [
+          46.291857,
+          9.865959
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_3",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_36",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.291857,
+          9.865959
+        ],
+        [
+          46.291761,
+          9.866329
+        ],
+        [
+          46.292016,
+          9.866627
+        ],
+        [
+          46.292115,
+          9.866896
+        ],
+        [
+          46.292331,
+          9.867225
+        ],
+        [
+          46.292554,
+          9.867516
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_4",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.292554,
+          9.867516
+        ],
+        [
+          46.292452,
+          9.867818
+        ],
+        [
+          46.292168,
+          9.868213
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_5",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_9",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.292168,
+          9.868213
+        ],
+        [
+          46.29183,
+          9.867653
+        ],
+        [
+          46.291762,
+          9.867347
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_6",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_37",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.291762,
+          9.867347
+        ],
+        [
+          46.291709,
+          9.867903
+        ],
+        [
+          46.292069,
+          9.868603
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_7",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.292069,
+          9.868603
+        ],
+        [
+          46.291899,
+          9.868926
+        ],
+        [
+          46.291628,
+          9.869163
+        ],
+        [
+          46.291546,
+          9.86962
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_8",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_37",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.291546,
+          9.86962
+        ],
+        [
+          46.291788,
+          9.869851
+        ],
+        [
+          46.292339,
+          9.868582
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_9",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_36",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.292339,
+          9.868582
+        ],
+        [
+          46.292747,
+          9.867681
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_10",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_2",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.292747,
+          9.867681
+        ],
+        [
+          46.293567,
+          9.867939
+        ],
+        [
+          46.293792,
+          9.868099
+        ],
+        [
+          46.293956,
+          9.868282
+        ],
+        [
+          46.294103,
+          9.868413
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_14",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_36",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.294248,
+          9.868511
+        ],
+        [
+          46.294334,
+          9.868179
+        ],
+        [
+          46.294371,
+          9.868035
+        ],
+        [
+          46.294378,
+          9.86767
+        ],
+        [
+          46.294226,
+          9.867686
+        ],
+        [
+          46.293938,
+          9.867692
+        ],
+        [
+          46.293483,
+          9.867533
+        ],
+        [
+          46.292926,
+          9.867357
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269842_15",
+      "name": "Piste 892269842",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_26",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.292926,
+          9.867357
+        ],
+        [
+          46.293289,
+          9.866106
+        ],
+        [
+          46.293632,
+          9.864804
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_1",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_15",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.291293,
+          9.869593
+        ],
+        [
+          46.291239,
+          9.868574
+        ],
+        [
+          46.291195,
+          9.868015
+        ],
+        [
+          46.291269,
+          9.867162
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_2",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_14",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.291269,
+          9.867162
+        ],
+        [
+          46.291475,
+          9.866003
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_4",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291512,
+          9.865701
+        ],
+        [
+          46.291576,
+          9.865318
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_10",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.29158,
+          9.864805
+        ],
+        [
+          46.291804,
+          9.865055
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_15",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_9",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.292008,
+          9.865367
+        ],
+        [
+          46.291761,
+          9.866329
+        ],
+        [
+          46.292016,
+          9.866627
+        ],
+        [
+          46.291762,
+          9.867347
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269843_16",
+      "name": "Piste 892269843",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_38",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.291762,
+          9.867347
+        ],
+        [
+          46.291709,
+          9.867903
+        ],
+        [
+          46.291667,
+          9.868257
+        ],
+        [
+          46.291724,
+          9.868625
+        ],
+        [
+          46.291628,
+          9.869163
+        ],
+        [
+          46.291546,
+          9.86962
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269844_0",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_7",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.288424,
+          9.866159
+        ],
+        [
+          46.288644,
+          9.866719
+        ],
+        [
+          46.288744,
+          9.867198
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_2",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_5",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -59,
+      "geometry": [
+        [
+          46.288502,
+          9.86729
+        ],
+        [
+          46.288327,
+          9.866732
+        ],
+        [
+          46.287764,
+          9.864511
+        ],
+        [
+          46.287643,
+          9.863486
+        ],
+        [
+          46.287538,
+          9.863258
+        ],
+        [
+          46.287201,
+          9.863265
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_5",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_41",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.287399,
+          9.862969
+        ],
+        [
+          46.287604,
+          9.863068
+        ],
+        [
+          46.288401,
+          9.863466
+        ],
+        [
+          46.288781,
+          9.863684
+        ],
+        [
+          46.289035,
+          9.863694
+        ],
+        [
+          46.289137,
+          9.863717
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_6",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.289137,
+          9.863717
+        ],
+        [
+          46.289557,
+          9.863906
+        ],
+        [
+          46.28971,
+          9.864111
+        ],
+        [
+          46.290202,
+          9.864326
+        ],
+        [
+          46.290507,
+          9.864313
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_9",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290688,
+          9.86425
+        ],
+        [
+          46.2907,
+          9.864198
+        ],
+        [
+          46.290975,
+          9.864344
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_15",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_39",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.291262,
+          9.86422
+        ],
+        [
+          46.291373,
+          9.86403
+        ],
+        [
+          46.291484,
+          9.864104
+        ],
+        [
+          46.291425,
+          9.864271
+        ],
+        [
+          46.291471,
+          9.864305
+        ],
+        [
+          46.29139,
+          9.864719
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_22",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_43",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291186,
+          9.865266
+        ],
+        [
+          46.291037,
+          9.865182
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_24",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_42",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290804,
+          9.865027
+        ],
+        [
+          46.290851,
+          9.864661
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_26",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_44",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.290552,
+          9.864654
+        ],
+        [
+          46.290147,
+          9.864642
+        ],
+        [
+          46.289932,
+          9.864542
+        ],
+        [
+          46.289449,
+          9.864144
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_28",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.289372,
+          9.864108
+        ],
+        [
+          46.289299,
+          9.864086
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269844_33",
+      "name": "Piste 892269844",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_40",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.289023,
+          9.864219
+        ],
+        [
+          46.288772,
+          9.864156
+        ],
+        [
+          46.288528,
+          9.864033
+        ],
+        [
+          46.288473,
+          9.86398
+        ],
+        [
+          46.288274,
+          9.863856
+        ],
+        [
+          46.288206,
+          9.863825
+        ],
+        [
+          46.288154,
+          9.863838
+        ],
+        [
+          46.28806,
+          9.863865
+        ],
+        [
+          46.28801,
+          9.863887
+        ],
+        [
+          46.287965,
+          9.863927
+        ],
+        [
+          46.287946,
+          9.863966
+        ],
+        [
+          46.287925,
+          9.864068
+        ],
+        [
+          46.287931,
+          9.864157
+        ],
+        [
+          46.287949,
+          9.86429
+        ],
+        [
+          46.288424,
+          9.866159
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269845_1",
+      "name": "Halfpipe / Pista Allenamenti",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_41",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.290757,
+          9.865327
+        ],
+        [
+          46.290712,
+          9.865622
+        ],
+        [
+          46.290381,
+          9.865313
+        ],
+        [
+          46.289947,
+          9.864986
+        ],
+        [
+          46.289428,
+          9.864712
+        ],
+        [
+          46.289157,
+          9.864551
+        ],
+        [
+          46.289241,
+          9.864086
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269845_5",
+      "name": "Halfpipe / Pista Allenamenti",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_43",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.289449,
+          9.864144
+        ],
+        [
+          46.289932,
+          9.864542
+        ],
+        [
+          46.290147,
+          9.864642
+        ],
+        [
+          46.290804,
+          9.865027
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269846_3",
+      "name": "Piste 892269846",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_40",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.289023,
+          9.864219
+        ],
+        [
+          46.288772,
+          9.864156
+        ],
+        [
+          46.288528,
+          9.864033
+        ],
+        [
+          46.288555,
+          9.864095
+        ],
+        [
+          46.288552,
+          9.864192
+        ],
+        [
+          46.288537,
+          9.86429
+        ],
+        [
+          46.288534,
+          9.864383
+        ],
+        [
+          46.288537,
+          9.864449
+        ],
+        [
+          46.28861,
+          9.864666
+        ],
+        [
+          46.288666,
+          9.864795
+        ],
+        [
+          46.288678,
+          9.864866
+        ],
+        [
+          46.28867,
+          9.864949
+        ],
+        [
+          46.288517,
+          9.866069
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269846_7",
+      "name": "Piste 892269846",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_7",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.288424,
+          9.866159
+        ],
+        [
+          46.288644,
+          9.866719
+        ],
+        [
+          46.288744,
+          9.867198
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269846_9",
+      "name": "Piste 892269846",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_45",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.288846,
+          9.866915
+        ],
+        [
+          46.288907,
+          9.866596
+        ],
+        [
+          46.28896,
+          9.866081
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269846_13",
+      "name": "Piste 892269846",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_41",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.289062,
+          9.865562
+        ],
+        [
+          46.289157,
+          9.864551
+        ],
+        [
+          46.289241,
+          9.864086
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269848_2",
+      "name": "Piste 892269848",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.288502,
+          9.86729
+        ],
+        [
+          46.288674,
+          9.867842
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269848_3",
+      "name": "Piste 892269848",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_15",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.288674,
+          9.867842
+        ],
+        [
+          46.288703,
+          9.868261
+        ],
+        [
+          46.289014,
+          9.868353
+        ],
+        [
+          46.290466,
+          9.868275
+        ],
+        [
+          46.290959,
+          9.868035
+        ],
+        [
+          46.290954,
+          9.86736
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269848_5",
+      "name": "Piste 892269848",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_7",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.290926,
+          9.866962
+        ],
+        [
+          46.290701,
+          9.86636
+        ],
+        [
+          46.290548,
+          9.866289
+        ],
+        [
+          46.290425,
+          9.866714
+        ],
+        [
+          46.290552,
+          9.866927
+        ],
+        [
+          46.290482,
+          9.867116
+        ],
+        [
+          46.290323,
+          9.867133
+        ],
+        [
+          46.290266,
+          9.867252
+        ],
+        [
+          46.289788,
+          9.86737
+        ],
+        [
+          46.289242,
+          9.86737
+        ],
+        [
+          46.288972,
+          9.867204
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269849_1",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291122,
+          9.870145
+        ],
+        [
+          46.291293,
+          9.869593
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_2",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_15",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.291293,
+          9.869593
+        ],
+        [
+          46.291239,
+          9.868574
+        ],
+        [
+          46.291195,
+          9.868015
+        ],
+        [
+          46.291178,
+          9.867205
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_4",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_6",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.291176,
+          9.867102
+        ],
+        [
+          46.291239,
+          9.866366
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_5",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_6",
+      "to": "node_14",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.291239,
+          9.866366
+        ],
+        [
+          46.291383,
+          9.865656
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_6",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291383,
+          9.865656
+        ],
+        [
+          46.291418,
+          9.865444
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_9",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_43",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291186,
+          9.865266
+        ],
+        [
+          46.291037,
+          9.865182
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_12",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290757,
+          9.865327
+        ],
+        [
+          46.290712,
+          9.865622
+        ],
+        [
+          46.290816,
+          9.865856
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_13",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290816,
+          9.865856
+        ],
+        [
+          46.290843,
+          9.865957
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269849_16",
+      "name": "Piste 892269849",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_47",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.290954,
+          9.86736
+        ],
+        [
+          46.290959,
+          9.868035
+        ],
+        [
+          46.290971,
+          9.868653
+        ],
+        [
+          46.290997,
+          9.86958
+        ],
+        [
+          46.290869,
+          9.870327
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_892269850_0",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291122,
+          9.870145
+        ],
+        [
+          46.291293,
+          9.869593
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_2",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_49",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          46.291546,
+          9.86962
+        ],
+        [
+          46.291788,
+          9.869851
+        ],
+        [
+          46.29192,
+          9.869906
+        ],
+        [
+          46.292174,
+          9.869874
+        ],
+        [
+          46.292613,
+          9.869771
+        ],
+        [
+          46.293119,
+          9.869556
+        ],
+        [
+          46.293379,
+          9.869439
+        ],
+        [
+          46.29363,
+          9.869264
+        ],
+        [
+          46.293851,
+          9.869117
+        ],
+        [
+          46.294069,
+          9.869028
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_3",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294069,
+          9.869028
+        ],
+        [
+          46.294197,
+          9.868964
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_10",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294314,
+          9.869018
+        ],
+        [
+          46.294205,
+          9.869292
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_11",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          46.294205,
+          9.869292
+        ],
+        [
+          46.293636,
+          9.869622
+        ],
+        [
+          46.293078,
+          9.869946
+        ],
+        [
+          46.292661,
+          9.870087
+        ],
+        [
+          46.292193,
+          9.8702
+        ],
+        [
+          46.291989,
+          9.870203
+        ],
+        [
+          46.291829,
+          9.870206
+        ],
+        [
+          46.291525,
+          9.870245
+        ],
+        [
+          46.291369,
+          9.870411
+        ],
+        [
+          46.291308,
+          9.870611
+        ],
+        [
+          46.291361,
+          9.87089
+        ],
+        [
+          46.291601,
+          9.871848
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_12",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.76,
+      "duration": 1,
+      "elevation": -121,
+      "geometry": [
+        [
+          46.291601,
+          9.871848
+        ],
+        [
+          46.291972,
+          9.872637
+        ],
+        [
+          46.292289,
+          9.873284
+        ],
+        [
+          46.292411,
+          9.873531
+        ],
+        [
+          46.292459,
+          9.873629
+        ],
+        [
+          46.292514,
+          9.873707
+        ],
+        [
+          46.292619,
+          9.873857
+        ],
+        [
+          46.292785,
+          9.874122
+        ],
+        [
+          46.292771,
+          9.875181
+        ],
+        [
+          46.292473,
+          9.87578
+        ],
+        [
+          46.29226,
+          9.877486
+        ],
+        [
+          46.292253,
+          9.878216
+        ],
+        [
+          46.292292,
+          9.881009
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_13",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_52",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.292292,
+          9.881009
+        ],
+        [
+          46.292218,
+          9.882364
+        ],
+        [
+          46.292016,
+          9.883243
+        ],
+        [
+          46.291941,
+          9.883599
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_14",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.291941,
+          9.883599
+        ],
+        [
+          46.291914,
+          9.88412
+        ],
+        [
+          46.291545,
+          9.884655
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_17",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_54",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          46.291279,
+          9.885051
+        ],
+        [
+          46.290908,
+          9.884601
+        ],
+        [
+          46.290108,
+          9.884086
+        ],
+        [
+          46.289344,
+          9.883753
+        ],
+        [
+          46.288558,
+          9.883796
+        ],
+        [
+          46.288254,
+          9.883746
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_19",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.288214,
+          9.884043
+        ],
+        [
+          46.28813,
+          9.884669
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_21",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.288096,
+          9.88466
+        ],
+        [
+          46.28804,
+          9.885092
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_24",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_3",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.28798,
+          9.885257
+        ],
+        [
+          46.287979,
+          9.884605
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_27",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_55",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.287875,
+          9.884154
+        ],
+        [
+          46.287722,
+          9.883499
+        ],
+        [
+          46.28796,
+          9.883105
+        ],
+        [
+          46.288033,
+          9.882783
+        ],
+        [
+          46.288107,
+          9.8827
+        ],
+        [
+          46.288309,
+          9.882025
+        ],
+        [
+          46.288581,
+          9.882244
+        ],
+        [
+          46.288535,
+          9.882692
+        ],
+        [
+          46.288612,
+          9.882723
+        ],
+        [
+          46.288737,
+          9.882898
+        ],
+        [
+          46.288694,
+          9.883082
+        ],
+        [
+          46.28872,
+          9.883259
+        ],
+        [
+          46.28904,
+          9.883389
+        ],
+        [
+          46.289276,
+          9.883063
+        ],
+        [
+          46.289417,
+          9.88299
+        ],
+        [
+          46.289844,
+          9.883161
+        ],
+        [
+          46.29013,
+          9.883405
+        ],
+        [
+          46.290352,
+          9.883515
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_29",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.29067,
+          9.883673
+        ],
+        [
+          46.291047,
+          9.88376
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_31",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291164,
+          9.883787
+        ],
+        [
+          46.291586,
+          9.883698
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_32",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291586,
+          9.883698
+        ],
+        [
+          46.291704,
+          9.883328
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_33",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_51",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.291704,
+          9.883328
+        ],
+        [
+          46.291765,
+          9.883137
+        ],
+        [
+          46.291996,
+          9.882267
+        ],
+        [
+          46.292003,
+          9.882145
+        ],
+        [
+          46.292069,
+          9.881055
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_34",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_50",
+      "distance": 0.73,
+      "duration": 1,
+      "elevation": -116,
+      "geometry": [
+        [
+          46.292069,
+          9.881055
+        ],
+        [
+          46.292097,
+          9.879965
+        ],
+        [
+          46.291978,
+          9.879003
+        ],
+        [
+          46.291878,
+          9.878185
+        ],
+        [
+          46.291895,
+          9.876973
+        ],
+        [
+          46.291894,
+          9.876878
+        ],
+        [
+          46.291952,
+          9.876406
+        ],
+        [
+          46.291989,
+          9.875143
+        ],
+        [
+          46.292127,
+          9.87467
+        ],
+        [
+          46.29227,
+          9.874422
+        ],
+        [
+          46.29222,
+          9.873957
+        ],
+        [
+          46.292153,
+          9.87373
+        ],
+        [
+          46.292077,
+          9.873472
+        ],
+        [
+          46.292001,
+          9.873217
+        ],
+        [
+          46.291664,
+          9.872518
+        ],
+        [
+          46.29144,
+          9.871956
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269850_35",
+      "name": "Piste 892269850",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_47",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.29144,
+          9.871956
+        ],
+        [
+          46.291221,
+          9.871119
+        ],
+        [
+          46.291122,
+          9.870145
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269853_1",
+      "name": "Piste 892269853",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_51",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.29065,
+          9.881598
+        ],
+        [
+          46.290687,
+          9.882263
+        ],
+        [
+          46.291235,
+          9.882231
+        ],
+        [
+          46.291888,
+          9.882145
+        ],
+        [
+          46.292003,
+          9.882145
+        ],
+        [
+          46.292069,
+          9.881055
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269853_2",
+      "name": "Piste 892269853",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_59",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.292069,
+          9.881055
+        ],
+        [
+          46.29192,
+          9.881182
+        ],
+        [
+          46.291553,
+          9.881332
+        ],
+        [
+          46.291057,
+          9.881299
+        ],
+        [
+          46.290577,
+          9.881135
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_0",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_60",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.288214,
+          9.884043
+        ],
+        [
+          46.289299,
+          9.884096
+        ],
+        [
+          46.290137,
+          9.884526
+        ],
+        [
+          46.291064,
+          9.885244
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_1",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.291064,
+          9.885244
+        ],
+        [
+          46.291561,
+          9.885834
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_2",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_62",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.291561,
+          9.885834
+        ],
+        [
+          46.292183,
+          9.886661
+        ],
+        [
+          46.292858,
+          9.887841
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_3",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_53",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.292858,
+          9.887841
+        ],
+        [
+          46.293288,
+          9.888195
+        ],
+        [
+          46.292747,
+          9.88694
+        ],
+        [
+          46.292347,
+          9.886264
+        ],
+        [
+          46.292354,
+          9.885755
+        ],
+        [
+          46.291762,
+          9.885264
+        ],
+        [
+          46.291546,
+          9.885116
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_4",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_60",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291546,
+          9.885116
+        ],
+        [
+          46.291279,
+          9.885051
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269854_5",
+      "name": "Piste 892269854",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_54",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          46.291279,
+          9.885051
+        ],
+        [
+          46.290908,
+          9.884601
+        ],
+        [
+          46.290108,
+          9.884086
+        ],
+        [
+          46.289344,
+          9.883753
+        ],
+        [
+          46.288558,
+          9.883796
+        ],
+        [
+          46.288254,
+          9.883746
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269855_0",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291389,
+          9.884887
+        ],
+        [
+          46.291611,
+          9.885002
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_1",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_60",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291611,
+          9.885002
+        ],
+        [
+          46.291546,
+          9.885116
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_2",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_63",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.291546,
+          9.885116
+        ],
+        [
+          46.291762,
+          9.885264
+        ],
+        [
+          46.292354,
+          9.885755
+        ],
+        [
+          46.292624,
+          9.885702
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_3",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_64",
+      "distance": 0.84,
+      "duration": 1,
+      "elevation": -134,
+      "geometry": [
+        [
+          46.292624,
+          9.885702
+        ],
+        [
+          46.293166,
+          9.886169
+        ],
+        [
+          46.293779,
+          9.886683
+        ],
+        [
+          46.294321,
+          9.887168
+        ],
+        [
+          46.294618,
+          9.887514
+        ],
+        [
+          46.294896,
+          9.888159
+        ],
+        [
+          46.29518,
+          9.888794
+        ],
+        [
+          46.29547,
+          9.889307
+        ],
+        [
+          46.296096,
+          9.889494
+        ],
+        [
+          46.296205,
+          9.889452
+        ],
+        [
+          46.297318,
+          9.889767
+        ],
+        [
+          46.297475,
+          9.889782
+        ],
+        [
+          46.297605,
+          9.88972
+        ],
+        [
+          46.297844,
+          9.889782
+        ],
+        [
+          46.298131,
+          9.890284
+        ],
+        [
+          46.298565,
+          9.891265
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_4",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_65",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.298565,
+          9.891265
+        ],
+        [
+          46.298218,
+          9.89245
+        ],
+        [
+          46.297822,
+          9.893054
+        ],
+        [
+          46.297548,
+          9.893865
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_5",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_16",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.297548,
+          9.893865
+        ],
+        [
+          46.297626,
+          9.894679
+        ],
+        [
+          46.297819,
+          9.895229
+        ],
+        [
+          46.298096,
+          9.895593
+        ],
+        [
+          46.29808,
+          9.895772
+        ],
+        [
+          46.298058,
+          9.896026
+        ],
+        [
+          46.29798,
+          9.896997
+        ],
+        [
+          46.297359,
+          9.898079
+        ],
+        [
+          46.296814,
+          9.898839
+        ],
+        [
+          46.296509,
+          9.899297
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_7",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_66",
+      "distance": 0.87,
+      "duration": 1,
+      "elevation": -139,
+      "geometry": [
+        [
+          46.296463,
+          9.899359
+        ],
+        [
+          46.296331,
+          9.899807
+        ],
+        [
+          46.297022,
+          9.899888
+        ],
+        [
+          46.297359,
+          9.899122
+        ],
+        [
+          46.298502,
+          9.897225
+        ],
+        [
+          46.29854,
+          9.896281
+        ],
+        [
+          46.298525,
+          9.895715
+        ],
+        [
+          46.298164,
+          9.894905
+        ],
+        [
+          46.298034,
+          9.894617
+        ],
+        [
+          46.298119,
+          9.893563
+        ],
+        [
+          46.298555,
+          9.89313
+        ],
+        [
+          46.29877,
+          9.892309
+        ],
+        [
+          46.298916,
+          9.89151
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_9",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_0",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.299192,
+          9.891388
+        ],
+        [
+          46.299644,
+          9.891854
+        ],
+        [
+          46.299557,
+          9.891428
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_11",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_67",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.299442,
+          9.891213
+        ],
+        [
+          46.299334,
+          9.890606
+        ],
+        [
+          46.299063,
+          9.8903
+        ],
+        [
+          46.298578,
+          9.889753
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_12",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_68",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.298578,
+          9.889753
+        ],
+        [
+          46.298367,
+          9.889445
+        ],
+        [
+          46.29804,
+          9.889398
+        ],
+        [
+          46.29788,
+          9.889301
+        ],
+        [
+          46.297562,
+          9.889108
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_13",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_69",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          46.297562,
+          9.889108
+        ],
+        [
+          46.296911,
+          9.889178
+        ],
+        [
+          46.296344,
+          9.889035
+        ],
+        [
+          46.295607,
+          9.88861
+        ],
+        [
+          46.295096,
+          9.887911
+        ],
+        [
+          46.294855,
+          9.887439
+        ],
+        [
+          46.294776,
+          9.887284
+        ],
+        [
+          46.294444,
+          9.886829
+        ],
+        [
+          46.293894,
+          9.886309
+        ],
+        [
+          46.293208,
+          9.885788
+        ],
+        [
+          46.29277,
+          9.884926
+        ],
+        [
+          46.292242,
+          9.884487
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269855_15",
+      "name": "Piste 892269855",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_53",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.29206,
+          9.884326
+        ],
+        [
+          46.291914,
+          9.88412
+        ],
+        [
+          46.291545,
+          9.884655
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269857_1",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_3",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.291377,
+          9.886021
+        ],
+        [
+          46.29076,
+          9.88571
+        ],
+        [
+          46.290506,
+          9.88537
+        ],
+        [
+          46.289997,
+          9.885101
+        ],
+        [
+          46.289792,
+          9.885455
+        ],
+        [
+          46.289117,
+          9.884775
+        ],
+        [
+          46.288726,
+          9.884747
+        ],
+        [
+          46.288261,
+          9.884701
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_3",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.288228,
+          9.884692
+        ],
+        [
+          46.288206,
+          9.884865
+        ],
+        [
+          46.288161,
+          9.884852
+        ],
+        [
+          46.288126,
+          9.885116
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_9",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_62",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.288291,
+          9.885244
+        ],
+        [
+          46.288334,
+          9.885192
+        ],
+        [
+          46.288721,
+          9.885119
+        ],
+        [
+          46.288997,
+          9.885249
+        ],
+        [
+          46.289204,
+          9.885704
+        ],
+        [
+          46.289435,
+          9.88607
+        ],
+        [
+          46.289693,
+          9.886168
+        ],
+        [
+          46.289969,
+          9.886111
+        ],
+        [
+          46.290171,
+          9.885948
+        ],
+        [
+          46.290474,
+          9.88607
+        ],
+        [
+          46.290744,
+          9.886477
+        ],
+        [
+          46.291536,
+          9.886867
+        ],
+        [
+          46.291924,
+          9.887087
+        ],
+        [
+          46.292643,
+          9.887884
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_10",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_70",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.292643,
+          9.887884
+        ],
+        [
+          46.293064,
+          9.888965
+        ],
+        [
+          46.293531,
+          9.889924
+        ],
+        [
+          46.294036,
+          9.890786
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_12",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_65",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          46.294165,
+          9.890999
+        ],
+        [
+          46.294694,
+          9.891673
+        ],
+        [
+          46.295205,
+          9.891998
+        ],
+        [
+          46.296222,
+          9.892266
+        ],
+        [
+          46.296705,
+          9.892795
+        ],
+        [
+          46.297548,
+          9.893865
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_13",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_71",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.297548,
+          9.893865
+        ],
+        [
+          46.297822,
+          9.893054
+        ],
+        [
+          46.297569,
+          9.893103
+        ],
+        [
+          46.296951,
+          9.892388
+        ],
+        [
+          46.296514,
+          9.89181
+        ],
+        [
+          46.295421,
+          9.89159
+        ],
+        [
+          46.294746,
+          9.89093
+        ],
+        [
+          46.294177,
+          9.890054
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_14",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_62",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.294177,
+          9.890054
+        ],
+        [
+          46.293699,
+          9.889217
+        ],
+        [
+          46.293288,
+          9.888195
+        ],
+        [
+          46.292858,
+          9.887841
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269857_15",
+      "name": "Piste 892269857",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_61",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.292858,
+          9.887841
+        ],
+        [
+          46.292183,
+          9.886661
+        ],
+        [
+          46.291561,
+          9.885834
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269859_0",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_73",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.290031,
+          9.882376
+        ],
+        [
+          46.290159,
+          9.882771
+        ],
+        [
+          46.290317,
+          9.882729
+        ],
+        [
+          46.290504,
+          9.882651
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_2",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290516,
+          9.882946
+        ],
+        [
+          46.290352,
+          9.883515
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_4",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.29067,
+          9.883673
+        ],
+        [
+          46.291047,
+          9.88376
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_6",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_52",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.291161,
+          9.883531
+        ],
+        [
+          46.291331,
+          9.883048
+        ],
+        [
+          46.291431,
+          9.883193
+        ],
+        [
+          46.291598,
+          9.883525
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_9",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_56",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.291704,
+          9.883328
+        ],
+        [
+          46.291565,
+          9.883016
+        ],
+        [
+          46.291398,
+          9.882667
+        ],
+        [
+          46.291268,
+          9.882801
+        ],
+        [
+          46.291142,
+          9.883161
+        ],
+        [
+          46.291031,
+          9.883354
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_10",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_73",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291031,
+          9.883354
+        ],
+        [
+          46.290927,
+          9.883214
+        ],
+        [
+          46.290705,
+          9.882978
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_12",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_59",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.290708,
+          9.882581
+        ],
+        [
+          46.290687,
+          9.882263
+        ],
+        [
+          46.29065,
+          9.881598
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_14",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_74",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.290577,
+          9.881135
+        ],
+        [
+          46.290204,
+          9.880575
+        ],
+        [
+          46.290017,
+          9.880446
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_18",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_75",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.28974,
+          9.880437
+        ],
+        [
+          46.28946,
+          9.880897
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269859_25",
+      "name": "Piste 892269859",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_72",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.289461,
+          9.881435
+        ],
+        [
+          46.289544,
+          9.881616
+        ],
+        [
+          46.289841,
+          9.881975
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269864_0",
+      "name": "Piste 892269864",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_47",
+      "distance": 0.79,
+      "duration": 1,
+      "elevation": -126,
+      "geometry": [
+        [
+          46.289817,
+          9.880311
+        ],
+        [
+          46.289772,
+          9.879673
+        ],
+        [
+          46.289836,
+          9.878668
+        ],
+        [
+          46.289944,
+          9.877951
+        ],
+        [
+          46.289953,
+          9.877896
+        ],
+        [
+          46.290019,
+          9.877537
+        ],
+        [
+          46.290064,
+          9.877291
+        ],
+        [
+          46.290134,
+          9.876905
+        ],
+        [
+          46.29015,
+          9.876553
+        ],
+        [
+          46.290168,
+          9.876176
+        ],
+        [
+          46.290192,
+          9.875711
+        ],
+        [
+          46.290207,
+          9.875426
+        ],
+        [
+          46.290225,
+          9.874895
+        ],
+        [
+          46.290255,
+          9.873982
+        ],
+        [
+          46.290288,
+          9.873198
+        ],
+        [
+          46.290755,
+          9.872
+        ],
+        [
+          46.290916,
+          9.871547
+        ],
+        [
+          46.290869,
+          9.870327
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269864_2",
+      "name": "Piste 892269864",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_50",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.291122,
+          9.870145
+        ],
+        [
+          46.291221,
+          9.871119
+        ],
+        [
+          46.291009,
+          9.872453
+        ],
+        [
+          46.291073,
+          9.87263
+        ],
+        [
+          46.291337,
+          9.872566
+        ],
+        [
+          46.29142,
+          9.872248
+        ],
+        [
+          46.29144,
+          9.871956
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269864_3",
+      "name": "Piste 892269864",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_74",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          46.29144,
+          9.871956
+        ],
+        [
+          46.291664,
+          9.872518
+        ],
+        [
+          46.291544,
+          9.872731
+        ],
+        [
+          46.291233,
+          9.872862
+        ],
+        [
+          46.290961,
+          9.873384
+        ],
+        [
+          46.290886,
+          9.874152
+        ],
+        [
+          46.290766,
+          9.874931
+        ],
+        [
+          46.290696,
+          9.875575
+        ],
+        [
+          46.290702,
+          9.875744
+        ],
+        [
+          46.290729,
+          9.876579
+        ],
+        [
+          46.290476,
+          9.877557
+        ],
+        [
+          46.290238,
+          9.878487
+        ],
+        [
+          46.290161,
+          9.879393
+        ],
+        [
+          46.29014,
+          9.879954
+        ],
+        [
+          46.290017,
+          9.880446
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269868_2",
+      "name": "Piste 892269868",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_76",
+      "distance": 0.86,
+      "duration": 1,
+      "elevation": -137,
+      "geometry": [
+        [
+          46.28817,
+          9.885651
+        ],
+        [
+          46.288683,
+          9.886242
+        ],
+        [
+          46.288761,
+          9.886858
+        ],
+        [
+          46.288573,
+          9.888502
+        ],
+        [
+          46.288477,
+          9.889314
+        ],
+        [
+          46.288832,
+          9.890893
+        ],
+        [
+          46.289112,
+          9.891765
+        ],
+        [
+          46.28988,
+          9.891843
+        ],
+        [
+          46.290491,
+          9.891824
+        ],
+        [
+          46.291,
+          9.892066
+        ],
+        [
+          46.291587,
+          9.89326
+        ],
+        [
+          46.291708,
+          9.893508
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269868_3",
+      "name": "Piste 892269868",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_16",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          46.291708,
+          9.893508
+        ],
+        [
+          46.291801,
+          9.893661
+        ],
+        [
+          46.292197,
+          9.894505
+        ],
+        [
+          46.29234,
+          9.895166
+        ],
+        [
+          46.293566,
+          9.89661
+        ],
+        [
+          46.294298,
+          9.897587
+        ],
+        [
+          46.294545,
+          9.898481
+        ],
+        [
+          46.295785,
+          9.898993
+        ],
+        [
+          46.296386,
+          9.899237
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269868_5",
+      "name": "Piste 892269868",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_16",
+      "distance": 1.66,
+      "duration": 2,
+      "elevation": -265,
+      "geometry": [
+        [
+          46.287997,
+          9.885574
+        ],
+        [
+          46.288119,
+          9.885946
+        ],
+        [
+          46.288377,
+          9.88676
+        ],
+        [
+          46.288276,
+          9.888353
+        ],
+        [
+          46.288243,
+          9.889427
+        ],
+        [
+          46.288467,
+          9.890695
+        ],
+        [
+          46.288816,
+          9.892061
+        ],
+        [
+          46.289108,
+          9.892397
+        ],
+        [
+          46.290478,
+          9.892495
+        ],
+        [
+          46.290763,
+          9.892801
+        ],
+        [
+          46.291248,
+          9.893901
+        ],
+        [
+          46.29167,
+          9.89465
+        ],
+        [
+          46.291732,
+          9.895216
+        ],
+        [
+          46.292552,
+          9.896359
+        ],
+        [
+          46.29325,
+          9.897169
+        ],
+        [
+          46.293909,
+          9.89829
+        ],
+        [
+          46.294101,
+          9.899011
+        ],
+        [
+          46.295458,
+          9.89971
+        ],
+        [
+          46.296331,
+          9.899807
+        ],
+        [
+          46.296463,
+          9.899359
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_892269870_1",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_77",
+      "distance": 1.29,
+      "duration": 2,
+      "elevation": -206,
+      "geometry": [
+        [
+          46.308278,
+          9.88068
+        ],
+        [
+          46.307955,
+          9.882067
+        ],
+        [
+          46.307447,
+          9.882732
+        ],
+        [
+          46.306958,
+          9.883469
+        ],
+        [
+          46.306303,
+          9.884205
+        ],
+        [
+          46.305809,
+          9.884431
+        ],
+        [
+          46.305408,
+          9.884254
+        ],
+        [
+          46.304986,
+          9.884039
+        ],
+        [
+          46.304728,
+          9.883907
+        ],
+        [
+          46.304366,
+          9.883759
+        ],
+        [
+          46.303729,
+          9.884064
+        ],
+        [
+          46.303213,
+          9.884391
+        ],
+        [
+          46.303096,
+          9.884491
+        ],
+        [
+          46.302998,
+          9.884616
+        ],
+        [
+          46.302816,
+          9.884728
+        ],
+        [
+          46.302292,
+          9.885354
+        ],
+        [
+          46.30204,
+          9.886135
+        ],
+        [
+          46.301669,
+          9.886809
+        ],
+        [
+          46.301215,
+          9.887023
+        ],
+        [
+          46.30089,
+          9.887389
+        ],
+        [
+          46.300191,
+          9.887734
+        ],
+        [
+          46.299692,
+          9.888072
+        ],
+        [
+          46.299169,
+          9.88846
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_2",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.299169,
+          9.88846
+        ],
+        [
+          46.298804,
+          9.888769
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_3",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_67",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.298804,
+          9.888769
+        ],
+        [
+          46.298578,
+          9.889753
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_4",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_78",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.298578,
+          9.889753
+        ],
+        [
+          46.299063,
+          9.8903
+        ],
+        [
+          46.299009,
+          9.889837
+        ],
+        [
+          46.298922,
+          9.889139
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_5",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_77",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.298922,
+          9.889139
+        ],
+        [
+          46.29934,
+          9.888723
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_6",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_0",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.29934,
+          9.888723
+        ],
+        [
+          46.299956,
+          9.889159
+        ],
+        [
+          46.299787,
+          9.889802
+        ],
+        [
+          46.29972,
+          9.890298
+        ],
+        [
+          46.299562,
+          9.890394
+        ],
+        [
+          46.299334,
+          9.890606
+        ],
+        [
+          46.299442,
+          9.891213
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_8",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_79",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.29959,
+          9.891048
+        ],
+        [
+          46.30001,
+          9.890537
+        ],
+        [
+          46.300158,
+          9.889723
+        ],
+        [
+          46.300802,
+          9.888292
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_9",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_80",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          46.300802,
+          9.888292
+        ],
+        [
+          46.30166,
+          9.887526
+        ],
+        [
+          46.302297,
+          9.886672
+        ],
+        [
+          46.302864,
+          9.885507
+        ],
+        [
+          46.304055,
+          9.884611
+        ],
+        [
+          46.305695,
+          9.885268
+        ],
+        [
+          46.306529,
+          9.884912
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269870_10",
+      "name": "Piste 892269870",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_1",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.306529,
+          9.884912
+        ],
+        [
+          46.307234,
+          9.883828
+        ],
+        [
+          46.307967,
+          9.88267
+        ],
+        [
+          46.30836,
+          9.88179
+        ],
+        [
+          46.308634,
+          9.880964
+        ],
+        [
+          46.308716,
+          9.880309
+        ],
+        [
+          46.308545,
+          9.880063
+        ],
+        [
+          46.308335,
+          9.88038
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_892269871_0",
+      "name": "Piste 892269871",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_68",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.298804,
+          9.888769
+        ],
+        [
+          46.298196,
+          9.888599
+        ],
+        [
+          46.297562,
+          9.889108
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269871_1",
+      "name": "Piste 892269871",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_67",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.297562,
+          9.889108
+        ],
+        [
+          46.29788,
+          9.889301
+        ],
+        [
+          46.298054,
+          9.889063
+        ],
+        [
+          46.298308,
+          9.889089
+        ],
+        [
+          46.298367,
+          9.889445
+        ],
+        [
+          46.298578,
+          9.889753
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_892269871_2",
+      "name": "Piste 892269871",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_78",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.298578,
+          9.889753
+        ],
+        [
+          46.298804,
+          9.888769
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_906492905_0",
+      "name": "Piste 906492905",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_15",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.288765,
+          9.867711
+        ],
+        [
+          46.289251,
+          9.867747
+        ],
+        [
+          46.28952,
+          9.867772
+        ],
+        [
+          46.28994,
+          9.867703
+        ],
+        [
+          46.290272,
+          9.867621
+        ],
+        [
+          46.290583,
+          9.867528
+        ],
+        [
+          46.29076,
+          9.867463
+        ],
+        [
+          46.290876,
+          9.86742
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492916_1",
+      "name": "Piste 906492916",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_81",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.289926,
+          9.880046
+        ],
+        [
+          46.289985,
+          9.879806
+        ],
+        [
+          46.290043,
+          9.879115
+        ],
+        [
+          46.290064,
+          9.878573
+        ],
+        [
+          46.290245,
+          9.87763
+        ],
+        [
+          46.290315,
+          9.877266
+        ],
+        [
+          46.290457,
+          9.876229
+        ],
+        [
+          46.290468,
+          9.875885
+        ],
+        [
+          46.290503,
+          9.874809
+        ],
+        [
+          46.290554,
+          9.873558
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492917_1",
+      "name": "Piste 906492917",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_82",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290641,
+          9.881827
+        ],
+        [
+          46.290806,
+          9.881899
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492917_2",
+      "name": "Piste 906492917",
+      "type": "slope",
+      "from": "node_82",
+      "to": "node_51",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.290806,
+          9.881899
+        ],
+        [
+          46.29103,
+          9.881918
+        ],
+        [
+          46.291336,
+          9.881867
+        ],
+        [
+          46.291626,
+          9.881754
+        ],
+        [
+          46.291923,
+          9.881625
+        ],
+        [
+          46.292079,
+          9.88141
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492918_1",
+      "name": "Piste 906492918",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_50",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.290816,
+          9.873042
+        ],
+        [
+          46.29099,
+          9.872891
+        ],
+        [
+          46.291253,
+          9.872752
+        ],
+        [
+          46.29139,
+          9.872618
+        ],
+        [
+          46.291502,
+          9.872291
+        ],
+        [
+          46.291513,
+          9.871985
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492924_1",
+      "name": "Piste 906492924",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_83",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.289626,
+          9.882377
+        ],
+        [
+          46.289485,
+          9.882768
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_906492924_2",
+      "name": "Piste 906492924",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_84",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.289485,
+          9.882768
+        ],
+        [
+          46.289417,
+          9.88299
+        ],
+        [
+          46.289844,
+          9.883161
+        ],
+        [
+          46.289907,
+          9.882833
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_906492924_4",
+      "name": "Piste 906492924",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_72",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290031,
+          9.882376
+        ],
+        [
+          46.289841,
+          9.881975
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_906492928_0",
+      "name": "Piste 906492928",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_79",
+      "distance": 0.79,
+      "duration": 1,
+      "elevation": -126,
+      "geometry": [
+        [
+          46.306505,
+          9.88457
+        ],
+        [
+          46.30581,
+          9.884794
+        ],
+        [
+          46.305266,
+          9.884649
+        ],
+        [
+          46.304966,
+          9.884513
+        ],
+        [
+          46.304664,
+          9.884285
+        ],
+        [
+          46.304393,
+          9.884139
+        ],
+        [
+          46.304195,
+          9.884115
+        ],
+        [
+          46.304042,
+          9.884159
+        ],
+        [
+          46.303597,
+          9.884429
+        ],
+        [
+          46.30313,
+          9.884902
+        ],
+        [
+          46.302923,
+          9.885112
+        ],
+        [
+          46.302574,
+          9.885486
+        ],
+        [
+          46.302018,
+          9.886657
+        ],
+        [
+          46.301451,
+          9.887348
+        ],
+        [
+          46.300822,
+          9.88786
+        ],
+        [
+          46.300535,
+          9.888218
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492928_1",
+      "name": "Piste 906492928",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_85",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.300535,
+          9.888218
+        ],
+        [
+          46.300215,
+          9.888949
+        ],
+        [
+          46.299923,
+          9.890096
+        ],
+        [
+          46.299766,
+          9.890486
+        ],
+        [
+          46.299686,
+          9.8906
+        ],
+        [
+          46.299593,
+          9.890669
+        ],
+        [
+          46.29913,
+          9.890983
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492930_1",
+      "name": "Piste 906492930",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_62",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          46.288145,
+          9.885256
+        ],
+        [
+          46.288389,
+          9.885015
+        ],
+        [
+          46.288741,
+          9.884987
+        ],
+        [
+          46.289113,
+          9.885086
+        ],
+        [
+          46.289392,
+          9.885504
+        ],
+        [
+          46.289612,
+          9.885659
+        ],
+        [
+          46.289915,
+          9.885709
+        ],
+        [
+          46.290126,
+          9.885659
+        ],
+        [
+          46.290424,
+          9.885751
+        ],
+        [
+          46.290664,
+          9.885928
+        ],
+        [
+          46.29105,
+          9.886226
+        ],
+        [
+          46.291461,
+          9.886495
+        ],
+        [
+          46.291808,
+          9.886707
+        ],
+        [
+          46.292214,
+          9.887096
+        ],
+        [
+          46.292552,
+          9.887557
+        ],
+        [
+          46.292742,
+          9.887892
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492931_0",
+      "name": "Piste 906492931",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_71",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          46.291328,
+          9.885348
+        ],
+        [
+          46.291954,
+          9.886114
+        ],
+        [
+          46.292632,
+          9.887094
+        ],
+        [
+          46.293219,
+          9.888243
+        ],
+        [
+          46.293613,
+          9.889355
+        ],
+        [
+          46.293997,
+          9.890371
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492932_0",
+      "name": "Piste 906492932",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291328,
+          9.885348
+        ],
+        [
+          46.291651,
+          9.885619
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492932_1",
+      "name": "Piste 906492932",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_63",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.291651,
+          9.885619
+        ],
+        [
+          46.29187,
+          9.885637
+        ],
+        [
+          46.292202,
+          9.885512
+        ],
+        [
+          46.292417,
+          9.885461
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492936_2",
+      "name": "Piste 906492936",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_76",
+      "distance": 0.84,
+      "duration": 1,
+      "elevation": -134,
+      "geometry": [
+        [
+          46.288126,
+          9.885696
+        ],
+        [
+          46.288501,
+          9.886678
+        ],
+        [
+          46.288524,
+          9.887429
+        ],
+        [
+          46.288383,
+          9.888759
+        ],
+        [
+          46.288368,
+          9.889467
+        ],
+        [
+          46.288665,
+          9.890894
+        ],
+        [
+          46.288894,
+          9.89172
+        ],
+        [
+          46.289072,
+          9.891978
+        ],
+        [
+          46.289406,
+          9.892128
+        ],
+        [
+          46.289873,
+          9.892139
+        ],
+        [
+          46.290348,
+          9.892128
+        ],
+        [
+          46.290748,
+          9.892342
+        ],
+        [
+          46.291044,
+          9.892857
+        ],
+        [
+          46.291518,
+          9.893754
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_906492936_3",
+      "name": "Piste 906492936",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_16",
+      "distance": 0.75,
+      "duration": 1,
+      "elevation": -120,
+      "geometry": [
+        [
+          46.291518,
+          9.893754
+        ],
+        [
+          46.291741,
+          9.894177
+        ],
+        [
+          46.292001,
+          9.894982
+        ],
+        [
+          46.292297,
+          9.89555
+        ],
+        [
+          46.293127,
+          9.896602
+        ],
+        [
+          46.293587,
+          9.897213
+        ],
+        [
+          46.294002,
+          9.897889
+        ],
+        [
+          46.294165,
+          9.898404
+        ],
+        [
+          46.294395,
+          9.898737
+        ],
+        [
+          46.295025,
+          9.899048
+        ],
+        [
+          46.295885,
+          9.899434
+        ],
+        [
+          46.296189,
+          9.89952
+        ],
+        [
+          46.296463,
+          9.899359
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1134230815_0",
+      "name": "Piste 1134230815",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_76",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.292742,
+          9.887892
+        ],
+        [
+          46.292777,
+          9.888335
+        ],
+        [
+          46.292695,
+          9.889108
+        ],
+        [
+          46.292606,
+          9.889751
+        ],
+        [
+          46.292328,
+          9.89083
+        ],
+        [
+          46.292006,
+          9.891924
+        ],
+        [
+          46.291691,
+          9.892857
+        ],
+        [
+          46.291587,
+          9.89326
+        ],
+        [
+          46.291518,
+          9.893754
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1233891372_0",
+      "name": "Piste 1233891372",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_45",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.288685,
+          9.867232
+        ],
+        [
+          46.288685,
+          9.866733
+        ],
+        [
+          46.288716,
+          9.866184
+        ],
+        [
+          46.288756,
+          9.86582
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1233891372_1",
+      "name": "Piste 1233891372",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_41",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.288756,
+          9.86582
+        ],
+        [
+          46.288888,
+          9.864837
+        ],
+        [
+          46.288936,
+          9.864617
+        ],
+        [
+          46.288996,
+          9.864363
+        ],
+        [
+          46.28918,
+          9.864253
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1233891372_3",
+      "name": "Piste 1233891372",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_43",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.289336,
+          9.864294
+        ],
+        [
+          46.289479,
+          9.864392
+        ],
+        [
+          46.289639,
+          9.864519
+        ],
+        [
+          46.289791,
+          9.864629
+        ],
+        [
+          46.290051,
+          9.864822
+        ],
+        [
+          46.290286,
+          9.86498
+        ],
+        [
+          46.290534,
+          9.865155
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1233891372_5",
+      "name": "Piste 1233891372",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290757,
+          9.865327
+        ],
+        [
+          46.291019,
+          9.865474
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1233891372_6",
+      "name": "Piste 1233891372",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291019,
+          9.865474
+        ],
+        [
+          46.291256,
+          9.865541
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1236569874_1",
+      "name": "Piste 1236569874",
+      "type": "slope",
+      "from": "node_86",
+      "to": "node_21",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          46.296552,
+          9.857409
+        ],
+        [
+          46.29696,
+          9.857328
+        ],
+        [
+          46.29785,
+          9.857119
+        ],
+        [
+          46.298494,
+          9.856899
+        ],
+        [
+          46.298984,
+          9.856491
+        ],
+        [
+          46.299199,
+          9.856185
+        ],
+        [
+          46.299332,
+          9.855703
+        ],
+        [
+          46.299366,
+          9.855365
+        ],
+        [
+          46.29938,
+          9.855054
+        ],
+        [
+          46.299473,
+          9.854721
+        ],
+        [
+          46.299551,
+          9.854537
+        ],
+        [
+          46.299664,
+          9.854424
+        ],
+        [
+          46.299797,
+          9.854339
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657506_0",
+      "name": "Piste 1243657506",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_34",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.30098,
+          9.852569
+        ],
+        [
+          46.30087,
+          9.852162
+        ],
+        [
+          46.300577,
+          9.851647
+        ],
+        [
+          46.30049,
+          9.851472
+        ],
+        [
+          46.300318,
+          9.851197
+        ],
+        [
+          46.300099,
+          9.850955
+        ],
+        [
+          46.29984,
+          9.850832
+        ],
+        [
+          46.29964,
+          9.850741
+        ],
+        [
+          46.29949,
+          9.850641
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657507_0",
+      "name": "Piste 1243657507",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294284,
+          9.86144
+        ],
+        [
+          46.294583,
+          9.861752
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657507_2",
+      "name": "Piste 1243657507",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_86",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.294761,
+          9.861745
+        ],
+        [
+          46.295106,
+          9.861385
+        ],
+        [
+          46.295555,
+          9.860559
+        ],
+        [
+          46.296208,
+          9.859431
+        ],
+        [
+          46.296441,
+          9.858975
+        ],
+        [
+          46.296489,
+          9.858621
+        ],
+        [
+          46.296501,
+          9.858202
+        ],
+        [
+          46.296456,
+          9.857832
+        ],
+        [
+          46.296324,
+          9.857425
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657516_0",
+      "name": "Piste 1243657516",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291653,
+          9.865766
+        ],
+        [
+          46.291858,
+          9.865764
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657516_1",
+      "name": "Piste 1243657516",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291858,
+          9.865764
+        ],
+        [
+          46.292105,
+          9.865621
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657516_2",
+      "name": "Piste 1243657516",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_26",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.292105,
+          9.865621
+        ],
+        [
+          46.292432,
+          9.865385
+        ],
+        [
+          46.292803,
+          9.865173
+        ],
+        [
+          46.293463,
+          9.864675
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657521_1",
+      "name": "Piste 1243657521",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_25",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.293731,
+          9.864477
+        ],
+        [
+          46.293968,
+          9.864116
+        ],
+        [
+          46.294226,
+          9.863485
+        ],
+        [
+          46.294457,
+          9.862866
+        ],
+        [
+          46.294644,
+          9.862397
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657521_3",
+      "name": "Piste 1243657521",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.294746,
+          9.862007
+        ],
+        [
+          46.294761,
+          9.861745
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657524_0",
+      "name": "Piste 1243657524",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_30",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.292136,
+          9.864948
+        ],
+        [
+          46.292355,
+          9.864477
+        ],
+        [
+          46.292588,
+          9.863986
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243657530_0",
+      "name": "Piste 1243657530",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_8",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.2936,
+          9.864159
+        ],
+        [
+          46.293807,
+          9.863732
+        ],
+        [
+          46.294032,
+          9.863283
+        ],
+        [
+          46.294249,
+          9.862768
+        ],
+        [
+          46.294413,
+          9.861968
+        ],
+        [
+          46.294284,
+          9.86144
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664614_1",
+      "name": "Piste 1243664614",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_37",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.29167,
+          9.869403
+        ],
+        [
+          46.291878,
+          9.869182
+        ],
+        [
+          46.292041,
+          9.868949
+        ],
+        [
+          46.292242,
+          9.868483
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664625_0",
+      "name": "Piste 1243664625",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291158,
+          9.884034
+        ],
+        [
+          46.291368,
+          9.884136
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664625_1",
+      "name": "Piste 1243664625",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_69",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.291368,
+          9.884136
+        ],
+        [
+          46.291997,
+          9.884626
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664631_0",
+      "name": "Piste 1243664631",
+      "type": "slope",
+      "from": "node_88",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290797,
+          9.88393
+        ],
+        [
+          46.291158,
+          9.884034
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664631_1",
+      "name": "Piste 1243664631",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_87",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.291158,
+          9.884034
+        ],
+        [
+          46.291488,
+          9.883991
+        ],
+        [
+          46.291652,
+          9.883882
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664631_2",
+      "name": "Piste 1243664631",
+      "type": "slope",
+      "from": "node_87",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291652,
+          9.883882
+        ],
+        [
+          46.291804,
+          9.883659
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664636_0",
+      "name": "Piste 1243664636",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_89",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290642,
+          9.873276
+        ],
+        [
+          46.290728,
+          9.872997
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664636_1",
+      "name": "Piste 1243664636",
+      "type": "slope",
+      "from": "node_89",
+      "to": "node_47",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.290728,
+          9.872997
+        ],
+        [
+          46.29089,
+          9.872493
+        ],
+        [
+          46.291038,
+          9.871783
+        ],
+        [
+          46.291096,
+          9.871089
+        ],
+        [
+          46.291034,
+          9.870558
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243664636_4",
+      "name": "Piste 1243664636",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291151,
+          9.86994
+        ],
+        [
+          46.291268,
+          9.869741
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667221_0",
+      "name": "Piste 1243667221",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_67",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.297424,
+          9.889366
+        ],
+        [
+          46.297888,
+          9.889537
+        ],
+        [
+          46.298143,
+          9.88969
+        ],
+        [
+          46.298345,
+          9.889811
+        ],
+        [
+          46.298474,
+          9.889905
+        ],
+        [
+          46.298579,
+          9.890054
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667226_0",
+      "name": "Piste 1243667226",
+      "type": "slope",
+      "from": "node_85",
+      "to": "node_64",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.29913,
+          9.890983
+        ],
+        [
+          46.298773,
+          9.891197
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667228_0",
+      "name": "Piste 1243667228",
+      "type": "slope",
+      "from": "node_90",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.296906,
+          9.899234
+        ],
+        [
+          46.296752,
+          9.899442
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667231_0",
+      "name": "Piste 1243667231",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_91",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.300535,
+          9.888218
+        ],
+        [
+          46.30019,
+          9.888381
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667235_0",
+      "name": "Piste 1243667235",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_60",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.287948,
+          9.883959
+        ],
+        [
+          46.288656,
+          9.883919
+        ],
+        [
+          46.289302,
+          9.883975
+        ],
+        [
+          46.289747,
+          9.884124
+        ],
+        [
+          46.290315,
+          9.88447
+        ],
+        [
+          46.290786,
+          9.884788
+        ],
+        [
+          46.291328,
+          9.885348
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667236_0",
+      "name": "Piste 1243667236",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_65",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.294206,
+          9.890765
+        ],
+        [
+          46.294523,
+          9.891117
+        ],
+        [
+          46.295007,
+          9.891563
+        ],
+        [
+          46.295579,
+          9.891853
+        ],
+        [
+          46.296327,
+          9.89203
+        ],
+        [
+          46.296797,
+          9.892568
+        ],
+        [
+          46.297335,
+          9.893156
+        ],
+        [
+          46.297525,
+          9.893481
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667237_0",
+      "name": "Piste 1243667237",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_71",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.292742,
+          9.887892
+        ],
+        [
+          46.292953,
+          9.888264
+        ],
+        [
+          46.293329,
+          9.889064
+        ],
+        [
+          46.293696,
+          9.889836
+        ],
+        [
+          46.293997,
+          9.890371
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243667237_1",
+      "name": "Piste 1243667237",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.293997,
+          9.890371
+        ],
+        [
+          46.294206,
+          9.890765
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1243671524_0",
+      "name": "Piste 1243671524",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.29974,
+          9.850027
+        ],
+        [
+          46.299923,
+          9.849514
+        ],
+        [
+          46.300015,
+          9.848962
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1244036692_1",
+      "name": "Piste 1244036692",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290794,
+          9.864796
+        ],
+        [
+          46.29103,
+          9.864978
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1244036692_3",
+      "name": "Piste 1244036692",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.291127,
+          9.865017
+        ],
+        [
+          46.291224,
+          9.86502
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1244052247_1",
+      "name": "Piste 1244052247",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_37",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.29163,
+          9.867388
+        ],
+        [
+          46.291836,
+          9.867907
+        ],
+        [
+          46.292028,
+          9.868253
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335675_1",
+      "name": "Piste 1349335675",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_59",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.289486,
+          9.881142
+        ],
+        [
+          46.289686,
+          9.881186
+        ],
+        [
+          46.289901,
+          9.881283
+        ],
+        [
+          46.290301,
+          9.88153
+        ],
+        [
+          46.290466,
+          9.881637
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335677_5",
+      "name": "Piste 1349335677",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.28999,
+          9.882602
+        ],
+        [
+          46.290059,
+          9.882617
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335677_9",
+      "name": "Piste 1349335677",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_73",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290275,
+          9.88249
+        ],
+        [
+          46.290364,
+          9.882431
+        ],
+        [
+          46.290447,
+          9.882422
+        ],
+        [
+          46.290511,
+          9.882444
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335678_0",
+      "name": "Piste 1349335678",
+      "type": "slope",
+      "from": "node_92",
+      "to": "node_93",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.299838,
+          9.842094
+        ],
+        [
+          46.299806,
+          9.841612
+        ],
+        [
+          46.299845,
+          9.841369
+        ],
+        [
+          46.299922,
+          9.841133
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335680_1",
+      "name": "Piste 1349335680",
+      "type": "slope",
+      "from": "node_83",
+      "to": "node_84",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.289887,
+          9.882385
+        ],
+        [
+          46.289999,
+          9.882169
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335680_3",
+      "name": "Piste 1349335680",
+      "type": "slope",
+      "from": "node_84",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290064,
+          9.882036
+        ],
+        [
+          46.290129,
+          9.881935
+        ],
+        [
+          46.290211,
+          9.881819
+        ],
+        [
+          46.290278,
+          9.881746
+        ],
+        [
+          46.290359,
+          9.881695
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335682_2",
+      "name": "Piste 1349335682",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.288285,
+          9.883648
+        ],
+        [
+          46.288441,
+          9.883613
+        ],
+        [
+          46.288649,
+          9.883585
+        ],
+        [
+          46.28886,
+          9.883584
+        ],
+        [
+          46.289079,
+          9.883586
+        ],
+        [
+          46.289322,
+          9.883568
+        ],
+        [
+          46.289528,
+          9.883572
+        ],
+        [
+          46.289796,
+          9.883608
+        ],
+        [
+          46.290151,
+          9.883705
+        ],
+        [
+          46.290411,
+          9.883796
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335682_3",
+      "name": "Piste 1349335682",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_88",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290411,
+          9.883796
+        ],
+        [
+          46.290797,
+          9.88393
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335685_0",
+      "name": "Piste 1349335685",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_36",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.292242,
+          9.868483
+        ],
+        [
+          46.292451,
+          9.868036
+        ],
+        [
+          46.292676,
+          9.867458
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335687_1",
+      "name": "Piste 1349335687",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_27",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.291788,
+          9.865908
+        ],
+        [
+          46.291902,
+          9.865994
+        ],
+        [
+          46.292084,
+          9.865944
+        ],
+        [
+          46.292392,
+          9.865803
+        ],
+        [
+          46.292754,
+          9.865622
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349335687_3",
+      "name": "Piste 1349335687",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_26",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.293047,
+          9.865371
+        ],
+        [
+          46.293243,
+          9.865112
+        ],
+        [
+          46.293463,
+          9.864675
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1349526495_0",
+      "name": "Piste 1349526495",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_58",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.294205,
+          9.869292
+        ],
+        [
+          46.294002,
+          9.869599
+        ],
+        [
+          46.293831,
+          9.869855
+        ],
+        [
+          46.293731,
+          9.869964
+        ],
+        [
+          46.293566,
+          9.870144
+        ],
+        [
+          46.293399,
+          9.870323
+        ],
+        [
+          46.293269,
+          9.870451
+        ],
+        [
+          46.29304,
+          9.870804
+        ],
+        [
+          46.292884,
+          9.870974
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1349526495_4",
+      "name": "Piste 1349526495",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_49",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.292727,
+          9.8708
+        ],
+        [
+          46.292923,
+          9.870655
+        ],
+        [
+          46.293133,
+          9.87032
+        ],
+        [
+          46.293327,
+          9.870106
+        ],
+        [
+          46.293509,
+          9.869886
+        ],
+        [
+          46.293636,
+          9.869622
+        ],
+        [
+          46.294205,
+          9.869292
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1355697569_0",
+      "name": "Piste 1355697569",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.299265,
+          9.888532
+        ],
+        [
+          46.299126,
+          9.888625
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1355697569_3",
+      "name": "Piste 1355697569",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_94",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.298923,
+          9.888925
+        ],
+        [
+          46.298707,
+          9.889451
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1463410212_0",
+      "name": "Piste 1463410212",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_88",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.290797,
+          9.88393
+        ],
+        [
+          46.290897,
+          9.883928
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_66",
+      "name": "Walk: Bocchel del Torno (Base) ↔ Junction #67",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.299507,
+          9.891222
+        ],
+        [
+          46.299054,
+          9.891449
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_85",
+      "name": "Walk: Bocchel del Torno (Base) ↔ Junction #86",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_85",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.299507,
+          9.891222
+        ],
+        [
+          46.29913,
+          9.890983
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_49",
+      "name": "Walk: Alpe Palú - Cima Motta (Base) ↔ Junction #50",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.294267,
+          9.868614
+        ],
+        [
+          46.29416,
+          9.869204
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_17",
+      "name": "Walk: Alpe Palú - Cima Motta (Summit / Top) ↔ Scerscen - Cima Motta (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.288077,
+          9.884549
+        ],
+        [
+          46.28809,
+          9.885398
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_54",
+      "name": "Walk: Alpe Palú - Cima Motta (Summit / Top) ↔ Junction #55",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_54",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.288077,
+          9.884549
+        ],
+        [
+          46.288195,
+          9.883842
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_9",
+      "name": "Walk: Del Dosso (Base) ↔ Baby Bernina (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_9",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.291681,
+          9.867208
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_11",
+      "name": "Walk: Del Dosso (Base) ↔ Pedrana - Barchi - Palù (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_11",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.291966,
+          9.865221
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_14",
+      "name": "Walk: Del Dosso (Base) ↔ Baby (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.291534,
+          9.865813
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_15",
+      "name": "Walk: Del Dosso (Base) ↔ Baby (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_15",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.291021,
+          9.867214
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_39",
+      "name": "Walk: Del Dosso (Base) ↔ Junction #40",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_39",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.291378,
+          9.865119
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_43",
+      "name": "Walk: Del Dosso (Base) ↔ Junction: Halfpipe / Pista Allenamenti",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_43",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.290859,
+          9.865143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_48",
+      "name": "Walk: Del Dosso (Base) ↔ Junction #49",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_48",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291117,
+          9.865946
+        ],
+        [
+          46.290917,
+          9.865665
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_46",
+      "name": "Walk: Del Dosso (Summit / Top) ↔ Junction #47",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.288717,
+          9.867191
+        ],
+        [
+          46.288705,
+          9.867799
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_31",
+      "name": "Walk: Baby Bernina (Base) ↔ Junction: San Giuseppe",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.294265,
+          9.86154
+        ],
+        [
+          46.294683,
+          9.861541
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_14",
+      "name": "Walk: Baby Bernina (Summit / Top) ↔ Baby (Base)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_14",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291681,
+          9.867208
+        ],
+        [
+          46.291534,
+          9.865813
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_15",
+      "name": "Walk: Baby Bernina (Summit / Top) ↔ Baby (Summit / Top)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_15",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291681,
+          9.867208
+        ],
+        [
+          46.291021,
+          9.867214
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_93",
+      "name": "Walk: Pedrana - Barchi - Palù (Base) ↔ Junction #94",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_93",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.300294,
+          9.840845
+        ],
+        [
+          46.300045,
+          9.840923
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_14",
+      "name": "Walk: Pedrana - Barchi - Palù (Summit / Top) ↔ Baby (Base)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291966,
+          9.865221
+        ],
+        [
+          46.291534,
+          9.865813
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_28",
+      "name": "Walk: Pedrana - Barchi - Palù (Summit / Top) ↔ Junction: Palu Park",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291966,
+          9.865221
+        ],
+        [
+          46.291857,
+          9.86591
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_29",
+      "name": "Walk: Pedrana - Barchi - Palù (Summit / Top) ↔ Junction: San Giuseppe",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_29",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291966,
+          9.865221
+        ],
+        [
+          46.29226,
+          9.865078
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_39",
+      "name": "Walk: Pedrana - Barchi - Palù (Summit / Top) ↔ Junction #40",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_39",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291966,
+          9.865221
+        ],
+        [
+          46.291378,
+          9.865119
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_15",
+      "name": "Walk: Baby (Base) ↔ Baby (Summit / Top)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291534,
+          9.865813
+        ],
+        [
+          46.291021,
+          9.867214
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_28",
+      "name": "Walk: Baby (Base) ↔ Junction: Palu Park",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_28",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291534,
+          9.865813
+        ],
+        [
+          46.291857,
+          9.86591
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_39",
+      "name": "Walk: Baby (Base) ↔ Junction #40",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_39",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291534,
+          9.865813
+        ],
+        [
+          46.291378,
+          9.865119
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_48",
+      "name": "Walk: Baby (Base) ↔ Junction #49",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291534,
+          9.865813
+        ],
+        [
+          46.290917,
+          9.865665
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_90",
+      "name": "Walk: Scerscen - Cima Motta (Base) ↔ Junction #91",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_90",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.296502,
+          9.899343
+        ],
+        [
+          46.296906,
+          9.899234
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_39",
+      "name": "Walk: Junction #24 ↔ Junction #40",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_39",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291115,
+          9.86432
+        ],
+        [
+          46.291378,
+          9.865119
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_42",
+      "name": "Walk: Junction #24 ↔ Junction #43",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_42",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291115,
+          9.86432
+        ],
+        [
+          46.290663,
+          9.864511
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_43",
+      "name": "Walk: Junction #24 ↔ Junction: Halfpipe / Pista Allenamenti",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_43",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291115,
+          9.86432
+        ],
+        [
+          46.290859,
+          9.865143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_31",
+      "name": "Walk: Junction: Primavera ↔ Junction: San Giuseppe",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.294705,
+          9.862199
+        ],
+        [
+          46.294683,
+          9.861541
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_35",
+      "name": "Walk: Junction: Primavera ↔ Junction: Primavera",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_35",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.293682,
+          9.864571
+        ],
+        [
+          46.293303,
+          9.864216
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_35",
+      "name": "Walk: Junction: San Giuseppe ↔ Junction: Primavera",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_35",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.292712,
+          9.864094
+        ],
+        [
+          46.293303,
+          9.864216
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_34",
+      "name": "Walk: Junction: San Giuseppe ↔ Junction: San Giuseppe",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_34",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.299883,
+          9.850099
+        ],
+        [
+          46.299349,
+          9.85056
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_38_node_47",
+      "name": "Walk: Junction #39 ↔ Junction #48",
+      "type": "walk",
+      "from": "node_38",
+      "to": "node_47",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291432,
+          9.869598
+        ],
+        [
+          46.291045,
+          9.870213
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_39_node_43",
+      "name": "Walk: Junction #40 ↔ Junction: Halfpipe / Pista Allenamenti",
+      "type": "walk",
+      "from": "node_39",
+      "to": "node_43",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291378,
+          9.865119
+        ],
+        [
+          46.290859,
+          9.865143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_39_node_48",
+      "name": "Walk: Junction #40 ↔ Junction #49",
+      "type": "walk",
+      "from": "node_39",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291378,
+          9.865119
+        ],
+        [
+          46.290917,
+          9.865665
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_40_node_45",
+      "name": "Walk: Junction #41 ↔ Junction: Aerials Trampolino",
+      "type": "walk",
+      "from": "node_40",
+      "to": "node_45",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.288466,
+          9.866134
+        ],
+        [
+          46.289004,
+          9.865887
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_44",
+      "name": "Walk: Junction: Halfpipe / Pista Allenamenti ↔ Junction #45",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_44",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.289216,
+          9.864115
+        ],
+        [
+          46.289411,
+          9.864126
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_42_node_43",
+      "name": "Walk: Junction #43 ↔ Junction: Halfpipe / Pista Allenamenti",
+      "type": "walk",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290663,
+          9.864511
+        ],
+        [
+          46.290859,
+          9.865143
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_48",
+      "name": "Walk: Junction: Halfpipe / Pista Allenamenti ↔ Junction #49",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_48",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290859,
+          9.865143
+        ],
+        [
+          46.290917,
+          9.865665
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_57",
+      "name": "Walk: Junction #53 ↔ Junction #58",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_57",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291723,
+          9.883485
+        ],
+        [
+          46.291586,
+          9.883698
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_87",
+      "name": "Walk: Junction #53 ↔ Junction #88",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291723,
+          9.883485
+        ],
+        [
+          46.29151,
+          9.884009
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_53_node_60",
+      "name": "Walk: Junction #54 ↔ Junction #61",
+      "type": "walk",
+      "from": "node_53",
+      "to": "node_60",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291486,
+          9.884894
+        ],
+        [
+          46.291322,
+          9.885149
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_53_node_87",
+      "name": "Walk: Junction #54 ↔ Junction #88",
+      "type": "walk",
+      "from": "node_53",
+      "to": "node_87",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291486,
+          9.884894
+        ],
+        [
+          46.29151,
+          9.884009
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_55_node_56",
+      "name": "Walk: Junction #56 ↔ Junction #57",
+      "type": "walk",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290575,
+          9.883692
+        ],
+        [
+          46.291106,
+          9.88373
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_55_node_88",
+      "name": "Walk: Junction #56 ↔ Junction #89",
+      "type": "walk",
+      "from": "node_55",
+      "to": "node_88",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290575,
+          9.883692
+        ],
+        [
+          46.290911,
+          9.883867
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_56_node_57",
+      "name": "Walk: Junction #57 ↔ Junction #58",
+      "type": "walk",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291106,
+          9.88373
+        ],
+        [
+          46.291586,
+          9.883698
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_56_node_87",
+      "name": "Walk: Junction #57 ↔ Junction #88",
+      "type": "walk",
+      "from": "node_56",
+      "to": "node_87",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291106,
+          9.88373
+        ],
+        [
+          46.29151,
+          9.884009
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_56_node_88",
+      "name": "Walk: Junction #57 ↔ Junction #89",
+      "type": "walk",
+      "from": "node_56",
+      "to": "node_88",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291106,
+          9.88373
+        ],
+        [
+          46.290911,
+          9.883867
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_57_node_87",
+      "name": "Walk: Junction #58 ↔ Junction #88",
+      "type": "walk",
+      "from": "node_57",
+      "to": "node_87",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291586,
+          9.883698
+        ],
+        [
+          46.29151,
+          9.884009
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_59_node_82",
+      "name": "Walk: Junction #60 ↔ Junction #83",
+      "type": "walk",
+      "from": "node_59",
+      "to": "node_82",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290553,
+          9.881575
+        ],
+        [
+          46.290806,
+          9.881899
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_60_node_61",
+      "name": "Walk: Junction #61 ↔ Junction #62",
+      "type": "walk",
+      "from": "node_60",
+      "to": "node_61",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.291322,
+          9.885149
+        ],
+        [
+          46.291537,
+          9.885827
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_64_node_66",
+      "name": "Walk: Junction #65 ↔ Junction #67",
+      "type": "walk",
+      "from": "node_64",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.298634,
+          9.891242
+        ],
+        [
+          46.299054,
+          9.891449
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_64_node_85",
+      "name": "Walk: Junction #65 ↔ Junction #86",
+      "type": "walk",
+      "from": "node_64",
+      "to": "node_85",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.298634,
+          9.891242
+        ],
+        [
+          46.29913,
+          9.890983
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_66_node_85",
+      "name": "Walk: Junction #67 ↔ Junction #86",
+      "type": "walk",
+      "from": "node_66",
+      "to": "node_85",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.299054,
+          9.891449
+        ],
+        [
+          46.29913,
+          9.890983
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_67_node_94",
+      "name": "Walk: Junction #68 ↔ Junction #95",
+      "type": "walk",
+      "from": "node_67",
+      "to": "node_94",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.298604,
+          9.889938
+        ],
+        [
+          46.298707,
+          9.889451
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_70_node_71",
+      "name": "Walk: Junction #71 ↔ Junction #72",
+      "type": "walk",
+      "from": "node_70",
+      "to": "node_71",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.294135,
+          9.89085
+        ],
+        [
+          46.294069,
+          9.890245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_72_node_83",
+      "name": "Walk: Junction #73 ↔ Junction #84",
+      "type": "walk",
+      "from": "node_72",
+      "to": "node_83",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.289835,
+          9.882176
+        ],
+        [
+          46.289815,
+          9.882603
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_72_node_84",
+      "name": "Walk: Junction #73 ↔ Junction #85",
+      "type": "walk",
+      "from": "node_72",
+      "to": "node_84",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.289835,
+          9.882176
+        ],
+        [
+          46.290084,
+          9.882459
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_73_node_82",
+      "name": "Walk: Junction #74 ↔ Junction #83",
+      "type": "walk",
+      "from": "node_73",
+      "to": "node_82",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290599,
+          9.882675
+        ],
+        [
+          46.290806,
+          9.881899
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_73_node_84",
+      "name": "Walk: Junction #74 ↔ Junction #85",
+      "type": "walk",
+      "from": "node_73",
+      "to": "node_84",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290599,
+          9.882675
+        ],
+        [
+          46.290084,
+          9.882459
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_77_node_78",
+      "name": "Walk: Junction #78 ↔ Junction #79",
+      "type": "walk",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.299257,
+          9.88858
+        ],
+        [
+          46.298931,
+          9.888835
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_78_node_94",
+      "name": "Walk: Junction #79 ↔ Junction #95",
+      "type": "walk",
+      "from": "node_78",
+      "to": "node_94",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.298931,
+          9.888835
+        ],
+        [
+          46.298707,
+          9.889451
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_79_node_91",
+      "name": "Walk: Junction #80 ↔ Junction #92",
+      "type": "walk",
+      "from": "node_79",
+      "to": "node_91",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.300642,
+          9.888247
+        ],
+        [
+          46.30019,
+          9.888381
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_81_node_89",
+      "name": "Walk: Junction #82 ↔ Junction #90",
+      "type": "walk",
+      "from": "node_81",
+      "to": "node_89",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.290666,
+          9.87329
+        ],
+        [
+          46.290728,
+          9.872997
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_83_node_84",
+      "name": "Walk: Junction #84 ↔ Junction #85",
+      "type": "walk",
+      "from": "node_83",
+      "to": "node_84",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.289815,
+          9.882603
+        ],
+        [
+          46.290084,
+          9.882459
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_87_node_88",
+      "name": "Walk: Junction #88 ↔ Junction #89",
+      "type": "walk",
+      "from": "node_87",
+      "to": "node_88",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.29151,
+          9.884009
+        ],
+        [
+          46.290911,
+          9.883867
+        ]
+      ]
+    }
+  ]
+}

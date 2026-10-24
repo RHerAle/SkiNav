@@ -1,0 +1,4805 @@
+{
+  "id": "sandomenico",
+  "name": "San Domenico di Varzo",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.2445,
+      8.1832
+    ],
+    [
+      46.2771,
+      8.2265
+    ]
+  ],
+  "center": [
+    46.2631,
+    8.2056
+  ],
+  "stats": {
+    "slopes": "19.9 km",
+    "lifts": 7,
+    "elevation": "1420m - 2550m",
+    "drop": "1130m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "CF4 Ciamporino (Base)",
+      "lat": 46.260747,
+      "lng": 8.192721,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "CF4 Ciamporino (Summit / Top)",
+      "lat": 46.266466,
+      "lng": 8.206482,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Tappeto 1 (Base)",
+      "lat": 46.260377,
+      "lng": 8.195329,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Tappeto 2 (Mid-Station / Hub)",
+      "lat": 46.260973,
+      "lng": 8.196534,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "CD4 Ciamporino - Dosso (Base)",
+      "lat": 46.260615,
+      "lng": 8.194674,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "CD4 Ciamporino - Dosso (Summit / Top)",
+      "lat": 46.262782,
+      "lng": 8.218057,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "SBK6 Bondolero (Base)",
+      "lat": 46.272094,
+      "lng": 8.216744,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "SBK6 Bondolero (Summit / Top)",
+      "lat": 46.26325,
+      "lng": 8.221549,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Funivia San Domenico - Ciamporino (Base)",
+      "lat": 46.249459,
+      "lng": 8.188191,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Funivia San Domenico - Ciamporino (Summit / Top)",
+      "lat": 46.260417,
+      "lng": 8.194199,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Tappeto 2 (Summit / Top)",
+      "lat": 46.261656,
+      "lng": 8.197366,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Seggiovia San Domenico - Casa Rossa (Base)",
+      "lat": 46.257605,
+      "lng": 8.190834,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Seggiovia San Domenico - Casa Rossa (Summit / Top)",
+      "lat": 46.250633,
+      "lng": 8.191105,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Casa Rossa",
+      "lat": 46.252638,
+      "lng": 8.188611,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Casa Rossa",
+      "lat": 46.252375,
+      "lng": 8.188422,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Casa Rossa",
+      "lat": 46.251049,
+      "lng": 8.19052,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Bondolero 2",
+      "lat": 46.263722,
+      "lng": 8.220578,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Bondolero 2",
+      "lat": 46.269101,
+      "lng": 8.218037,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Bondolero 2",
+      "lat": 46.269826,
+      "lng": 8.218871,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Snow Park",
+      "lat": 46.268001,
+      "lng": 8.204865,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Snow Park",
+      "lat": 46.262685,
+      "lng": 8.196606,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Salarioli",
+      "lat": 46.267573,
+      "lng": 8.205939,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Salarioli",
+      "lat": 46.262021,
+      "lng": 8.196188,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.266182,
+      "lng": 8.202894,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.263472,
+      "lng": 8.198579,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Sella",
+      "lat": 46.263899,
+      "lng": 8.21961,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Sella",
+      "lat": 46.264147,
+      "lng": 8.219417,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Sella",
+      "lat": 46.265288,
+      "lng": 8.21862,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Sella",
+      "lat": 46.26529,
+      "lng": 8.217712,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Sella",
+      "lat": 46.26572,
+      "lng": 8.217038,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Sella",
+      "lat": 46.266207,
+      "lng": 8.21352,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Sella",
+      "lat": 46.26702,
+      "lng": 8.213442,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Sella",
+      "lat": 46.266431,
+      "lng": 8.208056,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Sella",
+      "lat": 46.266239,
+      "lng": 8.207119,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Sella",
+      "lat": 46.266576,
+      "lng": 8.203973,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Ciamporino",
+      "lat": 46.256847,
+      "lng": 8.196355,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Diei Bis",
+      "lat": 46.264915,
+      "lng": 8.215263,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.26889,
+      "lng": 8.21552,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.269194,
+      "lng": 8.215572,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.269784,
+      "lng": 8.216306,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.270642,
+      "lng": 8.217056,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.270995,
+      "lng": 8.216636,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Variante Bondolero",
+      "lat": 46.271458,
+      "lng": 8.21691,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Intermedia",
+      "lat": 46.263369,
+      "lng": 8.203053,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Intermedia",
+      "lat": 46.257487,
+      "lng": 8.191175,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Valletta",
+      "lat": 46.265057,
+      "lng": 8.209785,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: La Rossa",
+      "lat": 46.266191,
+      "lng": 8.20758,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Campo scuola",
+      "lat": 46.262889,
+      "lng": 8.199461,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Campo scuola",
+      "lat": 46.262632,
+      "lng": 8.197394,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Campo scuola",
+      "lat": 46.262069,
+      "lng": 8.197142,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.260609,
+      "lng": 8.193283,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Campo Scuola",
+      "lat": 46.260756,
+      "lng": 8.194125,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Diei",
+      "lat": 46.263586,
+      "lng": 8.218438,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: La Rossa",
+      "lat": 46.262392,
+      "lng": 8.198265,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Diei",
+      "lat": 46.265575,
+      "lng": 8.213211,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction #56",
+      "lat": 46.26469,
+      "lng": 8.210158,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction #57",
+      "lat": 46.260387,
+      "lng": 8.194933,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction #58",
+      "lat": 46.263068,
+      "lng": 8.218299,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction #59",
+      "lat": 46.262469,
+      "lng": 8.217994,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction #60",
+      "lat": 46.250098,
+      "lng": 8.188359,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_299978768",
+      "name": "CF4 Ciamporino",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.22,
+      "duration": 4,
+      "elevation": 268,
+      "geometry": [
+        [
+          46.260792,
+          8.192661
+        ],
+        [
+          46.260911,
+          8.192955
+        ],
+        [
+          46.26124,
+          8.193769
+        ],
+        [
+          46.261808,
+          8.195175
+        ],
+        [
+          46.262414,
+          8.196674
+        ],
+        [
+          46.263127,
+          8.198441
+        ],
+        [
+          46.263761,
+          8.200008
+        ],
+        [
+          46.264137,
+          8.200941
+        ],
+        [
+          46.264745,
+          8.202444
+        ],
+        [
+          46.265138,
+          8.203417
+        ],
+        [
+          46.265719,
+          8.204855
+        ],
+        [
+          46.265886,
+          8.205268
+        ],
+        [
+          46.266204,
+          8.206055
+        ],
+        [
+          46.266326,
+          8.206358
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_299978769",
+      "name": "Tappeto 1",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          46.260479,
+          8.195467
+        ],
+        [
+          46.261014,
+          8.196511
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_299978770",
+      "name": "CD4 Ciamporino - Dosso",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.89,
+      "duration": 7,
+      "elevation": 415,
+      "geometry": [
+        [
+          46.26069,
+          8.194701
+        ],
+        [
+          46.260751,
+          8.194945
+        ],
+        [
+          46.26093,
+          8.19566
+        ],
+        [
+          46.261348,
+          8.197348
+        ],
+        [
+          46.261629,
+          8.198485
+        ],
+        [
+          46.26198,
+          8.199901
+        ],
+        [
+          46.262312,
+          8.201245
+        ],
+        [
+          46.262721,
+          8.2029
+        ],
+        [
+          46.263187,
+          8.204783
+        ],
+        [
+          46.263702,
+          8.206863
+        ],
+        [
+          46.264075,
+          8.208373
+        ],
+        [
+          46.26425,
+          8.20908
+        ],
+        [
+          46.264448,
+          8.209881
+        ],
+        [
+          46.264526,
+          8.210197
+        ],
+        [
+          46.264415,
+          8.21064
+        ],
+        [
+          46.264299,
+          8.211106
+        ],
+        [
+          46.263954,
+          8.212487
+        ],
+        [
+          46.263642,
+          8.213736
+        ],
+        [
+          46.263232,
+          8.215377
+        ],
+        [
+          46.262868,
+          8.216833
+        ],
+        [
+          46.262705,
+          8.217485
+        ],
+        [
+          46.262618,
+          8.217831
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_299978771",
+      "name": "SBK6 Bondolero",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.04,
+      "duration": 4,
+      "elevation": 228,
+      "geometry": [
+        [
+          46.272059,
+          8.216907
+        ],
+        [
+          46.271822,
+          8.217038
+        ],
+        [
+          46.271203,
+          8.217383
+        ],
+        [
+          46.270213,
+          8.217933
+        ],
+        [
+          46.269038,
+          8.218564
+        ],
+        [
+          46.268067,
+          8.219064
+        ],
+        [
+          46.266978,
+          8.219605
+        ],
+        [
+          46.264929,
+          8.220622
+        ],
+        [
+          46.264791,
+          8.22069
+        ],
+        [
+          46.26325,
+          8.22143
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_299978772",
+      "name": "Funivia San Domenico - Ciamporino",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 1.34,
+      "duration": 3,
+      "elevation": 294,
+      "geometry": [
+        [
+          46.249459,
+          8.188191
+        ],
+        [
+          46.250146,
+          8.188443
+        ],
+        [
+          46.2575,
+          8.190726
+        ],
+        [
+          46.260467,
+          8.194199
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_912728655",
+      "name": "Tappeto 2",
+      "type": "lift",
+      "from": "node_3",
+      "to": "node_10",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          46.261078,
+          8.196608
+        ],
+        [
+          46.261734,
+          8.19732
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1548786194",
+      "name": "Seggiovia San Domenico - Casa Rossa",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.75,
+      "duration": 3,
+      "elevation": 165,
+      "geometry": [
+        [
+          46.257357,
+          8.190992
+        ],
+        [
+          46.256775,
+          8.190998
+        ],
+        [
+          46.256054,
+          8.191013
+        ],
+        [
+          46.255124,
+          8.191032
+        ],
+        [
+          46.253753,
+          8.191061
+        ],
+        [
+          46.253535,
+          8.191066
+        ],
+        [
+          46.252849,
+          8.19108
+        ],
+        [
+          46.251806,
+          8.191102
+        ],
+        [
+          46.250837,
+          8.191108
+        ],
+        [
+          46.250722,
+          8.191106
+        ],
+        [
+          46.250633,
+          8.191105
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_299978774_2",
+      "name": "Casa Rossa",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_13",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          46.257594,
+          8.190462
+        ],
+        [
+          46.257026,
+          8.189961
+        ],
+        [
+          46.256729,
+          8.189804
+        ],
+        [
+          46.256277,
+          8.189842
+        ],
+        [
+          46.25607,
+          8.189796
+        ],
+        [
+          46.255786,
+          8.189595
+        ],
+        [
+          46.255405,
+          8.189332
+        ],
+        [
+          46.255231,
+          8.189108
+        ],
+        [
+          46.25512,
+          8.189016
+        ],
+        [
+          46.254919,
+          8.189231
+        ],
+        [
+          46.254472,
+          8.189415
+        ],
+        [
+          46.254218,
+          8.189436
+        ],
+        [
+          46.253937,
+          8.18979
+        ],
+        [
+          46.253621,
+          8.189858
+        ],
+        [
+          46.253393,
+          8.189692
+        ],
+        [
+          46.253326,
+          8.189551
+        ],
+        [
+          46.253125,
+          8.18933
+        ],
+        [
+          46.252843,
+          8.188832
+        ],
+        [
+          46.252728,
+          8.188682
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_299978774_4",
+      "name": "Casa Rossa",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.252549,
+          8.18854
+        ],
+        [
+          46.252303,
+          8.188505
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_299978774_5",
+      "name": "Casa Rossa",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.252303,
+          8.188505
+        ],
+        [
+          46.251912,
+          8.188481
+        ],
+        [
+          46.251616,
+          8.188588
+        ],
+        [
+          46.251501,
+          8.188732
+        ],
+        [
+          46.251461,
+          8.188844
+        ],
+        [
+          46.251411,
+          8.188978
+        ],
+        [
+          46.251417,
+          8.189213
+        ],
+        [
+          46.251446,
+          8.189451
+        ],
+        [
+          46.251453,
+          8.189845
+        ],
+        [
+          46.251437,
+          8.189965
+        ],
+        [
+          46.251394,
+          8.190089
+        ],
+        [
+          46.251256,
+          8.190148
+        ],
+        [
+          46.251049,
+          8.19052
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455719687_0",
+      "name": "Bondolero 2",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_16",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.26325,
+          8.22143
+        ],
+        [
+          46.263736,
+          8.22078
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_455719687_1",
+      "name": "Bondolero 2",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.65,
+      "duration": 1,
+      "elevation": -104,
+      "geometry": [
+        [
+          46.263736,
+          8.22078
+        ],
+        [
+          46.264104,
+          8.220408
+        ],
+        [
+          46.264663,
+          8.220154
+        ],
+        [
+          46.265383,
+          8.220015
+        ],
+        [
+          46.26569,
+          8.21981
+        ],
+        [
+          46.266084,
+          8.219722
+        ],
+        [
+          46.266401,
+          8.219299
+        ],
+        [
+          46.266915,
+          8.219031
+        ],
+        [
+          46.2676,
+          8.218923
+        ],
+        [
+          46.267823,
+          8.218847
+        ],
+        [
+          46.268035,
+          8.218638
+        ],
+        [
+          46.268312,
+          8.218399
+        ],
+        [
+          46.269101,
+          8.218037
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_455719687_2",
+      "name": "Bondolero 2",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.269101,
+          8.218037
+        ],
+        [
+          46.269717,
+          8.21828
+        ],
+        [
+          46.269852,
+          8.218804
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_455720382_3",
+      "name": "Bondolero 1",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_18",
+      "distance": 0.86,
+      "duration": 1,
+      "elevation": -137,
+      "geometry": [
+        [
+          46.263305,
+          8.221813
+        ],
+        [
+          46.263743,
+          8.221728
+        ],
+        [
+          46.263874,
+          8.222143
+        ],
+        [
+          46.263949,
+          8.222605
+        ],
+        [
+          46.264065,
+          8.222815
+        ],
+        [
+          46.264384,
+          8.222754
+        ],
+        [
+          46.264395,
+          8.222701
+        ],
+        [
+          46.26448,
+          8.222291
+        ],
+        [
+          46.264685,
+          8.221986
+        ],
+        [
+          46.265428,
+          8.22141
+        ],
+        [
+          46.265521,
+          8.221306
+        ],
+        [
+          46.265693,
+          8.221231
+        ],
+        [
+          46.266277,
+          8.220758
+        ],
+        [
+          46.266861,
+          8.220113
+        ],
+        [
+          46.267595,
+          8.219851
+        ],
+        [
+          46.267806,
+          8.219776
+        ],
+        [
+          46.269002,
+          8.219332
+        ],
+        [
+          46.269323,
+          8.218991
+        ],
+        [
+          46.269649,
+          8.218905
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_455723709_0",
+      "name": "Snow Park",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.98,
+      "duration": 2,
+      "elevation": -156,
+      "geometry": [
+        [
+          46.268001,
+          8.20488
+        ],
+        [
+          46.268072,
+          8.203794
+        ],
+        [
+          46.267393,
+          8.202186
+        ],
+        [
+          46.267067,
+          8.201633
+        ],
+        [
+          46.26634,
+          8.200028
+        ],
+        [
+          46.265744,
+          8.199112
+        ],
+        [
+          46.265424,
+          8.198822
+        ],
+        [
+          46.263746,
+          8.195992
+        ],
+        [
+          46.263487,
+          8.195994
+        ],
+        [
+          46.263356,
+          8.196091
+        ],
+        [
+          46.262917,
+          8.196233
+        ],
+        [
+          46.26275,
+          8.196513
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723710_0",
+      "name": "Salarioli",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_19",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.267573,
+          8.205939
+        ],
+        [
+          46.267787,
+          8.205645
+        ],
+        [
+          46.268001,
+          8.204858
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723710_1",
+      "name": "Salarioli",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.89,
+      "duration": 1,
+      "elevation": -142,
+      "geometry": [
+        [
+          46.268001,
+          8.204858
+        ],
+        [
+          46.267186,
+          8.202871
+        ],
+        [
+          46.266614,
+          8.202146
+        ],
+        [
+          46.26606,
+          8.200841
+        ],
+        [
+          46.265348,
+          8.199412
+        ],
+        [
+          46.264319,
+          8.198624
+        ],
+        [
+          46.263616,
+          8.198062
+        ],
+        [
+          46.26266,
+          8.196666
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723710_3",
+      "name": "Salarioli",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_22",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.262637,
+          8.196632
+        ],
+        [
+          46.26237,
+          8.196423
+        ],
+        [
+          46.262021,
+          8.196188
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723713_0",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_21",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.266561,
+          8.206477
+        ],
+        [
+          46.266895,
+          8.206458
+        ],
+        [
+          46.26727,
+          8.206357
+        ],
+        [
+          46.267573,
+          8.205939
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723713_1",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_23",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.267573,
+          8.205939
+        ],
+        [
+          46.267599,
+          8.205389
+        ],
+        [
+          46.267497,
+          8.204527
+        ],
+        [
+          46.267276,
+          8.20398
+        ],
+        [
+          46.267016,
+          8.203449
+        ],
+        [
+          46.266242,
+          8.202847
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455723713_3",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.266088,
+          8.202723
+        ],
+        [
+          46.265445,
+          8.201623
+        ],
+        [
+          46.264859,
+          8.200748
+        ],
+        [
+          46.26434,
+          8.1999
+        ],
+        [
+          46.263472,
+          8.198579
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_455724568_0",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_16",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.26325,
+          8.22143
+        ],
+        [
+          46.263713,
+          8.220443
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_1",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.263713,
+          8.220443
+        ],
+        [
+          46.263848,
+          8.219656
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_2",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.263848,
+          8.219656
+        ],
+        [
+          46.264147,
+          8.219417
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_3",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.264147,
+          8.219417
+        ],
+        [
+          46.264481,
+          8.219221
+        ],
+        [
+          46.264878,
+          8.219033
+        ],
+        [
+          46.265258,
+          8.218619
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_4",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.265258,
+          8.218619
+        ],
+        [
+          46.265285,
+          8.21783
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_5",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.265285,
+          8.21783
+        ],
+        [
+          46.265703,
+          8.217126
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_7",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          46.265746,
+          8.216907
+        ],
+        [
+          46.26581,
+          8.216514
+        ],
+        [
+          46.265884,
+          8.216003
+        ],
+        [
+          46.265993,
+          8.215142
+        ],
+        [
+          46.266007,
+          8.214579
+        ],
+        [
+          46.266082,
+          8.2141
+        ],
+        [
+          46.266213,
+          8.213535
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_10",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.266351,
+          8.213424
+        ],
+        [
+          46.266523,
+          8.213484
+        ],
+        [
+          46.266731,
+          8.213575
+        ],
+        [
+          46.266934,
+          8.213636
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_12",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          46.267078,
+          8.213312
+        ],
+        [
+          46.266947,
+          8.212608
+        ],
+        [
+          46.266627,
+          8.211033
+        ],
+        [
+          46.266593,
+          8.210769
+        ],
+        [
+          46.266478,
+          8.209468
+        ],
+        [
+          46.266429,
+          8.20825
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_15",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.266434,
+          8.207808
+        ],
+        [
+          46.266497,
+          8.207186
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_16",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_1",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.266497,
+          8.207186
+        ],
+        [
+          46.266561,
+          8.206477
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_17",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_34",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.266561,
+          8.206477
+        ],
+        [
+          46.266868,
+          8.205568
+        ],
+        [
+          46.266904,
+          8.204729
+        ],
+        [
+          46.266847,
+          8.204316
+        ],
+        [
+          46.266656,
+          8.204138
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724568_20",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_23",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.266472,
+          8.203754
+        ],
+        [
+          46.266186,
+          8.203136
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724573_4",
+      "name": "Ciamporino",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260399,
+          8.194904
+        ],
+        [
+          46.260282,
+          8.195117
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_455724573_5",
+      "name": "Ciamporino",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_35",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          46.260282,
+          8.195117
+        ],
+        [
+          46.259932,
+          8.195177
+        ],
+        [
+          46.259754,
+          8.195179
+        ],
+        [
+          46.259511,
+          8.194971
+        ],
+        [
+          46.259397,
+          8.19437
+        ],
+        [
+          46.259212,
+          8.193943
+        ],
+        [
+          46.25902,
+          8.193618
+        ],
+        [
+          46.25865,
+          8.193491
+        ],
+        [
+          46.258313,
+          8.193787
+        ],
+        [
+          46.258198,
+          8.194162
+        ],
+        [
+          46.258237,
+          8.194534
+        ],
+        [
+          46.258262,
+          8.194841
+        ],
+        [
+          46.258259,
+          8.195042
+        ],
+        [
+          46.25828,
+          8.195301
+        ],
+        [
+          46.258193,
+          8.19587
+        ],
+        [
+          46.25777,
+          8.196046
+        ],
+        [
+          46.257103,
+          8.196328
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_465409550_0",
+      "name": "Diei Bis",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_36",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          46.262804,
+          8.218186
+        ],
+        [
+          46.263081,
+          8.217427
+        ],
+        [
+          46.263041,
+          8.216921
+        ],
+        [
+          46.263252,
+          8.21608
+        ],
+        [
+          46.26345,
+          8.215612
+        ],
+        [
+          46.263638,
+          8.215246
+        ],
+        [
+          46.263812,
+          8.21483
+        ],
+        [
+          46.264041,
+          8.214613
+        ],
+        [
+          46.264415,
+          8.21473
+        ],
+        [
+          46.264563,
+          8.214887
+        ],
+        [
+          46.264915,
+          8.215263
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_465409555_0",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_37",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.267078,
+          8.213312
+        ],
+        [
+          46.267358,
+          8.213843
+        ],
+        [
+          46.267937,
+          8.214902
+        ],
+        [
+          46.26887,
+          8.215307
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409555_1",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.26887,
+          8.215307
+        ],
+        [
+          46.269096,
+          8.215689
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409555_2",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.269096,
+          8.215689
+        ],
+        [
+          46.269467,
+          8.21606
+        ],
+        [
+          46.269678,
+          8.216224
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409555_7",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.269923,
+          8.216415
+        ],
+        [
+          46.270197,
+          8.216628
+        ],
+        [
+          46.270567,
+          8.217008
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409555_9",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.270691,
+          8.217088
+        ],
+        [
+          46.270927,
+          8.21672
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409555_12",
+      "name": "Variante Bondolero",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.27104,
+          8.216581
+        ],
+        [
+          46.271565,
+          8.216838
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_465409556_0",
+      "name": "Intermedia",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_35",
+      "distance": 1.02,
+      "duration": 1,
+      "elevation": -163,
+      "geometry": [
+        [
+          46.263351,
+          8.203024
+        ],
+        [
+          46.263038,
+          8.203005
+        ],
+        [
+          46.261942,
+          8.201462
+        ],
+        [
+          46.261734,
+          8.201006
+        ],
+        [
+          46.261413,
+          8.200459
+        ],
+        [
+          46.260714,
+          8.200192
+        ],
+        [
+          46.260086,
+          8.199248
+        ],
+        [
+          46.259924,
+          8.198391
+        ],
+        [
+          46.259216,
+          8.196974
+        ],
+        [
+          46.259031,
+          8.196377
+        ],
+        [
+          46.25896,
+          8.195957
+        ],
+        [
+          46.258671,
+          8.195831
+        ],
+        [
+          46.258306,
+          8.195961
+        ],
+        [
+          46.258045,
+          8.196113
+        ],
+        [
+          46.25772,
+          8.196471
+        ],
+        [
+          46.257451,
+          8.196582
+        ],
+        [
+          46.256847,
+          8.196436
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_465409556_3",
+      "name": "Intermedia",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_44",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.256667,
+          8.196212
+        ],
+        [
+          46.256745,
+          8.195848
+        ],
+        [
+          46.257003,
+          8.195577
+        ],
+        [
+          46.2573,
+          8.195241
+        ],
+        [
+          46.25741,
+          8.194942
+        ],
+        [
+          46.257439,
+          8.194815
+        ],
+        [
+          46.257436,
+          8.194662
+        ],
+        [
+          46.257313,
+          8.194559
+        ],
+        [
+          46.257191,
+          8.194279
+        ],
+        [
+          46.257178,
+          8.193877
+        ],
+        [
+          46.257121,
+          8.193069
+        ],
+        [
+          46.25716,
+          8.192633
+        ],
+        [
+          46.257121,
+          8.192389
+        ],
+        [
+          46.257002,
+          8.192211
+        ],
+        [
+          46.257027,
+          8.19196
+        ],
+        [
+          46.257254,
+          8.19156
+        ],
+        [
+          46.257487,
+          8.191175
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_465409556_4",
+      "name": "Intermedia",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.257487,
+          8.191175
+        ],
+        [
+          46.257565,
+          8.191079
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_563392613_0",
+      "name": "Valletta",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_43",
+      "distance": 0.57,
+      "duration": 1,
+      "elevation": -91,
+      "geometry": [
+        [
+          46.265027,
+          8.209872
+        ],
+        [
+          46.26475,
+          8.209091
+        ],
+        [
+          46.264634,
+          8.208692
+        ],
+        [
+          46.264432,
+          8.208274
+        ],
+        [
+          46.264393,
+          8.207825
+        ],
+        [
+          46.26443,
+          8.207004
+        ],
+        [
+          46.264405,
+          8.206414
+        ],
+        [
+          46.264274,
+          8.205735
+        ],
+        [
+          46.263903,
+          8.204814
+        ],
+        [
+          46.26361,
+          8.204239
+        ],
+        [
+          46.263362,
+          8.203083
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_872330619_0",
+      "name": "Valletta Bis",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_43",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.265075,
+          8.209478
+        ],
+        [
+          46.265018,
+          8.208908
+        ],
+        [
+          46.265117,
+          8.208007
+        ],
+        [
+          46.265186,
+          8.207034
+        ],
+        [
+          46.26486,
+          8.205947
+        ],
+        [
+          46.264553,
+          8.205318
+        ],
+        [
+          46.264148,
+          8.204316
+        ],
+        [
+          46.263762,
+          8.20373
+        ],
+        [
+          46.263395,
+          8.203106
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_872330620_4",
+      "name": "Tappeto 2",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_3",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.261559,
+          8.197294
+        ],
+        [
+          46.26145,
+          8.19719
+        ],
+        [
+          46.261041,
+          8.196656
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_872330621_3",
+      "name": "Tappeto 1",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_2",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.260765,
+          8.196311
+        ],
+        [
+          46.260671,
+          8.196136
+        ],
+        [
+          46.260578,
+          8.19592
+        ],
+        [
+          46.260475,
+          8.195666
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_872339125_2",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          46.265282,
+          8.209735
+        ],
+        [
+          46.265569,
+          8.209391
+        ],
+        [
+          46.265924,
+          8.208898
+        ],
+        [
+          46.266088,
+          8.208211
+        ],
+        [
+          46.266191,
+          8.20758
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_872339125_3",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.266191,
+          8.20758
+        ],
+        [
+          46.266236,
+          8.207396
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_904117156_0",
+      "name": "Bondolero 2 (muro)",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_40",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.269101,
+          8.218037
+        ],
+        [
+          46.269444,
+          8.217809
+        ],
+        [
+          46.270691,
+          8.217088
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_904117157_0",
+      "name": "Campo scuola",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_47",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.263472,
+          8.198579
+        ],
+        [
+          46.263126,
+          8.198867
+        ],
+        [
+          46.262964,
+          8.199316
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904117158_0",
+      "name": "Campo scuola",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.262632,
+          8.197394
+        ],
+        [
+          46.262079,
+          8.197165
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904117159_0",
+      "name": "Piste 904117159",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_4",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.260313,
+          8.194129
+        ],
+        [
+          46.260177,
+          8.194539
+        ],
+        [
+          46.260399,
+          8.194904
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904117159_3",
+      "name": "Piste 904117159",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260428,
+          8.193651
+        ],
+        [
+          46.260507,
+          8.193442
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904117161_0",
+      "name": "Dosso",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_5",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.26325,
+          8.22143
+        ],
+        [
+          46.263257,
+          8.220306
+        ],
+        [
+          46.263103,
+          8.21971
+        ],
+        [
+          46.262874,
+          8.218823
+        ],
+        [
+          46.262815,
+          8.218227
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_904117162_1",
+      "name": "Piste 904117162",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_25",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.263632,
+          8.218564
+        ],
+        [
+          46.263816,
+          8.218826
+        ],
+        [
+          46.264002,
+          8.219517
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_904117163_0",
+      "name": "Piste 904117163",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_52",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.263713,
+          8.220443
+        ],
+        [
+          46.263592,
+          8.219979
+        ],
+        [
+          46.263547,
+          8.219439
+        ],
+        [
+          46.263547,
+          8.218443
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_907312317_1",
+      "name": "Piste 907312317",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_10",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.262251,
+          8.198224
+        ],
+        [
+          46.261712,
+          8.197434
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_911974884_0",
+      "name": "Bondolero 3 bis",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_37",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          46.265703,
+          8.217126
+        ],
+        [
+          46.266072,
+          8.216798
+        ],
+        [
+          46.266579,
+          8.216437
+        ],
+        [
+          46.267158,
+          8.216004
+        ],
+        [
+          46.267539,
+          8.215654
+        ],
+        [
+          46.267839,
+          8.215462
+        ],
+        [
+          46.268021,
+          8.215394
+        ],
+        [
+          46.268295,
+          8.215466
+        ],
+        [
+          46.268495,
+          8.215538
+        ],
+        [
+          46.268782,
+          8.215625
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_911974885_1",
+      "name": "Bondolero 3",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_39",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          46.265333,
+          8.218621
+        ],
+        [
+          46.265665,
+          8.218506
+        ],
+        [
+          46.265935,
+          8.218409
+        ],
+        [
+          46.266425,
+          8.218042
+        ],
+        [
+          46.26706,
+          8.217595
+        ],
+        [
+          46.267732,
+          8.217161
+        ],
+        [
+          46.267939,
+          8.217052
+        ],
+        [
+          46.268339,
+          8.21711
+        ],
+        [
+          46.268921,
+          8.217281
+        ],
+        [
+          46.269179,
+          8.217317
+        ],
+        [
+          46.26947,
+          8.216598
+        ],
+        [
+          46.269818,
+          8.216333
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_911974889_1",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_30",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          46.265297,
+          8.217535
+        ],
+        [
+          46.265321,
+          8.217192
+        ],
+        [
+          46.265185,
+          8.216754
+        ],
+        [
+          46.26514,
+          8.216166
+        ],
+        [
+          46.26514,
+          8.215668
+        ],
+        [
+          46.265259,
+          8.215248
+        ],
+        [
+          46.265357,
+          8.215007
+        ],
+        [
+          46.265659,
+          8.21454
+        ],
+        [
+          46.26584,
+          8.214201
+        ],
+        [
+          46.265917,
+          8.213874
+        ],
+        [
+          46.266036,
+          8.213599
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393384_0",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_22",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.262632,
+          8.197394
+        ],
+        [
+          46.262021,
+          8.196188
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393384_1",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_51",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.262021,
+          8.196188
+        ],
+        [
+          46.26144,
+          8.195049
+        ],
+        [
+          46.261122,
+          8.194401
+        ],
+        [
+          46.26088,
+          8.193654
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393384_2",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.26088,
+          8.193654
+        ],
+        [
+          46.260714,
+          8.193289
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393384_4",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260607,
+          8.193173
+        ],
+        [
+          46.260699,
+          8.19288
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393385_0",
+      "name": "Campo Scuola",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_48",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.263472,
+          8.198579
+        ],
+        [
+          46.263245,
+          8.198242
+        ],
+        [
+          46.262875,
+          8.197719
+        ],
+        [
+          46.262632,
+          8.197394
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393389_1",
+      "name": "Diei",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_36",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.263804,
+          8.218373
+        ],
+        [
+          46.26394,
+          8.218068
+        ],
+        [
+          46.264041,
+          8.217192
+        ],
+        [
+          46.26405,
+          8.216304
+        ],
+        [
+          46.264172,
+          8.215931
+        ],
+        [
+          46.264915,
+          8.215263
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912393390_0",
+      "name": "Diei",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_54",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.264915,
+          8.215263
+        ],
+        [
+          46.2651,
+          8.214796
+        ],
+        [
+          46.265333,
+          8.214201
+        ],
+        [
+          46.265407,
+          8.214028
+        ],
+        [
+          46.265575,
+          8.213211
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912393390_1",
+      "name": "Diei",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_45",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          46.265575,
+          8.213211
+        ],
+        [
+          46.265352,
+          8.212547
+        ],
+        [
+          46.265052,
+          8.212207
+        ],
+        [
+          46.264914,
+          8.212259
+        ],
+        [
+          46.264851,
+          8.212295
+        ],
+        [
+          46.264769,
+          8.211843
+        ],
+        [
+          46.264805,
+          8.21126
+        ],
+        [
+          46.264884,
+          8.210538
+        ],
+        [
+          46.264952,
+          8.210104
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912393391_3",
+      "name": "Piste 912393391",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.264785,
+          8.210088
+        ],
+        [
+          46.265027,
+          8.209872
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393392_0",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_54",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.266213,
+          8.213535
+        ],
+        [
+          46.265575,
+          8.213211
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393397_1",
+      "name": "Piste 912393397",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260709,
+          8.194277
+        ],
+        [
+          46.260595,
+          8.194536
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912393398_0",
+      "name": "Piste 912393398",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_1",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.266349,
+          8.207065
+        ],
+        [
+          46.266561,
+          8.206477
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393400_1",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_53",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.262811,
+          8.199288
+        ],
+        [
+          46.262708,
+          8.198934
+        ],
+        [
+          46.262482,
+          8.198411
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393400_3",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_49",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.262396,
+          8.198086
+        ],
+        [
+          46.26223,
+          8.197545
+        ],
+        [
+          46.262079,
+          8.197165
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393400_5",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_4",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.262056,
+          8.197108
+        ],
+        [
+          46.261932,
+          8.196717
+        ],
+        [
+          46.261684,
+          8.196439
+        ],
+        [
+          46.260979,
+          8.195339
+        ],
+        [
+          46.260954,
+          8.195292
+        ],
+        [
+          46.260891,
+          8.194818
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393400_7",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_51",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.26083,
+          8.194489
+        ],
+        [
+          46.260709,
+          8.194277
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393402_0",
+      "name": "Piste 912393402",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.266431,
+          8.208093
+        ],
+        [
+          46.266191,
+          8.20758
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393406_3",
+      "name": "Sella",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_52",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.262804,
+          8.218186
+        ],
+        [
+          46.263199,
+          8.218254
+        ],
+        [
+          46.263398,
+          8.218366
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393424_0",
+      "name": "Intermedia",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_43",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          46.266591,
+          8.204008
+        ],
+        [
+          46.265729,
+          8.203535
+        ],
+        [
+          46.265539,
+          8.203354
+        ],
+        [
+          46.265381,
+          8.20308
+        ],
+        [
+          46.265134,
+          8.202978
+        ],
+        [
+          46.264974,
+          8.203076
+        ],
+        [
+          46.264688,
+          8.203254
+        ],
+        [
+          46.264397,
+          8.203523
+        ],
+        [
+          46.263859,
+          8.203265
+        ],
+        [
+          46.263392,
+          8.203043
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_912393426_0",
+      "name": "Valletta",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_47",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.263351,
+          8.203024
+        ],
+        [
+          46.263065,
+          8.201991
+        ],
+        [
+          46.262729,
+          8.200812
+        ],
+        [
+          46.262891,
+          8.199621
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912728659_2",
+      "name": "Piste 912728659",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_56",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.260279,
+          8.19419
+        ],
+        [
+          46.260178,
+          8.194343
+        ],
+        [
+          46.260159,
+          8.194333
+        ],
+        [
+          46.260131,
+          8.194375
+        ],
+        [
+          46.260045,
+          8.194505
+        ],
+        [
+          46.259971,
+          8.194655
+        ],
+        [
+          46.260136,
+          8.194759
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912728659_13",
+      "name": "Piste 912728659",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260658,
+          8.194737
+        ],
+        [
+          46.260595,
+          8.194536
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912728659_14",
+      "name": "Piste 912728659",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_51",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260595,
+          8.194536
+        ],
+        [
+          46.260716,
+          8.194432
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912728659_17",
+      "name": "Piste 912728659",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260745,
+          8.194198
+        ],
+        [
+          46.26063,
+          8.194029
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912728659_24",
+      "name": "Piste 912728659",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_9",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.260405,
+          8.194745
+        ],
+        [
+          46.260338,
+          8.194544
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_912728680_1",
+      "name": "Bondolero 2",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_42",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.269912,
+          8.218935
+        ],
+        [
+          46.270014,
+          8.219153
+        ],
+        [
+          46.270165,
+          8.219311
+        ],
+        [
+          46.270361,
+          8.219339
+        ],
+        [
+          46.270934,
+          8.21912
+        ],
+        [
+          46.271439,
+          8.218245
+        ],
+        [
+          46.27141,
+          8.217676
+        ],
+        [
+          46.271396,
+          8.217265
+        ],
+        [
+          46.271324,
+          8.216999
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912728680_3",
+      "name": "Bondolero 2",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.271565,
+          8.216838
+        ],
+        [
+          46.272004,
+          8.216585
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912728681_1",
+      "name": "Bondolero 1",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_42",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.269912,
+          8.218935
+        ],
+        [
+          46.270014,
+          8.219153
+        ],
+        [
+          46.270165,
+          8.219311
+        ],
+        [
+          46.270361,
+          8.219339
+        ],
+        [
+          46.270934,
+          8.21912
+        ],
+        [
+          46.271439,
+          8.218245
+        ],
+        [
+          46.27141,
+          8.217676
+        ],
+        [
+          46.271396,
+          8.217265
+        ],
+        [
+          46.271324,
+          8.216999
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_912728681_3",
+      "name": "Bondolero 1",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.271565,
+          8.216838
+        ],
+        [
+          46.272004,
+          8.216585
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_915416518_0",
+      "name": "Varinte Bondolero 2",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.26887,
+          8.215307
+        ],
+        [
+          46.269293,
+          8.215455
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_915416518_1",
+      "name": "Varinte Bondolero 2",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_41",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          46.269293,
+          8.215455
+        ],
+        [
+          46.269635,
+          8.215584
+        ],
+        [
+          46.269981,
+          8.21589
+        ],
+        [
+          46.270456,
+          8.216194
+        ],
+        [
+          46.270742,
+          8.216362
+        ],
+        [
+          46.27104,
+          8.216581
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_915416519_2",
+      "name": "Piste 915416519",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_57",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.262873,
+          8.217697
+        ],
+        [
+          46.26293,
+          8.217654
+        ],
+        [
+          46.2632,
+          8.217863
+        ],
+        [
+          46.26322,
+          8.218006
+        ],
+        [
+          46.263296,
+          8.218049
+        ],
+        [
+          46.26322,
+          8.218299
+        ],
+        [
+          46.263068,
+          8.218299
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_915416519_3",
+      "name": "Piste 915416519",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_5",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.263068,
+          8.218299
+        ],
+        [
+          46.263015,
+          8.218282
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_915416519_4",
+      "name": "Piste 915416519",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_58",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.263015,
+          8.218282
+        ],
+        [
+          46.262985,
+          8.218573
+        ],
+        [
+          46.262764,
+          8.218739
+        ],
+        [
+          46.262686,
+          8.218773
+        ],
+        [
+          46.262395,
+          8.218039
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1088818447_1",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.266387,
+          8.206726
+        ],
+        [
+          46.266313,
+          8.206955
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1088818448_2",
+      "name": "La Rossa",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_47",
+      "distance": 0.68,
+      "duration": 1,
+      "elevation": -108,
+      "geometry": [
+        [
+          46.266059,
+          8.206811
+        ],
+        [
+          46.265999,
+          8.206359
+        ],
+        [
+          46.265887,
+          8.206043
+        ],
+        [
+          46.265636,
+          8.205565
+        ],
+        [
+          46.265445,
+          8.205141
+        ],
+        [
+          46.265256,
+          8.204315
+        ],
+        [
+          46.265026,
+          8.203634
+        ],
+        [
+          46.264792,
+          8.203373
+        ],
+        [
+          46.264418,
+          8.202477
+        ],
+        [
+          46.264074,
+          8.201506
+        ],
+        [
+          46.263861,
+          8.201201
+        ],
+        [
+          46.263643,
+          8.201125
+        ],
+        [
+          46.26336,
+          8.200967
+        ],
+        [
+          46.263078,
+          8.200224
+        ],
+        [
+          46.263027,
+          8.200056
+        ],
+        [
+          46.262891,
+          8.199621
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1492121058_3",
+      "name": "Piste 1492121058",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_59",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.252323,
+          8.188307
+        ],
+        [
+          46.252296,
+          8.188218
+        ],
+        [
+          46.252285,
+          8.188144
+        ],
+        [
+          46.252275,
+          8.188056
+        ],
+        [
+          46.252257,
+          8.187981
+        ],
+        [
+          46.252232,
+          8.187911
+        ],
+        [
+          46.252193,
+          8.187858
+        ],
+        [
+          46.252146,
+          8.187809
+        ],
+        [
+          46.252087,
+          8.187765
+        ],
+        [
+          46.252018,
+          8.187725
+        ],
+        [
+          46.251949,
+          8.187706
+        ],
+        [
+          46.251887,
+          8.187698
+        ],
+        [
+          46.251831,
+          8.18771
+        ],
+        [
+          46.251741,
+          8.187742
+        ],
+        [
+          46.251682,
+          8.187751
+        ],
+        [
+          46.251621,
+          8.187734
+        ],
+        [
+          46.251573,
+          8.187694
+        ],
+        [
+          46.25152,
+          8.187608
+        ],
+        [
+          46.251483,
+          8.187527
+        ],
+        [
+          46.251444,
+          8.187458
+        ],
+        [
+          46.251382,
+          8.187389
+        ],
+        [
+          46.251315,
+          8.187333
+        ],
+        [
+          46.251239,
+          8.187308
+        ],
+        [
+          46.251152,
+          8.187304
+        ],
+        [
+          46.251076,
+          8.187328
+        ],
+        [
+          46.251006,
+          8.187377
+        ],
+        [
+          46.250955,
+          8.187426
+        ],
+        [
+          46.250891,
+          8.187519
+        ],
+        [
+          46.250826,
+          8.187629
+        ],
+        [
+          46.250758,
+          8.187796
+        ],
+        [
+          46.25072,
+          8.187911
+        ],
+        [
+          46.250684,
+          8.188029
+        ],
+        [
+          46.25065,
+          8.188119
+        ],
+        [
+          46.250612,
+          8.188216
+        ],
+        [
+          46.250559,
+          8.188317
+        ],
+        [
+          46.250508,
+          8.188361
+        ],
+        [
+          46.250466,
+          8.188375
+        ],
+        [
+          46.250383,
+          8.188376
+        ],
+        [
+          46.250323,
+          8.18837
+        ],
+        [
+          46.250218,
+          8.188351
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_9",
+      "name": "Walk: CF4 Ciamporino (Base) ↔ Funivia San Domenico - Ciamporino (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_9",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260747,
+          8.192721
+        ],
+        [
+          46.260417,
+          8.194199
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_50",
+      "name": "Walk: CF4 Ciamporino (Base) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260747,
+          8.192721
+        ],
+        [
+          46.260609,
+          8.193283
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_33",
+      "name": "Walk: CF4 Ciamporino (Summit / Top) ↔ Junction: Sella",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.266466,
+          8.206482
+        ],
+        [
+          46.266239,
+          8.207119
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Tappeto 1 (Base) ↔ Tappeto 2 (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260377,
+          8.195329
+        ],
+        [
+          46.260973,
+          8.196534
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_4",
+      "name": "Walk: Tappeto 1 (Base) ↔ CD4 Ciamporino - Dosso (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_4",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260377,
+          8.195329
+        ],
+        [
+          46.260615,
+          8.194674
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_9",
+      "name": "Walk: Tappeto 1 (Base) ↔ Funivia San Domenico - Ciamporino (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_9",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260377,
+          8.195329
+        ],
+        [
+          46.260417,
+          8.194199
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_56",
+      "name": "Walk: Tappeto 1 (Base) ↔ Junction #57",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_56",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260377,
+          8.195329
+        ],
+        [
+          46.260387,
+          8.194933
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_10",
+      "name": "Walk: Tappeto 2 (Mid-Station / Hub) ↔ Tappeto 2 (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260973,
+          8.196534
+        ],
+        [
+          46.261656,
+          8.197366
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_9",
+      "name": "Walk: CD4 Ciamporino - Dosso (Base) ↔ Funivia San Domenico - Ciamporino (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_9",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260615,
+          8.194674
+        ],
+        [
+          46.260417,
+          8.194199
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_51",
+      "name": "Walk: CD4 Ciamporino - Dosso (Base) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_51",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260615,
+          8.194674
+        ],
+        [
+          46.260756,
+          8.194125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_56",
+      "name": "Walk: CD4 Ciamporino - Dosso (Base) ↔ Junction #57",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_56",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260615,
+          8.194674
+        ],
+        [
+          46.260387,
+          8.194933
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_57",
+      "name": "Walk: CD4 Ciamporino - Dosso (Summit / Top) ↔ Junction #58",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_57",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.262782,
+          8.218057
+        ],
+        [
+          46.263068,
+          8.218299
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_58",
+      "name": "Walk: CD4 Ciamporino - Dosso (Summit / Top) ↔ Junction #59",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_58",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.262782,
+          8.218057
+        ],
+        [
+          46.262469,
+          8.217994
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_51",
+      "name": "Walk: Funivia San Domenico - Ciamporino (Summit / Top) ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_51",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260417,
+          8.194199
+        ],
+        [
+          46.260756,
+          8.194125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_56",
+      "name": "Walk: Funivia San Domenico - Ciamporino (Summit / Top) ↔ Junction #57",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_56",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260417,
+          8.194199
+        ],
+        [
+          46.260387,
+          8.194933
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_49",
+      "name": "Walk: Tappeto 2 (Summit / Top) ↔ Junction: Campo scuola",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.261656,
+          8.197366
+        ],
+        [
+          46.262069,
+          8.197142
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_44",
+      "name": "Walk: Seggiovia San Domenico - Casa Rossa (Base) ↔ Junction: Intermedia",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_44",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.257605,
+          8.190834
+        ],
+        [
+          46.257487,
+          8.191175
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_15",
+      "name": "Walk: Seggiovia San Domenico - Casa Rossa (Summit / Top) ↔ Junction: Casa Rossa",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_15",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.250633,
+          8.191105
+        ],
+        [
+          46.251049,
+          8.19052
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_14",
+      "name": "Walk: Junction: Casa Rossa ↔ Junction: Casa Rossa",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.252638,
+          8.188611
+        ],
+        [
+          46.252375,
+          8.188422
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_48",
+      "name": "Walk: Junction: Snow Park ↔ Junction: Campo scuola",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_48",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.262685,
+          8.196606
+        ],
+        [
+          46.262632,
+          8.197394
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_26",
+      "name": "Walk: Junction: Sella ↔ Junction: Sella",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.263899,
+          8.21961
+        ],
+        [
+          46.264147,
+          8.219417
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_28",
+      "name": "Walk: Junction: Sella ↔ Junction: Sella",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.265288,
+          8.21862
+        ],
+        [
+          46.26529,
+          8.217712
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_32_node_46",
+      "name": "Walk: Junction: Sella ↔ Junction: La Rossa",
+      "type": "walk",
+      "from": "node_32",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.266431,
+          8.208056
+        ],
+        [
+          46.266191,
+          8.20758
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_33_node_46",
+      "name": "Walk: Junction: Sella ↔ Junction: La Rossa",
+      "type": "walk",
+      "from": "node_33",
+      "to": "node_46",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.266239,
+          8.207119
+        ],
+        [
+          46.266191,
+          8.20758
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_37_node_38",
+      "name": "Walk: Junction: Variante Bondolero ↔ Junction: Variante Bondolero",
+      "type": "walk",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.26889,
+          8.21552
+        ],
+        [
+          46.269194,
+          8.215572
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_40_node_41",
+      "name": "Walk: Junction: Variante Bondolero ↔ Junction: Variante Bondolero",
+      "type": "walk",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.270642,
+          8.217056
+        ],
+        [
+          46.270995,
+          8.216636
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_41_node_42",
+      "name": "Walk: Junction: Variante Bondolero ↔ Junction: Variante Bondolero",
+      "type": "walk",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.270995,
+          8.216636
+        ],
+        [
+          46.271458,
+          8.21691
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_45_node_55",
+      "name": "Walk: Junction: Valletta ↔ Junction #56",
+      "type": "walk",
+      "from": "node_45",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.265057,
+          8.209785
+        ],
+        [
+          46.26469,
+          8.210158
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_48_node_49",
+      "name": "Walk: Junction: Campo scuola ↔ Junction: Campo scuola",
+      "type": "walk",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.262632,
+          8.197394
+        ],
+        [
+          46.262069,
+          8.197142
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_50_node_51",
+      "name": "Walk: Junction: Campo Scuola ↔ Junction: Campo Scuola",
+      "type": "walk",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.260609,
+          8.193283
+        ],
+        [
+          46.260756,
+          8.194125
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_57",
+      "name": "Walk: Junction: Diei ↔ Junction #58",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_57",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.263586,
+          8.218438
+        ],
+        [
+          46.263068,
+          8.218299
+        ]
+      ]
+    },
+    {
+      "id": "slope_return_node_11_node_0",
+      "name": "Skiway: Seggiovia San Domenico - Casa Rossa (Base) ➔ CF4 Ciamporino (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_11",
+      "to": "node_0",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          46.257605,
+          8.190834
+        ],
+        [
+          46.260747,
+          8.192721
+        ]
+      ]
+    },
+    {
+      "id": "walk_return_node_12_node_8",
+      "name": "Walk: Seggiovia San Domenico - Casa Rossa (Summit / Top) ↔ Funivia San Domenico - Ciamporino (Base)",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_8",
+      "distance": 0.26,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.250633,
+          8.191105
+        ],
+        [
+          46.249459,
+          8.188191
+        ]
+      ]
+    }
+  ]
+}

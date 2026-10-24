@@ -1,0 +1,4281 @@
+{
+  "id": "vallter2000",
+  "name": "Vallter 2000",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.4144,
+      2.239
+    ],
+    [
+      42.438,
+      2.2719
+    ]
+  ],
+  "center": [
+    42.4255,
+    2.2568
+  ],
+  "stats": {
+    "slopes": "13.1 km",
+    "lifts": 10,
+    "elevation": "1910m - 2535m",
+    "drop": "625m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "TS Jordi Pujol Planella (Mid-Station / Hub)",
+      "lat": 42.426493,
+      "lng": 2.26359,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "TS Jordi Pujol Planella (Summit / Top)",
+      "lat": 42.425745,
+      "lng": 2.244488,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Cinta Morens (Base)",
+      "lat": 42.426998,
+      "lng": 2.264369,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Cinta Morens (Summit / Top)",
+      "lat": 42.42732,
+      "lng": 2.262878,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Cinta L'Isard (Base)",
+      "lat": 42.427277,
+      "lng": 2.264867,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Cinta L'Isard (Summit / Top)",
+      "lat": 42.427745,
+      "lng": 2.263996,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Cinta Marmota (Base)",
+      "lat": 42.427657,
+      "lng": 2.265363,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Cinta Marmota (Summit / Top)",
+      "lat": 42.428277,
+      "lng": 2.265146,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "TQ Morens II (Base)",
+      "lat": 42.427115,
+      "lng": 2.264739,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "TQ Morens II (Summit / Top)",
+      "lat": 42.428543,
+      "lng": 2.259623,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "TS Enric Panella (Base)",
+      "lat": 42.421122,
+      "lng": 2.266947,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "TQ Xemeneies (Base)",
+      "lat": 42.427745,
+      "lng": 2.258626,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "TQ Xemeneies (Summit / Top)",
+      "lat": 42.43303,
+      "lng": 2.256233,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "TQ Bac Barquins II (Base)",
+      "lat": 42.426391,
+      "lng": 2.262742,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "TQ Bac Barquins II (Summit / Top)",
+      "lat": 42.425639,
+      "lng": 2.244949,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "TQ Bac Barquins I (Summit / Top)",
+      "lat": 42.423914,
+      "lng": 2.248066,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "TQ Morens I (Summit / Top)",
+      "lat": 42.427916,
+      "lng": 2.261551,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: El Xalet",
+      "lat": 42.420854,
+      "lng": 2.266706,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.425287,
+      "lng": 2.246821,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.425499,
+      "lng": 2.248074,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.425458,
+      "lng": 2.249346,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.425936,
+      "lng": 2.252723,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.426778,
+      "lng": 2.256711,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.427377,
+      "lng": 2.257701,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.427548,
+      "lng": 2.259421,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.426946,
+      "lng": 2.261706,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Font de la Perdiu",
+      "lat": 42.428052,
+      "lng": 2.258112,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Jordi Pujol",
+      "lat": 42.426098,
+      "lng": 2.256827,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: La Xemeneia",
+      "lat": 42.427825,
+      "lng": 2.259245,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Braquins",
+      "lat": 42.424172,
+      "lng": 2.253518,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Braquins",
+      "lat": 42.423884,
+      "lng": 2.255148,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Braquins",
+      "lat": 42.423806,
+      "lng": 2.255535,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Braquins",
+      "lat": 42.424476,
+      "lng": 2.257815,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Braquins",
+      "lat": 42.425415,
+      "lng": 2.25862,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Pla de Morens I",
+      "lat": 42.42829,
+      "lng": 2.261413,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Pala de Bumps",
+      "lat": 42.425086,
+      "lng": 2.256743,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Naixament Riu Ter",
+      "lat": 42.424599,
+      "lng": 2.244023,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: El Xalet",
+      "lat": 42.420598,
+      "lng": 2.250883,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: El Xalet",
+      "lat": 42.420236,
+      "lng": 2.253346,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: El Xalet",
+      "lat": 42.419443,
+      "lng": 2.261145,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Puig dels Lladres",
+      "lat": 42.426005,
+      "lng": 2.262622,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Volta a Morens",
+      "lat": 42.428167,
+      "lng": 2.2593,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: El Xalet",
+      "lat": 42.420211,
+      "lng": 2.250995,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: El Xalet",
+      "lat": 42.419794,
+      "lng": 2.252581,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: El Xalet",
+      "lat": 42.420613,
+      "lng": 2.264261,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Pista de l'Estadi",
+      "lat": 42.426727,
+      "lng": 2.26305,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Braquins",
+      "lat": 42.424715,
+      "lng": 2.245649,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Naixament Riu Ter",
+      "lat": 42.424499,
+      "lng": 2.244539,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Pala de la Mort",
+      "lat": 42.427225,
+      "lng": 2.249582,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Pala de la Mort",
+      "lat": 42.427874,
+      "lng": 2.256206,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Pala de la Mort",
+      "lat": 42.428113,
+      "lng": 2.256538,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Canal de la regalèssia",
+      "lat": 42.426029,
+      "lng": 2.245052,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: El Xalet",
+      "lat": 42.41962,
+      "lng": 2.261555,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_28257040",
+      "name": "TS Jordi Pujol Planella",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.55,
+      "duration": 6,
+      "elevation": 341,
+      "geometry": [
+        [
+          42.426465,
+          2.263506
+        ],
+        [
+          42.426443,
+          2.262881
+        ],
+        [
+          42.426413,
+          2.262055
+        ],
+        [
+          42.426376,
+          2.260987
+        ],
+        [
+          42.426342,
+          2.26004
+        ],
+        [
+          42.426301,
+          2.258871
+        ],
+        [
+          42.426265,
+          2.257848
+        ],
+        [
+          42.426213,
+          2.256365
+        ],
+        [
+          42.426189,
+          2.255684
+        ],
+        [
+          42.426165,
+          2.255015
+        ],
+        [
+          42.426115,
+          2.253596
+        ],
+        [
+          42.426075,
+          2.252439
+        ],
+        [
+          42.426034,
+          2.25128
+        ],
+        [
+          42.426007,
+          2.250519
+        ],
+        [
+          42.425948,
+          2.248835
+        ],
+        [
+          42.425913,
+          2.247859
+        ],
+        [
+          42.425898,
+          2.247432
+        ],
+        [
+          42.425864,
+          2.246475
+        ],
+        [
+          42.425828,
+          2.245431
+        ],
+        [
+          42.425806,
+          2.244817
+        ],
+        [
+          42.425799,
+          2.244618
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_206009789",
+      "name": "Cinta Morens",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 28,
+      "geometry": [
+        [
+          42.426836,
+          2.264285
+        ],
+        [
+          42.42732,
+          2.262878
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_206009790",
+      "name": "Cinta L'Isard",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          42.427448,
+          2.26496
+        ],
+        [
+          42.42792,
+          2.264101
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_206009791",
+      "name": "Cinta Marmota",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          42.427657,
+          2.265363
+        ],
+        [
+          42.428277,
+          2.265146
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_206009792",
+      "name": "TQ Morens II",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.45,
+      "duration": 2,
+      "elevation": 99,
+      "geometry": [
+        [
+          42.427095,
+          2.26472
+        ],
+        [
+          42.427422,
+          2.263658
+        ],
+        [
+          42.427716,
+          2.2627
+        ],
+        [
+          42.42801,
+          2.261745
+        ],
+        [
+          42.42834,
+          2.260674
+        ],
+        [
+          42.42865,
+          2.259666
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_206009795",
+      "name": "TS Enric Panella",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_0",
+      "distance": 0.63,
+      "duration": 2,
+      "elevation": 138,
+      "geometry": [
+        [
+          42.421122,
+          2.266947
+        ],
+        [
+          42.421641,
+          2.266639
+        ],
+        [
+          42.422613,
+          2.266063
+        ],
+        [
+          42.423589,
+          2.265485
+        ],
+        [
+          42.424348,
+          2.265027
+        ],
+        [
+          42.42541,
+          2.264386
+        ],
+        [
+          42.425954,
+          2.264057
+        ],
+        [
+          42.426263,
+          2.26387
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_206009796",
+      "name": "TQ Xemeneies",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.62,
+      "duration": 2,
+      "elevation": 136,
+      "geometry": [
+        [
+          42.427888,
+          2.258907
+        ],
+        [
+          42.428368,
+          2.258656
+        ],
+        [
+          42.429314,
+          2.258162
+        ],
+        [
+          42.430966,
+          2.257298
+        ],
+        [
+          42.431598,
+          2.256968
+        ],
+        [
+          42.432637,
+          2.256425
+        ],
+        [
+          42.433077,
+          2.256195
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_206009797",
+      "name": "TQ Bac Barquins II",
+      "type": "lift",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 1.51,
+      "duration": 6,
+      "elevation": 332,
+      "geometry": [
+        [
+          42.426345,
+          2.262776
+        ],
+        [
+          42.425726,
+          2.258894
+        ],
+        [
+          42.425061,
+          2.254726
+        ],
+        [
+          42.424272,
+          2.249777
+        ],
+        [
+          42.424262,
+          2.249713
+        ],
+        [
+          42.424456,
+          2.249036
+        ],
+        [
+          42.424827,
+          2.247736
+        ],
+        [
+          42.425119,
+          2.246717
+        ],
+        [
+          42.425542,
+          2.245236
+        ],
+        [
+          42.425605,
+          2.245017
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_206009798",
+      "name": "TQ Bac Barquins I",
+      "type": "lift",
+      "from": "node_13",
+      "to": "node_15",
+      "distance": 1.23,
+      "duration": 4,
+      "elevation": 270,
+      "geometry": [
+        [
+          42.426304,
+          2.262801
+        ],
+        [
+          42.424935,
+          2.254192
+        ],
+        [
+          42.424235,
+          2.249792
+        ],
+        [
+          42.424131,
+          2.24914
+        ],
+        [
+          42.42401,
+          2.248379
+        ],
+        [
+          42.423968,
+          2.248111
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259985562",
+      "name": "TQ Morens I",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_16",
+      "distance": 0.3,
+      "duration": 2,
+      "elevation": 66,
+      "geometry": [
+        [
+          42.427134,
+          2.264757
+        ],
+        [
+          42.427469,
+          2.263687
+        ],
+        [
+          42.427765,
+          2.26274
+        ],
+        [
+          42.428064,
+          2.261784
+        ],
+        [
+          42.428172,
+          2.261436
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "piste_296573911_1",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.425289,
+          2.247021
+        ],
+        [
+          42.425282,
+          2.247409
+        ],
+        [
+          42.42537,
+          2.247841
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573911_5",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_20",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.425591,
+          2.248447
+        ],
+        [
+          42.425531,
+          2.248813
+        ],
+        [
+          42.425454,
+          2.249196
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573911_7",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.425464,
+          2.249572
+        ],
+        [
+          42.425567,
+          2.250218
+        ],
+        [
+          42.425741,
+          2.251028
+        ],
+        [
+          42.425849,
+          2.251581
+        ],
+        [
+          42.425924,
+          2.251969
+        ],
+        [
+          42.425944,
+          2.252068
+        ],
+        [
+          42.425986,
+          2.252772
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573911_8",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_22",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.425986,
+          2.252772
+        ],
+        [
+          42.426026,
+          2.253451
+        ],
+        [
+          42.426226,
+          2.254519
+        ],
+        [
+          42.426464,
+          2.255695
+        ],
+        [
+          42.426583,
+          2.256178
+        ],
+        [
+          42.426678,
+          2.256511
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573911_11",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.426933,
+          2.256844
+        ],
+        [
+          42.427089,
+          2.257041
+        ],
+        [
+          42.427213,
+          2.257232
+        ],
+        [
+          42.42734,
+          2.257585
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573914_1",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_25",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.427437,
+          2.259701
+        ],
+        [
+          42.427398,
+          2.259899
+        ],
+        [
+          42.42732,
+          2.26014
+        ],
+        [
+          42.427284,
+          2.260291
+        ],
+        [
+          42.427286,
+          2.260604
+        ],
+        [
+          42.427311,
+          2.260871
+        ],
+        [
+          42.427296,
+          2.261026
+        ],
+        [
+          42.427225,
+          2.261303
+        ],
+        [
+          42.427072,
+          2.261636
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573915_1",
+      "name": "Font de la Perdiu",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_26",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          42.432995,
+          2.256059
+        ],
+        [
+          42.432646,
+          2.255898
+        ],
+        [
+          42.43227,
+          2.255892
+        ],
+        [
+          42.432006,
+          2.256003
+        ],
+        [
+          42.431669,
+          2.25593
+        ],
+        [
+          42.431552,
+          2.255879
+        ],
+        [
+          42.431228,
+          2.255908
+        ],
+        [
+          42.430882,
+          2.255958
+        ],
+        [
+          42.430666,
+          2.256099
+        ],
+        [
+          42.430433,
+          2.256353
+        ],
+        [
+          42.430125,
+          2.256781
+        ],
+        [
+          42.429946,
+          2.257311
+        ],
+        [
+          42.429828,
+          2.25759
+        ],
+        [
+          42.42967,
+          2.257706
+        ],
+        [
+          42.42957,
+          2.257745
+        ],
+        [
+          42.429417,
+          2.257745
+        ],
+        [
+          42.429337,
+          2.257682
+        ],
+        [
+          42.429274,
+          2.257537
+        ],
+        [
+          42.429176,
+          2.257424
+        ],
+        [
+          42.429014,
+          2.257339
+        ],
+        [
+          42.42879,
+          2.25739
+        ],
+        [
+          42.42853,
+          2.257527
+        ],
+        [
+          42.428181,
+          2.257909
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573915_4",
+      "name": "Font de la Perdiu",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427903,
+          2.258349
+        ],
+        [
+          42.427792,
+          2.258538
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573916_1",
+      "name": "Jordi Pujol",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_27",
+      "distance": 0.84,
+      "duration": 1,
+      "elevation": -134,
+      "geometry": [
+        [
+          42.425196,
+          2.246916
+        ],
+        [
+          42.425031,
+          2.247722
+        ],
+        [
+          42.424926,
+          2.24834
+        ],
+        [
+          42.424916,
+          2.248546
+        ],
+        [
+          42.424883,
+          2.249187
+        ],
+        [
+          42.424688,
+          2.250215
+        ],
+        [
+          42.424637,
+          2.25072
+        ],
+        [
+          42.424781,
+          2.251743
+        ],
+        [
+          42.425002,
+          2.252764
+        ],
+        [
+          42.425148,
+          2.25325
+        ],
+        [
+          42.425247,
+          2.253576
+        ],
+        [
+          42.425654,
+          2.254459
+        ],
+        [
+          42.425863,
+          2.255081
+        ],
+        [
+          42.425995,
+          2.255436
+        ],
+        [
+          42.426047,
+          2.25579
+        ],
+        [
+          42.426051,
+          2.256696
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573917_1",
+      "name": "La Xemeneia",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_28",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          42.432985,
+          2.256459
+        ],
+        [
+          42.432788,
+          2.256602
+        ],
+        [
+          42.432394,
+          2.256738
+        ],
+        [
+          42.431473,
+          2.25732
+        ],
+        [
+          42.430858,
+          2.257754
+        ],
+        [
+          42.430458,
+          2.2583
+        ],
+        [
+          42.429825,
+          2.258934
+        ],
+        [
+          42.429572,
+          2.259022
+        ],
+        [
+          42.429054,
+          2.259133
+        ],
+        [
+          42.428745,
+          2.25901
+        ],
+        [
+          42.428382,
+          2.259041
+        ],
+        [
+          42.428211,
+          2.259053
+        ],
+        [
+          42.427907,
+          2.25921
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573918_0",
+      "name": "Enllaç Morenç",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427401,
+          2.257778
+        ],
+        [
+          42.427602,
+          2.258313
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573918_3",
+      "name": "Enllaç Morenç",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427767,
+          2.258903
+        ],
+        [
+          42.427737,
+          2.259281
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573918_4",
+      "name": "Enllaç Morenç",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427737,
+          2.259281
+        ],
+        [
+          42.42767,
+          2.259553
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573918_5",
+      "name": "Enllaç Morenç",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_16",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.42767,
+          2.259553
+        ],
+        [
+          42.42764,
+          2.259779
+        ],
+        [
+          42.427693,
+          2.260047
+        ],
+        [
+          42.427712,
+          2.260173
+        ],
+        [
+          42.427696,
+          2.260418
+        ],
+        [
+          42.427708,
+          2.26059
+        ],
+        [
+          42.427744,
+          2.260799
+        ],
+        [
+          42.427807,
+          2.261142
+        ],
+        [
+          42.427857,
+          2.261597
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573920_1",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_29",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          42.423907,
+          2.248449
+        ],
+        [
+          42.423908,
+          2.248755
+        ],
+        [
+          42.423772,
+          2.249734
+        ],
+        [
+          42.423735,
+          2.250053
+        ],
+        [
+          42.423641,
+          2.250252
+        ],
+        [
+          42.423522,
+          2.250422
+        ],
+        [
+          42.42344,
+          2.250524
+        ],
+        [
+          42.423394,
+          2.250571
+        ],
+        [
+          42.423336,
+          2.250667
+        ],
+        [
+          42.423292,
+          2.250862
+        ],
+        [
+          42.423274,
+          2.251135
+        ],
+        [
+          42.423311,
+          2.251381
+        ],
+        [
+          42.423602,
+          2.252339
+        ],
+        [
+          42.423877,
+          2.25279
+        ],
+        [
+          42.424128,
+          2.253269
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573920_4",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.424187,
+          2.253814
+        ],
+        [
+          42.424128,
+          2.254103
+        ],
+        [
+          42.423883,
+          2.254565
+        ],
+        [
+          42.42384,
+          2.254894
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573920_6",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.423842,
+          2.255161
+        ],
+        [
+          42.423806,
+          2.255535
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573920_7",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.423806,
+          2.255535
+        ],
+        [
+          42.423944,
+          2.256364
+        ],
+        [
+          42.424101,
+          2.256743
+        ],
+        [
+          42.424317,
+          2.257011
+        ],
+        [
+          42.42441,
+          2.257315
+        ],
+        [
+          42.424432,
+          2.25762
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573920_9",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.424505,
+          2.257946
+        ],
+        [
+          42.424773,
+          2.258142
+        ],
+        [
+          42.425062,
+          2.258341
+        ],
+        [
+          42.425366,
+          2.258521
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573920_11",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_13",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          42.425418,
+          2.258826
+        ],
+        [
+          42.425652,
+          2.260352
+        ],
+        [
+          42.425959,
+          2.262186
+        ],
+        [
+          42.426199,
+          2.262672
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296573921_1",
+      "name": "Pla de Morens II",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_16",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          42.42845,
+          2.259715
+        ],
+        [
+          42.428329,
+          2.259992
+        ],
+        [
+          42.428153,
+          2.260453
+        ],
+        [
+          42.428078,
+          2.260955
+        ],
+        [
+          42.427876,
+          2.261538
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573921_3",
+      "name": "Pla de Morens II",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_2",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          42.427857,
+          2.261597
+        ],
+        [
+          42.427282,
+          2.263419
+        ],
+        [
+          42.427055,
+          2.264177
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573922_1",
+      "name": "Pla de Morens I",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_34",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.428671,
+          2.259984
+        ],
+        [
+          42.428592,
+          2.260383
+        ],
+        [
+          42.428456,
+          2.260762
+        ],
+        [
+          42.428306,
+          2.261244
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573922_3",
+      "name": "Pla de Morens I",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_5",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.428274,
+          2.261582
+        ],
+        [
+          42.428171,
+          2.261977
+        ],
+        [
+          42.428081,
+          2.26221
+        ],
+        [
+          42.42801,
+          2.26258
+        ],
+        [
+          42.427988,
+          2.262888
+        ],
+        [
+          42.427929,
+          2.263193
+        ],
+        [
+          42.42785,
+          2.263512
+        ],
+        [
+          42.427768,
+          2.263803
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573922_5",
+      "name": "Pla de Morens I",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_4",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.427635,
+          2.264138
+        ],
+        [
+          42.427485,
+          2.264417
+        ],
+        [
+          42.427309,
+          2.264782
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296573924_0",
+      "name": "Pala de Bumps",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_35",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          42.424191,
+          2.253487
+        ],
+        [
+          42.424391,
+          2.253848
+        ],
+        [
+          42.424555,
+          2.254165
+        ],
+        [
+          42.424689,
+          2.25462
+        ],
+        [
+          42.424839,
+          2.255235
+        ],
+        [
+          42.424927,
+          2.255731
+        ],
+        [
+          42.425086,
+          2.256743
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296573924_1",
+      "name": "Pala de Bumps",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_33",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          42.425086,
+          2.256743
+        ],
+        [
+          42.425275,
+          2.257804
+        ],
+        [
+          42.425366,
+          2.258521
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311574765_2",
+      "name": "Naixament Riu Ter",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_36",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.425682,
+          2.244159
+        ],
+        [
+          42.425539,
+          2.243955
+        ],
+        [
+          42.425372,
+          2.243814
+        ],
+        [
+          42.425191,
+          2.243719
+        ],
+        [
+          42.425008,
+          2.243639
+        ],
+        [
+          42.424897,
+          2.243658
+        ],
+        [
+          42.424797,
+          2.243761
+        ],
+        [
+          42.424647,
+          2.243935
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_311574766_0",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_37",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          42.423861,
+          2.248002
+        ],
+        [
+          42.423577,
+          2.24812
+        ],
+        [
+          42.423007,
+          2.24869
+        ],
+        [
+          42.422445,
+          2.249201
+        ],
+        [
+          42.422139,
+          2.249691
+        ],
+        [
+          42.421839,
+          2.250085
+        ],
+        [
+          42.421309,
+          2.250329
+        ],
+        [
+          42.420897,
+          2.250548
+        ],
+        [
+          42.420641,
+          2.250795
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_311574766_2",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.420532,
+          2.251014
+        ],
+        [
+          42.420423,
+          2.251544
+        ],
+        [
+          42.420415,
+          2.252282
+        ],
+        [
+          42.42042,
+          2.252704
+        ],
+        [
+          42.420318,
+          2.253159
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_311574766_5",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.69,
+      "duration": 1,
+      "elevation": -110,
+      "geometry": [
+        [
+          42.420209,
+          2.253525
+        ],
+        [
+          42.420188,
+          2.254099
+        ],
+        [
+          42.420006,
+          2.254637
+        ],
+        [
+          42.419861,
+          2.254891
+        ],
+        [
+          42.419694,
+          2.255183
+        ],
+        [
+          42.419491,
+          2.255542
+        ],
+        [
+          42.419332,
+          2.255997
+        ],
+        [
+          42.419061,
+          2.256336
+        ],
+        [
+          42.418855,
+          2.256591
+        ],
+        [
+          42.418823,
+          2.256866
+        ],
+        [
+          42.418952,
+          2.257751
+        ],
+        [
+          42.418955,
+          2.258097
+        ],
+        [
+          42.418926,
+          2.258311
+        ],
+        [
+          42.418973,
+          2.25845
+        ],
+        [
+          42.41934,
+          2.258841
+        ],
+        [
+          42.419449,
+          2.259052
+        ],
+        [
+          42.419496,
+          2.259315
+        ],
+        [
+          42.419499,
+          2.259917
+        ],
+        [
+          42.419555,
+          2.260196
+        ],
+        [
+          42.419532,
+          2.260443
+        ],
+        [
+          42.419417,
+          2.260993
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_311574767_0",
+      "name": "Puig dels Lladres",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_40",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          42.424505,
+          2.257946
+        ],
+        [
+          42.424579,
+          2.258684
+        ],
+        [
+          42.424585,
+          2.258694
+        ],
+        [
+          42.424703,
+          2.259069
+        ],
+        [
+          42.424739,
+          2.259318
+        ],
+        [
+          42.424728,
+          2.259552
+        ],
+        [
+          42.424748,
+          2.259909
+        ],
+        [
+          42.424824,
+          2.260387
+        ],
+        [
+          42.424839,
+          2.260641
+        ],
+        [
+          42.424941,
+          2.261069
+        ],
+        [
+          42.425136,
+          2.261533
+        ],
+        [
+          42.425236,
+          2.261752
+        ],
+        [
+          42.425613,
+          2.262226
+        ],
+        [
+          42.425745,
+          2.26245
+        ],
+        [
+          42.42592,
+          2.262573
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311574768_1",
+      "name": "Tub de Braquins",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_35",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.423992,
+          2.255383
+        ],
+        [
+          42.424105,
+          2.255543
+        ],
+        [
+          42.424303,
+          2.2557
+        ],
+        [
+          42.42453,
+          2.255977
+        ],
+        [
+          42.424648,
+          2.256214
+        ],
+        [
+          42.425086,
+          2.256743
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311968709_0",
+      "name": "Enllaç Braquins",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_33",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.42604,
+          2.25696
+        ],
+        [
+          42.425719,
+          2.257351
+        ],
+        [
+          42.425613,
+          2.257883
+        ],
+        [
+          42.425484,
+          2.258461
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_311968710_2",
+      "name": "Volta a Morens",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.428341,
+          2.259394
+        ],
+        [
+          42.428167,
+          2.2593
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_311968710_3",
+      "name": "Volta a Morens",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.428167,
+          2.2593
+        ],
+        [
+          42.427907,
+          2.25921
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_311968710_5",
+      "name": "Volta a Morens",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427789,
+          2.25926
+        ],
+        [
+          42.427737,
+          2.259281
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_311968711_0",
+      "name": "Jordi Pujol",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_25",
+      "distance": 0.38,
+      "duration": 1,
+      "elevation": -60,
+      "geometry": [
+        [
+          42.42604,
+          2.25696
+        ],
+        [
+          42.426114,
+          2.257924
+        ],
+        [
+          42.426166,
+          2.258132
+        ],
+        [
+          42.426457,
+          2.25887
+        ],
+        [
+          42.426599,
+          2.259398
+        ],
+        [
+          42.426676,
+          2.259826
+        ],
+        [
+          42.426756,
+          2.260253
+        ],
+        [
+          42.426763,
+          2.260609
+        ],
+        [
+          42.426798,
+          2.260966
+        ],
+        [
+          42.426824,
+          2.261203
+        ],
+        [
+          42.42683,
+          2.261443
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311968711_1",
+      "name": "Jordi Pujol",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_13",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.42683,
+          2.261443
+        ],
+        [
+          42.426751,
+          2.261737
+        ],
+        [
+          42.426605,
+          2.26208
+        ],
+        [
+          42.426556,
+          2.262283
+        ],
+        [
+          42.426497,
+          2.262563
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311968713_1",
+      "name": "Variant Estadi",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_13",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.42685,
+          2.261813
+        ],
+        [
+          42.426719,
+          2.261988
+        ],
+        [
+          42.426585,
+          2.26239
+        ],
+        [
+          42.426463,
+          2.262901
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_311968714_0",
+      "name": "10",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.425454,
+          2.249196
+        ],
+        [
+          42.425306,
+          2.249542
+        ],
+        [
+          42.42518,
+          2.250089
+        ],
+        [
+          42.42519,
+          2.250755
+        ],
+        [
+          42.425434,
+          2.251882
+        ],
+        [
+          42.425613,
+          2.252411
+        ],
+        [
+          42.425861,
+          2.252649
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_311979245_2",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.420073,
+          2.251083
+        ],
+        [
+          42.419901,
+          2.251293
+        ],
+        [
+          42.419836,
+          2.251526
+        ],
+        [
+          42.419743,
+          2.251917
+        ],
+        [
+          42.419739,
+          2.252304
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_546434955_1",
+      "name": "Enllaç Estadi",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.426256,
+          2.256823
+        ],
+        [
+          42.426441,
+          2.256842
+        ],
+        [
+          42.426627,
+          2.256739
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_547309338_1",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_38",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.419877,
+          2.252868
+        ],
+        [
+          42.420021,
+          2.253148
+        ],
+        [
+          42.42017,
+          2.253269
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_547309339_0",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_42",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.420641,
+          2.250795
+        ],
+        [
+          42.420328,
+          2.25092
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_547724120_1",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_17",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.420559,
+          2.264509
+        ],
+        [
+          42.420235,
+          2.265119
+        ],
+        [
+          42.420109,
+          2.26532
+        ],
+        [
+          42.419876,
+          2.265693
+        ],
+        [
+          42.419655,
+          2.266151
+        ],
+        [
+          42.419617,
+          2.266382
+        ],
+        [
+          42.419667,
+          2.266566
+        ],
+        [
+          42.419849,
+          2.266745
+        ],
+        [
+          42.420011,
+          2.266805
+        ],
+        [
+          42.420409,
+          2.266677
+        ],
+        [
+          42.420628,
+          2.266624
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_548210213_1",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_45",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.42697,
+          2.261966
+        ],
+        [
+          42.42688,
+          2.262213
+        ],
+        [
+          42.426831,
+          2.262503
+        ],
+        [
+          42.426775,
+          2.262803
+        ],
+        [
+          42.426727,
+          2.26305
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_548210213_2",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_0",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.426727,
+          2.26305
+        ],
+        [
+          42.426608,
+          2.263423
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_548210214_0",
+      "name": "Pista de l'Estadi",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.427401,
+          2.257778
+        ],
+        [
+          42.427425,
+          2.258192
+        ],
+        [
+          42.427374,
+          2.258416
+        ],
+        [
+          42.427379,
+          2.25864
+        ],
+        [
+          42.427435,
+          2.258927
+        ],
+        [
+          42.427447,
+          2.259138
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_548210215_0",
+      "name": "Jordi Pujol",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.425691,
+          2.244599
+        ],
+        [
+          42.425703,
+          2.244855
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_548210215_2",
+      "name": "Jordi Pujol",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_18",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.42578,
+          2.245077
+        ],
+        [
+          42.425764,
+          2.245517
+        ],
+        [
+          42.425678,
+          2.246175
+        ],
+        [
+          42.425351,
+          2.246655
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_548344722_0",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_15",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          42.424735,
+          2.245803
+        ],
+        [
+          42.424552,
+          2.246131
+        ],
+        [
+          42.424192,
+          2.247182
+        ],
+        [
+          42.423975,
+          2.247757
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_548347493_1",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.425642,
+          2.244664
+        ],
+        [
+          42.425453,
+          2.244882
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_548347493_2",
+      "name": "Braquins",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_46",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.425453,
+          2.244882
+        ],
+        [
+          42.424935,
+          2.245446
+        ],
+        [
+          42.424735,
+          2.245803
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_548347495_3",
+      "name": "Naixament Riu Ter",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_46",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.424528,
+          2.244814
+        ],
+        [
+          42.424628,
+          2.245114
+        ],
+        [
+          42.424686,
+          2.245419
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_711117135_1",
+      "name": "Naixament Riu Ter",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_47",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.424565,
+          2.244086
+        ],
+        [
+          42.424517,
+          2.244231
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_779364724_0",
+      "name": "Pala de la Mort",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.71,
+      "duration": 1,
+      "elevation": -113,
+      "geometry": [
+        [
+          42.42718,
+          2.249493
+        ],
+        [
+          42.426823,
+          2.2498
+        ],
+        [
+          42.426551,
+          2.24987
+        ],
+        [
+          42.426391,
+          2.250054
+        ],
+        [
+          42.426209,
+          2.250279
+        ],
+        [
+          42.426219,
+          2.250699
+        ],
+        [
+          42.426113,
+          2.25095
+        ],
+        [
+          42.426358,
+          2.251374
+        ],
+        [
+          42.426649,
+          2.251636
+        ],
+        [
+          42.426794,
+          2.25189
+        ],
+        [
+          42.426832,
+          2.252133
+        ],
+        [
+          42.426687,
+          2.252336
+        ],
+        [
+          42.42656,
+          2.252461
+        ],
+        [
+          42.426515,
+          2.252603
+        ],
+        [
+          42.426481,
+          2.252712
+        ],
+        [
+          42.426486,
+          2.253077
+        ],
+        [
+          42.426538,
+          2.253438
+        ],
+        [
+          42.426576,
+          2.253615
+        ],
+        [
+          42.426587,
+          2.253903
+        ],
+        [
+          42.426625,
+          2.254116
+        ],
+        [
+          42.42666,
+          2.254187
+        ],
+        [
+          42.426734,
+          2.254336
+        ],
+        [
+          42.426922,
+          2.2547
+        ],
+        [
+          42.427065,
+          2.25505
+        ],
+        [
+          42.427306,
+          2.255388
+        ],
+        [
+          42.427464,
+          2.255629
+        ],
+        [
+          42.427608,
+          2.255943
+        ],
+        [
+          42.427789,
+          2.256139
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364724_2",
+      "name": "Pala de la Mort",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.427931,
+          2.256251
+        ],
+        [
+          42.428113,
+          2.256538
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364724_3",
+      "name": "Pala de la Mort",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_26",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          42.428113,
+          2.256538
+        ],
+        [
+          42.428148,
+          2.257003
+        ],
+        [
+          42.428181,
+          2.257909
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364725_0",
+      "name": "Canal de la regalèssia",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_51",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.425926,
+          2.244716
+        ],
+        [
+          42.426029,
+          2.245052
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364725_1",
+      "name": "Canal de la regalèssia",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_48",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          42.426029,
+          2.245052
+        ],
+        [
+          42.426111,
+          2.245377
+        ],
+        [
+          42.426247,
+          2.245646
+        ],
+        [
+          42.426335,
+          2.245789
+        ],
+        [
+          42.426395,
+          2.24595
+        ],
+        [
+          42.426437,
+          2.246175
+        ],
+        [
+          42.426479,
+          2.246442
+        ],
+        [
+          42.426591,
+          2.246973
+        ],
+        [
+          42.426591,
+          2.247187
+        ],
+        [
+          42.426486,
+          2.24752
+        ],
+        [
+          42.426463,
+          2.24797
+        ],
+        [
+          42.426577,
+          2.24829
+        ],
+        [
+          42.426644,
+          2.248455
+        ],
+        [
+          42.426707,
+          2.248533
+        ],
+        [
+          42.426886,
+          2.248828
+        ],
+        [
+          42.426985,
+          2.249107
+        ],
+        [
+          42.42718,
+          2.249493
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364726_1",
+      "name": "Canal de la regalèssia",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          42.427292,
+          2.249714
+        ],
+        [
+          42.427425,
+          2.250194
+        ],
+        [
+          42.427472,
+          2.250519
+        ],
+        [
+          42.42752,
+          2.250704
+        ],
+        [
+          42.427721,
+          2.25087
+        ],
+        [
+          42.427843,
+          2.251112
+        ],
+        [
+          42.428048,
+          2.251283
+        ],
+        [
+          42.428145,
+          2.251549
+        ],
+        [
+          42.428314,
+          2.2521
+        ],
+        [
+          42.428532,
+          2.252605
+        ],
+        [
+          42.428695,
+          2.252926
+        ],
+        [
+          42.428815,
+          2.253106
+        ],
+        [
+          42.428565,
+          2.253401
+        ],
+        [
+          42.428431,
+          2.253549
+        ],
+        [
+          42.428361,
+          2.253748
+        ],
+        [
+          42.428244,
+          2.253829
+        ],
+        [
+          42.42817,
+          2.254146
+        ],
+        [
+          42.428108,
+          2.254197
+        ],
+        [
+          42.428078,
+          2.254422
+        ],
+        [
+          42.427972,
+          2.254621
+        ],
+        [
+          42.427961,
+          2.254839
+        ],
+        [
+          42.427866,
+          2.255041
+        ],
+        [
+          42.427925,
+          2.255801
+        ],
+        [
+          42.427931,
+          2.256251
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_779364727_0",
+      "name": "9A",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_19",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.425926,
+          2.244716
+        ],
+        [
+          42.425896,
+          2.245181
+        ],
+        [
+          42.425941,
+          2.24565
+        ],
+        [
+          42.425957,
+          2.246173
+        ],
+        [
+          42.425939,
+          2.246548
+        ],
+        [
+          42.42586,
+          2.246849
+        ],
+        [
+          42.425757,
+          2.247243
+        ],
+        [
+          42.425644,
+          2.247608
+        ],
+        [
+          42.425522,
+          2.247817
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1342112842_0",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.41947,
+          2.261296
+        ],
+        [
+          42.41962,
+          2.261555
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1342112842_1",
+      "name": "El Xalet",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_44",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          42.41962,
+          2.261555
+        ],
+        [
+          42.41997,
+          2.262066
+        ],
+        [
+          42.420214,
+          2.262624
+        ],
+        [
+          42.420264,
+          2.263062
+        ],
+        [
+          42.420358,
+          2.263377
+        ],
+        [
+          42.420553,
+          2.2637
+        ],
+        [
+          42.420644,
+          2.264003
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_0_node_2",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ Cinta Morens (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_2",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.426998,
+          2.264369
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_3",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ Cinta Morens (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_3",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.42732,
+          2.262878
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_4",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ Cinta L'Isard (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_4",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.427277,
+          2.264867
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_8",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_8",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_13",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ TQ Bac Barquins II (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_13",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.426391,
+          2.262742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_45",
+      "name": "Walk: TS Jordi Pujol Planella (Mid-Station / Hub) ↔ Junction: Pista de l'Estadi",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426493,
+          2.26359
+        ],
+        [
+          42.426727,
+          2.26305
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_14",
+      "name": "Walk: TS Jordi Pujol Planella (Summit / Top) ↔ TQ Bac Barquins II (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_14",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.425745,
+          2.244488
+        ],
+        [
+          42.425639,
+          2.244949
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_51",
+      "name": "Walk: TS Jordi Pujol Planella (Summit / Top) ↔ Junction: Canal de la regalèssia",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_51",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.425745,
+          2.244488
+        ],
+        [
+          42.426029,
+          2.245052
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Cinta Morens (Base) ↔ Cinta Morens (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426998,
+          2.264369
+        ],
+        [
+          42.42732,
+          2.262878
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_4",
+      "name": "Walk: Cinta Morens (Base) ↔ Cinta L'Isard (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426998,
+          2.264369
+        ],
+        [
+          42.427277,
+          2.264867
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_5",
+      "name": "Walk: Cinta Morens (Base) ↔ Cinta L'Isard (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_5",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426998,
+          2.264369
+        ],
+        [
+          42.427745,
+          2.263996
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_6",
+      "name": "Walk: Cinta Morens (Base) ↔ Cinta Marmota (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_6",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426998,
+          2.264369
+        ],
+        [
+          42.427657,
+          2.265363
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_8",
+      "name": "Walk: Cinta Morens (Base) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_8",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426998,
+          2.264369
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_5",
+      "name": "Walk: Cinta Morens (Summit / Top) ↔ Cinta L'Isard (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_5",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.42732,
+          2.262878
+        ],
+        [
+          42.427745,
+          2.263996
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_13",
+      "name": "Walk: Cinta Morens (Summit / Top) ↔ TQ Bac Barquins II (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_13",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.42732,
+          2.262878
+        ],
+        [
+          42.426391,
+          2.262742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_16",
+      "name": "Walk: Cinta Morens (Summit / Top) ↔ TQ Morens I (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_16",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.42732,
+          2.262878
+        ],
+        [
+          42.427916,
+          2.261551
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_45",
+      "name": "Walk: Cinta Morens (Summit / Top) ↔ Junction: Pista de l'Estadi",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_45",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.42732,
+          2.262878
+        ],
+        [
+          42.426727,
+          2.26305
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_5",
+      "name": "Walk: Cinta L'Isard (Base) ↔ Cinta L'Isard (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427277,
+          2.264867
+        ],
+        [
+          42.427745,
+          2.263996
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_6",
+      "name": "Walk: Cinta L'Isard (Base) ↔ Cinta Marmota (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_6",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427277,
+          2.264867
+        ],
+        [
+          42.427657,
+          2.265363
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_7",
+      "name": "Walk: Cinta L'Isard (Base) ↔ Cinta Marmota (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_7",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427277,
+          2.264867
+        ],
+        [
+          42.428277,
+          2.265146
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_8",
+      "name": "Walk: Cinta L'Isard (Base) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_8",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427277,
+          2.264867
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_6",
+      "name": "Walk: Cinta L'Isard (Summit / Top) ↔ Cinta Marmota (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_6",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.263996
+        ],
+        [
+          42.427657,
+          2.265363
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_7",
+      "name": "Walk: Cinta L'Isard (Summit / Top) ↔ Cinta Marmota (Summit / Top)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_7",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.263996
+        ],
+        [
+          42.428277,
+          2.265146
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_8",
+      "name": "Walk: Cinta L'Isard (Summit / Top) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_8",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.263996
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_7",
+      "name": "Walk: Cinta Marmota (Base) ↔ Cinta Marmota (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427657,
+          2.265363
+        ],
+        [
+          42.428277,
+          2.265146
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_8",
+      "name": "Walk: Cinta Marmota (Base) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427657,
+          2.265363
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_8",
+      "name": "Walk: Cinta Marmota (Summit / Top) ↔ TQ Morens II (Base)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.428277,
+          2.265146
+        ],
+        [
+          42.427115,
+          2.264739
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_11",
+      "name": "Walk: TQ Morens II (Summit / Top) ↔ TQ Xemeneies (Base)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_11",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.428543,
+          2.259623
+        ],
+        [
+          42.427745,
+          2.258626
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_41",
+      "name": "Walk: TQ Morens II (Summit / Top) ↔ Junction: Volta a Morens",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_41",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.428543,
+          2.259623
+        ],
+        [
+          42.428167,
+          2.2593
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_17",
+      "name": "Walk: TS Enric Panella (Base) ↔ Junction: El Xalet",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_17",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.421122,
+          2.266947
+        ],
+        [
+          42.420854,
+          2.266706
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_24",
+      "name": "Walk: TQ Xemeneies (Base) ↔ Junction: Pista de l'Estadi",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_24",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.258626
+        ],
+        [
+          42.427548,
+          2.259421
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_26",
+      "name": "Walk: TQ Xemeneies (Base) ↔ Junction: Font de la Perdiu",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.258626
+        ],
+        [
+          42.428052,
+          2.258112
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_28",
+      "name": "Walk: TQ Xemeneies (Base) ↔ Junction: La Xemeneia",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427745,
+          2.258626
+        ],
+        [
+          42.427825,
+          2.259245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_40",
+      "name": "Walk: TQ Bac Barquins II (Base) ↔ Junction: Puig dels Lladres",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_40",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426391,
+          2.262742
+        ],
+        [
+          42.426005,
+          2.262622
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_45",
+      "name": "Walk: TQ Bac Barquins II (Base) ↔ Junction: Pista de l'Estadi",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.426391,
+          2.262742
+        ],
+        [
+          42.426727,
+          2.26305
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_51",
+      "name": "Walk: TQ Bac Barquins II (Summit / Top) ↔ Junction: Canal de la regalèssia",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_51",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.425639,
+          2.244949
+        ],
+        [
+          42.426029,
+          2.245052
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_34",
+      "name": "Walk: TQ Morens I (Summit / Top) ↔ Junction: Pla de Morens I",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_34",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427916,
+          2.261551
+        ],
+        [
+          42.42829,
+          2.261413
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_28",
+      "name": "Walk: Junction: Pista de l'Estadi ↔ Junction: La Xemeneia",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_28",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427548,
+          2.259421
+        ],
+        [
+          42.427825,
+          2.259245
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_41",
+      "name": "Walk: Junction: Pista de l'Estadi ↔ Junction: Volta a Morens",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_41",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427548,
+          2.259421
+        ],
+        [
+          42.428167,
+          2.2593
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_41",
+      "name": "Walk: Junction: La Xemeneia ↔ Junction: Volta a Morens",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_41",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427825,
+          2.259245
+        ],
+        [
+          42.428167,
+          2.2593
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_31",
+      "name": "Walk: Junction: Braquins ↔ Junction: Braquins",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.423884,
+          2.255148
+        ],
+        [
+          42.423806,
+          2.255535
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_36_node_47",
+      "name": "Walk: Junction: Naixament Riu Ter ↔ Junction: Naixament Riu Ter",
+      "type": "walk",
+      "from": "node_36",
+      "to": "node_47",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.424599,
+          2.244023
+        ],
+        [
+          42.424499,
+          2.244539
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_37_node_42",
+      "name": "Walk: Junction: El Xalet ↔ Junction: El Xalet",
+      "type": "walk",
+      "from": "node_37",
+      "to": "node_42",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.420598,
+          2.250883
+        ],
+        [
+          42.420211,
+          2.250995
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_39_node_52",
+      "name": "Walk: Junction: El Xalet ↔ Junction: El Xalet",
+      "type": "walk",
+      "from": "node_39",
+      "to": "node_52",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.419443,
+          2.261145
+        ],
+        [
+          42.41962,
+          2.261555
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_49_node_50",
+      "name": "Walk: Junction: Pala de la Mort ↔ Junction: Pala de la Mort",
+      "type": "walk",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.427874,
+          2.256206
+        ],
+        [
+          42.428113,
+          2.256538
+        ]
+      ]
+    }
+  ]
+}

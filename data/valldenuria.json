@@ -1,0 +1,2221 @@
+{
+  "id": "valldenuria",
+  "name": "Vall de Núria",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.3873,
+      2.1431
+    ],
+    [
+      42.4052,
+      2.1682
+    ]
+  ],
+  "center": [
+    42.3964,
+    2.157
+  ],
+  "stats": {
+    "slopes": "5.9 km",
+    "lifts": 7,
+    "elevation": "1964m - 2252m",
+    "drop": "288m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Telacadira de la Pala (Base)",
+      "lat": 42.397595,
+      "lng": 2.155106,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Telacadira de la Pala (Summit / Top)",
+      "lat": 42.397272,
+      "lng": 2.163162,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Junction #3",
+      "lat": 42.398023,
+      "lng": 2.153457,
+      "type": "intersection"
+    },
+    {
+      "id": "node_3",
+      "name": "Junction #4",
+      "lat": 42.398674,
+      "lng": 2.153867,
+      "type": "intersection"
+    },
+    {
+      "id": "node_4",
+      "name": "Cinta debutants Roc Malé (Base)",
+      "lat": 42.397813,
+      "lng": 2.153218,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Cinta debutants Roc Malé (Summit / Top)",
+      "lat": 42.398072,
+      "lng": 2.152989,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Telecabina Coma del Clot (Base)",
+      "lat": 42.397022,
+      "lng": 2.155455,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Telecabina Coma del Clot (Summit / Top)",
+      "lat": 42.392251,
+      "lng": 2.159411,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Telesquí Cabana pastors (Base)",
+      "lat": 42.397892,
+      "lng": 2.154076,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Telesquí Cabana pastors (Summit / Top)",
+      "lat": 42.400226,
+      "lng": 2.155743,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Telesquí Finestrelles (Base)",
+      "lat": 42.398251,
+      "lng": 2.152314,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Telesquí Finestrelles (Summit / Top)",
+      "lat": 42.399896,
+      "lng": 2.148075,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Junction: Funicular",
+      "lat": 42.392582,
+      "lng": 2.158842,
+      "type": "intersection"
+    },
+    {
+      "id": "node_13",
+      "name": "Junction: Funicular",
+      "lat": 42.394994,
+      "lng": 2.156444,
+      "type": "intersection"
+    },
+    {
+      "id": "node_14",
+      "name": "Junction: Funicular",
+      "lat": 42.39551,
+      "lng": 2.156157,
+      "type": "intersection"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: Soleia",
+      "lat": 42.39595,
+      "lng": 2.159676,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction: Soleia",
+      "lat": 42.397841,
+      "lng": 2.159425,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction: Pala Boja",
+      "lat": 42.397383,
+      "lng": 2.16251,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction: Pala Bèstia",
+      "lat": 42.397054,
+      "lng": 2.161633,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction: Les Creus",
+      "lat": 42.393574,
+      "lng": 2.155651,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Camí dels Enginyers",
+      "lat": 42.394434,
+      "lng": 2.155372,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Coma del Clot",
+      "lat": 42.39345,
+      "lng": 2.159855,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction: Les Creus",
+      "lat": 42.394116,
+      "lng": 2.155267,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Mulleres",
+      "lat": 42.398794,
+      "lng": 2.15976,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Mulleres",
+      "lat": 42.398303,
+      "lng": 2.155834,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Del Bac",
+      "lat": 42.394342,
+      "lng": 2.159971,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction #27",
+      "lat": 42.392426,
+      "lng": 2.159769,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Funicular",
+      "lat": 42.395834,
+      "lng": 2.155978,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction #29",
+      "lat": 42.396497,
+      "lng": 2.160391,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction #30",
+      "lat": 42.3967,
+      "lng": 2.160978,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_33115434",
+      "name": "Telacadira de la Pala",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.66,
+      "duration": 2,
+      "elevation": 145,
+      "geometry": [
+        [
+          42.397584,
+          2.155073
+        ],
+        [
+          42.397568,
+          2.155305
+        ],
+        [
+          42.397531,
+          2.155868
+        ],
+        [
+          42.397486,
+          2.156686
+        ],
+        [
+          42.397436,
+          2.157556
+        ],
+        [
+          42.397358,
+          2.158894
+        ],
+        [
+          42.397297,
+          2.160007
+        ],
+        [
+          42.397218,
+          2.16137
+        ],
+        [
+          42.397161,
+          2.162325
+        ],
+        [
+          42.397139,
+          2.16276
+        ],
+        [
+          42.397119,
+          2.163137
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_206017771",
+      "name": "Lift 206017771",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          42.398061,
+          2.153512
+        ],
+        [
+          42.398674,
+          2.153867
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_206017772",
+      "name": "Cinta debutants Roc Malé",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          42.397658,
+          2.15323
+        ],
+        [
+          42.398065,
+          2.152832
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_250938522",
+      "name": "Telecabina Coma del Clot",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 0.64,
+      "duration": 2,
+      "elevation": 140,
+      "geometry": [
+        [
+          42.397023,
+          2.155248
+        ],
+        [
+          42.396195,
+          2.155957
+        ],
+        [
+          42.395684,
+          2.156385
+        ],
+        [
+          42.394965,
+          2.157004
+        ],
+        [
+          42.393894,
+          2.157982
+        ],
+        [
+          42.393527,
+          2.158304
+        ],
+        [
+          42.392995,
+          2.158795
+        ],
+        [
+          42.392184,
+          2.159561
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_259978422",
+      "name": "Telesquí Cabana pastors",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.31,
+      "duration": 2,
+      "elevation": 68,
+      "geometry": [
+        [
+          42.39783,
+          2.153979
+        ],
+        [
+          42.398496,
+          2.154422
+        ],
+        [
+          42.399201,
+          2.154892
+        ],
+        [
+          42.400093,
+          2.155485
+        ],
+        [
+          42.400342,
+          2.155651
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259979055",
+      "name": "Telesquí Finestrelles",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.4,
+      "duration": 2,
+      "elevation": 88,
+      "geometry": [
+        [
+          42.398281,
+          2.152455
+        ],
+        [
+          42.398411,
+          2.152101
+        ],
+        [
+          42.398764,
+          2.151146
+        ],
+        [
+          42.399134,
+          2.150141
+        ],
+        [
+          42.399496,
+          2.14916
+        ],
+        [
+          42.399779,
+          2.148391
+        ],
+        [
+          42.399896,
+          2.148075
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_259979656",
+      "name": "Lift 259979656",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_5",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          42.397985,
+          2.153402
+        ],
+        [
+          42.398205,
+          2.153147
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_140258070_1",
+      "name": "Funicular",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.392166,
+          2.159308
+        ],
+        [
+          42.392324,
+          2.159116
+        ],
+        [
+          42.392409,
+          2.15899
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_140258070_6",
+      "name": "Funicular",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          42.392759,
+          2.158635
+        ],
+        [
+          42.392828,
+          2.158524
+        ],
+        [
+          42.392938,
+          2.158318
+        ],
+        [
+          42.393232,
+          2.157771
+        ],
+        [
+          42.393368,
+          2.157555
+        ],
+        [
+          42.393538,
+          2.157337
+        ],
+        [
+          42.393574,
+          2.157307
+        ],
+        [
+          42.393798,
+          2.157126
+        ],
+        [
+          42.394043,
+          2.156968
+        ],
+        [
+          42.394312,
+          2.156818
+        ],
+        [
+          42.394844,
+          2.156526
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_140258070_8",
+      "name": "Funicular",
+      "type": "slope",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.395095,
+          2.156389
+        ],
+        [
+          42.395317,
+          2.156268
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_176987793_1",
+      "name": "Soleia",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.396068,
+          2.159643
+        ],
+        [
+          42.396238,
+          2.159589
+        ],
+        [
+          42.396573,
+          2.159552
+        ],
+        [
+          42.396671,
+          2.159575
+        ],
+        [
+          42.396748,
+          2.159562
+        ],
+        [
+          42.396803,
+          2.159517
+        ],
+        [
+          42.396965,
+          2.159344
+        ],
+        [
+          42.397105,
+          2.159248
+        ],
+        [
+          42.397246,
+          2.159205
+        ],
+        [
+          42.397305,
+          2.159189
+        ],
+        [
+          42.397368,
+          2.159181
+        ],
+        [
+          42.39741,
+          2.159194
+        ],
+        [
+          42.397512,
+          2.159261
+        ],
+        [
+          42.397651,
+          2.159346
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_205994059_6",
+      "name": "Piste 205994059",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.397305,
+          2.162813
+        ],
+        [
+          42.397319,
+          2.162622
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_205994059_8",
+      "name": "Piste 205994059",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.397277,
+          2.162525
+        ],
+        [
+          42.39722,
+          2.162132
+        ],
+        [
+          42.397094,
+          2.161749
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950380_1",
+      "name": "Camí dels Enginyers",
+      "type": "slope",
+      "from": "node_20",
+      "to": "node_6",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.394515,
+          2.155431
+        ],
+        [
+          42.394756,
+          2.155506
+        ],
+        [
+          42.394964,
+          2.155559
+        ],
+        [
+          42.395171,
+          2.155597
+        ],
+        [
+          42.395438,
+          2.155574
+        ],
+        [
+          42.395699,
+          2.155565
+        ],
+        [
+          42.395965,
+          2.155571
+        ],
+        [
+          42.396187,
+          2.155573
+        ],
+        [
+          42.396341,
+          2.155548
+        ],
+        [
+          42.39653,
+          2.155544
+        ],
+        [
+          42.396733,
+          2.155595
+        ],
+        [
+          42.39688,
+          2.155563
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950381_0",
+      "name": "Coma del Clot",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_13",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          42.393527,
+          2.159884
+        ],
+        [
+          42.393567,
+          2.159173
+        ],
+        [
+          42.393636,
+          2.158651
+        ],
+        [
+          42.393752,
+          2.158387
+        ],
+        [
+          42.394098,
+          2.158099
+        ],
+        [
+          42.3943,
+          2.157896
+        ],
+        [
+          42.394409,
+          2.157715
+        ],
+        [
+          42.394613,
+          2.157407
+        ],
+        [
+          42.394799,
+          2.157014
+        ],
+        [
+          42.395095,
+          2.156389
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950383_1",
+      "name": "Eina",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_8",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          42.40011,
+          2.155835
+        ],
+        [
+          42.399878,
+          2.155807
+        ],
+        [
+          42.399614,
+          2.155675
+        ],
+        [
+          42.399384,
+          2.155425
+        ],
+        [
+          42.399213,
+          2.155295
+        ],
+        [
+          42.398891,
+          2.155101
+        ],
+        [
+          42.398697,
+          2.154925
+        ],
+        [
+          42.398457,
+          2.154563
+        ],
+        [
+          42.39823,
+          2.15438
+        ],
+        [
+          42.397954,
+          2.154172
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296950384_0",
+      "name": "Finestrelles",
+      "type": "slope",
+      "from": "node_11",
+      "to": "node_10",
+      "distance": 0.39,
+      "duration": 1,
+      "elevation": -62,
+      "geometry": [
+        [
+          42.399896,
+          2.148075
+        ],
+        [
+          42.399633,
+          2.148242
+        ],
+        [
+          42.399441,
+          2.148716
+        ],
+        [
+          42.399096,
+          2.149621
+        ],
+        [
+          42.398728,
+          2.150835
+        ],
+        [
+          42.398423,
+          2.151669
+        ],
+        [
+          42.398222,
+          2.152173
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296950385_0",
+      "name": "Les Creus",
+      "type": "slope",
+      "from": "node_12",
+      "to": "node_19",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.392591,
+          2.158804
+        ],
+        [
+          42.392707,
+          2.158117
+        ],
+        [
+          42.392939,
+          2.157104
+        ],
+        [
+          42.39324,
+          2.156399
+        ],
+        [
+          42.393501,
+          2.15581
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950385_2",
+      "name": "Les Creus",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.393707,
+          2.155526
+        ],
+        [
+          42.393936,
+          2.155329
+        ],
+        [
+          42.394116,
+          2.155267
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950385_3",
+      "name": "Les Creus",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.394116,
+          2.155267
+        ],
+        [
+          42.394352,
+          2.155314
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_296950386_0",
+      "name": "Mulleres",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_23",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          42.397331,
+          2.163186
+        ],
+        [
+          42.398177,
+          2.1629
+        ],
+        [
+          42.398723,
+          2.162787
+        ],
+        [
+          42.399229,
+          2.162678
+        ],
+        [
+          42.399534,
+          2.162452
+        ],
+        [
+          42.399651,
+          2.162222
+        ],
+        [
+          42.399703,
+          2.161806
+        ],
+        [
+          42.399651,
+          2.161387
+        ],
+        [
+          42.399566,
+          2.161137
+        ],
+        [
+          42.399412,
+          2.160894
+        ],
+        [
+          42.399137,
+          2.160614
+        ],
+        [
+          42.399041,
+          2.160449
+        ],
+        [
+          42.39894,
+          2.160278
+        ],
+        [
+          42.398794,
+          2.15976
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296950386_1",
+      "name": "Mulleres",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.398794,
+          2.15976
+        ],
+        [
+          42.398714,
+          2.158968
+        ],
+        [
+          42.398657,
+          2.158477
+        ],
+        [
+          42.398484,
+          2.15766
+        ],
+        [
+          42.398452,
+          2.157201
+        ],
+        [
+          42.398435,
+          2.156862
+        ],
+        [
+          42.398493,
+          2.156379
+        ],
+        [
+          42.398404,
+          2.155962
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296950386_3",
+      "name": "Mulleres",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_0",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.398236,
+          2.155749
+        ],
+        [
+          42.397949,
+          2.155382
+        ],
+        [
+          42.397656,
+          2.155075
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_296950387_2",
+      "name": "Pala Boja",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_23",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          42.3975,
+          2.162382
+        ],
+        [
+          42.39747,
+          2.162126
+        ],
+        [
+          42.397489,
+          2.161782
+        ],
+        [
+          42.397573,
+          2.161416
+        ],
+        [
+          42.397775,
+          2.161091
+        ],
+        [
+          42.398095,
+          2.160662
+        ],
+        [
+          42.398483,
+          2.160191
+        ],
+        [
+          42.398794,
+          2.15976
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_296950388_1",
+      "name": "Pala Bèstia",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_16",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.397127,
+          2.161723
+        ],
+        [
+          42.397389,
+          2.161563
+        ],
+        [
+          42.39747,
+          2.161025
+        ],
+        [
+          42.397648,
+          2.160455
+        ],
+        [
+          42.397902,
+          2.159836
+        ],
+        [
+          42.397982,
+          2.159571
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_296950388_2",
+      "name": "Pala Bèstia",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_24",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          42.397982,
+          2.159571
+        ],
+        [
+          42.398135,
+          2.159063
+        ],
+        [
+          42.398294,
+          2.158396
+        ],
+        [
+          42.398121,
+          2.157847
+        ],
+        [
+          42.398127,
+          2.157618
+        ],
+        [
+          42.398173,
+          2.157439
+        ],
+        [
+          42.398242,
+          2.157225
+        ],
+        [
+          42.398326,
+          2.157021
+        ],
+        [
+          42.398347,
+          2.156425
+        ],
+        [
+          42.398312,
+          2.156183
+        ],
+        [
+          42.398236,
+          2.155749
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_296950389_2",
+      "name": "Roc Malé",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.398008,
+          2.153072
+        ],
+        [
+          42.397919,
+          2.153177
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_296950390_1",
+      "name": "Soleia",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_0",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          42.397908,
+          2.159324
+        ],
+        [
+          42.398012,
+          2.158965
+        ],
+        [
+          42.398095,
+          2.158494
+        ],
+        [
+          42.398084,
+          2.158074
+        ],
+        [
+          42.397923,
+          2.157537
+        ],
+        [
+          42.397802,
+          2.156953
+        ],
+        [
+          42.397796,
+          2.156186
+        ],
+        [
+          42.397642,
+          2.155136
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_312246969_1",
+      "name": "Del Bac",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_0",
+      "distance": 0.61,
+      "duration": 1,
+      "elevation": -97,
+      "geometry": [
+        [
+          42.394291,
+          2.15975
+        ],
+        [
+          42.39424,
+          2.159164
+        ],
+        [
+          42.394244,
+          2.158732
+        ],
+        [
+          42.394307,
+          2.158289
+        ],
+        [
+          42.394407,
+          2.158044
+        ],
+        [
+          42.394622,
+          2.15787
+        ],
+        [
+          42.394759,
+          2.157697
+        ],
+        [
+          42.394898,
+          2.157412
+        ],
+        [
+          42.394986,
+          2.15719
+        ],
+        [
+          42.395106,
+          2.157081
+        ],
+        [
+          42.395362,
+          2.157019
+        ],
+        [
+          42.395469,
+          2.157037
+        ],
+        [
+          42.395728,
+          2.157144
+        ],
+        [
+          42.395878,
+          2.157071
+        ],
+        [
+          42.396057,
+          2.15695
+        ],
+        [
+          42.396151,
+          2.156634
+        ],
+        [
+          42.396263,
+          2.156386
+        ],
+        [
+          42.3963,
+          2.156189
+        ],
+        [
+          42.396363,
+          2.156122
+        ],
+        [
+          42.396971,
+          2.155967
+        ],
+        [
+          42.397256,
+          2.15573
+        ],
+        [
+          42.397498,
+          2.155141
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_710730191_1",
+      "name": "Piste 710730191",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          42.395832,
+          2.159602
+        ],
+        [
+          42.395276,
+          2.159552
+        ],
+        [
+          42.394967,
+          2.159566
+        ],
+        [
+          42.394846,
+          2.159633
+        ],
+        [
+          42.39456,
+          2.159896
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_710730191_4",
+      "name": "Piste 710730191",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.394168,
+          2.160121
+        ],
+        [
+          42.393875,
+          2.160063
+        ],
+        [
+          42.393527,
+          2.159884
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_710730191_6",
+      "name": "Piste 710730191",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_26",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.393335,
+          2.159812
+        ],
+        [
+          42.393118,
+          2.1598
+        ],
+        [
+          42.392715,
+          2.159791
+        ],
+        [
+          42.392453,
+          2.1598
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_711117124_0",
+      "name": "Funicular",
+      "type": "slope",
+      "from": "node_14",
+      "to": "node_27",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.395636,
+          2.156084
+        ],
+        [
+          42.395834,
+          2.155978
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_711117124_1",
+      "name": "Funicular",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_6",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.395834,
+          2.155978
+        ],
+        [
+          42.396001,
+          2.155884
+        ],
+        [
+          42.396161,
+          2.155806
+        ],
+        [
+          42.396393,
+          2.155748
+        ],
+        [
+          42.39655,
+          2.155716
+        ],
+        [
+          42.396724,
+          2.155682
+        ],
+        [
+          42.396804,
+          2.155656
+        ],
+        [
+          42.396882,
+          2.15561
+        ],
+        [
+          42.396981,
+          2.155547
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1563288806_0",
+      "name": "Piste 1563288806",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_7",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.3924,
+          2.159727
+        ],
+        [
+          42.392466,
+          2.15943
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1563288806_1",
+      "name": "Piste 1563288806",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_12",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.392466,
+          2.15943
+        ],
+        [
+          42.392541,
+          2.159053
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1563288807_4",
+      "name": "Piste 1563288807",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_15",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.396454,
+          2.160163
+        ],
+        [
+          42.396328,
+          2.160039
+        ],
+        [
+          42.396012,
+          2.159781
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1563288808_2",
+      "name": "Piste 1563288808",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.396952,
+          2.161414
+        ],
+        [
+          42.396826,
+          2.161185
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1563288809_2",
+      "name": "Piste 1563288809",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_28",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.39654,
+          2.160786
+        ],
+        [
+          42.396502,
+          2.160709
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_0_node_6",
+      "name": "Walk: Telacadira de la Pala (Base) ↔ Telecabina Coma del Clot (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_6",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397595,
+          2.155106
+        ],
+        [
+          42.397022,
+          2.155455
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_8",
+      "name": "Walk: Telacadira de la Pala (Base) ↔ Telesquí Cabana pastors (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_8",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397595,
+          2.155106
+        ],
+        [
+          42.397892,
+          2.154076
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_17",
+      "name": "Walk: Telacadira de la Pala (Summit / Top) ↔ Junction: Pala Boja",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397272,
+          2.163162
+        ],
+        [
+          42.397383,
+          2.16251
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_3",
+      "name": "Walk: Junction #3 ↔ Junction #4",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398023,
+          2.153457
+        ],
+        [
+          42.398674,
+          2.153867
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_4",
+      "name": "Walk: Junction #3 ↔ Cinta debutants Roc Malé (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_4",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398023,
+          2.153457
+        ],
+        [
+          42.397813,
+          2.153218
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_5",
+      "name": "Walk: Junction #3 ↔ Cinta debutants Roc Malé (Summit / Top)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_5",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398023,
+          2.153457
+        ],
+        [
+          42.398072,
+          2.152989
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_8",
+      "name": "Walk: Junction #3 ↔ Telesquí Cabana pastors (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_8",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398023,
+          2.153457
+        ],
+        [
+          42.397892,
+          2.154076
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_10",
+      "name": "Walk: Junction #3 ↔ Telesquí Finestrelles (Base)",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_10",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398023,
+          2.153457
+        ],
+        [
+          42.398251,
+          2.152314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_4",
+      "name": "Walk: Junction #4 ↔ Cinta debutants Roc Malé (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_4",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398674,
+          2.153867
+        ],
+        [
+          42.397813,
+          2.153218
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_5",
+      "name": "Walk: Junction #4 ↔ Cinta debutants Roc Malé (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_5",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398674,
+          2.153867
+        ],
+        [
+          42.398072,
+          2.152989
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_8",
+      "name": "Walk: Junction #4 ↔ Telesquí Cabana pastors (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_8",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398674,
+          2.153867
+        ],
+        [
+          42.397892,
+          2.154076
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_10",
+      "name": "Walk: Junction #4 ↔ Telesquí Finestrelles (Base)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_10",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398674,
+          2.153867
+        ],
+        [
+          42.398251,
+          2.152314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_5",
+      "name": "Walk: Cinta debutants Roc Malé (Base) ↔ Cinta debutants Roc Malé (Summit / Top)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397813,
+          2.153218
+        ],
+        [
+          42.398072,
+          2.152989
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_8",
+      "name": "Walk: Cinta debutants Roc Malé (Base) ↔ Telesquí Cabana pastors (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_8",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397813,
+          2.153218
+        ],
+        [
+          42.397892,
+          2.154076
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_10",
+      "name": "Walk: Cinta debutants Roc Malé (Base) ↔ Telesquí Finestrelles (Base)",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_10",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397813,
+          2.153218
+        ],
+        [
+          42.398251,
+          2.152314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_8",
+      "name": "Walk: Cinta debutants Roc Malé (Summit / Top) ↔ Telesquí Cabana pastors (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_8",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398072,
+          2.152989
+        ],
+        [
+          42.397892,
+          2.154076
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_10",
+      "name": "Walk: Cinta debutants Roc Malé (Summit / Top) ↔ Telesquí Finestrelles (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_10",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.398072,
+          2.152989
+        ],
+        [
+          42.398251,
+          2.152314
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_12",
+      "name": "Walk: Telecabina Coma del Clot (Summit / Top) ↔ Junction: Funicular",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_12",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.392251,
+          2.159411
+        ],
+        [
+          42.392582,
+          2.158842
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_26",
+      "name": "Walk: Telecabina Coma del Clot (Summit / Top) ↔ Junction #27",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_26",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.392251,
+          2.159411
+        ],
+        [
+          42.392426,
+          2.159769
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_13_node_14",
+      "name": "Walk: Junction: Funicular ↔ Junction: Funicular",
+      "type": "walk",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.394994,
+          2.156444
+        ],
+        [
+          42.39551,
+          2.156157
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_27",
+      "name": "Walk: Junction: Funicular ↔ Junction: Funicular",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_27",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.39551,
+          2.156157
+        ],
+        [
+          42.395834,
+          2.155978
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_29",
+      "name": "Walk: Junction: Pala Bèstia ↔ Junction #30",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_29",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.397054,
+          2.161633
+        ],
+        [
+          42.3967,
+          2.160978
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_22",
+      "name": "Walk: Junction: Les Creus ↔ Junction: Les Creus",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_22",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.393574,
+          2.155651
+        ],
+        [
+          42.394116,
+          2.155267
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_22",
+      "name": "Walk: Junction: Camí dels Enginyers ↔ Junction: Les Creus",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_22",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.394434,
+          2.155372
+        ],
+        [
+          42.394116,
+          2.155267
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_29",
+      "name": "Walk: Junction #29 ↔ Junction #30",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.396497,
+          2.160391
+        ],
+        [
+          42.3967,
+          2.160978
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5672 @@
+{
+  "id": "portdelcomte",
+  "name": "Port del Comte",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "bounds": [
+    [
+      42.1552,
+      1.5266
+    ],
+    [
+      42.205,
+      1.5686
+    ]
+  ],
+  "center": [
+    42.1712,
+    1.5501
+  ],
+  "stats": {
+    "slopes": "30.5 km",
+    "lifts": 19,
+    "elevation": "1700m - 2400m",
+    "drop": "700m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Telecadira del Querol (Base)",
+      "lat": 42.172361,
+      "lng": 1.561342,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Telecadira del Querol (Summit / Top)",
+      "lat": 42.160249,
+      "lng": 1.556695,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Telecadira de la Bòfia (Base)",
+      "lat": 42.170994,
+      "lng": 1.543859,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Telecadira de la Bòfia (Summit / Top)",
+      "lat": 42.162326,
+      "lng": 1.53797,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Telecadira el Sucre (Base)",
+      "lat": 42.172718,
+      "lng": 1.550911,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Telecadira el Sucre (Summit / Top)",
+      "lat": 42.163023,
+      "lng": 1.545886,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Telecadira Clot de la Vall (Base)",
+      "lat": 42.177897,
+      "lng": 1.538954,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Telecadira Clot de la Vall (Summit / Top)",
+      "lat": 42.187281,
+      "lng": 1.532955,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Telesquí Prat de l'Orri (Base)",
+      "lat": 42.188301,
+      "lng": 1.533534,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Telesquí Prat de l'Orri (Summit / Top)",
+      "lat": 42.190279,
+      "lng": 1.539038,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Telesquí Clot Rodó (Base)",
+      "lat": 42.19835,
+      "lng": 1.531602,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Telesquí Clot Rodó (Summit / Top)",
+      "lat": 42.191631,
+      "lng": 1.532851,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Telecadira l'Estivella (Summit / Top)",
+      "lat": 42.194044,
+      "lng": 1.533146,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Telesquí els Carbassers (Base)",
+      "lat": 42.200039,
+      "lng": 1.534733,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Telesquí els Carbassers (Summit / Top)",
+      "lat": 42.192059,
+      "lng": 1.536746,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Telesquí Prat Berlà (Base)",
+      "lat": 42.17168,
+      "lng": 1.562912,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Telesquí Prat Berlà (Summit / Top)",
+      "lat": 42.168361,
+      "lng": 1.562921,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Telesquí Prat Donadó (Base)",
+      "lat": 42.172488,
+      "lng": 1.562124,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Telesquí Prat Donadó (Summit / Top)",
+      "lat": 42.167902,
+      "lng": 1.562453,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Telesquí la Rata (Summit / Top)",
+      "lat": 42.167327,
+      "lng": 1.562531,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Telesquí Bambi (Mid-Station / Hub)",
+      "lat": 42.170831,
+      "lng": 1.561967,
+      "type": "station"
+    },
+    {
+      "id": "node_21",
+      "name": "Cinta transportadora de l'Esquirol (Summit / Top)",
+      "lat": 42.171528,
+      "lng": 1.561326,
+      "type": "station"
+    },
+    {
+      "id": "node_22",
+      "name": "Jardí de neu (Base)",
+      "lat": 42.171645,
+      "lng": 1.563522,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "Trineus i tubis (Mid-Station / Hub)",
+      "lat": 42.171051,
+      "lng": 1.563561,
+      "type": "station"
+    },
+    {
+      "id": "node_24",
+      "name": "Trineus i tubis (Summit / Top)",
+      "lat": 42.16978,
+      "lng": 1.563635,
+      "type": "station"
+    },
+    {
+      "id": "node_25",
+      "name": "Telesquí el Sucre (Summit / Top)",
+      "lat": 42.164626,
+      "lng": 1.547075,
+      "type": "station"
+    },
+    {
+      "id": "node_26",
+      "name": "Telesquí els Galls (Base)",
+      "lat": 42.17188,
+      "lng": 1.55695,
+      "type": "station"
+    },
+    {
+      "id": "node_27",
+      "name": "Telesquí els Galls (Summit / Top)",
+      "lat": 42.16554,
+      "lng": 1.549391,
+      "type": "station"
+    },
+    {
+      "id": "node_28",
+      "name": "Telesquí Bambi (Summit / Top)",
+      "lat": 42.16886,
+      "lng": 1.562031,
+      "type": "station"
+    },
+    {
+      "id": "node_29",
+      "name": "Prat de Botons (Base)",
+      "lat": 42.177161,
+      "lng": 1.554098,
+      "type": "station"
+    },
+    {
+      "id": "node_30",
+      "name": "Prat de Botons (Summit / Top)",
+      "lat": 42.177498,
+      "lng": 1.539355,
+      "type": "station"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: l'Orri",
+      "lat": 42.162845,
+      "lng": 1.537843,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: l'Orri",
+      "lat": 42.169026,
+      "lng": 1.540631,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: l'Obaga",
+      "lat": 42.166484,
+      "lng": 1.546749,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: l'Obaga",
+      "lat": 42.16997,
+      "lng": 1.545085,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: la Coma dels Marrans",
+      "lat": 42.162662,
+      "lng": 1.540115,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: la Coma dels Marrans",
+      "lat": 42.16495,
+      "lng": 1.54725,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: la Coma dels Marrans",
+      "lat": 42.165397,
+      "lng": 1.549793,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: la Coma dels Marrans",
+      "lat": 42.163807,
+      "lng": 1.551373,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: el Tub Coma",
+      "lat": 42.160762,
+      "lng": 1.557074,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: el Tub Coma",
+      "lat": 42.165781,
+      "lng": 1.554069,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: la Dreta",
+      "lat": 42.162756,
+      "lng": 1.558949,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: la Dreta",
+      "lat": 42.17278,
+      "lng": 1.560259,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.160327,
+      "lng": 1.553393,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.161896,
+      "lng": 1.549601,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.16506,
+      "lng": 1.552981,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.168473,
+      "lng": 1.555726,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.169571,
+      "lng": 1.556291,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.170403,
+      "lng": 1.557088,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: la Rasa Coma",
+      "lat": 42.172455,
+      "lng": 1.559333,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: la Querol",
+      "lat": 42.162576,
+      "lng": 1.554249,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: la Serp",
+      "lat": 42.165903,
+      "lng": 1.554585,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Rasa Sucre",
+      "lat": 42.172182,
+      "lng": 1.549284,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Rasa Sucre",
+      "lat": 42.172299,
+      "lng": 1.549989,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: el Forat",
+      "lat": 42.164601,
+      "lng": 1.533093,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: el Forat",
+      "lat": 42.166839,
+      "lng": 1.535447,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: els Galls",
+      "lat": 42.171474,
+      "lng": 1.554361,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: els Galls",
+      "lat": 42.172384,
+      "lng": 1.552246,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: els Galls",
+      "lat": 42.172527,
+      "lng": 1.551196,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: la Bòfia",
+      "lat": 42.164413,
+      "lng": 1.536509,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: la Ginebrosa",
+      "lat": 42.176752,
+      "lng": 1.53982,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: la Rasa Bòfia",
+      "lat": 42.165753,
+      "lng": 1.54417,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction #63",
+      "lat": 42.166005,
+      "lng": 1.546421,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Donadó 1",
+      "lat": 42.167843,
+      "lng": 1.562931,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Donadó 1",
+      "lat": 42.172393,
+      "lng": 1.562549,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Donadó 2",
+      "lat": 42.168747,
+      "lng": 1.563004,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction #67",
+      "lat": 42.171906,
+      "lng": 1.56151,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: FREERIDE Bosquet",
+      "lat": 42.162945,
+      "lng": 1.538666,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: FREERIDE Bosquet",
+      "lat": 42.170523,
+      "lng": 1.543928,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_153175068",
+      "name": "Telecadira del Querol",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 1.39,
+      "duration": 5,
+      "elevation": 305,
+      "geometry": [
+        [
+          42.172285,
+          1.56127
+        ],
+        [
+          42.17169,
+          1.561055
+        ],
+        [
+          42.170682,
+          1.56069
+        ],
+        [
+          42.169602,
+          1.560299
+        ],
+        [
+          42.168282,
+          1.559821
+        ],
+        [
+          42.167297,
+          1.559465
+        ],
+        [
+          42.166849,
+          1.559303
+        ],
+        [
+          42.165888,
+          1.558955
+        ],
+        [
+          42.164939,
+          1.558612
+        ],
+        [
+          42.163847,
+          1.558216
+        ],
+        [
+          42.162824,
+          1.557846
+        ],
+        [
+          42.161144,
+          1.557238
+        ],
+        [
+          42.160595,
+          1.55704
+        ],
+        [
+          42.160212,
+          1.556901
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_153175069",
+      "name": "Telecadira de la Bòfia",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.04,
+      "duration": 4,
+      "elevation": 228,
+      "geometry": [
+        [
+          42.170781,
+          1.543813
+        ],
+        [
+          42.170317,
+          1.543494
+        ],
+        [
+          42.169771,
+          1.543119
+        ],
+        [
+          42.16889,
+          1.542513
+        ],
+        [
+          42.168107,
+          1.541975
+        ],
+        [
+          42.16739,
+          1.541482
+        ],
+        [
+          42.166496,
+          1.540868
+        ],
+        [
+          42.165536,
+          1.540209
+        ],
+        [
+          42.16465,
+          1.5396
+        ],
+        [
+          42.16373,
+          1.538968
+        ],
+        [
+          42.162977,
+          1.538451
+        ],
+        [
+          42.162563,
+          1.538167
+        ],
+        [
+          42.162411,
+          1.538062
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_153175070",
+      "name": "Telecadira el Sucre",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.15,
+      "duration": 4,
+      "elevation": 252,
+      "geometry": [
+        [
+          42.172692,
+          1.550838
+        ],
+        [
+          42.172115,
+          1.550545
+        ],
+        [
+          42.171541,
+          1.550253
+        ],
+        [
+          42.170894,
+          1.549924
+        ],
+        [
+          42.170262,
+          1.549602
+        ],
+        [
+          42.16957,
+          1.549249
+        ],
+        [
+          42.16881,
+          1.548863
+        ],
+        [
+          42.168053,
+          1.548478
+        ],
+        [
+          42.167315,
+          1.548102
+        ],
+        [
+          42.166382,
+          1.547627
+        ],
+        [
+          42.165873,
+          1.547368
+        ],
+        [
+          42.165395,
+          1.547125
+        ],
+        [
+          42.164048,
+          1.546439
+        ],
+        [
+          42.163609,
+          1.546216
+        ],
+        [
+          42.16315,
+          1.545982
+        ],
+        [
+          42.163054,
+          1.545933
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_153175072",
+      "name": "Telecadira Clot de la Vall",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.13,
+      "duration": 4,
+      "elevation": 248,
+      "geometry": [
+        [
+          42.178077,
+          1.538889
+        ],
+        [
+          42.178445,
+          1.538651
+        ],
+        [
+          42.179323,
+          1.538085
+        ],
+        [
+          42.180059,
+          1.537611
+        ],
+        [
+          42.180984,
+          1.537015
+        ],
+        [
+          42.181787,
+          1.536497
+        ],
+        [
+          42.182468,
+          1.536058
+        ],
+        [
+          42.183829,
+          1.535181
+        ],
+        [
+          42.184406,
+          1.534809
+        ],
+        [
+          42.185133,
+          1.53434
+        ],
+        [
+          42.185948,
+          1.533815
+        ],
+        [
+          42.186322,
+          1.533573
+        ],
+        [
+          42.1869,
+          1.5332
+        ],
+        [
+          42.187281,
+          1.532955
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_153175074",
+      "name": "Telesquí Prat de l'Orri",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.49,
+      "duration": 2,
+      "elevation": 107,
+      "geometry": [
+        [
+          42.188305,
+          1.533678
+        ],
+        [
+          42.188638,
+          1.534582
+        ],
+        [
+          42.18898,
+          1.535509
+        ],
+        [
+          42.189319,
+          1.53643
+        ],
+        [
+          42.189728,
+          1.537542
+        ],
+        [
+          42.190091,
+          1.538526
+        ],
+        [
+          42.190279,
+          1.539038
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_153175075",
+      "name": "Telesquí Clot Rodó",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.75,
+      "duration": 3,
+      "elevation": 165,
+      "geometry": [
+        [
+          42.19835,
+          1.531602
+        ],
+        [
+          42.198197,
+          1.53163
+        ],
+        [
+          42.197819,
+          1.531701
+        ],
+        [
+          42.197084,
+          1.531837
+        ],
+        [
+          42.196463,
+          1.531953
+        ],
+        [
+          42.195832,
+          1.53207
+        ],
+        [
+          42.195166,
+          1.532194
+        ],
+        [
+          42.194537,
+          1.532311
+        ],
+        [
+          42.193899,
+          1.532429
+        ],
+        [
+          42.193454,
+          1.532512
+        ],
+        [
+          42.192975,
+          1.532601
+        ],
+        [
+          42.192491,
+          1.532691
+        ],
+        [
+          42.19212,
+          1.53276
+        ],
+        [
+          42.191631,
+          1.532851
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_153175077",
+      "name": "Telecadira l'Estivella",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_12",
+      "distance": 0.64,
+      "duration": 2,
+      "elevation": 140,
+      "geometry": [
+        [
+          42.188298,
+          1.533391
+        ],
+        [
+          42.189838,
+          1.533325
+        ],
+        [
+          42.190526,
+          1.533296
+        ],
+        [
+          42.19138,
+          1.533259
+        ],
+        [
+          42.19161,
+          1.53325
+        ],
+        [
+          42.19203,
+          1.533232
+        ],
+        [
+          42.192647,
+          1.533206
+        ],
+        [
+          42.194044,
+          1.533146
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_153175079",
+      "name": "Telesquí els Carbassers",
+      "type": "lift",
+      "from": "node_13",
+      "to": "node_14",
+      "distance": 0.9,
+      "duration": 3,
+      "elevation": 198,
+      "geometry": [
+        [
+          42.200039,
+          1.534733
+        ],
+        [
+          42.199883,
+          1.534766
+        ],
+        [
+          42.19909,
+          1.535007
+        ],
+        [
+          42.198335,
+          1.535194
+        ],
+        [
+          42.197759,
+          1.535336
+        ],
+        [
+          42.197008,
+          1.535522
+        ],
+        [
+          42.196232,
+          1.535714
+        ],
+        [
+          42.195474,
+          1.535901
+        ],
+        [
+          42.194531,
+          1.536135
+        ],
+        [
+          42.193775,
+          1.536322
+        ],
+        [
+          42.193037,
+          1.536504
+        ],
+        [
+          42.192482,
+          1.536642
+        ],
+        [
+          42.192156,
+          1.536722
+        ],
+        [
+          42.192059,
+          1.536746
+        ]
+      ],
+      "subtype": "drag_lift"
+    },
+    {
+      "id": "lift_204854697",
+      "name": "Telesquí Prat Berlà",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.37,
+      "duration": 2,
+      "elevation": 81,
+      "geometry": [
+        [
+          42.171584,
+          1.562801
+        ],
+        [
+          42.170868,
+          1.562806
+        ],
+        [
+          42.169995,
+          1.562812
+        ],
+        [
+          42.169284,
+          1.562816
+        ],
+        [
+          42.16865,
+          1.56282
+        ],
+        [
+          42.168227,
+          1.562823
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_204854698",
+      "name": "Telesquí Prat Donadó",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.52,
+      "duration": 2,
+      "elevation": 114,
+      "geometry": [
+        [
+          42.17247,
+          1.56203
+        ],
+        [
+          42.17207,
+          1.562066
+        ],
+        [
+          42.171054,
+          1.562159
+        ],
+        [
+          42.169913,
+          1.562263
+        ],
+        [
+          42.168744,
+          1.562369
+        ],
+        [
+          42.168122,
+          1.562425
+        ],
+        [
+          42.167909,
+          1.562445
+        ],
+        [
+          42.167762,
+          1.562458
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_204854699",
+      "name": "Telesquí la Rata",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_19",
+      "distance": 0.57,
+      "duration": 2,
+      "elevation": 125,
+      "geometry": [
+        [
+          42.172468,
+          1.561955
+        ],
+        [
+          42.172064,
+          1.561992
+        ],
+        [
+          42.171033,
+          1.562088
+        ],
+        [
+          42.169923,
+          1.562191
+        ],
+        [
+          42.168743,
+          1.5623
+        ],
+        [
+          42.168119,
+          1.562357
+        ],
+        [
+          42.167852,
+          1.562382
+        ],
+        [
+          42.167321,
+          1.562431
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_204857421",
+      "name": "Cinta transportadora la Llebre",
+      "type": "lift",
+      "from": "node_17",
+      "to": "node_20",
+      "distance": 0.17,
+      "duration": 2,
+      "elevation": 37,
+      "geometry": [
+        [
+          42.172319,
+          1.56188
+        ],
+        [
+          42.170779,
+          1.561916
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_253034881",
+      "name": "Cinta transportadora de l'Esquirol",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 2,
+      "elevation": 15,
+      "geometry": [
+        [
+          42.172221,
+          1.561373
+        ],
+        [
+          42.171633,
+          1.561194
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_253034884",
+      "name": "Jardí de neu",
+      "type": "lift",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          42.171645,
+          1.563522
+        ],
+        [
+          42.171132,
+          1.563565
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_253034886",
+      "name": "Trineus i tubis",
+      "type": "lift",
+      "from": "node_23",
+      "to": "node_24",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 28,
+      "geometry": [
+        [
+          42.170971,
+          1.563557
+        ],
+        [
+          42.16978,
+          1.563635
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_259165886",
+      "name": "Telesquí el Sucre",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_25",
+      "distance": 0.95,
+      "duration": 3,
+      "elevation": 209,
+      "geometry": [
+        [
+          42.172637,
+          1.550942
+        ],
+        [
+          42.172437,
+          1.550841
+        ],
+        [
+          42.171716,
+          1.550477
+        ],
+        [
+          42.170315,
+          1.549769
+        ],
+        [
+          42.169481,
+          1.549347
+        ],
+        [
+          42.168176,
+          1.548688
+        ],
+        [
+          42.167287,
+          1.548239
+        ],
+        [
+          42.166297,
+          1.547738
+        ],
+        [
+          42.165041,
+          1.547104
+        ],
+        [
+          42.164665,
+          1.546914
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_259165887",
+      "name": "Telesquí els Galls",
+      "type": "lift",
+      "from": "node_26",
+      "to": "node_27",
+      "distance": 0.94,
+      "duration": 3,
+      "elevation": 206,
+      "geometry": [
+        [
+          42.171827,
+          1.55695
+        ],
+        [
+          42.171703,
+          1.556798
+        ],
+        [
+          42.171357,
+          1.556374
+        ],
+        [
+          42.171063,
+          1.556013
+        ],
+        [
+          42.170475,
+          1.555295
+        ],
+        [
+          42.169883,
+          1.554569
+        ],
+        [
+          42.169322,
+          1.553882
+        ],
+        [
+          42.16869,
+          1.553109
+        ],
+        [
+          42.167925,
+          1.552172
+        ],
+        [
+          42.16722,
+          1.551309
+        ],
+        [
+          42.166024,
+          1.549845
+        ],
+        [
+          42.165673,
+          1.549416
+        ],
+        [
+          42.16557,
+          1.549282
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_1230154354",
+      "name": "Telesquí Bambi",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_28",
+      "distance": 0.23,
+      "duration": 2,
+      "elevation": 50,
+      "geometry": [
+        [
+          42.170884,
+          1.562019
+        ],
+        [
+          42.168801,
+          1.562189
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_1476918573",
+      "name": "Prat de Botons",
+      "type": "lift",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 1.19,
+      "duration": 4,
+      "elevation": 261,
+      "geometry": [
+        [
+          42.177161,
+          1.554098
+        ],
+        [
+          42.177483,
+          1.539611
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "piste_203651376_1",
+      "name": "l'Orri",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.72,
+      "duration": 1,
+      "elevation": -115,
+      "geometry": [
+        [
+          42.162879,
+          1.537882
+        ],
+        [
+          42.163634,
+          1.538215
+        ],
+        [
+          42.164786,
+          1.538876
+        ],
+        [
+          42.166353,
+          1.539487
+        ],
+        [
+          42.168166,
+          1.540002
+        ],
+        [
+          42.169026,
+          1.540631
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_203651378_1",
+      "name": "l'Obaga",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          42.16656,
+          1.546624
+        ],
+        [
+          42.16683,
+          1.546461
+        ],
+        [
+          42.167665,
+          1.546193
+        ],
+        [
+          42.168889,
+          1.545721
+        ],
+        [
+          42.16997,
+          1.545085
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_203651378_2",
+      "name": "l'Obaga",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_2",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.16997,
+          1.545085
+        ],
+        [
+          42.17044,
+          1.544809
+        ],
+        [
+          42.170989,
+          1.544083
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_204687548_1",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_35",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          42.162246,
+          1.538226
+        ],
+        [
+          42.162111,
+          1.538596
+        ],
+        [
+          42.162166,
+          1.539049
+        ],
+        [
+          42.162373,
+          1.53944
+        ],
+        [
+          42.162583,
+          1.539854
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_204687548_4",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_25",
+      "distance": 0.59,
+      "duration": 1,
+      "elevation": -94,
+      "geometry": [
+        [
+          42.162742,
+          1.540379
+        ],
+        [
+          42.163021,
+          1.541087
+        ],
+        [
+          42.163247,
+          1.541854
+        ],
+        [
+          42.163553,
+          1.542874
+        ],
+        [
+          42.163931,
+          1.543936
+        ],
+        [
+          42.164273,
+          1.544606
+        ],
+        [
+          42.164504,
+          1.545234
+        ],
+        [
+          42.164683,
+          1.545835
+        ],
+        [
+          42.164725,
+          1.545953
+        ],
+        [
+          42.164766,
+          1.546071
+        ],
+        [
+          42.164668,
+          1.546406
+        ],
+        [
+          42.164485,
+          1.546776
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_204687548_7",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.164779,
+          1.547136
+        ],
+        [
+          42.164917,
+          1.547203
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_204687548_9",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_27",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.164962,
+          1.547268
+        ],
+        [
+          42.165172,
+          1.547573
+        ],
+        [
+          42.165371,
+          1.548013
+        ],
+        [
+          42.165546,
+          1.548544
+        ],
+        [
+          42.16555,
+          1.548595
+        ],
+        [
+          42.165597,
+          1.549145
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_204687548_13",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.165457,
+          1.549664
+        ],
+        [
+          42.165367,
+          1.549858
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_204687548_14",
+      "name": "la Coma dels Marrans",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          42.165367,
+          1.549858
+        ],
+        [
+          42.164973,
+          1.550164
+        ],
+        [
+          42.164814,
+          1.550341
+        ],
+        [
+          42.164659,
+          1.550593
+        ],
+        [
+          42.16454,
+          1.550829
+        ],
+        [
+          42.164452,
+          1.550936
+        ],
+        [
+          42.164234,
+          1.551081
+        ],
+        [
+          42.163737,
+          1.551268
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311198_0",
+      "name": "el Tub Coma",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.65,
+      "duration": 1,
+      "elevation": -104,
+      "geometry": [
+        [
+          42.160762,
+          1.557074
+        ],
+        [
+          42.160984,
+          1.55739
+        ],
+        [
+          42.161471,
+          1.557591
+        ],
+        [
+          42.162417,
+          1.557258
+        ],
+        [
+          42.163002,
+          1.55686
+        ],
+        [
+          42.163316,
+          1.556647
+        ],
+        [
+          42.164151,
+          1.55582
+        ],
+        [
+          42.164589,
+          1.555338
+        ],
+        [
+          42.165018,
+          1.554672
+        ],
+        [
+          42.165471,
+          1.554177
+        ],
+        [
+          42.165619,
+          1.554
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_206311199_0",
+      "name": "la Dreta",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_39",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          42.160261,
+          1.556626
+        ],
+        [
+          42.160762,
+          1.557074
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_206311199_1",
+      "name": "la Dreta",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_41",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          42.160762,
+          1.557074
+        ],
+        [
+          42.160997,
+          1.557558
+        ],
+        [
+          42.161566,
+          1.558331
+        ],
+        [
+          42.162306,
+          1.558846
+        ],
+        [
+          42.162714,
+          1.558942
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_206311199_3",
+      "name": "la Dreta",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 1.16,
+      "duration": 1,
+      "elevation": -185,
+      "geometry": [
+        [
+          42.162784,
+          1.558953
+        ],
+        [
+          42.164151,
+          1.558535
+        ],
+        [
+          42.165054,
+          1.558052
+        ],
+        [
+          42.165302,
+          1.557919
+        ],
+        [
+          42.166097,
+          1.557747
+        ],
+        [
+          42.166556,
+          1.55799
+        ],
+        [
+          42.166855,
+          1.558149
+        ],
+        [
+          42.168732,
+          1.55861
+        ],
+        [
+          42.169095,
+          1.558677
+        ],
+        [
+          42.169948,
+          1.558835
+        ],
+        [
+          42.171061,
+          1.559297
+        ],
+        [
+          42.171122,
+          1.559336
+        ],
+        [
+          42.171714,
+          1.559726
+        ],
+        [
+          42.172803,
+          1.560209
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_206311200_0",
+      "name": "la Sant Grau",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_19",
+      "distance": 0.63,
+      "duration": 1,
+      "elevation": -100,
+      "geometry": [
+        [
+          42.162784,
+          1.558953
+        ],
+        [
+          42.163286,
+          1.559625
+        ],
+        [
+          42.163389,
+          1.56001
+        ],
+        [
+          42.163311,
+          1.560263
+        ],
+        [
+          42.163396,
+          1.560447
+        ],
+        [
+          42.165364,
+          1.560645
+        ],
+        [
+          42.166497,
+          1.561539
+        ],
+        [
+          42.166893,
+          1.562092
+        ],
+        [
+          42.167173,
+          1.562476
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_206311200_2",
+      "name": "la Sant Grau",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_18",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.167482,
+          1.562635
+        ],
+        [
+          42.167885,
+          1.562621
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_206311201_2",
+      "name": "la Nova",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_21",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          42.16796,
+          1.562172
+        ],
+        [
+          42.168445,
+          1.561786
+        ],
+        [
+          42.16892,
+          1.561581
+        ],
+        [
+          42.169129,
+          1.561491
+        ],
+        [
+          42.169519,
+          1.561233
+        ],
+        [
+          42.170041,
+          1.561123
+        ],
+        [
+          42.17047,
+          1.560865
+        ],
+        [
+          42.170699,
+          1.560895
+        ],
+        [
+          42.171337,
+          1.561223
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_206311202_0",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_43",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          42.160261,
+          1.556626
+        ],
+        [
+          42.160596,
+          1.555316
+        ],
+        [
+          42.160572,
+          1.554297
+        ],
+        [
+          42.160358,
+          1.553567
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_2",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -78,
+      "geometry": [
+        [
+          42.160306,
+          1.553277
+        ],
+        [
+          42.160207,
+          1.552709
+        ],
+        [
+          42.160047,
+          1.552151
+        ],
+        [
+          42.159674,
+          1.551647
+        ],
+        [
+          42.159626,
+          1.551196
+        ],
+        [
+          42.160119,
+          1.55052
+        ],
+        [
+          42.160875,
+          1.549802
+        ],
+        [
+          42.161503,
+          1.549448
+        ],
+        [
+          42.16184,
+          1.54945
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_4",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_38",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          42.162091,
+          1.549523
+        ],
+        [
+          42.162561,
+          1.550059
+        ],
+        [
+          42.163737,
+          1.551268
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_6",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_45",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.163913,
+          1.551529
+        ],
+        [
+          42.164636,
+          1.552441
+        ],
+        [
+          42.16506,
+          1.552981
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_7",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_40",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.16506,
+          1.552981
+        ],
+        [
+          42.165344,
+          1.553342
+        ],
+        [
+          42.165725,
+          1.553875
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_8",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_46",
+      "distance": 0.34,
+      "duration": 1,
+      "elevation": -54,
+      "geometry": [
+        [
+          42.165725,
+          1.553875
+        ],
+        [
+          42.166155,
+          1.55419
+        ],
+        [
+          42.166775,
+          1.554672
+        ],
+        [
+          42.167531,
+          1.555037
+        ],
+        [
+          42.168151,
+          1.555509
+        ],
+        [
+          42.168473,
+          1.555726
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_9",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          42.168473,
+          1.555726
+        ],
+        [
+          42.168899,
+          1.556013
+        ],
+        [
+          42.169483,
+          1.556326
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_10",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_48",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          42.169483,
+          1.556326
+        ],
+        [
+          42.169821,
+          1.556507
+        ],
+        [
+          42.170282,
+          1.556893
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_12",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_49",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          42.170417,
+          1.557073
+        ],
+        [
+          42.170815,
+          1.557601
+        ],
+        [
+          42.171483,
+          1.557977
+        ],
+        [
+          42.171785,
+          1.558138
+        ],
+        [
+          42.172143,
+          1.558685
+        ],
+        [
+          42.172421,
+          1.559372
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_13",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_42",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.172421,
+          1.559372
+        ],
+        [
+          42.172763,
+          1.559983
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_17",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_0",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          42.172723,
+          1.560509
+        ],
+        [
+          42.172525,
+          1.560788
+        ],
+        [
+          42.172421,
+          1.561099
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311202_20",
+      "name": "la Rasa Coma",
+      "type": "slope",
+      "from": "node_0",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.172408,
+          1.561626
+        ],
+        [
+          42.172524,
+          1.561971
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_206311203_0",
+      "name": "la Querol",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_50",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.160261,
+          1.556626
+        ],
+        [
+          42.16097,
+          1.555499
+        ],
+        [
+          42.161741,
+          1.554866
+        ],
+        [
+          42.162548,
+          1.554351
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259160947_1",
+      "name": "la Diagonal",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_44",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          42.162646,
+          1.553993
+        ],
+        [
+          42.162659,
+          1.553718
+        ],
+        [
+          42.16263,
+          1.55331
+        ],
+        [
+          42.162575,
+          1.552506
+        ],
+        [
+          42.162498,
+          1.551517
+        ],
+        [
+          42.162294,
+          1.550889
+        ],
+        [
+          42.162112,
+          1.550332
+        ],
+        [
+          42.161851,
+          1.549837
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259160953_0",
+      "name": "la Querol",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_45",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.162548,
+          1.554351
+        ],
+        [
+          42.162926,
+          1.554072
+        ],
+        [
+          42.163507,
+          1.553696
+        ],
+        [
+          42.164565,
+          1.552999
+        ],
+        [
+          42.164668,
+          1.552988
+        ],
+        [
+          42.16506,
+          1.552981
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_259160970_0",
+      "name": "la Serp",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_50",
+      "distance": 0.3,
+      "duration": 1,
+      "elevation": -48,
+      "geometry": [
+        [
+          42.160306,
+          1.553277
+        ],
+        [
+          42.160701,
+          1.553215
+        ],
+        [
+          42.161057,
+          1.553014
+        ],
+        [
+          42.161291,
+          1.552958
+        ],
+        [
+          42.161503,
+          1.553117
+        ],
+        [
+          42.162039,
+          1.553781
+        ],
+        [
+          42.162276,
+          1.554208
+        ],
+        [
+          42.162548,
+          1.554351
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259160970_1",
+      "name": "la Serp",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 1.09,
+      "duration": 2,
+      "elevation": -174,
+      "geometry": [
+        [
+          42.162548,
+          1.554351
+        ],
+        [
+          42.162865,
+          1.554755
+        ],
+        [
+          42.162962,
+          1.554984
+        ],
+        [
+          42.16299,
+          1.555395
+        ],
+        [
+          42.163019,
+          1.555985
+        ],
+        [
+          42.162942,
+          1.556514
+        ],
+        [
+          42.162959,
+          1.556763
+        ],
+        [
+          42.163002,
+          1.55686
+        ],
+        [
+          42.163134,
+          1.556974
+        ],
+        [
+          42.163354,
+          1.556945
+        ],
+        [
+          42.16376,
+          1.556815
+        ],
+        [
+          42.164059,
+          1.55679
+        ],
+        [
+          42.164271,
+          1.556818
+        ],
+        [
+          42.16443,
+          1.556981
+        ],
+        [
+          42.164685,
+          1.55745
+        ],
+        [
+          42.165054,
+          1.558052
+        ],
+        [
+          42.16559,
+          1.558774
+        ],
+        [
+          42.165829,
+          1.559166
+        ],
+        [
+          42.165963,
+          1.559316
+        ],
+        [
+          42.166075,
+          1.559337
+        ],
+        [
+          42.16618,
+          1.559284
+        ],
+        [
+          42.16628,
+          1.559153
+        ],
+        [
+          42.166407,
+          1.5585
+        ],
+        [
+          42.166556,
+          1.55799
+        ],
+        [
+          42.166595,
+          1.557681
+        ],
+        [
+          42.166515,
+          1.557455
+        ],
+        [
+          42.166376,
+          1.557126
+        ],
+        [
+          42.166285,
+          1.556533
+        ],
+        [
+          42.166141,
+          1.555483
+        ],
+        [
+          42.165903,
+          1.554585
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259160970_2",
+      "name": "la Serp",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_40",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.165903,
+          1.554585
+        ],
+        [
+          42.165825,
+          1.554335
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259160970_5",
+      "name": "la Serp",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_48",
+      "distance": 1.34,
+      "duration": 2,
+      "elevation": -214,
+      "geometry": [
+        [
+          42.165898,
+          1.554363
+        ],
+        [
+          42.166328,
+          1.554823
+        ],
+        [
+          42.166871,
+          1.555405
+        ],
+        [
+          42.167258,
+          1.555883
+        ],
+        [
+          42.167768,
+          1.556686
+        ],
+        [
+          42.168771,
+          1.55793
+        ],
+        [
+          42.168984,
+          1.558268
+        ],
+        [
+          42.169095,
+          1.558677
+        ],
+        [
+          42.169103,
+          1.55891
+        ],
+        [
+          42.169014,
+          1.559124
+        ],
+        [
+          42.168792,
+          1.559476
+        ],
+        [
+          42.168556,
+          1.55988
+        ],
+        [
+          42.16847,
+          1.560242
+        ],
+        [
+          42.168432,
+          1.561125
+        ],
+        [
+          42.168487,
+          1.561406
+        ],
+        [
+          42.16865,
+          1.561548
+        ],
+        [
+          42.16892,
+          1.561581
+        ],
+        [
+          42.169091,
+          1.561405
+        ],
+        [
+          42.169205,
+          1.561208
+        ],
+        [
+          42.169422,
+          1.56071
+        ],
+        [
+          42.16953,
+          1.560331
+        ],
+        [
+          42.169702,
+          1.560104
+        ],
+        [
+          42.169998,
+          1.559902
+        ],
+        [
+          42.170404,
+          1.55989
+        ],
+        [
+          42.170711,
+          1.55988
+        ],
+        [
+          42.170908,
+          1.559829
+        ],
+        [
+          42.171009,
+          1.559683
+        ],
+        [
+          42.171122,
+          1.559336
+        ],
+        [
+          42.171166,
+          1.558802
+        ],
+        [
+          42.171134,
+          1.55839
+        ],
+        [
+          42.170854,
+          1.557827
+        ],
+        [
+          42.170504,
+          1.557304
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165885_0",
+      "name": "Rasa Sucre",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_52",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          42.171131,
+          1.543901
+        ],
+        [
+          42.17132,
+          1.544374
+        ],
+        [
+          42.171654,
+          1.545426
+        ],
+        [
+          42.171766,
+          1.546992
+        ],
+        [
+          42.172155,
+          1.549175
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165885_2",
+      "name": "Rasa Sucre",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.172222,
+          1.549448
+        ],
+        [
+          42.172314,
+          1.549866
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165885_4",
+      "name": "Rasa Sucre",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.172388,
+          1.550205
+        ],
+        [
+          42.172699,
+          1.550554
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165888_1",
+      "name": "el Forat",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.164674,
+          1.533114
+        ],
+        [
+          42.16493,
+          1.533289
+        ],
+        [
+          42.165277,
+          1.533664
+        ],
+        [
+          42.165728,
+          1.534198
+        ],
+        [
+          42.166489,
+          1.535158
+        ],
+        [
+          42.166839,
+          1.535447
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165888_2",
+      "name": "el Forat",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_32",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          42.166839,
+          1.535447
+        ],
+        [
+          42.167522,
+          1.536183
+        ],
+        [
+          42.168134,
+          1.537309
+        ],
+        [
+          42.168667,
+          1.53864
+        ],
+        [
+          42.168866,
+          1.539906
+        ],
+        [
+          42.169026,
+          1.540631
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165888_3",
+      "name": "el Forat",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_2",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.169026,
+          1.540631
+        ],
+        [
+          42.169182,
+          1.541232
+        ],
+        [
+          42.169805,
+          1.542195
+        ],
+        [
+          42.17083,
+          1.543575
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165889_0",
+      "name": "el Llop",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_52",
+      "distance": 0.7,
+      "duration": 1,
+      "elevation": -112,
+      "geometry": [
+        [
+          42.166433,
+          1.546832
+        ],
+        [
+          42.166834,
+          1.547329
+        ],
+        [
+          42.168349,
+          1.547738
+        ],
+        [
+          42.17006,
+          1.548086
+        ],
+        [
+          42.171327,
+          1.548034
+        ],
+        [
+          42.171562,
+          1.548144
+        ],
+        [
+          42.171748,
+          1.548353
+        ],
+        [
+          42.172155,
+          1.549175
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165890_3",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_25",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          42.163024,
+          1.546291
+        ],
+        [
+          42.163245,
+          1.546554
+        ],
+        [
+          42.163469,
+          1.546698
+        ],
+        [
+          42.163695,
+          1.546945
+        ],
+        [
+          42.163828,
+          1.547218
+        ],
+        [
+          42.163935,
+          1.547519
+        ],
+        [
+          42.164,
+          1.54773
+        ],
+        [
+          42.164058,
+          1.547781
+        ],
+        [
+          42.164114,
+          1.547792
+        ],
+        [
+          42.164173,
+          1.547772
+        ],
+        [
+          42.164262,
+          1.547586
+        ],
+        [
+          42.164432,
+          1.547327
+        ],
+        [
+          42.164526,
+          1.547234
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165890_6",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.16479,
+          1.547199
+        ],
+        [
+          42.164962,
+          1.547268
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165890_7",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_56",
+      "distance": 0.96,
+      "duration": 2,
+      "elevation": -153,
+      "geometry": [
+        [
+          42.164962,
+          1.547268
+        ],
+        [
+          42.165172,
+          1.547573
+        ],
+        [
+          42.165371,
+          1.548013
+        ],
+        [
+          42.165546,
+          1.548544
+        ],
+        [
+          42.165775,
+          1.548898
+        ],
+        [
+          42.166086,
+          1.549226
+        ],
+        [
+          42.166417,
+          1.54968
+        ],
+        [
+          42.167018,
+          1.550502
+        ],
+        [
+          42.167339,
+          1.551012
+        ],
+        [
+          42.167591,
+          1.551629
+        ],
+        [
+          42.168131,
+          1.552334
+        ],
+        [
+          42.16874,
+          1.553004
+        ],
+        [
+          42.169699,
+          1.553548
+        ],
+        [
+          42.169784,
+          1.553602
+        ],
+        [
+          42.17034,
+          1.553959
+        ],
+        [
+          42.170988,
+          1.554297
+        ],
+        [
+          42.171436,
+          1.554293
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165890_8",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          42.171436,
+          1.554293
+        ],
+        [
+          42.171643,
+          1.553999
+        ],
+        [
+          42.171922,
+          1.553602
+        ],
+        [
+          42.172086,
+          1.552954
+        ],
+        [
+          42.172404,
+          1.552233
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165890_9",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.172404,
+          1.552233
+        ],
+        [
+          42.1725,
+          1.551729
+        ],
+        [
+          42.172498,
+          1.551393
+        ],
+        [
+          42.172527,
+          1.551196
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165890_10",
+      "name": "els Galls",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.172527,
+          1.551196
+        ],
+        [
+          42.172632,
+          1.551119
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165891_0",
+      "name": "la Bòfia",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_55",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          42.164368,
+          1.536582
+        ],
+        [
+          42.164762,
+          1.536258
+        ],
+        [
+          42.165963,
+          1.53556
+        ],
+        [
+          42.166839,
+          1.535447
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165892_1",
+      "name": "la Dreçera",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_53",
+      "distance": 0.92,
+      "duration": 1,
+      "elevation": -147,
+      "geometry": [
+        [
+          42.16585,
+          1.553747
+        ],
+        [
+          42.166124,
+          1.553828
+        ],
+        [
+          42.166438,
+          1.553897
+        ],
+        [
+          42.166576,
+          1.553873
+        ],
+        [
+          42.1668,
+          1.553755
+        ],
+        [
+          42.167295,
+          1.553818
+        ],
+        [
+          42.167368,
+          1.553828
+        ],
+        [
+          42.167949,
+          1.553969
+        ],
+        [
+          42.168594,
+          1.553986
+        ],
+        [
+          42.169035,
+          1.553879
+        ],
+        [
+          42.169521,
+          1.553721
+        ],
+        [
+          42.169784,
+          1.553602
+        ],
+        [
+          42.169962,
+          1.553494
+        ],
+        [
+          42.17013,
+          1.553369
+        ],
+        [
+          42.170235,
+          1.553207
+        ],
+        [
+          42.170305,
+          1.552975
+        ],
+        [
+          42.170437,
+          1.552673
+        ],
+        [
+          42.170998,
+          1.552643
+        ],
+        [
+          42.171576,
+          1.552523
+        ],
+        [
+          42.171852,
+          1.552395
+        ],
+        [
+          42.172065,
+          1.551984
+        ],
+        [
+          42.172218,
+          1.551208
+        ],
+        [
+          42.172225,
+          1.550856
+        ],
+        [
+          42.172241,
+          1.550372
+        ],
+        [
+          42.172236,
+          1.550078
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165893_2",
+      "name": "la Ginebrosa",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_60",
+      "distance": 1.64,
+      "duration": 3,
+      "elevation": -262,
+      "geometry": [
+        [
+          42.16471,
+          1.532912
+        ],
+        [
+          42.165099,
+          1.532884
+        ],
+        [
+          42.165525,
+          1.53286
+        ],
+        [
+          42.165592,
+          1.532823
+        ],
+        [
+          42.165722,
+          1.532692
+        ],
+        [
+          42.165832,
+          1.532617
+        ],
+        [
+          42.166105,
+          1.532714
+        ],
+        [
+          42.166134,
+          1.532729
+        ],
+        [
+          42.166387,
+          1.53286
+        ],
+        [
+          42.166892,
+          1.532711
+        ],
+        [
+          42.167226,
+          1.532569
+        ],
+        [
+          42.167459,
+          1.532579
+        ],
+        [
+          42.167853,
+          1.532707
+        ],
+        [
+          42.168091,
+          1.532763
+        ],
+        [
+          42.168331,
+          1.53275
+        ],
+        [
+          42.16848,
+          1.53286
+        ],
+        [
+          42.168626,
+          1.533147
+        ],
+        [
+          42.168751,
+          1.533367
+        ],
+        [
+          42.168972,
+          1.533598
+        ],
+        [
+          42.169587,
+          1.534231
+        ],
+        [
+          42.169882,
+          1.53456
+        ],
+        [
+          42.170084,
+          1.534881
+        ],
+        [
+          42.170223,
+          1.535005
+        ],
+        [
+          42.170535,
+          1.53517
+        ],
+        [
+          42.170766,
+          1.535398
+        ],
+        [
+          42.170959,
+          1.535801
+        ],
+        [
+          42.171103,
+          1.535986
+        ],
+        [
+          42.171352,
+          1.536174
+        ],
+        [
+          42.171546,
+          1.536226
+        ],
+        [
+          42.17178,
+          1.536247
+        ],
+        [
+          42.172025,
+          1.536109
+        ],
+        [
+          42.172223,
+          1.535959
+        ],
+        [
+          42.17235,
+          1.536005
+        ],
+        [
+          42.172629,
+          1.536291
+        ],
+        [
+          42.172883,
+          1.536465
+        ],
+        [
+          42.172988,
+          1.536695
+        ],
+        [
+          42.173004,
+          1.537094
+        ],
+        [
+          42.173096,
+          1.537534
+        ],
+        [
+          42.173318,
+          1.538072
+        ],
+        [
+          42.173575,
+          1.53869
+        ],
+        [
+          42.17384,
+          1.539143
+        ],
+        [
+          42.174034,
+          1.539362
+        ],
+        [
+          42.174482,
+          1.539711
+        ],
+        [
+          42.174945,
+          1.539893
+        ],
+        [
+          42.175297,
+          1.54
+        ],
+        [
+          42.175685,
+          1.539996
+        ],
+        [
+          42.176016,
+          1.540071
+        ],
+        [
+          42.176215,
+          1.540169
+        ],
+        [
+          42.176486,
+          1.540069
+        ],
+        [
+          42.176643,
+          1.53981
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165893_4",
+      "name": "la Ginebrosa",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_6",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          42.176699,
+          1.539717
+        ],
+        [
+          42.176973,
+          1.539386
+        ],
+        [
+          42.177384,
+          1.539156
+        ],
+        [
+          42.177807,
+          1.538987
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165894_0",
+      "name": "la Pelada",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_46",
+      "distance": 0.6,
+      "duration": 1,
+      "elevation": -96,
+      "geometry": [
+        [
+          42.165457,
+          1.549664
+        ],
+        [
+          42.165749,
+          1.550628
+        ],
+        [
+          42.166436,
+          1.552136
+        ],
+        [
+          42.167295,
+          1.553818
+        ],
+        [
+          42.167814,
+          1.554663
+        ],
+        [
+          42.168194,
+          1.555273
+        ],
+        [
+          42.168473,
+          1.555726
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165895_0",
+      "name": "la Pleta",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_57",
+      "distance": 1.05,
+      "duration": 1,
+      "elevation": -168,
+      "geometry": [
+        [
+          42.164962,
+          1.547268
+        ],
+        [
+          42.165977,
+          1.547706
+        ],
+        [
+          42.166428,
+          1.548085
+        ],
+        [
+          42.166691,
+          1.548379
+        ],
+        [
+          42.166819,
+          1.548763
+        ],
+        [
+          42.166866,
+          1.549308
+        ],
+        [
+          42.166902,
+          1.549844
+        ],
+        [
+          42.16712,
+          1.550459
+        ],
+        [
+          42.167339,
+          1.551012
+        ],
+        [
+          42.167659,
+          1.551567
+        ],
+        [
+          42.167806,
+          1.551737
+        ],
+        [
+          42.168132,
+          1.551816
+        ],
+        [
+          42.16918,
+          1.552
+        ],
+        [
+          42.170998,
+          1.552643
+        ],
+        [
+          42.171413,
+          1.552731
+        ],
+        [
+          42.171606,
+          1.552716
+        ],
+        [
+          42.171887,
+          1.552628
+        ],
+        [
+          42.172161,
+          1.552489
+        ],
+        [
+          42.172354,
+          1.552266
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165896_0",
+      "name": "la Rasa Bòfia",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_61",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          42.162662,
+          1.540113
+        ],
+        [
+          42.162979,
+          1.540594
+        ],
+        [
+          42.163574,
+          1.541136
+        ],
+        [
+          42.163958,
+          1.541445
+        ],
+        [
+          42.16464,
+          1.54232
+        ],
+        [
+          42.165186,
+          1.543235
+        ],
+        [
+          42.165554,
+          1.543838
+        ],
+        [
+          42.165747,
+          1.544059
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165896_2",
+      "name": "la Rasa Bòfia",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_34",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          42.165822,
+          1.544125
+        ],
+        [
+          42.166192,
+          1.544456
+        ],
+        [
+          42.16678,
+          1.544846
+        ],
+        [
+          42.16746,
+          1.545043
+        ],
+        [
+          42.167848,
+          1.545004
+        ],
+        [
+          42.168208,
+          1.544968
+        ],
+        [
+          42.168796,
+          1.545131
+        ],
+        [
+          42.169155,
+          1.545061
+        ],
+        [
+          42.1695,
+          1.544986
+        ],
+        [
+          42.16997,
+          1.545085
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165897_1",
+      "name": "Piste 259165897",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_26",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          42.169703,
+          1.556239
+        ],
+        [
+          42.169968,
+          1.556303
+        ],
+        [
+          42.170346,
+          1.556502
+        ],
+        [
+          42.170939,
+          1.556919
+        ],
+        [
+          42.171264,
+          1.557159
+        ],
+        [
+          42.171402,
+          1.557179
+        ],
+        [
+          42.171569,
+          1.557143
+        ],
+        [
+          42.171754,
+          1.557079
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165898_1",
+      "name": "Piste 259165898",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_26",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.171531,
+          1.554463
+        ],
+        [
+          42.171616,
+          1.554848
+        ],
+        [
+          42.171663,
+          1.555395
+        ],
+        [
+          42.171682,
+          1.555797
+        ],
+        [
+          42.171731,
+          1.555934
+        ],
+        [
+          42.171781,
+          1.556026
+        ],
+        [
+          42.171822,
+          1.556343
+        ],
+        [
+          42.171779,
+          1.556551
+        ],
+        [
+          42.171774,
+          1.556744
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165899_6",
+      "name": "Piste 259165899",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_62",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          42.163299,
+          1.545806
+        ],
+        [
+          42.163676,
+          1.545921
+        ],
+        [
+          42.164412,
+          1.545946
+        ],
+        [
+          42.164725,
+          1.545953
+        ],
+        [
+          42.164814,
+          1.546006
+        ],
+        [
+          42.165078,
+          1.546304
+        ],
+        [
+          42.165309,
+          1.546608
+        ],
+        [
+          42.165894,
+          1.546498
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165899_8",
+      "name": "Piste 259165899",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_33",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.166079,
+          1.546464
+        ],
+        [
+          42.166433,
+          1.546832
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259165901_4",
+      "name": "Piste 259165901",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.162472,
+          1.537848
+        ],
+        [
+          42.162751,
+          1.537838
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165901_6",
+      "name": "Piste 259165901",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_59",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          42.162952,
+          1.53781
+        ],
+        [
+          42.163219,
+          1.537682
+        ],
+        [
+          42.163579,
+          1.537336
+        ],
+        [
+          42.164022,
+          1.536924
+        ],
+        [
+          42.164368,
+          1.536582
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165901_8",
+      "name": "Piste 259165901",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_54",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          42.16448,
+          1.536399
+        ],
+        [
+          42.164581,
+          1.535917
+        ],
+        [
+          42.164635,
+          1.535487
+        ],
+        [
+          42.164685,
+          1.53516
+        ],
+        [
+          42.164732,
+          1.534904
+        ],
+        [
+          42.164718,
+          1.534661
+        ],
+        [
+          42.164684,
+          1.534412
+        ],
+        [
+          42.164544,
+          1.53331
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259165902_2",
+      "name": "Piste 259165902",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_61",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          42.166098,
+          1.546265
+        ],
+        [
+          42.16608,
+          1.545859
+        ],
+        [
+          42.165885,
+          1.545237
+        ],
+        [
+          42.165715,
+          1.544745
+        ],
+        [
+          42.165687,
+          1.544351
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_259166268_1",
+      "name": "Piste 259166268",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_26",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          42.172507,
+          1.559274
+        ],
+        [
+          42.172542,
+          1.558567
+        ],
+        [
+          42.172553,
+          1.557952
+        ],
+        [
+          42.172513,
+          1.557504
+        ],
+        [
+          42.172362,
+          1.557098
+        ],
+        [
+          42.172122,
+          1.556974
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259166385_0",
+      "name": "Solei",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_2",
+      "distance": 0.89,
+      "duration": 1,
+      "elevation": -142,
+      "geometry": [
+        [
+          42.176914,
+          1.539932
+        ],
+        [
+          42.17666,
+          1.540358
+        ],
+        [
+          42.176508,
+          1.540634
+        ],
+        [
+          42.176294,
+          1.540832
+        ],
+        [
+          42.17603,
+          1.54089
+        ],
+        [
+          42.175823,
+          1.541019
+        ],
+        [
+          42.175429,
+          1.54131
+        ],
+        [
+          42.175128,
+          1.54176
+        ],
+        [
+          42.174855,
+          1.541927
+        ],
+        [
+          42.174649,
+          1.542231
+        ],
+        [
+          42.174439,
+          1.542522
+        ],
+        [
+          42.174198,
+          1.542775
+        ],
+        [
+          42.174087,
+          1.542993
+        ],
+        [
+          42.174026,
+          1.543139
+        ],
+        [
+          42.173938,
+          1.543289
+        ],
+        [
+          42.173826,
+          1.543302
+        ],
+        [
+          42.173738,
+          1.543242
+        ],
+        [
+          42.173642,
+          1.543045
+        ],
+        [
+          42.173588,
+          1.542886
+        ],
+        [
+          42.173363,
+          1.542539
+        ],
+        [
+          42.173141,
+          1.542377
+        ],
+        [
+          42.172973,
+          1.54236
+        ],
+        [
+          42.172728,
+          1.54236
+        ],
+        [
+          42.172534,
+          1.542295
+        ],
+        [
+          42.172154,
+          1.542133
+        ],
+        [
+          42.171976,
+          1.542021
+        ],
+        [
+          42.171814,
+          1.542038
+        ],
+        [
+          42.171681,
+          1.542223
+        ],
+        [
+          42.171512,
+          1.542681
+        ],
+        [
+          42.171354,
+          1.543058
+        ],
+        [
+          42.171287,
+          1.543366
+        ],
+        [
+          42.171131,
+          1.543901
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_259169512_2",
+      "name": "Donadó 1",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.167885,
+          1.562621
+        ],
+        [
+          42.167843,
+          1.562931
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169512_3",
+      "name": "Donadó 1",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_15",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          42.167843,
+          1.562931
+        ],
+        [
+          42.16792,
+          1.56305
+        ],
+        [
+          42.168166,
+          1.563274
+        ],
+        [
+          42.168418,
+          1.563311
+        ],
+        [
+          42.169402,
+          1.563255
+        ],
+        [
+          42.171644,
+          1.563052
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169512_4",
+      "name": "Donadó 1",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_64",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.171644,
+          1.563052
+        ],
+        [
+          42.172022,
+          1.562833
+        ],
+        [
+          42.172166,
+          1.562728
+        ],
+        [
+          42.172301,
+          1.562626
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169512_7",
+      "name": "Donadó 1",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.172476,
+          1.562466
+        ],
+        [
+          42.172519,
+          1.562338
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169513_1",
+      "name": "Donadó 2",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.168002,
+          1.562813
+        ],
+        [
+          42.168325,
+          1.563011
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169513_2",
+      "name": "Donadó 2",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_65",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.168325,
+          1.563011
+        ],
+        [
+          42.168747,
+          1.563004
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169513_3",
+      "name": "Donadó 2",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_15",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          42.168747,
+          1.563004
+        ],
+        [
+          42.16949,
+          1.562991
+        ],
+        [
+          42.171618,
+          1.562912
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169513_5",
+      "name": "Donadó 2",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          42.171827,
+          1.562828
+        ],
+        [
+          42.172063,
+          1.562698
+        ],
+        [
+          42.172476,
+          1.562466
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259169515_1",
+      "name": "Piste 259169515",
+      "type": "slope",
+      "from": "node_16",
+      "to": "node_65",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.168531,
+          1.562928
+        ],
+        [
+          42.168747,
+          1.563004
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_259171635_2",
+      "name": "Piste 259171635",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.171652,
+          1.561374
+        ],
+        [
+          42.171906,
+          1.56151
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1228201449_0",
+      "name": "Solei",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_6",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          42.177506,
+          1.539227
+        ],
+        [
+          42.177807,
+          1.538987
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1228201449_1",
+      "name": "Solei",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_60",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          42.177506,
+          1.539227
+        ],
+        [
+          42.177181,
+          1.539535
+        ],
+        [
+          42.176914,
+          1.539932
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1230154355_1",
+      "name": "Debutants 2",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_21",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          42.168918,
+          1.561874
+        ],
+        [
+          42.169248,
+          1.561791
+        ],
+        [
+          42.169563,
+          1.561741
+        ],
+        [
+          42.171425,
+          1.561338
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1271257233_0",
+      "name": "FREERIDE Bosquet",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_68",
+      "distance": 1.14,
+      "duration": 1,
+      "elevation": -182,
+      "geometry": [
+        [
+          42.162945,
+          1.538666
+        ],
+        [
+          42.162872,
+          1.539306
+        ],
+        [
+          42.163118,
+          1.540134
+        ],
+        [
+          42.163667,
+          1.540774
+        ],
+        [
+          42.165131,
+          1.542665
+        ],
+        [
+          42.165783,
+          1.543555
+        ],
+        [
+          42.166538,
+          1.544312
+        ],
+        [
+          42.16731,
+          1.544588
+        ],
+        [
+          42.168395,
+          1.544609
+        ],
+        [
+          42.168943,
+          1.544702
+        ],
+        [
+          42.169443,
+          1.544542
+        ],
+        [
+          42.169975,
+          1.544648
+        ],
+        [
+          42.170314,
+          1.54451
+        ],
+        [
+          42.170619,
+          1.54421
+        ],
+        [
+          42.170523,
+          1.543928
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1271257233_1",
+      "name": "FREERIDE Bosquet",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_67",
+      "distance": 0.95,
+      "duration": 1,
+      "elevation": -152,
+      "geometry": [
+        [
+          42.170523,
+          1.543928
+        ],
+        [
+          42.164462,
+          1.539673
+        ],
+        [
+          42.163623,
+          1.538977
+        ],
+        [
+          42.162945,
+          1.538666
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "walk_node_0_node_17",
+      "name": "Walk: Telecadira del Querol (Base) ↔ Telesquí Prat Donadó (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172361,
+          1.561342
+        ],
+        [
+          42.172488,
+          1.562124
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_21",
+      "name": "Walk: Telecadira del Querol (Base) ↔ Cinta transportadora de l'Esquirol (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_21",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172361,
+          1.561342
+        ],
+        [
+          42.171528,
+          1.561326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_66",
+      "name": "Walk: Telecadira del Querol (Base) ↔ Junction #67",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172361,
+          1.561342
+        ],
+        [
+          42.171906,
+          1.56151
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_39",
+      "name": "Walk: Telecadira del Querol (Summit / Top) ↔ Junction: el Tub Coma",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_39",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.160249,
+          1.556695
+        ],
+        [
+          42.160762,
+          1.557074
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_68",
+      "name": "Walk: Telecadira de la Bòfia (Base) ↔ Junction: FREERIDE Bosquet",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.170994,
+          1.543859
+        ],
+        [
+          42.170523,
+          1.543928
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_31",
+      "name": "Walk: Telecadira de la Bòfia (Summit / Top) ↔ Junction: l'Orri",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_31",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.162326,
+          1.53797
+        ],
+        [
+          42.162845,
+          1.537843
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_58",
+      "name": "Walk: Telecadira el Sucre (Base) ↔ Junction: els Galls",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_58",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172718,
+          1.550911
+        ],
+        [
+          42.172527,
+          1.551196
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_30",
+      "name": "Walk: Telecadira Clot de la Vall (Base) ↔ Prat de Botons (Summit / Top)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_30",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.177897,
+          1.538954
+        ],
+        [
+          42.177498,
+          1.539355
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_7_node_8",
+      "name": "Walk: Telecadira Clot de la Vall (Summit / Top) ↔ Telesquí Prat de l'Orri (Base)",
+      "type": "walk",
+      "from": "node_7",
+      "to": "node_8",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.187281,
+          1.532955
+        ],
+        [
+          42.188301,
+          1.533534
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_17",
+      "name": "Walk: Telesquí Prat Berlà (Base) ↔ Telesquí Prat Donadó (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.17168,
+          1.562912
+        ],
+        [
+          42.172488,
+          1.562124
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_20",
+      "name": "Walk: Telesquí Prat Berlà (Base) ↔ Telesquí Bambi (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_20",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.17168,
+          1.562912
+        ],
+        [
+          42.170831,
+          1.561967
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_21",
+      "name": "Walk: Telesquí Prat Berlà (Base) ↔ Cinta transportadora de l'Esquirol (Summit / Top)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_21",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.17168,
+          1.562912
+        ],
+        [
+          42.171528,
+          1.561326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_22",
+      "name": "Walk: Telesquí Prat Berlà (Base) ↔ Jardí de neu (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_22",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.17168,
+          1.562912
+        ],
+        [
+          42.171645,
+          1.563522
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_23",
+      "name": "Walk: Telesquí Prat Berlà (Base) ↔ Trineus i tubis (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_23",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.17168,
+          1.562912
+        ],
+        [
+          42.171051,
+          1.563561
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_18",
+      "name": "Walk: Telesquí Prat Berlà (Summit / Top) ↔ Telesquí Prat Donadó (Summit / Top)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_18",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.168361,
+          1.562921
+        ],
+        [
+          42.167902,
+          1.562453
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_19",
+      "name": "Walk: Telesquí Prat Berlà (Summit / Top) ↔ Telesquí la Rata (Summit / Top)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_19",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.168361,
+          1.562921
+        ],
+        [
+          42.167327,
+          1.562531
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_28",
+      "name": "Walk: Telesquí Prat Berlà (Summit / Top) ↔ Telesquí Bambi (Summit / Top)",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_28",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.168361,
+          1.562921
+        ],
+        [
+          42.16886,
+          1.562031
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_63",
+      "name": "Walk: Telesquí Prat Berlà (Summit / Top) ↔ Junction: Donadó 1",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_63",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.168361,
+          1.562921
+        ],
+        [
+          42.167843,
+          1.562931
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_65",
+      "name": "Walk: Telesquí Prat Berlà (Summit / Top) ↔ Junction: Donadó 2",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_65",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.168361,
+          1.562921
+        ],
+        [
+          42.168747,
+          1.563004
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_21",
+      "name": "Walk: Telesquí Prat Donadó (Base) ↔ Cinta transportadora de l'Esquirol (Summit / Top)",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_21",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172488,
+          1.562124
+        ],
+        [
+          42.171528,
+          1.561326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_64",
+      "name": "Walk: Telesquí Prat Donadó (Base) ↔ Junction: Donadó 1",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_64",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172488,
+          1.562124
+        ],
+        [
+          42.172393,
+          1.562549
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_19",
+      "name": "Walk: Telesquí Prat Donadó (Summit / Top) ↔ Telesquí la Rata (Summit / Top)",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.167902,
+          1.562453
+        ],
+        [
+          42.167327,
+          1.562531
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_28",
+      "name": "Walk: Telesquí Prat Donadó (Summit / Top) ↔ Telesquí Bambi (Summit / Top)",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_28",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.167902,
+          1.562453
+        ],
+        [
+          42.16886,
+          1.562031
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_63",
+      "name": "Walk: Telesquí Prat Donadó (Summit / Top) ↔ Junction: Donadó 1",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_63",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.167902,
+          1.562453
+        ],
+        [
+          42.167843,
+          1.562931
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_19_node_63",
+      "name": "Walk: Telesquí la Rata (Summit / Top) ↔ Junction: Donadó 1",
+      "type": "walk",
+      "from": "node_19",
+      "to": "node_63",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.167327,
+          1.562531
+        ],
+        [
+          42.167843,
+          1.562931
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_21",
+      "name": "Walk: Telesquí Bambi (Mid-Station / Hub) ↔ Cinta transportadora de l'Esquirol (Summit / Top)",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.170831,
+          1.561967
+        ],
+        [
+          42.171528,
+          1.561326
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_23",
+      "name": "Walk: Telesquí Bambi (Mid-Station / Hub) ↔ Trineus i tubis (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_23",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.170831,
+          1.561967
+        ],
+        [
+          42.171051,
+          1.563561
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_66",
+      "name": "Walk: Cinta transportadora de l'Esquirol (Summit / Top) ↔ Junction #67",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_66",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.171528,
+          1.561326
+        ],
+        [
+          42.171906,
+          1.56151
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_23",
+      "name": "Walk: Jardí de neu (Base) ↔ Trineus i tubis (Mid-Station / Hub)",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.171645,
+          1.563522
+        ],
+        [
+          42.171051,
+          1.563561
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_36",
+      "name": "Walk: Telesquí el Sucre (Summit / Top) ↔ Junction: la Coma dels Marrans",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_36",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.164626,
+          1.547075
+        ],
+        [
+          42.16495,
+          1.54725
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_27_node_37",
+      "name": "Walk: Telesquí els Galls (Summit / Top) ↔ Junction: la Coma dels Marrans",
+      "type": "walk",
+      "from": "node_27",
+      "to": "node_37",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.16554,
+          1.549391
+        ],
+        [
+          42.165397,
+          1.549793
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_31_node_67",
+      "name": "Walk: Junction: l'Orri ↔ Junction: FREERIDE Bosquet",
+      "type": "walk",
+      "from": "node_31",
+      "to": "node_67",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.162845,
+          1.537843
+        ],
+        [
+          42.162945,
+          1.538666
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_33_node_62",
+      "name": "Walk: Junction: l'Obaga ↔ Junction #63",
+      "type": "walk",
+      "from": "node_33",
+      "to": "node_62",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.166484,
+          1.546749
+        ],
+        [
+          42.166005,
+          1.546421
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_40_node_51",
+      "name": "Walk: Junction: el Tub Coma ↔ Junction: la Serp",
+      "type": "walk",
+      "from": "node_40",
+      "to": "node_51",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.165781,
+          1.554069
+        ],
+        [
+          42.165903,
+          1.554585
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_53",
+      "name": "Walk: Junction: Rasa Sucre ↔ Junction: Rasa Sucre",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.172182,
+          1.549284
+        ],
+        [
+          42.172299,
+          1.549989
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_11_node_8",
+      "name": "Piste Access: Telesquí Clot Rodó (Summit / Top) ➔ Telesquí Prat de l'Orri (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_11",
+      "to": "node_8",
+      "distance": 0.37,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.191631,
+          1.532851
+        ],
+        [
+          42.188301,
+          1.533534
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_12_node_10",
+      "name": "Piste Access: Telecadira l'Estivella (Summit / Top) ➔ Telesquí Clot Rodó (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_12",
+      "to": "node_10",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.194044,
+          1.533146
+        ],
+        [
+          42.19835,
+          1.531602
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_14_node_8",
+      "name": "Piste Access: Telesquí els Carbassers (Summit / Top) ➔ Telesquí Prat de l'Orri (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_14",
+      "to": "node_8",
+      "distance": 0.49,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.192059,
+          1.536746
+        ],
+        [
+          42.188301,
+          1.533534
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_24_node_65",
+      "name": "Piste Access: Trineus i tubis (Summit / Top) ➔ Junction: Donadó 2",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_24",
+      "to": "node_65",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.16978,
+          1.563635
+        ],
+        [
+          42.168747,
+          1.563004
+        ]
+      ]
+    },
+    {
+      "id": "summit_access_node_9_node_8",
+      "name": "Piste Access: Telesquí Prat de l'Orri (Summit / Top) ➔ Telesquí Prat de l'Orri (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_9",
+      "to": "node_8",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          42.190279,
+          1.539038
+        ],
+        [
+          42.188301,
+          1.533534
+        ]
+      ]
+    },
+    {
+      "id": "base_access_node_10_node_13",
+      "name": "Piste Access to Telesquí els Carbassers (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_10",
+      "to": "node_13",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          42.19835,
+          1.531602
+        ],
+        [
+          42.200039,
+          1.534733
+        ]
+      ]
+    },
+    {
+      "id": "base_access_node_57_node_29",
+      "name": "Piste Access to Prat de Botons (Base)",
+      "type": "slope",
+      "difficulty": "blue",
+      "from": "node_57",
+      "to": "node_29",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -15,
+      "geometry": [
+        [
+          42.172384,
+          1.552246
+        ],
+        [
+          42.177161,
+          1.554098
+        ]
+      ]
+    },
+    {
+      "id": "bus_return_node_7_node_6",
+      "name": "Ski Bus Inter-Sector",
+      "type": "bus",
+      "from": "node_7",
+      "to": "node_6",
+      "distance": 1.15,
+      "duration": 3,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          42.187281,
+          1.532955
+        ],
+        [
+          42.177897,
+          1.538954
+        ]
+      ]
+    }
+  ]
+}

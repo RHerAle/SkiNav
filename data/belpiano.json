@@ -1,0 +1,6694 @@
+{
+  "id": "belpiano",
+  "name": "Belpiano - Passo Resia (Schöneben)",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      46.7563,
+      10.4711
+    ],
+    [
+      46.8267,
+      10.5369
+    ]
+  ],
+  "center": [
+    46.793,
+    10.4971
+  ],
+  "stats": {
+    "slopes": "26.5 km",
+    "lifts": 14,
+    "elevation": "1460m - 2390m",
+    "drop": "930m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Bergbahn Schöneben - Cabinovia Belpiano (Base)",
+      "lat": 46.821685,
+      "lng": 10.509012,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top)",
+      "lat": 46.805117,
+      "lng": 10.491613,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Jochbahn - Cabinovia Jochbahn (Base)",
+      "lat": 46.80725,
+      "lng": 10.494708,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Jochbahn - Cabinovia Jochbahn (Summit / Top)",
+      "lat": 46.795527,
+      "lng": 10.492911,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Fraiten (Base)",
+      "lat": 46.804184,
+      "lng": 10.488058,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Fraiten (Summit / Top)",
+      "lat": 46.795441,
+      "lng": 10.491732,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Rojensesselbahn - Seggiovia Rojen (Base)",
+      "lat": 46.801233,
+      "lng": 10.476374,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Rojensesselbahn - Seggiovia Rojen (Summit / Top)",
+      "lat": 46.794059,
+      "lng": 10.489909,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Zwölferkopfbahn – Seggiovia Zwölferkopf (Summit / Top)",
+      "lat": 46.791436,
+      "lng": 10.479854,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Bergbahn Haideralm (Base)",
+      "lat": 46.765278,
+      "lng": 10.53185,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Bergbahn Haideralm (Summit / Top)",
+      "lat": 46.761299,
+      "lng": 10.504688,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Valatschlift (Base)",
+      "lat": 46.762357,
+      "lng": 10.504765,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Valatschlift (Summit / Top)",
+      "lat": 46.762303,
+      "lng": 10.501823,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Junction: 2: Jochabfahrt",
+      "lat": 46.804804,
+      "lng": 10.491605,
+      "type": "intersection"
+    },
+    {
+      "id": "node_16",
+      "name": "Junction #17",
+      "lat": 46.804179,
+      "lng": 10.492142,
+      "type": "intersection"
+    },
+    {
+      "id": "node_17",
+      "name": "Junction #18",
+      "lat": 46.80439,
+      "lng": 10.491334,
+      "type": "intersection"
+    },
+    {
+      "id": "node_18",
+      "name": "Junction #19",
+      "lat": 46.804157,
+      "lng": 10.490958,
+      "type": "intersection"
+    },
+    {
+      "id": "node_19",
+      "name": "Junction #20",
+      "lat": 46.803074,
+      "lng": 10.491454,
+      "type": "intersection"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.761331,
+      "lng": 10.504137,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.761808,
+      "lng": 10.503503,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Höllental (Mid-Station / Hub)",
+      "lat": 46.801436,
+      "lng": 10.51062,
+      "type": "station"
+    },
+    {
+      "id": "node_23",
+      "name": "Höllental (Summit / Top)",
+      "lat": 46.795525,
+      "lng": 10.495529,
+      "type": "station"
+    },
+    {
+      "id": "node_24",
+      "name": "Haideralm – Schöneben (Base)",
+      "lat": 46.765538,
+      "lng": 10.53085,
+      "type": "station"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.804129,
+      "lng": 10.492978,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Zwölferkopf II",
+      "lat": 46.80113,
+      "lng": 10.477235,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Hütteltal",
+      "lat": 46.795583,
+      "lng": 10.489788,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Hütteltal",
+      "lat": 46.798764,
+      "lng": 10.485933,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Hütteltal",
+      "lat": 46.799027,
+      "lng": 10.48496,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Hütteltal",
+      "lat": 46.799615,
+      "lng": 10.482778,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Hütteltal",
+      "lat": 46.800522,
+      "lng": 10.478359,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Rojenabfahrt",
+      "lat": 46.79934,
+      "lng": 10.485557,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Rojenabfahrt",
+      "lat": 46.800058,
+      "lng": 10.482228,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Zehnerabfahrt",
+      "lat": 46.796715,
+      "lng": 10.490425,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Zehnerabfahrt",
+      "lat": 46.799132,
+      "lng": 10.48955,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Zehnerabfahrt",
+      "lat": 46.800081,
+      "lng": 10.489363,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.795731,
+      "lng": 10.492309,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.799935,
+      "lng": 10.490389,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.800728,
+      "lng": 10.490175,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.801749,
+      "lng": 10.489693,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.803216,
+      "lng": 10.489121,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Aussichtsabfahrt",
+      "lat": 46.80408,
+      "lng": 10.488775,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.797707,
+      "lng": 10.49276,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.79996,
+      "lng": 10.493129,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.800355,
+      "lng": 10.493084,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.80621,
+      "lng": 10.493372,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.807061,
+      "lng": 10.494334,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: 2: Jochabfahrt;Abzweig 1:Talabfahrt Schöneben",
+      "lat": 46.805372,
+      "lng": 10.492355,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Jochabfahrt",
+      "lat": 46.796053,
+      "lng": 10.492632,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Talabfahrt Schöneben",
+      "lat": 46.806904,
+      "lng": 10.492459,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Talabfahrt Schöneben",
+      "lat": 46.807921,
+      "lng": 10.492883,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Schönebenabfahrt",
+      "lat": 46.796504,
+      "lng": 10.493934,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Schönebenabfahrt",
+      "lat": 46.797379,
+      "lng": 10.493939,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Schönebenabfahrt",
+      "lat": 46.800549,
+      "lng": 10.494271,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.787254,
+      "lng": 10.516416,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.783447,
+      "lng": 10.519042,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: Talabfahrt Haideralm",
+      "lat": 46.762505,
+      "lng": 10.523271,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Talabfahrt Haideralm",
+      "lat": 46.765344,
+      "lng": 10.530189,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: Talabfahrt Haideralm",
+      "lat": 46.765128,
+      "lng": 10.531423,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.762174,
+      "lng": 10.502749,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Höllental",
+      "lat": 46.79596,
+      "lng": 10.495313,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Höllental",
+      "lat": 46.799151,
+      "lng": 10.49957,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction: Höllental",
+      "lat": 46.800991,
+      "lng": 10.501541,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction: Höllental",
+      "lat": 46.801143,
+      "lng": 10.504772,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.799595,
+      "lng": 10.504322,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.787518,
+      "lng": 10.516217,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.782656,
+      "lng": 10.51958,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.773558,
+      "lng": 10.521646,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction: Erlebnisabfahrt Haideralm",
+      "lat": 46.772534,
+      "lng": 10.522438,
+      "type": "intersection"
+    },
+    {
+      "id": "node_71",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.762112,
+      "lng": 10.503953,
+      "type": "intersection"
+    },
+    {
+      "id": "node_72",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.761855,
+      "lng": 10.505012,
+      "type": "intersection"
+    },
+    {
+      "id": "node_73",
+      "name": "Junction: 2: Jochabfahrt",
+      "lat": 46.806926,
+      "lng": 10.494007,
+      "type": "intersection"
+    },
+    {
+      "id": "node_74",
+      "name": "Junction: Funpark",
+      "lat": 46.799117,
+      "lng": 10.492585,
+      "type": "intersection"
+    },
+    {
+      "id": "node_75",
+      "name": "Junction: Funpark",
+      "lat": 46.800624,
+      "lng": 10.491091,
+      "type": "intersection"
+    },
+    {
+      "id": "node_76",
+      "name": "Junction: Schönebenabfahrt",
+      "lat": 46.799583,
+      "lng": 10.492707,
+      "type": "intersection"
+    },
+    {
+      "id": "node_77",
+      "name": "Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "lat": 46.804715,
+      "lng": 10.490934,
+      "type": "intersection"
+    },
+    {
+      "id": "node_78",
+      "name": "Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "lat": 46.804617,
+      "lng": 10.49048,
+      "type": "intersection"
+    },
+    {
+      "id": "node_79",
+      "name": "Junction: Valatschabfahrt",
+      "lat": 46.762174,
+      "lng": 10.503617,
+      "type": "intersection"
+    },
+    {
+      "id": "node_80",
+      "name": "Junction #81",
+      "lat": 46.804485,
+      "lng": 10.492404,
+      "type": "intersection"
+    },
+    {
+      "id": "node_81",
+      "name": "Junction #82",
+      "lat": 46.800576,
+      "lng": 10.477956,
+      "type": "intersection"
+    },
+    {
+      "id": "node_82",
+      "name": "Junction #83",
+      "lat": 46.801039,
+      "lng": 10.47607,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_34714184",
+      "name": "Bergbahn Schöneben - Cabinovia Belpiano",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 2.27,
+      "duration": 6,
+      "elevation": 499,
+      "geometry": [
+        [
+          46.821702,
+          10.508844
+        ],
+        [
+          46.820976,
+          10.508101
+        ],
+        [
+          46.820516,
+          10.50763
+        ],
+        [
+          46.820181,
+          10.507288
+        ],
+        [
+          46.819098,
+          10.506179
+        ],
+        [
+          46.818362,
+          10.505425
+        ],
+        [
+          46.817443,
+          10.504484
+        ],
+        [
+          46.816857,
+          10.503884
+        ],
+        [
+          46.816472,
+          10.50349
+        ],
+        [
+          46.815751,
+          10.502752
+        ],
+        [
+          46.814865,
+          10.501845
+        ],
+        [
+          46.81397,
+          10.500929
+        ],
+        [
+          46.813182,
+          10.500122
+        ],
+        [
+          46.812971,
+          10.499906
+        ],
+        [
+          46.812154,
+          10.49907
+        ],
+        [
+          46.81091,
+          10.497797
+        ],
+        [
+          46.809748,
+          10.496607
+        ],
+        [
+          46.809058,
+          10.495901
+        ],
+        [
+          46.807946,
+          10.494763
+        ],
+        [
+          46.806937,
+          10.49373
+        ],
+        [
+          46.805918,
+          10.492687
+        ],
+        [
+          46.804973,
+          10.49172
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_34714185",
+      "name": "Jochbahn - Cabinovia Jochbahn",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.32,
+      "duration": 5,
+      "elevation": 290,
+      "geometry": [
+        [
+          46.80725,
+          10.494708
+        ],
+        [
+          46.807086,
+          10.494686
+        ],
+        [
+          46.807029,
+          10.494678
+        ],
+        [
+          46.806728,
+          10.494636
+        ],
+        [
+          46.805924,
+          10.494525
+        ],
+        [
+          46.80484,
+          10.494374
+        ],
+        [
+          46.803925,
+          10.494247
+        ],
+        [
+          46.803118,
+          10.494135
+        ],
+        [
+          46.802079,
+          10.493991
+        ],
+        [
+          46.800991,
+          10.49384
+        ],
+        [
+          46.799884,
+          10.493686
+        ],
+        [
+          46.798854,
+          10.493543
+        ],
+        [
+          46.797764,
+          10.493392
+        ],
+        [
+          46.796792,
+          10.493257
+        ],
+        [
+          46.79583,
+          10.493124
+        ],
+        [
+          46.795474,
+          10.493074
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_34714186",
+      "name": "Fraiten",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 1.01,
+      "duration": 4,
+      "elevation": 222,
+      "geometry": [
+        [
+          46.804198,
+          10.48787
+        ],
+        [
+          46.803424,
+          10.488218
+        ],
+        [
+          46.80242,
+          10.488668
+        ],
+        [
+          46.801604,
+          10.489034
+        ],
+        [
+          46.800809,
+          10.48939
+        ],
+        [
+          46.800035,
+          10.489737
+        ],
+        [
+          46.799354,
+          10.490042
+        ],
+        [
+          46.79839,
+          10.490474
+        ],
+        [
+          46.797573,
+          10.490841
+        ],
+        [
+          46.796717,
+          10.491224
+        ],
+        [
+          46.795474,
+          10.491781
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_34714187",
+      "name": "Rojensesselbahn - Seggiovia Rojen",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.3,
+      "duration": 5,
+      "elevation": 286,
+      "geometry": [
+        [
+          46.801185,
+          10.476381
+        ],
+        [
+          46.80108,
+          10.476578
+        ],
+        [
+          46.801031,
+          10.47667
+        ],
+        [
+          46.800859,
+          10.476993
+        ],
+        [
+          46.800312,
+          10.47802
+        ],
+        [
+          46.799892,
+          10.478808
+        ],
+        [
+          46.799423,
+          10.47969
+        ],
+        [
+          46.79878,
+          10.480897
+        ],
+        [
+          46.79801,
+          10.482342
+        ],
+        [
+          46.797446,
+          10.483401
+        ],
+        [
+          46.796925,
+          10.48438
+        ],
+        [
+          46.796501,
+          10.485176
+        ],
+        [
+          46.79583,
+          10.486436
+        ],
+        [
+          46.795037,
+          10.487925
+        ],
+        [
+          46.794229,
+          10.489442
+        ],
+        [
+          46.794012,
+          10.48985
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_34714188",
+      "name": "Zwölferkopfbahn – Seggiovia Zwölferkopf",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 1.09,
+      "duration": 4,
+      "elevation": 239,
+      "geometry": [
+        [
+          46.800984,
+          10.476213
+        ],
+        [
+          46.800882,
+          10.476253
+        ],
+        [
+          46.800821,
+          10.476277
+        ],
+        [
+          46.800562,
+          10.476379
+        ],
+        [
+          46.799877,
+          10.476648
+        ],
+        [
+          46.79947,
+          10.476809
+        ],
+        [
+          46.798748,
+          10.477093
+        ],
+        [
+          46.798326,
+          10.477259
+        ],
+        [
+          46.797656,
+          10.477523
+        ],
+        [
+          46.797248,
+          10.477683
+        ],
+        [
+          46.796353,
+          10.478036
+        ],
+        [
+          46.795202,
+          10.478489
+        ],
+        [
+          46.79405,
+          10.478942
+        ],
+        [
+          46.792884,
+          10.479401
+        ],
+        [
+          46.791706,
+          10.479864
+        ],
+        [
+          46.791494,
+          10.479948
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_176967484",
+      "name": "Bergbahn Haideralm",
+      "type": "lift",
+      "from": "node_9",
+      "to": "node_10",
+      "distance": 2.13,
+      "duration": 5,
+      "elevation": 468,
+      "geometry": [
+        [
+          46.765278,
+          10.53185
+        ],
+        [
+          46.765217,
+          10.531454
+        ],
+        [
+          46.765059,
+          10.530413
+        ],
+        [
+          46.764783,
+          10.528607
+        ],
+        [
+          46.764574,
+          10.527239
+        ],
+        [
+          46.764322,
+          10.52559
+        ],
+        [
+          46.764021,
+          10.523614
+        ],
+        [
+          46.763696,
+          10.521488
+        ],
+        [
+          46.763366,
+          10.519326
+        ],
+        [
+          46.763141,
+          10.51785
+        ],
+        [
+          46.76302,
+          10.517052
+        ],
+        [
+          46.762765,
+          10.515381
+        ],
+        [
+          46.762443,
+          10.513272
+        ],
+        [
+          46.762244,
+          10.511969
+        ],
+        [
+          46.762044,
+          10.510662
+        ],
+        [
+          46.761815,
+          10.509156
+        ],
+        [
+          46.761503,
+          10.507114
+        ],
+        [
+          46.761494,
+          10.507054
+        ],
+        [
+          46.761205,
+          10.505164
+        ],
+        [
+          46.76112,
+          10.504602
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_305032632",
+      "name": "Valatschlift",
+      "type": "lift",
+      "from": "node_11",
+      "to": "node_12",
+      "distance": 0.23,
+      "duration": 2,
+      "elevation": 50,
+      "geometry": [
+        [
+          46.762465,
+          10.504771
+        ],
+        [
+          46.762339,
+          10.502484
+        ],
+        [
+          46.762303,
+          10.501823
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_326639942",
+      "name": "Lift 326639942",
+      "type": "lift",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.08,
+      "duration": 2,
+      "elevation": 17,
+      "geometry": [
+        [
+          46.804754,
+          10.491315
+        ],
+        [
+          46.804148,
+          10.491964
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_326639943",
+      "name": "Lift 326639943",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.804146,
+          10.491891
+        ],
+        [
+          46.80439,
+          10.491334
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_326639944",
+      "name": "Lift 326639944",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 28,
+      "geometry": [
+        [
+          46.804157,
+          10.490958
+        ],
+        [
+          46.803848,
+          10.4911
+        ],
+        [
+          46.803074,
+          10.491454
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_326641566",
+      "name": "Lift 326641566",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          46.761389,
+          10.503988
+        ],
+        [
+          46.761678,
+          10.503426
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_622144578",
+      "name": "Höllental",
+      "type": "lift",
+      "from": "node_22",
+      "to": "node_23",
+      "distance": 1.32,
+      "duration": 3,
+      "elevation": 290,
+      "geometry": [
+        [
+          46.801419,
+          10.51052
+        ],
+        [
+          46.800958,
+          10.509347
+        ],
+        [
+          46.800331,
+          10.507751
+        ],
+        [
+          46.799467,
+          10.505554
+        ],
+        [
+          46.79813,
+          10.502153
+        ],
+        [
+          46.797207,
+          10.499806
+        ],
+        [
+          46.796195,
+          10.497233
+        ],
+        [
+          46.795763,
+          10.496134
+        ],
+        [
+          46.795525,
+          10.495529
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_622144579",
+      "name": "Haideralm – Schöneben",
+      "type": "lift",
+      "from": "node_24",
+      "to": "node_22",
+      "distance": 4.31,
+      "duration": 11,
+      "elevation": 948,
+      "geometry": [
+        [
+          46.765645,
+          10.530801
+        ],
+        [
+          46.766455,
+          10.52981
+        ],
+        [
+          46.768383,
+          10.527446
+        ],
+        [
+          46.770074,
+          10.525372
+        ],
+        [
+          46.771056,
+          10.524168
+        ],
+        [
+          46.772132,
+          10.522849
+        ],
+        [
+          46.772438,
+          10.522474
+        ],
+        [
+          46.773438,
+          10.52212
+        ],
+        [
+          46.775332,
+          10.521349
+        ],
+        [
+          46.777127,
+          10.520617
+        ],
+        [
+          46.779036,
+          10.51984
+        ],
+        [
+          46.780487,
+          10.519249
+        ],
+        [
+          46.781866,
+          10.518688
+        ],
+        [
+          46.783702,
+          10.51794
+        ],
+        [
+          46.785586,
+          10.517173
+        ],
+        [
+          46.787316,
+          10.516468
+        ],
+        [
+          46.788805,
+          10.515862
+        ],
+        [
+          46.790643,
+          10.515113
+        ],
+        [
+          46.792826,
+          10.514223
+        ],
+        [
+          46.793871,
+          10.513798
+        ],
+        [
+          46.795789,
+          10.513017
+        ],
+        [
+          46.798355,
+          10.511971
+        ],
+        [
+          46.801032,
+          10.510881
+        ],
+        [
+          46.801276,
+          10.510782
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_1464314589",
+      "name": "Lift 1464314589",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.06,
+      "duration": 2,
+      "elevation": 13,
+      "geometry": [
+        [
+          46.804283,
+          10.492325
+        ],
+        [
+          46.803925,
+          10.492909
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_34714189_2",
+      "name": "Zwölferkopf II",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_26",
+      "distance": 1.18,
+      "duration": 2,
+      "elevation": -188,
+      "geometry": [
+        [
+          46.791368,
+          10.479739
+        ],
+        [
+          46.791415,
+          10.479535
+        ],
+        [
+          46.791561,
+          10.479429
+        ],
+        [
+          46.791784,
+          10.479365
+        ],
+        [
+          46.792117,
+          10.479382
+        ],
+        [
+          46.792563,
+          10.479469
+        ],
+        [
+          46.792814,
+          10.479604
+        ],
+        [
+          46.793132,
+          10.479648
+        ],
+        [
+          46.793615,
+          10.479465
+        ],
+        [
+          46.79412,
+          10.479304
+        ],
+        [
+          46.794537,
+          10.479136
+        ],
+        [
+          46.794983,
+          10.47888
+        ],
+        [
+          46.795575,
+          10.478587
+        ],
+        [
+          46.795919,
+          10.478609
+        ],
+        [
+          46.796358,
+          10.478434
+        ],
+        [
+          46.796585,
+          10.478126
+        ],
+        [
+          46.796841,
+          10.477695
+        ],
+        [
+          46.79728,
+          10.477183
+        ],
+        [
+          46.797572,
+          10.477007
+        ],
+        [
+          46.797894,
+          10.476978
+        ],
+        [
+          46.798201,
+          10.477029
+        ],
+        [
+          46.798341,
+          10.477066
+        ],
+        [
+          46.798597,
+          10.47741
+        ],
+        [
+          46.79886,
+          10.477644
+        ],
+        [
+          46.799226,
+          10.477746
+        ],
+        [
+          46.799628,
+          10.47768
+        ],
+        [
+          46.800235,
+          10.477417
+        ],
+        [
+          46.800586,
+          10.477341
+        ],
+        [
+          46.80113,
+          10.477235
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714189_3",
+      "name": "Zwölferkopf II",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_6",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.80113,
+          10.477235
+        ],
+        [
+          46.80131,
+          10.476906
+        ],
+        [
+          46.801373,
+          10.476536
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_1",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_27",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.79409,
+          10.489948
+        ],
+        [
+          46.795583,
+          10.489788
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_2",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_28",
+      "distance": 0.46,
+      "duration": 1,
+      "elevation": -73,
+      "geometry": [
+        [
+          46.795583,
+          10.489788
+        ],
+        [
+          46.796663,
+          10.48825
+        ],
+        [
+          46.797712,
+          10.487013
+        ],
+        [
+          46.79801,
+          10.486613
+        ],
+        [
+          46.798764,
+          10.485933
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_3",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.798764,
+          10.485933
+        ],
+        [
+          46.799027,
+          10.48496
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_4",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_30",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.799027,
+          10.48496
+        ],
+        [
+          46.799173,
+          10.483944
+        ],
+        [
+          46.799494,
+          10.482693
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_5",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.33,
+      "duration": 1,
+      "elevation": -52,
+      "geometry": [
+        [
+          46.799494,
+          10.482693
+        ],
+        [
+          46.799601,
+          10.482251
+        ],
+        [
+          46.799545,
+          10.48164
+        ],
+        [
+          46.799525,
+          10.481179
+        ],
+        [
+          46.799896,
+          10.479741
+        ],
+        [
+          46.800402,
+          10.478662
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714191_7",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_26",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.800569,
+          10.478332
+        ],
+        [
+          46.80113,
+          10.477235
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714192_0",
+      "name": "Rojenabfahrt",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_32",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.798764,
+          10.485933
+        ],
+        [
+          46.799303,
+          10.485629
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714192_2",
+      "name": "Rojenabfahrt",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_33",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.799416,
+          10.485413
+        ],
+        [
+          46.799619,
+          10.484929
+        ],
+        [
+          46.79994,
+          10.484063
+        ],
+        [
+          46.800208,
+          10.482976
+        ],
+        [
+          46.800202,
+          10.482293
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714192_3",
+      "name": "Rojenabfahrt",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_26",
+      "distance": 0.41,
+      "duration": 1,
+      "elevation": -65,
+      "geometry": [
+        [
+          46.800202,
+          10.482293
+        ],
+        [
+          46.800207,
+          10.481713
+        ],
+        [
+          46.80028,
+          10.481064
+        ],
+        [
+          46.800551,
+          10.48051
+        ],
+        [
+          46.800787,
+          10.480013
+        ],
+        [
+          46.800994,
+          10.479387
+        ],
+        [
+          46.801033,
+          10.478502
+        ],
+        [
+          46.80113,
+          10.477235
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714192_4",
+      "name": "Rojenabfahrt",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_6",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.80113,
+          10.477235
+        ],
+        [
+          46.801252,
+          10.476832
+        ],
+        [
+          46.801304,
+          10.476525
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_34714193_1",
+      "name": "Zehnerabfahrt",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_34",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.795385,
+          10.491509
+        ],
+        [
+          46.796715,
+          10.490425
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714193_2",
+      "name": "Zehnerabfahrt",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.796715,
+          10.490425
+        ],
+        [
+          46.799132,
+          10.48955
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714193_3",
+      "name": "Zehnerabfahrt",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_36",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.799132,
+          10.48955
+        ],
+        [
+          46.799597,
+          10.489506
+        ],
+        [
+          46.800025,
+          10.489419
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714193_5",
+      "name": "Zehnerabfahrt",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_4",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          46.800191,
+          10.48925
+        ],
+        [
+          46.802332,
+          10.488316
+        ],
+        [
+          46.803519,
+          10.487996
+        ],
+        [
+          46.804153,
+          10.488178
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714194_1",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.795477,
+          10.491992
+        ],
+        [
+          46.795636,
+          10.492215
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_2",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_38",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.795636,
+          10.492215
+        ],
+        [
+          46.796036,
+          10.4921
+        ],
+        [
+          46.797093,
+          10.491658
+        ],
+        [
+          46.799079,
+          10.490729
+        ],
+        [
+          46.799935,
+          10.490389
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_3",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_39",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.799935,
+          10.490389
+        ],
+        [
+          46.800769,
+          10.490059
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_4",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_40",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.800769,
+          10.490059
+        ],
+        [
+          46.801749,
+          10.489693
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_5",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.801749,
+          10.489693
+        ],
+        [
+          46.802465,
+          10.489386
+        ],
+        [
+          46.803156,
+          10.489057
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_6",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.803156,
+          10.489057
+        ],
+        [
+          46.803937,
+          10.488686
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714194_7",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_4",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.803937,
+          10.488686
+        ],
+        [
+          46.804153,
+          10.488178
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714195_0",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.24,
+      "duration": 1,
+      "elevation": -38,
+      "geometry": [
+        [
+          46.797648,
+          10.492973
+        ],
+        [
+          46.798519,
+          10.493119
+        ],
+        [
+          46.799826,
+          10.493098
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714195_3",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.800096,
+          10.493091
+        ],
+        [
+          46.800355,
+          10.493084
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714195_4",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_25",
+      "distance": 0.44,
+      "duration": 1,
+      "elevation": -70,
+      "geometry": [
+        [
+          46.800355,
+          10.493084
+        ],
+        [
+          46.801576,
+          10.493568
+        ],
+        [
+          46.802259,
+          10.493676
+        ],
+        [
+          46.803216,
+          10.493649
+        ],
+        [
+          46.804155,
+          10.493089
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714195_5",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_46",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          46.804155,
+          10.493089
+        ],
+        [
+          46.805787,
+          10.493391
+        ],
+        [
+          46.806191,
+          10.493382
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714195_7",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_47",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.806361,
+          10.493521
+        ],
+        [
+          46.806769,
+          10.494044
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714196_0",
+      "name": "2: Jochabfahrt;Abzweig 1:Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_48",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.804155,
+          10.493089
+        ],
+        [
+          46.805239,
+          10.49244
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714198_1",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.795826,
+          10.492404
+        ],
+        [
+          46.796053,
+          10.492632
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714198_2",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_43",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.796053,
+          10.492632
+        ],
+        [
+          46.796595,
+          10.4928
+        ],
+        [
+          46.797173,
+          10.492866
+        ],
+        [
+          46.797648,
+          10.492973
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714199_0",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_3",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          46.79409,
+          10.489948
+        ],
+        [
+          46.794513,
+          10.491409
+        ],
+        [
+          46.794999,
+          10.492227
+        ],
+        [
+          46.795599,
+          10.492695
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714199_1",
+      "name": "Jochabfahrt",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_49",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.795599,
+          10.492695
+        ],
+        [
+          46.796053,
+          10.492632
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34714200_0",
+      "name": "Zehnerabfahrt",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_34",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.795583,
+          10.489788
+        ],
+        [
+          46.796071,
+          10.490349
+        ],
+        [
+          46.796715,
+          10.490425
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714202_2",
+      "name": "Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.807176,
+          10.492482
+        ],
+        [
+          46.807609,
+          10.492769
+        ],
+        [
+          46.807921,
+          10.492883
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34714202_3",
+      "name": "Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_0",
+      "distance": 3.08,
+      "duration": 5,
+      "elevation": -492,
+      "geometry": [
+        [
+          46.807921,
+          10.492883
+        ],
+        [
+          46.808795,
+          10.493123
+        ],
+        [
+          46.809015,
+          10.493054
+        ],
+        [
+          46.809278,
+          10.492826
+        ],
+        [
+          46.810341,
+          10.49246
+        ],
+        [
+          46.810832,
+          10.492688
+        ],
+        [
+          46.81225,
+          10.494312
+        ],
+        [
+          46.812672,
+          10.49454
+        ],
+        [
+          46.813553,
+          10.494392
+        ],
+        [
+          46.814071,
+          10.494392
+        ],
+        [
+          46.814589,
+          10.494617
+        ],
+        [
+          46.814828,
+          10.495061
+        ],
+        [
+          46.814972,
+          10.495333
+        ],
+        [
+          46.81529,
+          10.49577
+        ],
+        [
+          46.815688,
+          10.496065
+        ],
+        [
+          46.815917,
+          10.49648
+        ],
+        [
+          46.815987,
+          10.496686
+        ],
+        [
+          46.816061,
+          10.496897
+        ],
+        [
+          46.816144,
+          10.497149
+        ],
+        [
+          46.816303,
+          10.497236
+        ],
+        [
+          46.816601,
+          10.497085
+        ],
+        [
+          46.816957,
+          10.496887
+        ],
+        [
+          46.817233,
+          10.496729
+        ],
+        [
+          46.817943,
+          10.496199
+        ],
+        [
+          46.818309,
+          10.496107
+        ],
+        [
+          46.818467,
+          10.49614
+        ],
+        [
+          46.818661,
+          10.4963
+        ],
+        [
+          46.818821,
+          10.496552
+        ],
+        [
+          46.819081,
+          10.49687
+        ],
+        [
+          46.819384,
+          10.497171
+        ],
+        [
+          46.819474,
+          10.497588
+        ],
+        [
+          46.819499,
+          10.498092
+        ],
+        [
+          46.819362,
+          10.498625
+        ],
+        [
+          46.819217,
+          10.49916
+        ],
+        [
+          46.81909,
+          10.499703
+        ],
+        [
+          46.818957,
+          10.500636
+        ],
+        [
+          46.818947,
+          10.501386
+        ],
+        [
+          46.81892,
+          10.50185
+        ],
+        [
+          46.818741,
+          10.502586
+        ],
+        [
+          46.81857,
+          10.503375
+        ],
+        [
+          46.818524,
+          10.504552
+        ],
+        [
+          46.818444,
+          10.505124
+        ],
+        [
+          46.818367,
+          10.505698
+        ],
+        [
+          46.818307,
+          10.506164
+        ],
+        [
+          46.818406,
+          10.506772
+        ],
+        [
+          46.818581,
+          10.507261
+        ],
+        [
+          46.818836,
+          10.507721
+        ],
+        [
+          46.818977,
+          10.508096
+        ],
+        [
+          46.818955,
+          10.508689
+        ],
+        [
+          46.818621,
+          10.509306
+        ],
+        [
+          46.818353,
+          10.51005
+        ],
+        [
+          46.818284,
+          10.510393
+        ],
+        [
+          46.81823,
+          10.511541
+        ],
+        [
+          46.81835,
+          10.511777
+        ],
+        [
+          46.818566,
+          10.511714
+        ],
+        [
+          46.819358,
+          10.511432
+        ],
+        [
+          46.819457,
+          10.511384
+        ],
+        [
+          46.819801,
+          10.511145
+        ],
+        [
+          46.820322,
+          10.510706
+        ],
+        [
+          46.820741,
+          10.510245
+        ],
+        [
+          46.820895,
+          10.510061
+        ],
+        [
+          46.820989,
+          10.509911
+        ],
+        [
+          46.821165,
+          10.509583
+        ],
+        [
+          46.821282,
+          10.509413
+        ],
+        [
+          46.821667,
+          10.509181
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_34749190_0",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_52",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.795474,
+          10.493074
+        ],
+        [
+          46.796504,
+          10.493934
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34749190_1",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": -16,
+      "geometry": [
+        [
+          46.796504,
+          10.493934
+        ],
+        [
+          46.797379,
+          10.493939
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34749190_2",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_54",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          46.797379,
+          10.493939
+        ],
+        [
+          46.799592,
+          10.494212
+        ],
+        [
+          46.800549,
+          10.494271
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_34749190_3",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_47",
+      "distance": 0.73,
+      "duration": 1,
+      "elevation": -116,
+      "geometry": [
+        [
+          46.800549,
+          10.494271
+        ],
+        [
+          46.801133,
+          10.494503
+        ],
+        [
+          46.802557,
+          10.494875
+        ],
+        [
+          46.803382,
+          10.494918
+        ],
+        [
+          46.804186,
+          10.4949
+        ],
+        [
+          46.805326,
+          10.494405
+        ],
+        [
+          46.805766,
+          10.494457
+        ],
+        [
+          46.806128,
+          10.494451
+        ],
+        [
+          46.806286,
+          10.494384
+        ],
+        [
+          46.806484,
+          10.494294
+        ],
+        [
+          46.806687,
+          10.494366
+        ],
+        [
+          46.806976,
+          10.494153
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_76845930_1",
+      "name": "Piste 76845930",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          46.787151,
+          10.516471
+        ],
+        [
+          46.786938,
+          10.51659
+        ],
+        [
+          46.786728,
+          10.516644
+        ],
+        [
+          46.786372,
+          10.516899
+        ],
+        [
+          46.786262,
+          10.517026
+        ],
+        [
+          46.786153,
+          10.517262
+        ],
+        [
+          46.786057,
+          10.517414
+        ],
+        [
+          46.785858,
+          10.517648
+        ],
+        [
+          46.785751,
+          10.517805
+        ],
+        [
+          46.78562,
+          10.517944
+        ],
+        [
+          46.785429,
+          10.518088
+        ],
+        [
+          46.785238,
+          10.518181
+        ],
+        [
+          46.785035,
+          10.518244
+        ],
+        [
+          46.784868,
+          10.518365
+        ],
+        [
+          46.784779,
+          10.518446
+        ],
+        [
+          46.78462,
+          10.518415
+        ],
+        [
+          46.784499,
+          10.518398
+        ],
+        [
+          46.784364,
+          10.518468
+        ],
+        [
+          46.784211,
+          10.518578
+        ],
+        [
+          46.784023,
+          10.518683
+        ],
+        [
+          46.783889,
+          10.518764
+        ],
+        [
+          46.783808,
+          10.518822
+        ],
+        [
+          46.78358,
+          10.518991
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_244840614_2",
+      "name": "Talabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_57",
+      "distance": 2.25,
+      "duration": 3,
+      "elevation": -360,
+      "geometry": [
+        [
+          46.761251,
+          10.50493
+        ],
+        [
+          46.761098,
+          10.505385
+        ],
+        [
+          46.760895,
+          10.505647
+        ],
+        [
+          46.760687,
+          10.506059
+        ],
+        [
+          46.760662,
+          10.50639
+        ],
+        [
+          46.760757,
+          10.506575
+        ],
+        [
+          46.76096,
+          10.506945
+        ],
+        [
+          46.761394,
+          10.508157
+        ],
+        [
+          46.761532,
+          10.508539
+        ],
+        [
+          46.761688,
+          10.508909
+        ],
+        [
+          46.761662,
+          10.509196
+        ],
+        [
+          46.761599,
+          10.509383
+        ],
+        [
+          46.761505,
+          10.509578
+        ],
+        [
+          46.761402,
+          10.509731
+        ],
+        [
+          46.760994,
+          10.51012
+        ],
+        [
+          46.760868,
+          10.51044
+        ],
+        [
+          46.76054,
+          10.51134
+        ],
+        [
+          46.760238,
+          10.511855
+        ],
+        [
+          46.760118,
+          10.512194
+        ],
+        [
+          46.76009,
+          10.512355
+        ],
+        [
+          46.760126,
+          10.512433
+        ],
+        [
+          46.7602,
+          10.512424
+        ],
+        [
+          46.760398,
+          10.512323
+        ],
+        [
+          46.760642,
+          10.512261
+        ],
+        [
+          46.761203,
+          10.51228
+        ],
+        [
+          46.761437,
+          10.512462
+        ],
+        [
+          46.761506,
+          10.512752
+        ],
+        [
+          46.761491,
+          10.513006
+        ],
+        [
+          46.761427,
+          10.513237
+        ],
+        [
+          46.761346,
+          10.513455
+        ],
+        [
+          46.761154,
+          10.513798
+        ],
+        [
+          46.760985,
+          10.51409
+        ],
+        [
+          46.760467,
+          10.514516
+        ],
+        [
+          46.759977,
+          10.515166
+        ],
+        [
+          46.759363,
+          10.515536
+        ],
+        [
+          46.759282,
+          10.515741
+        ],
+        [
+          46.759337,
+          10.516045
+        ],
+        [
+          46.759402,
+          10.516229
+        ],
+        [
+          46.759696,
+          10.516382
+        ],
+        [
+          46.760179,
+          10.516585
+        ],
+        [
+          46.760934,
+          10.517066
+        ],
+        [
+          46.761598,
+          10.517064
+        ],
+        [
+          46.761694,
+          10.517276
+        ],
+        [
+          46.761511,
+          10.518434
+        ],
+        [
+          46.761656,
+          10.518628
+        ],
+        [
+          46.76205,
+          10.518683
+        ],
+        [
+          46.762681,
+          10.519041
+        ],
+        [
+          46.763138,
+          10.519578
+        ],
+        [
+          46.763402,
+          10.520182
+        ],
+        [
+          46.763861,
+          10.521457
+        ],
+        [
+          46.763968,
+          10.522424
+        ],
+        [
+          46.763711,
+          10.5231
+        ],
+        [
+          46.763204,
+          10.523153
+        ],
+        [
+          46.762616,
+          10.523078
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_244840614_5",
+      "name": "Talabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_58",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          46.76253,
+          10.523504
+        ],
+        [
+          46.76279,
+          10.524222
+        ],
+        [
+          46.763019,
+          10.525144
+        ],
+        [
+          46.763967,
+          10.526041
+        ],
+        [
+          46.764596,
+          10.526617
+        ],
+        [
+          46.765027,
+          10.527282
+        ],
+        [
+          46.765468,
+          10.528675
+        ],
+        [
+          46.765407,
+          10.529539
+        ],
+        [
+          46.765326,
+          10.530092
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_244840614_6",
+      "name": "Talabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_59",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.765326,
+          10.530092
+        ],
+        [
+          46.765155,
+          10.53126
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_584687463_2",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_21",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.762073,
+          10.502941
+        ],
+        [
+          46.761917,
+          10.50334
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_641547334_0",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_61",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.795474,
+          10.493074
+        ],
+        [
+          46.79596,
+          10.495313
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_641547334_1",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_62",
+      "distance": 0.51,
+      "duration": 1,
+      "elevation": -81,
+      "geometry": [
+        [
+          46.79596,
+          10.495313
+        ],
+        [
+          46.796405,
+          10.496225
+        ],
+        [
+          46.796666,
+          10.496761
+        ],
+        [
+          46.797688,
+          10.499078
+        ],
+        [
+          46.798434,
+          10.49949
+        ],
+        [
+          46.799151,
+          10.49957
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_641547334_2",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_63",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          46.799151,
+          10.49957
+        ],
+        [
+          46.799856,
+          10.500222
+        ],
+        [
+          46.800561,
+          10.500873
+        ],
+        [
+          46.800991,
+          10.501541
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_641547334_3",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_64",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.800991,
+          10.501541
+        ],
+        [
+          46.801066,
+          10.502239
+        ],
+        [
+          46.801008,
+          10.504076
+        ],
+        [
+          46.801143,
+          10.504772
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_641547334_4",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_22",
+      "distance": 0.5,
+      "duration": 1,
+      "elevation": -80,
+      "geometry": [
+        [
+          46.801143,
+          10.504772
+        ],
+        [
+          46.801353,
+          10.50515
+        ],
+        [
+          46.801593,
+          10.505552
+        ],
+        [
+          46.801817,
+          10.506233
+        ],
+        [
+          46.801918,
+          10.507008
+        ],
+        [
+          46.801526,
+          10.508336
+        ],
+        [
+          46.801443,
+          10.508845
+        ],
+        [
+          46.801441,
+          10.509389
+        ],
+        [
+          46.801773,
+          10.51038
+        ],
+        [
+          46.801592,
+          10.510565
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_659916230_0",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_65",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          46.800991,
+          10.501541
+        ],
+        [
+          46.800936,
+          10.502023
+        ],
+        [
+          46.80085,
+          10.502265
+        ],
+        [
+          46.800706,
+          10.50252
+        ],
+        [
+          46.800546,
+          10.502732
+        ],
+        [
+          46.800333,
+          10.502876
+        ],
+        [
+          46.800165,
+          10.503088
+        ],
+        [
+          46.800074,
+          10.503266
+        ],
+        [
+          46.799937,
+          10.503422
+        ],
+        [
+          46.799784,
+          10.503689
+        ],
+        [
+          46.799586,
+          10.503911
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_3",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_66",
+      "distance": 1.71,
+      "duration": 3,
+      "elevation": -273,
+      "geometry": [
+        [
+          46.799416,
+          10.504447
+        ],
+        [
+          46.799086,
+          10.505169
+        ],
+        [
+          46.799,
+          10.505373
+        ],
+        [
+          46.798917,
+          10.505442
+        ],
+        [
+          46.798842,
+          10.505506
+        ],
+        [
+          46.798755,
+          10.505537
+        ],
+        [
+          46.79862,
+          10.505639
+        ],
+        [
+          46.798394,
+          10.50577
+        ],
+        [
+          46.798141,
+          10.505851
+        ],
+        [
+          46.797606,
+          10.505862
+        ],
+        [
+          46.79751,
+          10.505796
+        ],
+        [
+          46.797172,
+          10.505986
+        ],
+        [
+          46.797077,
+          10.506065
+        ],
+        [
+          46.79701,
+          10.506152
+        ],
+        [
+          46.796503,
+          10.507521
+        ],
+        [
+          46.796419,
+          10.5078
+        ],
+        [
+          46.796347,
+          10.507966
+        ],
+        [
+          46.796214,
+          10.508144
+        ],
+        [
+          46.796117,
+          10.508223
+        ],
+        [
+          46.796048,
+          10.508249
+        ],
+        [
+          46.795984,
+          10.508255
+        ],
+        [
+          46.795696,
+          10.508178
+        ],
+        [
+          46.795594,
+          10.508187
+        ],
+        [
+          46.795372,
+          10.508244
+        ],
+        [
+          46.795274,
+          10.508316
+        ],
+        [
+          46.794881,
+          10.508768
+        ],
+        [
+          46.794682,
+          10.509002
+        ],
+        [
+          46.794303,
+          10.509587
+        ],
+        [
+          46.794144,
+          10.509741
+        ],
+        [
+          46.793943,
+          10.510034
+        ],
+        [
+          46.793805,
+          10.510445
+        ],
+        [
+          46.793643,
+          10.511043
+        ],
+        [
+          46.793238,
+          10.51188
+        ],
+        [
+          46.793108,
+          10.512114
+        ],
+        [
+          46.792994,
+          10.512237
+        ],
+        [
+          46.792861,
+          10.512376
+        ],
+        [
+          46.792751,
+          10.512385
+        ],
+        [
+          46.792378,
+          10.51241
+        ],
+        [
+          46.792212,
+          10.512433
+        ],
+        [
+          46.792083,
+          10.512501
+        ],
+        [
+          46.791969,
+          10.512607
+        ],
+        [
+          46.791835,
+          10.51278
+        ],
+        [
+          46.791633,
+          10.513246
+        ],
+        [
+          46.791562,
+          10.513349
+        ],
+        [
+          46.791533,
+          10.513379
+        ],
+        [
+          46.791417,
+          10.513499
+        ],
+        [
+          46.791332,
+          10.51363
+        ],
+        [
+          46.791214,
+          10.513794
+        ],
+        [
+          46.791133,
+          10.513865
+        ],
+        [
+          46.790827,
+          10.514038
+        ],
+        [
+          46.790525,
+          10.514131
+        ],
+        [
+          46.79032,
+          10.514268
+        ],
+        [
+          46.789654,
+          10.514633
+        ],
+        [
+          46.789442,
+          10.514782
+        ],
+        [
+          46.789073,
+          10.514961
+        ],
+        [
+          46.788857,
+          10.515036
+        ],
+        [
+          46.788714,
+          10.515109
+        ],
+        [
+          46.788597,
+          10.515197
+        ],
+        [
+          46.788351,
+          10.515446
+        ],
+        [
+          46.787934,
+          10.516
+        ],
+        [
+          46.787851,
+          10.5161
+        ],
+        [
+          46.787518,
+          10.516217
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_4",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_55",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.787518,
+          10.516217
+        ],
+        [
+          46.787379,
+          10.516351
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_7",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.45,
+      "duration": 1,
+      "elevation": -72,
+      "geometry": [
+        [
+          46.787151,
+          10.516471
+        ],
+        [
+          46.786938,
+          10.51659
+        ],
+        [
+          46.786728,
+          10.516644
+        ],
+        [
+          46.786372,
+          10.516899
+        ],
+        [
+          46.786262,
+          10.517026
+        ],
+        [
+          46.786153,
+          10.517262
+        ],
+        [
+          46.786057,
+          10.517414
+        ],
+        [
+          46.785858,
+          10.517648
+        ],
+        [
+          46.785751,
+          10.517805
+        ],
+        [
+          46.78562,
+          10.517944
+        ],
+        [
+          46.785429,
+          10.518088
+        ],
+        [
+          46.785238,
+          10.518181
+        ],
+        [
+          46.785035,
+          10.518244
+        ],
+        [
+          46.784868,
+          10.518365
+        ],
+        [
+          46.784779,
+          10.518446
+        ],
+        [
+          46.78462,
+          10.518415
+        ],
+        [
+          46.784499,
+          10.518398
+        ],
+        [
+          46.784364,
+          10.518468
+        ],
+        [
+          46.784211,
+          10.518578
+        ],
+        [
+          46.784023,
+          10.518683
+        ],
+        [
+          46.783889,
+          10.518764
+        ],
+        [
+          46.783808,
+          10.518822
+        ],
+        [
+          46.78358,
+          10.518991
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_10",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_67",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.783281,
+          10.519132
+        ],
+        [
+          46.783084,
+          10.519195
+        ],
+        [
+          46.782877,
+          10.519391
+        ],
+        [
+          46.782749,
+          10.519513
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_13",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_68",
+      "distance": 1.04,
+      "duration": 2,
+      "elevation": -166,
+      "geometry": [
+        [
+          46.782568,
+          10.519652
+        ],
+        [
+          46.782295,
+          10.519999
+        ],
+        [
+          46.78201,
+          10.520247
+        ],
+        [
+          46.781697,
+          10.520429
+        ],
+        [
+          46.781192,
+          10.520658
+        ],
+        [
+          46.78099,
+          10.520728
+        ],
+        [
+          46.780817,
+          10.520714
+        ],
+        [
+          46.780629,
+          10.520602
+        ],
+        [
+          46.780363,
+          10.520429
+        ],
+        [
+          46.78005,
+          10.520326
+        ],
+        [
+          46.779689,
+          10.52027
+        ],
+        [
+          46.779398,
+          10.520247
+        ],
+        [
+          46.778961,
+          10.520272
+        ],
+        [
+          46.778507,
+          10.520211
+        ],
+        [
+          46.778189,
+          10.520111
+        ],
+        [
+          46.777863,
+          10.519998
+        ],
+        [
+          46.777581,
+          10.520003
+        ],
+        [
+          46.777153,
+          10.520143
+        ],
+        [
+          46.776795,
+          10.520171
+        ],
+        [
+          46.776158,
+          10.520061
+        ],
+        [
+          46.774969,
+          10.520502
+        ],
+        [
+          46.774259,
+          10.520873
+        ],
+        [
+          46.77368,
+          10.521528
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916230_15",
+      "name": "Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_69",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          46.773476,
+          10.521724
+        ],
+        [
+          46.77302,
+          10.522094
+        ],
+        [
+          46.77252,
+          10.522172
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916231_0",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_52",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.79596,
+          10.495313
+        ],
+        [
+          46.796504,
+          10.493934
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_659916232_0",
+      "name": "12: Erlebnisabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_69",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.773476,
+          10.521724
+        ],
+        [
+          46.773237,
+          10.52224
+        ],
+        [
+          46.772643,
+          10.522669
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_669540179_1",
+      "name": "2: Jochabfahrt",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.805189,
+          10.491559
+        ],
+        [
+          46.804872,
+          10.491551
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_669540179_2",
+      "name": "2: Jochabfahrt",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_48",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.805189,
+          10.491559
+        ],
+        [
+          46.805275,
+          10.491632
+        ],
+        [
+          46.805258,
+          10.491962
+        ],
+        [
+          46.805267,
+          10.492161
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1036043492_1",
+      "name": "Piste 1036043492",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_67",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.783281,
+          10.519132
+        ],
+        [
+          46.783084,
+          10.519195
+        ],
+        [
+          46.782877,
+          10.519391
+        ],
+        [
+          46.782749,
+          10.519513
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1054180971_1",
+      "name": "10:Talabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_24",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.76537,
+          10.530334
+        ],
+        [
+          46.76541,
+          10.53052
+        ],
+        [
+          46.765561,
+          10.530791
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752056_0",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_27",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.795385,
+          10.491509
+        ],
+        [
+          46.795583,
+          10.489788
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1130752057_0",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_29",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.799303,
+          10.485629
+        ],
+        [
+          46.799027,
+          10.48496
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1130752058_0",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_32",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          46.800025,
+          10.489419
+        ],
+        [
+          46.799896,
+          10.487906
+        ],
+        [
+          46.799867,
+          10.487353
+        ],
+        [
+          46.799848,
+          10.48712
+        ],
+        [
+          46.799857,
+          10.486812
+        ],
+        [
+          46.799837,
+          10.486588
+        ],
+        [
+          46.799799,
+          10.486452
+        ],
+        [
+          46.799632,
+          10.486153
+        ],
+        [
+          46.799514,
+          10.485968
+        ],
+        [
+          46.799303,
+          10.485629
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752061_0",
+      "name": "Hütteltal",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_36",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.799935,
+          10.490389
+        ],
+        [
+          46.800025,
+          10.489419
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752067_0",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761678,
+          10.503426
+        ],
+        [
+          46.761484,
+          10.504
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752068_3",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_71",
+      "to": "node_72",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.76207,
+          10.504125
+        ],
+        [
+          46.761981,
+          10.504716
+        ],
+        [
+          46.761955,
+          10.504805
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752068_10",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_72",
+      "to": "node_11",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761957,
+          10.50502
+        ],
+        [
+          46.762082,
+          10.504919
+        ],
+        [
+          46.762226,
+          10.504861
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752071_2",
+      "name": "Hölltentl",
+      "type": "slope",
+      "from": "node_65",
+      "to": "node_64",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.799818,
+          10.504397
+        ],
+        [
+          46.800197,
+          10.504395
+        ],
+        [
+          46.800441,
+          10.504407
+        ],
+        [
+          46.80062,
+          10.504433
+        ],
+        [
+          46.800834,
+          10.504487
+        ],
+        [
+          46.801143,
+          10.504772
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752074_0",
+      "name": "Höllental",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_62",
+      "distance": 0.69,
+      "duration": 1,
+      "elevation": -110,
+      "geometry": [
+        [
+          46.797379,
+          10.493939
+        ],
+        [
+          46.797915,
+          10.494356
+        ],
+        [
+          46.799327,
+          10.494855
+        ],
+        [
+          46.799853,
+          10.495413
+        ],
+        [
+          46.800306,
+          10.496385
+        ],
+        [
+          46.800348,
+          10.496742
+        ],
+        [
+          46.800336,
+          10.497194
+        ],
+        [
+          46.800197,
+          10.497534
+        ],
+        [
+          46.799873,
+          10.497934
+        ],
+        [
+          46.79973,
+          10.498087
+        ],
+        [
+          46.799582,
+          10.498223
+        ],
+        [
+          46.799423,
+          10.498391
+        ],
+        [
+          46.799308,
+          10.498648
+        ],
+        [
+          46.799253,
+          10.498872
+        ],
+        [
+          46.799182,
+          10.499104
+        ],
+        [
+          46.799151,
+          10.49957
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752079_2",
+      "name": "2: Jochabfahrt",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_48",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.804781,
+          10.491915
+        ],
+        [
+          46.804994,
+          10.492211
+        ],
+        [
+          46.805239,
+          10.49244
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752080_0",
+      "name": "2: Jochabfahrt",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_46",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.805529,
+          10.492417
+        ],
+        [
+          46.805772,
+          10.492728
+        ],
+        [
+          46.806096,
+          10.493202
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752081_2",
+      "name": "2: Jochabfahrt",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_73",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": -14,
+      "geometry": [
+        [
+          46.806765,
+          10.492675
+        ],
+        [
+          46.806771,
+          10.492783
+        ],
+        [
+          46.806778,
+          10.492904
+        ],
+        [
+          46.806771,
+          10.49304
+        ],
+        [
+          46.806799,
+          10.493408
+        ],
+        [
+          46.806876,
+          10.493861
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752082_0",
+      "name": "1: Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_50",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          46.806191,
+          10.493382
+        ],
+        [
+          46.806468,
+          10.493107
+        ],
+        [
+          46.806642,
+          10.492918
+        ],
+        [
+          46.806771,
+          10.492783
+        ],
+        [
+          46.806839,
+          10.492739
+        ],
+        [
+          46.807051,
+          10.492471
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752083_0",
+      "name": "2: Jochabfahrt;Abzweig 1: Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_50",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.805529,
+          10.492417
+        ],
+        [
+          46.805998,
+          10.49238
+        ],
+        [
+          46.806679,
+          10.492332
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752084_0",
+      "name": "Talabfahrt Schöneben",
+      "type": "slope",
+      "from": "node_73",
+      "to": "node_51",
+      "distance": 0.15,
+      "duration": 1,
+      "elevation": -24,
+      "geometry": [
+        [
+          46.806976,
+          10.494153
+        ],
+        [
+          46.807152,
+          10.49369
+        ],
+        [
+          46.807576,
+          10.493039
+        ],
+        [
+          46.807921,
+          10.492883
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752092_0",
+      "name": "Funpark",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_43",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          46.796053,
+          10.492632
+        ],
+        [
+          46.796624,
+          10.492571
+        ],
+        [
+          46.796836,
+          10.492517
+        ],
+        [
+          46.796942,
+          10.492671
+        ],
+        [
+          46.797169,
+          10.492653
+        ],
+        [
+          46.797387,
+          10.492621
+        ],
+        [
+          46.79758,
+          10.492614
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752092_3",
+      "name": "Funpark",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_74",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.797869,
+          10.492771
+        ],
+        [
+          46.798278,
+          10.492811
+        ],
+        [
+          46.798513,
+          10.492736
+        ],
+        [
+          46.798814,
+          10.492682
+        ],
+        [
+          46.799117,
+          10.492585
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752094_0",
+      "name": "Funpark",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_75",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          46.799117,
+          10.492585
+        ],
+        [
+          46.800451,
+          10.491942
+        ],
+        [
+          46.800624,
+          10.491091
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752094_1",
+      "name": "Funpark",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_40",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          46.800624,
+          10.491091
+        ],
+        [
+          46.801749,
+          10.489693
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752095_0",
+      "name": "Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_75",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.800624,
+          10.491091
+        ],
+        [
+          46.800639,
+          10.490665
+        ],
+        [
+          46.800648,
+          10.490407
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752096_0",
+      "name": "Snowpark",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_75",
+      "distance": 0.55,
+      "duration": 1,
+      "elevation": -88,
+      "geometry": [
+        [
+          46.795826,
+          10.492404
+        ],
+        [
+          46.796207,
+          10.49227
+        ],
+        [
+          46.79724,
+          10.491928
+        ],
+        [
+          46.797587,
+          10.491943
+        ],
+        [
+          46.79764,
+          10.491951
+        ],
+        [
+          46.797677,
+          10.492001
+        ],
+        [
+          46.797748,
+          10.49202
+        ],
+        [
+          46.798497,
+          10.491871
+        ],
+        [
+          46.799876,
+          10.491365
+        ],
+        [
+          46.800624,
+          10.491091
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1130752097_0",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_74",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.799117,
+          10.492585
+        ],
+        [
+          46.799472,
+          10.492618
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752097_2",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_76",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.799695,
+          10.492796
+        ],
+        [
+          46.799937,
+          10.493095
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752097_4",
+      "name": "Schönebenabfahrt",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_54",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          46.800071,
+          10.493454
+        ],
+        [
+          46.800167,
+          10.493676
+        ],
+        [
+          46.800549,
+          10.494271
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1130752098_2",
+      "name": "Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.804797,
+          10.491151
+        ],
+        [
+          46.804735,
+          10.491
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1130752098_4",
+      "name": "Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "slope",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.804695,
+          10.490867
+        ],
+        [
+          46.804582,
+          10.490472
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1130752098_5",
+      "name": "Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "slope",
+      "from": "node_78",
+      "to": "node_42",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          46.804582,
+          10.490472
+        ],
+        [
+          46.804323,
+          10.489884
+        ],
+        [
+          46.804223,
+          10.488864
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1130752101_0",
+      "name": "4: Aussichtsabfahrt",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_4",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          46.804223,
+          10.488864
+        ],
+        [
+          46.80418,
+          10.488106
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1149681902_0",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_79",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.762187,
+          10.50271
+        ],
+        [
+          46.762138,
+          10.503146
+        ],
+        [
+          46.762145,
+          10.503412
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1149681902_2",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_79",
+      "to": "node_11",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": -11,
+      "geometry": [
+        [
+          46.762194,
+          10.503754
+        ],
+        [
+          46.762314,
+          10.504609
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1200050158_0",
+      "name": "Piste 1200050158",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_40",
+      "distance": 0.32,
+      "duration": 1,
+      "elevation": -51,
+      "geometry": [
+        [
+          46.800355,
+          10.493084
+        ],
+        [
+          46.800459,
+          10.492359
+        ],
+        [
+          46.801142,
+          10.491815
+        ],
+        [
+          46.801749,
+          10.489693
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1352576441_3",
+      "name": "Valatschabfahrt",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_72",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761594,
+          10.504952
+        ],
+        [
+          46.76179,
+          10.50504
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1362328933_3",
+      "name": "Piste 1362328933",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761283,
+          10.504508
+        ],
+        [
+          46.761278,
+          10.50429
+        ]
+      ],
+      "difficulty": "green"
+    },
+    {
+      "id": "piste_1362338848_5",
+      "name": "Piste 1362338848",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_30",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.799966,
+          10.48224
+        ],
+        [
+          46.799909,
+          10.482382
+        ],
+        [
+          46.799852,
+          10.48254
+        ],
+        [
+          46.799793,
+          10.482701
+        ],
+        [
+          46.799757,
+          10.48279
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1362343170_1",
+      "name": "Piste 1362343170",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_80",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.80429,
+          10.492835
+        ],
+        [
+          46.804424,
+          10.492607
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1362343170_3",
+      "name": "Piste 1362343170",
+      "type": "slope",
+      "from": "node_80",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.804547,
+          10.492202
+        ],
+        [
+          46.804618,
+          10.491915
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1362345626_1",
+      "name": "Piste 1362345626",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_78",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          46.803306,
+          10.489218
+        ],
+        [
+          46.803503,
+          10.489427
+        ],
+        [
+          46.803741,
+          10.489662
+        ],
+        [
+          46.803949,
+          10.489888
+        ],
+        [
+          46.804143,
+          10.490101
+        ],
+        [
+          46.804328,
+          10.490322
+        ],
+        [
+          46.804465,
+          10.490457
+        ],
+        [
+          46.804582,
+          10.490472
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1363135194_2",
+      "name": "10:Talabfahrt Haideralm",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_59",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.765323,
+          10.530974
+        ],
+        [
+          46.765155,
+          10.53126
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1363990360_1",
+      "name": "Piste 1363990360",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_81",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.800573,
+          10.478095
+        ],
+        [
+          46.800576,
+          10.477956
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1363990360_2",
+      "name": "Piste 1363990360",
+      "type": "slope",
+      "from": "node_81",
+      "to": "node_82",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          46.800576,
+          10.477956
+        ],
+        [
+          46.800576,
+          10.477827
+        ],
+        [
+          46.800579,
+          10.477632
+        ],
+        [
+          46.800579,
+          10.477446
+        ],
+        [
+          46.800586,
+          10.477341
+        ],
+        [
+          46.800602,
+          10.477213
+        ],
+        [
+          46.800626,
+          10.477066
+        ],
+        [
+          46.800658,
+          10.476872
+        ],
+        [
+          46.800694,
+          10.476647
+        ],
+        [
+          46.800723,
+          10.476431
+        ],
+        [
+          46.800768,
+          10.476206
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1363990717_3",
+      "name": "Piste 1363990717",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_79",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761996,
+          10.503635
+        ],
+        [
+          46.762194,
+          10.503754
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1464316080_0",
+      "name": "Piste 1464316080",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.803911,
+          10.492885
+        ],
+        [
+          46.804076,
+          10.492276
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1486365530_0",
+      "name": "Piste 1486365530",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_39",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          46.799132,
+          10.48955
+        ],
+        [
+          46.79943,
+          10.489698
+        ],
+        [
+          46.799876,
+          10.489923
+        ],
+        [
+          46.800278,
+          10.489971
+        ],
+        [
+          46.800769,
+          10.490059
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1486365531_0",
+      "name": "Piste 1486365531",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.795525,
+          10.495529
+        ],
+        [
+          46.79596,
+          10.495313
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1486365532_2",
+      "name": "Piste 1486365532",
+      "type": "slope",
+      "from": "node_10",
+      "to": "node_20",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          46.761097,
+          10.504376
+        ],
+        [
+          46.761136,
+          10.504311
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "walk_node_1_node_15",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction: 2: Jochabfahrt",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_15",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.804804,
+          10.491605
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_16",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction #17",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_16",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.804179,
+          10.492142
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_17",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction #18",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_17",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.80439,
+          10.491334
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_18",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction #19",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_18",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.804157,
+          10.490958
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_48",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction: 2: Jochabfahrt;Abzweig 1:Talabfahrt Schöneben",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_48",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.805372,
+          10.492355
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_77",
+      "name": "Walk: Bergbahn Schöneben - Cabinovia Belpiano (Summit / Top) ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_77",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.805117,
+          10.491613
+        ],
+        [
+          46.804715,
+          10.490934
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_47",
+      "name": "Walk: Jochbahn - Cabinovia Jochbahn (Base) ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_47",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80725,
+          10.494708
+        ],
+        [
+          46.807061,
+          10.494334
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_73",
+      "name": "Walk: Jochbahn - Cabinovia Jochbahn (Base) ↔ Junction: 2: Jochabfahrt",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_73",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80725,
+          10.494708
+        ],
+        [
+          46.806926,
+          10.494007
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_5",
+      "name": "Walk: Jochbahn - Cabinovia Jochbahn (Summit / Top) ↔ Fraiten (Summit / Top)",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_5",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795527,
+          10.492911
+        ],
+        [
+          46.795441,
+          10.491732
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_37",
+      "name": "Walk: Jochbahn - Cabinovia Jochbahn (Summit / Top) ↔ Junction: Aussichtsabfahrt",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795527,
+          10.492911
+        ],
+        [
+          46.795731,
+          10.492309
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_3_node_49",
+      "name": "Walk: Jochbahn - Cabinovia Jochbahn (Summit / Top) ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_3",
+      "to": "node_49",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795527,
+          10.492911
+        ],
+        [
+          46.796053,
+          10.492632
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_42",
+      "name": "Walk: Fraiten (Base) ↔ Junction: Aussichtsabfahrt",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_42",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804184,
+          10.488058
+        ],
+        [
+          46.80408,
+          10.488775
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_37",
+      "name": "Walk: Fraiten (Summit / Top) ↔ Junction: Aussichtsabfahrt",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795441,
+          10.491732
+        ],
+        [
+          46.795731,
+          10.492309
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_26",
+      "name": "Walk: Rojensesselbahn - Seggiovia Rojen (Base) ↔ Junction: Zwölferkopf II",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_26",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.801233,
+          10.476374
+        ],
+        [
+          46.80113,
+          10.477235
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_82",
+      "name": "Walk: Rojensesselbahn - Seggiovia Rojen (Base) ↔ Junction #83",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_82",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.801233,
+          10.476374
+        ],
+        [
+          46.801039,
+          10.47607
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_24",
+      "name": "Walk: Bergbahn Haideralm (Base) ↔ Haideralm – Schöneben (Base)",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_24",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.765278,
+          10.53185
+        ],
+        [
+          46.765538,
+          10.53085
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_59",
+      "name": "Walk: Bergbahn Haideralm (Base) ↔ Junction: Talabfahrt Haideralm",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_59",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.765278,
+          10.53185
+        ],
+        [
+          46.765128,
+          10.531423
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_11",
+      "name": "Walk: Bergbahn Haideralm (Summit / Top) ↔ Valatschlift (Base)",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761299,
+          10.504688
+        ],
+        [
+          46.762357,
+          10.504765
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_20",
+      "name": "Walk: Bergbahn Haideralm (Summit / Top) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_20",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761299,
+          10.504688
+        ],
+        [
+          46.761331,
+          10.504137
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_21",
+      "name": "Walk: Bergbahn Haideralm (Summit / Top) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_21",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761299,
+          10.504688
+        ],
+        [
+          46.761808,
+          10.503503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_10_node_72",
+      "name": "Walk: Bergbahn Haideralm (Summit / Top) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_10",
+      "to": "node_72",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761299,
+          10.504688
+        ],
+        [
+          46.761855,
+          10.505012
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_20",
+      "name": "Walk: Valatschlift (Base) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_20",
+      "distance": 0.12,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762357,
+          10.504765
+        ],
+        [
+          46.761331,
+          10.504137
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_21",
+      "name": "Walk: Valatschlift (Base) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_21",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762357,
+          10.504765
+        ],
+        [
+          46.761808,
+          10.503503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_71",
+      "name": "Walk: Valatschlift (Base) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_71",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762357,
+          10.504765
+        ],
+        [
+          46.762112,
+          10.503953
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_72",
+      "name": "Walk: Valatschlift (Base) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_72",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762357,
+          10.504765
+        ],
+        [
+          46.761855,
+          10.505012
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_21",
+      "name": "Walk: Valatschlift (Summit / Top) ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_21",
+      "distance": 0.14,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762303,
+          10.501823
+        ],
+        [
+          46.761808,
+          10.503503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_16",
+      "name": "Walk: Junction: 2: Jochabfahrt ↔ Junction #17",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804804,
+          10.491605
+        ],
+        [
+          46.804179,
+          10.492142
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_17",
+      "name": "Walk: Junction: 2: Jochabfahrt ↔ Junction #18",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_17",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804804,
+          10.491605
+        ],
+        [
+          46.80439,
+          10.491334
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_18",
+      "name": "Walk: Junction: 2: Jochabfahrt ↔ Junction #19",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_18",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804804,
+          10.491605
+        ],
+        [
+          46.804157,
+          10.490958
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_25",
+      "name": "Walk: Junction: 2: Jochabfahrt ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_25",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804804,
+          10.491605
+        ],
+        [
+          46.804129,
+          10.492978
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_77",
+      "name": "Walk: Junction: 2: Jochabfahrt ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804804,
+          10.491605
+        ],
+        [
+          46.804715,
+          10.490934
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_17",
+      "name": "Walk: Junction #17 ↔ Junction #18",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804179,
+          10.492142
+        ],
+        [
+          46.80439,
+          10.491334
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_18",
+      "name": "Walk: Junction #17 ↔ Junction #19",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_18",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804179,
+          10.492142
+        ],
+        [
+          46.804157,
+          10.490958
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_19",
+      "name": "Walk: Junction #17 ↔ Junction #20",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_19",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804179,
+          10.492142
+        ],
+        [
+          46.803074,
+          10.491454
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_25",
+      "name": "Walk: Junction #17 ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_25",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804179,
+          10.492142
+        ],
+        [
+          46.804129,
+          10.492978
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_80",
+      "name": "Walk: Junction #17 ↔ Junction #81",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_80",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804179,
+          10.492142
+        ],
+        [
+          46.804485,
+          10.492404
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_18",
+      "name": "Walk: Junction #18 ↔ Junction #19",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_18",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80439,
+          10.491334
+        ],
+        [
+          46.804157,
+          10.490958
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_25",
+      "name": "Walk: Junction #18 ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_25",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80439,
+          10.491334
+        ],
+        [
+          46.804129,
+          10.492978
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_77",
+      "name": "Walk: Junction #18 ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_77",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80439,
+          10.491334
+        ],
+        [
+          46.804715,
+          10.490934
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_78",
+      "name": "Walk: Junction #18 ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_78",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.80439,
+          10.491334
+        ],
+        [
+          46.804617,
+          10.49048
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_19",
+      "name": "Walk: Junction #19 ↔ Junction #20",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_19",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804157,
+          10.490958
+        ],
+        [
+          46.803074,
+          10.491454
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_77",
+      "name": "Walk: Junction #19 ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_77",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804157,
+          10.490958
+        ],
+        [
+          46.804715,
+          10.490934
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_78",
+      "name": "Walk: Junction #19 ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_78",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804157,
+          10.490958
+        ],
+        [
+          46.804617,
+          10.49048
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_20_node_21",
+      "name": "Walk: Junction: Valatschabfahrt ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_20",
+      "to": "node_21",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761331,
+          10.504137
+        ],
+        [
+          46.761808,
+          10.503503
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_71",
+      "name": "Walk: Junction: Valatschabfahrt ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_71",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761808,
+          10.503503
+        ],
+        [
+          46.762112,
+          10.503953
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_79",
+      "name": "Walk: Junction: Valatschabfahrt ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_79",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.761808,
+          10.503503
+        ],
+        [
+          46.762174,
+          10.503617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_61",
+      "name": "Walk: Höllental (Summit / Top) ↔ Junction: Höllental",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_61",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795525,
+          10.495529
+        ],
+        [
+          46.79596,
+          10.495313
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_58",
+      "name": "Walk: Haideralm – Schöneben (Base) ↔ Junction: Talabfahrt Haideralm",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_58",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.765538,
+          10.53085
+        ],
+        [
+          46.765344,
+          10.530189
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_24_node_59",
+      "name": "Walk: Haideralm – Schöneben (Base) ↔ Junction: Talabfahrt Haideralm",
+      "type": "walk",
+      "from": "node_24",
+      "to": "node_59",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.765538,
+          10.53085
+        ],
+        [
+          46.765128,
+          10.531423
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_25_node_80",
+      "name": "Walk: Junction: Jochabfahrt ↔ Junction #81",
+      "type": "walk",
+      "from": "node_25",
+      "to": "node_80",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804129,
+          10.492978
+        ],
+        [
+          46.804485,
+          10.492404
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_29_node_32",
+      "name": "Walk: Junction: Hütteltal ↔ Junction: Rojenabfahrt",
+      "type": "walk",
+      "from": "node_29",
+      "to": "node_32",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.799027,
+          10.48496
+        ],
+        [
+          46.79934,
+          10.485557
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_33",
+      "name": "Walk: Junction: Hütteltal ↔ Junction: Rojenabfahrt",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_33",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.799615,
+          10.482778
+        ],
+        [
+          46.800058,
+          10.482228
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_31_node_81",
+      "name": "Walk: Junction: Hütteltal ↔ Junction #82",
+      "type": "walk",
+      "from": "node_31",
+      "to": "node_81",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.800522,
+          10.478359
+        ],
+        [
+          46.800576,
+          10.477956
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_37_node_49",
+      "name": "Walk: Junction: Aussichtsabfahrt ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_37",
+      "to": "node_49",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.795731,
+          10.492309
+        ],
+        [
+          46.796053,
+          10.492632
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_45",
+      "name": "Walk: Junction: Jochabfahrt ↔ Junction: Jochabfahrt",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_45",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.79996,
+          10.493129
+        ],
+        [
+          46.800355,
+          10.493084
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_44_node_76",
+      "name": "Walk: Junction: Jochabfahrt ↔ Junction: Schönebenabfahrt",
+      "type": "walk",
+      "from": "node_44",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.79996,
+          10.493129
+        ],
+        [
+          46.799583,
+          10.492707
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_47_node_73",
+      "name": "Walk: Junction: Jochabfahrt ↔ Junction: 2: Jochabfahrt",
+      "type": "walk",
+      "from": "node_47",
+      "to": "node_73",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.807061,
+          10.494334
+        ],
+        [
+          46.806926,
+          10.494007
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_55_node_66",
+      "name": "Walk: Junction: Erlebnisabfahrt Haideralm ↔ Junction: Erlebnisabfahrt Haideralm",
+      "type": "walk",
+      "from": "node_55",
+      "to": "node_66",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.787254,
+          10.516416
+        ],
+        [
+          46.787518,
+          10.516217
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_60_node_79",
+      "name": "Walk: Junction: Valatschabfahrt ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_60",
+      "to": "node_79",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762174,
+          10.502749
+        ],
+        [
+          46.762174,
+          10.503617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_71_node_79",
+      "name": "Walk: Junction: Valatschabfahrt ↔ Junction: Valatschabfahrt",
+      "type": "walk",
+      "from": "node_71",
+      "to": "node_79",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.762112,
+          10.503953
+        ],
+        [
+          46.762174,
+          10.503617
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_74_node_76",
+      "name": "Walk: Junction: Funpark ↔ Junction: Schönebenabfahrt",
+      "type": "walk",
+      "from": "node_74",
+      "to": "node_76",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.799117,
+          10.492585
+        ],
+        [
+          46.799583,
+          10.492707
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_77_node_78",
+      "name": "Walk: Junction: Verbindung Bergbahn Schöneben Lift Fraiten ↔ Junction: Verbindung Bergbahn Schöneben Lift Fraiten",
+      "type": "walk",
+      "from": "node_77",
+      "to": "node_78",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          46.804715,
+          10.490934
+        ],
+        [
+          46.804617,
+          10.49048
+        ]
+      ]
+    }
+  ]
+}

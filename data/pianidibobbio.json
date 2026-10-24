@@ -1,0 +1,4860 @@
+{
+  "id": "pianidibobbio",
+  "name": "Piani di Bobbio - Valtorta",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "bounds": [
+    [
+      45.9467,
+      9.4589
+    ],
+    [
+      45.9841,
+      9.5169
+    ]
+  ],
+  "center": [
+    45.9633,
+    9.497
+  ],
+  "stats": {
+    "slopes": "17.0 km",
+    "lifts": 12,
+    "elevation": "1340m - 1950m",
+    "drop": "610m"
+  },
+  "nodes": [
+    {
+      "id": "node_0",
+      "name": "Fortino (Base)",
+      "lat": 45.959862,
+      "lng": 9.489905,
+      "type": "station"
+    },
+    {
+      "id": "node_1",
+      "name": "Fortino (Summit / Top)",
+      "lat": 45.961129,
+      "lng": 9.501686,
+      "type": "station"
+    },
+    {
+      "id": "node_2",
+      "name": "Camosci (Base)",
+      "lat": 45.959695,
+      "lng": 9.494481,
+      "type": "station"
+    },
+    {
+      "id": "node_3",
+      "name": "Camosci (Summit / Top)",
+      "lat": 45.956807,
+      "lng": 9.507406,
+      "type": "station"
+    },
+    {
+      "id": "node_4",
+      "name": "Chiesetta (Base)",
+      "lat": 45.961806,
+      "lng": 9.494297,
+      "type": "station"
+    },
+    {
+      "id": "node_5",
+      "name": "Chiesetta (Summit / Top)",
+      "lat": 45.961585,
+      "lng": 9.500923,
+      "type": "station"
+    },
+    {
+      "id": "node_6",
+      "name": "Chiavello (Base)",
+      "lat": 45.976819,
+      "lng": 9.509849,
+      "type": "station"
+    },
+    {
+      "id": "node_7",
+      "name": "Chiavello (Summit / Top)",
+      "lat": 45.969084,
+      "lng": 9.497329,
+      "type": "station"
+    },
+    {
+      "id": "node_8",
+      "name": "Capanno (Base)",
+      "lat": 45.977305,
+      "lng": 9.509412,
+      "type": "station"
+    },
+    {
+      "id": "node_9",
+      "name": "Capanno (Summit / Top)",
+      "lat": 45.976406,
+      "lng": 9.501503,
+      "type": "station"
+    },
+    {
+      "id": "node_10",
+      "name": "Barzio - Piani di Bobbio (Base)",
+      "lat": 45.955349,
+      "lng": 9.463899,
+      "type": "station"
+    },
+    {
+      "id": "node_11",
+      "name": "Barzio - Piani di Bobbio (Summit / Top)",
+      "lat": 45.96149,
+      "lng": 9.488077,
+      "type": "station"
+    },
+    {
+      "id": "node_12",
+      "name": "Valtorta (Base)",
+      "lat": 45.97708,
+      "lng": 9.510713,
+      "type": "station"
+    },
+    {
+      "id": "node_13",
+      "name": "Valtorta (Summit / Top)",
+      "lat": 45.977231,
+      "lng": 9.51185,
+      "type": "station"
+    },
+    {
+      "id": "node_14",
+      "name": "Area Bob e Slittino 1 (Base)",
+      "lat": 45.960335,
+      "lng": 9.488146,
+      "type": "station"
+    },
+    {
+      "id": "node_15",
+      "name": "Area Bob e Slittino 1 (Summit / Top)",
+      "lat": 45.960324,
+      "lng": 9.4891,
+      "type": "station"
+    },
+    {
+      "id": "node_16",
+      "name": "Nuova Orscellera (Base)",
+      "lat": 45.959714,
+      "lng": 9.489813,
+      "type": "station"
+    },
+    {
+      "id": "node_17",
+      "name": "Nuova Orscellera (Summit / Top)",
+      "lat": 45.95499,
+      "lng": 9.491728,
+      "type": "station"
+    },
+    {
+      "id": "node_18",
+      "name": "Collegamento Valtorta (Base)",
+      "lat": 45.960665,
+      "lng": 9.499902,
+      "type": "station"
+    },
+    {
+      "id": "node_19",
+      "name": "Nuova Ongania (Summit / Top)",
+      "lat": 45.95402,
+      "lng": 9.499654,
+      "type": "station"
+    },
+    {
+      "id": "node_20",
+      "name": "Junction #21",
+      "lat": 45.960063,
+      "lng": 9.486702,
+      "type": "intersection"
+    },
+    {
+      "id": "node_21",
+      "name": "Junction: Valtorta - Piani di Bobbio",
+      "lat": 45.96118,
+      "lng": 9.490518,
+      "type": "intersection"
+    },
+    {
+      "id": "node_22",
+      "name": "Junction #23",
+      "lat": 45.960754,
+      "lng": 9.494391,
+      "type": "intersection"
+    },
+    {
+      "id": "node_23",
+      "name": "Junction: Valtorta - Piani di Bobbio",
+      "lat": 45.961385,
+      "lng": 9.491412,
+      "type": "intersection"
+    },
+    {
+      "id": "node_24",
+      "name": "Junction: Valtorta - Piani di Bobbio",
+      "lat": 45.963003,
+      "lng": 9.494049,
+      "type": "intersection"
+    },
+    {
+      "id": "node_25",
+      "name": "Junction: Campelli",
+      "lat": 45.957743,
+      "lng": 9.500471,
+      "type": "intersection"
+    },
+    {
+      "id": "node_26",
+      "name": "Junction: Campelli",
+      "lat": 45.959261,
+      "lng": 9.495136,
+      "type": "intersection"
+    },
+    {
+      "id": "node_27",
+      "name": "Junction: Baite",
+      "lat": 45.96136,
+      "lng": 9.501608,
+      "type": "intersection"
+    },
+    {
+      "id": "node_28",
+      "name": "Junction: Baite",
+      "lat": 45.960372,
+      "lng": 9.496956,
+      "type": "intersection"
+    },
+    {
+      "id": "node_29",
+      "name": "Junction: Baite",
+      "lat": 45.960012,
+      "lng": 9.494583,
+      "type": "intersection"
+    },
+    {
+      "id": "node_30",
+      "name": "Junction: Baite",
+      "lat": 45.959362,
+      "lng": 9.493666,
+      "type": "intersection"
+    },
+    {
+      "id": "node_31",
+      "name": "Junction: Baite",
+      "lat": 45.959299,
+      "lng": 9.493329,
+      "type": "intersection"
+    },
+    {
+      "id": "node_32",
+      "name": "Junction: Baite",
+      "lat": 45.959677,
+      "lng": 9.490468,
+      "type": "intersection"
+    },
+    {
+      "id": "node_33",
+      "name": "Junction: Camosci",
+      "lat": 45.958565,
+      "lng": 9.499764,
+      "type": "intersection"
+    },
+    {
+      "id": "node_34",
+      "name": "Junction: Camosci",
+      "lat": 45.960136,
+      "lng": 9.497648,
+      "type": "intersection"
+    },
+    {
+      "id": "node_35",
+      "name": "Junction: Camosci",
+      "lat": 45.959249,
+      "lng": 9.49557,
+      "type": "intersection"
+    },
+    {
+      "id": "node_36",
+      "name": "Junction: Chiesetta",
+      "lat": 45.962132,
+      "lng": 9.493717,
+      "type": "intersection"
+    },
+    {
+      "id": "node_37",
+      "name": "Junction: Chiesetta",
+      "lat": 45.961609,
+      "lng": 9.492036,
+      "type": "intersection"
+    },
+    {
+      "id": "node_38",
+      "name": "Junction: Fortino",
+      "lat": 45.961479,
+      "lng": 9.497873,
+      "type": "intersection"
+    },
+    {
+      "id": "node_39",
+      "name": "Junction: Skiweg Fortino",
+      "lat": 45.960935,
+      "lng": 9.489359,
+      "type": "intersection"
+    },
+    {
+      "id": "node_40",
+      "name": "Junction: Tre Signori",
+      "lat": 45.969086,
+      "lng": 9.499214,
+      "type": "intersection"
+    },
+    {
+      "id": "node_41",
+      "name": "Junction: Tre Signori",
+      "lat": 45.9691,
+      "lng": 9.501467,
+      "type": "intersection"
+    },
+    {
+      "id": "node_42",
+      "name": "Junction: Tre Signori",
+      "lat": 45.972323,
+      "lng": 9.502936,
+      "type": "intersection"
+    },
+    {
+      "id": "node_43",
+      "name": "Junction: Tre Signori",
+      "lat": 45.976523,
+      "lng": 9.506014,
+      "type": "intersection"
+    },
+    {
+      "id": "node_44",
+      "name": "Junction: Tre Signori",
+      "lat": 45.976604,
+      "lng": 9.506535,
+      "type": "intersection"
+    },
+    {
+      "id": "node_45",
+      "name": "Junction: Pesciola",
+      "lat": 45.954512,
+      "lng": 9.498963,
+      "type": "intersection"
+    },
+    {
+      "id": "node_46",
+      "name": "Junction: Pesciola",
+      "lat": 45.958011,
+      "lng": 9.495279,
+      "type": "intersection"
+    },
+    {
+      "id": "node_47",
+      "name": "Junction: Orscellera Centrale",
+      "lat": 45.954171,
+      "lng": 9.492799,
+      "type": "intersection"
+    },
+    {
+      "id": "node_48",
+      "name": "Junction: Orscellera Centrale",
+      "lat": 45.955801,
+      "lng": 9.495671,
+      "type": "intersection"
+    },
+    {
+      "id": "node_49",
+      "name": "Junction: Piani di Bobbio - Valtorta",
+      "lat": 45.963061,
+      "lng": 9.498912,
+      "type": "intersection"
+    },
+    {
+      "id": "node_50",
+      "name": "Junction: Piani di Bobbio - Valtorta",
+      "lat": 45.966922,
+      "lng": 9.499139,
+      "type": "intersection"
+    },
+    {
+      "id": "node_51",
+      "name": "Junction: Piani di Bobbio - Valtorta",
+      "lat": 45.967945,
+      "lng": 9.49991,
+      "type": "intersection"
+    },
+    {
+      "id": "node_52",
+      "name": "Junction: Nube Bianca",
+      "lat": 45.966384,
+      "lng": 9.500318,
+      "type": "intersection"
+    },
+    {
+      "id": "node_53",
+      "name": "Junction: Nube Bianca",
+      "lat": 45.972251,
+      "lng": 9.504951,
+      "type": "intersection"
+    },
+    {
+      "id": "node_54",
+      "name": "Junction: Cedrino",
+      "lat": 45.973695,
+      "lng": 9.497379,
+      "type": "intersection"
+    },
+    {
+      "id": "node_55",
+      "name": "Junction: Cedrino",
+      "lat": 45.975529,
+      "lng": 9.498461,
+      "type": "intersection"
+    },
+    {
+      "id": "node_56",
+      "name": "Junction: Ceresola",
+      "lat": 45.976915,
+      "lng": 9.501707,
+      "type": "intersection"
+    },
+    {
+      "id": "node_57",
+      "name": "Junction: Ceresola",
+      "lat": 45.9791,
+      "lng": 9.507287,
+      "type": "intersection"
+    },
+    {
+      "id": "node_58",
+      "name": "Junction: Orscellera",
+      "lat": 45.953512,
+      "lng": 9.494174,
+      "type": "intersection"
+    },
+    {
+      "id": "node_59",
+      "name": "Junction: Orscellera",
+      "lat": 45.951691,
+      "lng": 9.498857,
+      "type": "intersection"
+    },
+    {
+      "id": "node_60",
+      "name": "Junction: Valtorta - Piani di Bobbio",
+      "lat": 45.961333,
+      "lng": 9.489141,
+      "type": "intersection"
+    },
+    {
+      "id": "node_61",
+      "name": "Junction: Nube Bianca",
+      "lat": 45.967196,
+      "lng": 9.499993,
+      "type": "intersection"
+    },
+    {
+      "id": "node_62",
+      "name": "Junction: Nube Bianca",
+      "lat": 45.966696,
+      "lng": 9.499885,
+      "type": "intersection"
+    },
+    {
+      "id": "node_63",
+      "name": "Junction #64",
+      "lat": 45.960501,
+      "lng": 9.494288,
+      "type": "intersection"
+    },
+    {
+      "id": "node_64",
+      "name": "Junction #65",
+      "lat": 45.959766,
+      "lng": 9.500029,
+      "type": "intersection"
+    },
+    {
+      "id": "node_65",
+      "name": "Junction: Snow Park",
+      "lat": 45.960405,
+      "lng": 9.500033,
+      "type": "intersection"
+    },
+    {
+      "id": "node_66",
+      "name": "Junction #67",
+      "lat": 45.958966,
+      "lng": 9.49982,
+      "type": "intersection"
+    },
+    {
+      "id": "node_67",
+      "name": "Junction #68",
+      "lat": 45.959319,
+      "lng": 9.494649,
+      "type": "intersection"
+    },
+    {
+      "id": "node_68",
+      "name": "Junction: Orscellera",
+      "lat": 45.954648,
+      "lng": 9.492087,
+      "type": "intersection"
+    },
+    {
+      "id": "node_69",
+      "name": "Junction #70",
+      "lat": 45.961089,
+      "lng": 9.489744,
+      "type": "intersection"
+    },
+    {
+      "id": "node_70",
+      "name": "Junction: Snow Park",
+      "lat": 45.960737,
+      "lng": 9.501742,
+      "type": "intersection"
+    }
+  ],
+  "edges": [
+    {
+      "id": "lift_52474291",
+      "name": "Fortino",
+      "type": "lift",
+      "from": "node_0",
+      "to": "node_1",
+      "distance": 0.91,
+      "duration": 3,
+      "elevation": 200,
+      "geometry": [
+        [
+          45.959862,
+          9.489905
+        ],
+        [
+          45.959881,
+          9.490044
+        ],
+        [
+          45.959943,
+          9.490675
+        ],
+        [
+          45.960071,
+          9.491969
+        ],
+        [
+          45.960139,
+          9.492667
+        ],
+        [
+          45.960257,
+          9.493866
+        ],
+        [
+          45.960362,
+          9.494937
+        ],
+        [
+          45.960424,
+          9.495567
+        ],
+        [
+          45.960514,
+          9.496408
+        ],
+        [
+          45.960657,
+          9.497731
+        ],
+        [
+          45.960777,
+          9.498949
+        ],
+        [
+          45.960844,
+          9.499835
+        ],
+        [
+          45.960989,
+          9.501307
+        ],
+        [
+          45.961018,
+          9.50153
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_52474292",
+      "name": "Camosci",
+      "type": "lift",
+      "from": "node_2",
+      "to": "node_3",
+      "distance": 1.02,
+      "duration": 4,
+      "elevation": 224,
+      "geometry": [
+        [
+          45.959638,
+          9.494609
+        ],
+        [
+          45.959431,
+          9.495602
+        ],
+        [
+          45.959097,
+          9.497102
+        ],
+        [
+          45.958955,
+          9.497717
+        ],
+        [
+          45.958734,
+          9.498684
+        ],
+        [
+          45.95847,
+          9.499943
+        ],
+        [
+          45.958255,
+          9.500908
+        ],
+        [
+          45.957822,
+          9.502916
+        ],
+        [
+          45.957738,
+          9.503299
+        ],
+        [
+          45.957418,
+          9.504763
+        ],
+        [
+          45.957164,
+          9.505958
+        ],
+        [
+          45.956885,
+          9.50726
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_52474293",
+      "name": "Chiesetta",
+      "type": "lift",
+      "from": "node_4",
+      "to": "node_5",
+      "distance": 0.5,
+      "duration": 2,
+      "elevation": 110,
+      "geometry": [
+        [
+          45.961918,
+          9.494536
+        ],
+        [
+          45.961874,
+          9.495127
+        ],
+        [
+          45.961771,
+          9.496501
+        ],
+        [
+          45.961675,
+          9.49779
+        ],
+        [
+          45.961595,
+          9.49886
+        ],
+        [
+          45.961489,
+          9.500268
+        ],
+        [
+          45.961451,
+          9.501012
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_52474294",
+      "name": "Chiavello",
+      "type": "lift",
+      "from": "node_6",
+      "to": "node_7",
+      "distance": 1.3,
+      "duration": 5,
+      "elevation": 286,
+      "geometry": [
+        [
+          45.976757,
+          9.50998
+        ],
+        [
+          45.976454,
+          9.509485
+        ],
+        [
+          45.975504,
+          9.507934
+        ],
+        [
+          45.974609,
+          9.506473
+        ],
+        [
+          45.974333,
+          9.506023
+        ],
+        [
+          45.973566,
+          9.504772
+        ],
+        [
+          45.973162,
+          9.504111
+        ],
+        [
+          45.972759,
+          9.503454
+        ],
+        [
+          45.972473,
+          9.502988
+        ],
+        [
+          45.972051,
+          9.502295
+        ],
+        [
+          45.97171,
+          9.501735
+        ],
+        [
+          45.971123,
+          9.500772
+        ],
+        [
+          45.970655,
+          9.500004
+        ],
+        [
+          45.970415,
+          9.499612
+        ],
+        [
+          45.969771,
+          9.498558
+        ],
+        [
+          45.969281,
+          9.497756
+        ],
+        [
+          45.969115,
+          9.497486
+        ],
+        [
+          45.96906,
+          9.497396
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_72237264",
+      "name": "Capanno",
+      "type": "lift",
+      "from": "node_8",
+      "to": "node_9",
+      "distance": 0.62,
+      "duration": 2,
+      "elevation": 136,
+      "geometry": [
+        [
+          45.977305,
+          9.509412
+        ],
+        [
+          45.977236,
+          9.508705
+        ],
+        [
+          45.977123,
+          9.50756
+        ],
+        [
+          45.976993,
+          9.506244
+        ],
+        [
+          45.976527,
+          9.501513
+        ]
+      ],
+      "subtype": "platter"
+    },
+    {
+      "id": "lift_85684395",
+      "name": "Barzio - Piani di Bobbio",
+      "type": "lift",
+      "from": "node_10",
+      "to": "node_11",
+      "distance": 1.99,
+      "duration": 5,
+      "elevation": 437,
+      "geometry": [
+        [
+          45.955349,
+          9.463899
+        ],
+        [
+          45.955454,
+          9.464248
+        ],
+        [
+          45.955617,
+          9.464871
+        ],
+        [
+          45.955832,
+          9.465648
+        ],
+        [
+          45.955948,
+          9.466125
+        ],
+        [
+          45.955972,
+          9.466319
+        ],
+        [
+          45.956198,
+          9.467059
+        ],
+        [
+          45.956699,
+          9.469256
+        ],
+        [
+          45.957131,
+          9.470746
+        ],
+        [
+          45.957436,
+          9.471977
+        ],
+        [
+          45.958416,
+          9.476
+        ],
+        [
+          45.958939,
+          9.477959
+        ],
+        [
+          45.959575,
+          9.480556
+        ],
+        [
+          45.959881,
+          9.481756
+        ],
+        [
+          45.960181,
+          9.482955
+        ],
+        [
+          45.960324,
+          9.483518
+        ],
+        [
+          45.960586,
+          9.484538
+        ],
+        [
+          45.960813,
+          9.48542
+        ],
+        [
+          45.961319,
+          9.487407
+        ],
+        [
+          45.96149,
+          9.488077
+        ]
+      ],
+      "subtype": "gondola",
+      "bidirectional": true
+    },
+    {
+      "id": "lift_127008973",
+      "name": "Valtorta",
+      "type": "lift",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.09,
+      "duration": 2,
+      "elevation": 19,
+      "geometry": [
+        [
+          45.97708,
+          9.510713
+        ],
+        [
+          45.977231,
+          9.51185
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_277247834",
+      "name": "Area Bob e Slittino 1",
+      "type": "lift",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 2,
+      "elevation": 11,
+      "geometry": [
+        [
+          45.960366,
+          9.488323
+        ],
+        [
+          45.960354,
+          9.488913
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_322894790",
+      "name": "Nuova Orscellera",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_17",
+      "distance": 0.48,
+      "duration": 2,
+      "elevation": 105,
+      "geometry": [
+        [
+          45.959336,
+          9.489939
+        ],
+        [
+          45.959174,
+          9.489995
+        ],
+        [
+          45.958824,
+          9.490114
+        ],
+        [
+          45.958205,
+          9.490327
+        ],
+        [
+          45.957348,
+          9.490677
+        ],
+        [
+          45.957126,
+          9.490768
+        ],
+        [
+          45.956215,
+          9.491141
+        ],
+        [
+          45.955642,
+          9.491409
+        ],
+        [
+          45.955184,
+          9.491614
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1013448964",
+      "name": "Collegamento Valtorta",
+      "type": "lift",
+      "from": "node_18",
+      "to": "node_1",
+      "distance": 0.15,
+      "duration": 2,
+      "elevation": 33,
+      "geometry": [
+        [
+          45.960525,
+          9.499935
+        ],
+        [
+          45.960727,
+          9.500855
+        ],
+        [
+          45.960929,
+          9.501774
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "lift_1040520365",
+      "name": "Nuova Ongania",
+      "type": "lift",
+      "from": "node_16",
+      "to": "node_19",
+      "distance": 0.95,
+      "duration": 3,
+      "elevation": 209,
+      "geometry": [
+        [
+          45.959358,
+          9.490081
+        ],
+        [
+          45.958931,
+          9.490828
+        ],
+        [
+          45.958507,
+          9.491567
+        ],
+        [
+          45.958018,
+          9.49242
+        ],
+        [
+          45.95759,
+          9.493167
+        ],
+        [
+          45.956791,
+          9.494561
+        ],
+        [
+          45.956,
+          9.49594
+        ],
+        [
+          45.955393,
+          9.497
+        ],
+        [
+          45.954814,
+          9.498009
+        ],
+        [
+          45.9546,
+          9.498382
+        ],
+        [
+          45.954336,
+          9.498832
+        ],
+        [
+          45.953912,
+          9.499553
+        ]
+      ],
+      "subtype": "chair_lift"
+    },
+    {
+      "id": "lift_1348526252",
+      "name": "Lift 1348526252",
+      "type": "lift",
+      "from": "node_20",
+      "to": "node_14",
+      "distance": 0.1,
+      "duration": 2,
+      "elevation": 22,
+      "geometry": [
+        [
+          45.960063,
+          9.486702
+        ],
+        [
+          45.960304,
+          9.487968
+        ]
+      ],
+      "subtype": "magic_carpet"
+    },
+    {
+      "id": "piste_125106663_3",
+      "name": "Piste 125106663",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_22",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.961494,
+          9.494086
+        ],
+        [
+          45.96141,
+          9.494109
+        ],
+        [
+          45.961343,
+          9.494141
+        ],
+        [
+          45.961289,
+          9.494176
+        ],
+        [
+          45.961091,
+          9.494318
+        ],
+        [
+          45.961015,
+          9.49435
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_125239647_0",
+      "name": "Valtorta - Piani di Bobbio",
+      "type": "slope",
+      "from": "node_23",
+      "to": "node_21",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.961367,
+          9.491359
+        ],
+        [
+          45.961226,
+          9.490736
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_128146484_0",
+      "name": "Valtorta - Piani di Bobbio",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_24",
+      "distance": 0.71,
+      "duration": 1,
+      "elevation": -113,
+      "geometry": [
+        [
+          45.968933,
+          9.497187
+        ],
+        [
+          45.968698,
+          9.4969
+        ],
+        [
+          45.968392,
+          9.49665
+        ],
+        [
+          45.968298,
+          9.496502
+        ],
+        [
+          45.968187,
+          9.496452
+        ],
+        [
+          45.967966,
+          9.496389
+        ],
+        [
+          45.967901,
+          9.496344
+        ],
+        [
+          45.967816,
+          9.496296
+        ],
+        [
+          45.967708,
+          9.496203
+        ],
+        [
+          45.967455,
+          9.495769
+        ],
+        [
+          45.967381,
+          9.495683
+        ],
+        [
+          45.967123,
+          9.495383
+        ],
+        [
+          45.966991,
+          9.495309
+        ],
+        [
+          45.966855,
+          9.495204
+        ],
+        [
+          45.966626,
+          9.495225
+        ],
+        [
+          45.96639,
+          9.495264
+        ],
+        [
+          45.966296,
+          9.495271
+        ],
+        [
+          45.96616,
+          9.495282
+        ],
+        [
+          45.965976,
+          9.495246
+        ],
+        [
+          45.965816,
+          9.495142
+        ],
+        [
+          45.965543,
+          9.494931
+        ],
+        [
+          45.965369,
+          9.494834
+        ],
+        [
+          45.965265,
+          9.494805
+        ],
+        [
+          45.965089,
+          9.4948
+        ],
+        [
+          45.964822,
+          9.494859
+        ],
+        [
+          45.964758,
+          9.494873
+        ],
+        [
+          45.964724,
+          9.494876
+        ],
+        [
+          45.964434,
+          9.494875
+        ],
+        [
+          45.964352,
+          9.494829
+        ],
+        [
+          45.964255,
+          9.49473
+        ],
+        [
+          45.964152,
+          9.494598
+        ],
+        [
+          45.964016,
+          9.494469
+        ],
+        [
+          45.963925,
+          9.494443
+        ],
+        [
+          45.963637,
+          9.494436
+        ],
+        [
+          45.963505,
+          9.494383
+        ],
+        [
+          45.963209,
+          9.494216
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793171_1",
+      "name": "Campelli",
+      "type": "slope",
+      "from": "node_3",
+      "to": "node_25",
+      "distance": 0.65,
+      "duration": 1,
+      "elevation": -104,
+      "geometry": [
+        [
+          45.95673,
+          9.507552
+        ],
+        [
+          45.956506,
+          9.507827
+        ],
+        [
+          45.956446,
+          9.507854
+        ],
+        [
+          45.956375,
+          9.507866
+        ],
+        [
+          45.956324,
+          9.507823
+        ],
+        [
+          45.956257,
+          9.507702
+        ],
+        [
+          45.956216,
+          9.507527
+        ],
+        [
+          45.956196,
+          9.507221
+        ],
+        [
+          45.956163,
+          9.5066
+        ],
+        [
+          45.956322,
+          9.505828
+        ],
+        [
+          45.956541,
+          9.505079
+        ],
+        [
+          45.956801,
+          9.503816
+        ],
+        [
+          45.957052,
+          9.502752
+        ],
+        [
+          45.957302,
+          9.501628
+        ],
+        [
+          45.957701,
+          9.500598
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793171_3",
+      "name": "Campelli",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_26",
+      "distance": 0.43,
+      "duration": 1,
+      "elevation": -68,
+      "geometry": [
+        [
+          45.957771,
+          9.500387
+        ],
+        [
+          45.958183,
+          9.499164
+        ],
+        [
+          45.95848,
+          9.498226
+        ],
+        [
+          45.958915,
+          9.496197
+        ],
+        [
+          45.95902,
+          9.495763
+        ],
+        [
+          45.959203,
+          9.495264
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793171_5",
+      "name": "Campelli",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959347,
+          9.494828
+        ],
+        [
+          45.959507,
+          9.494624
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793317_0",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_18",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          45.96136,
+          9.501608
+        ],
+        [
+          45.961195,
+          9.500798
+        ],
+        [
+          45.960789,
+          9.500027
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_2",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_18",
+      "to": "node_28",
+      "distance": 0.2,
+      "duration": 1,
+      "elevation": -32,
+      "geometry": [
+        [
+          45.960639,
+          9.499602
+        ],
+        [
+          45.96053,
+          9.498768
+        ],
+        [
+          45.960431,
+          9.497612
+        ],
+        [
+          45.960383,
+          9.497078
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_4",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_28",
+      "to": "node_29",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          45.960355,
+          9.496773
+        ],
+        [
+          45.96027,
+          9.495828
+        ],
+        [
+          45.960221,
+          9.495397
+        ],
+        [
+          45.960086,
+          9.494776
+        ],
+        [
+          45.960012,
+          9.494583
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_5",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_29",
+      "to": "node_2",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960012,
+          9.494583
+        ],
+        [
+          45.959882,
+          9.494478
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_7",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_2",
+      "to": "node_30",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959658,
+          9.494213
+        ],
+        [
+          45.959411,
+          9.493806
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_9",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959314,
+          9.493525
+        ],
+        [
+          45.959284,
+          9.493134
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793317_10",
+      "name": "Baite",
+      "type": "slope",
+      "from": "node_31",
+      "to": "node_32",
+      "distance": 0.22,
+      "duration": 1,
+      "elevation": -35,
+      "geometry": [
+        [
+          45.959284,
+          9.493134
+        ],
+        [
+          45.959313,
+          9.492789
+        ],
+        [
+          45.959428,
+          9.491914
+        ],
+        [
+          45.959543,
+          9.491257
+        ],
+        [
+          45.959645,
+          9.490334
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793353_0",
+      "name": "Camosci",
+      "type": "slope",
+      "from": "node_25",
+      "to": "node_33",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.957771,
+          9.500387
+        ],
+        [
+          45.958329,
+          9.499776
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793353_1",
+      "name": "Camosci",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_34",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          45.958329,
+          9.499776
+        ],
+        [
+          45.958819,
+          9.499205
+        ],
+        [
+          45.959302,
+          9.498962
+        ],
+        [
+          45.95962,
+          9.498656
+        ],
+        [
+          45.959934,
+          9.498281
+        ],
+        [
+          45.960149,
+          9.497785
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793353_3",
+      "name": "Camosci",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_35",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          45.960117,
+          9.497442
+        ],
+        [
+          45.959864,
+          9.496746
+        ],
+        [
+          45.959571,
+          9.496208
+        ],
+        [
+          45.959349,
+          9.495892
+        ],
+        [
+          45.959249,
+          9.49557
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793353_4",
+      "name": "Camosci",
+      "type": "slope",
+      "from": "node_35",
+      "to": "node_26",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959249,
+          9.49557
+        ],
+        [
+          45.95922,
+          9.495406
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467793536_0",
+      "name": "Chiesetta",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_36",
+      "distance": 0.56,
+      "duration": 1,
+      "elevation": -89,
+      "geometry": [
+        [
+          45.961629,
+          9.500893
+        ],
+        [
+          45.961767,
+          9.499821
+        ],
+        [
+          45.961796,
+          9.499517
+        ],
+        [
+          45.96199,
+          9.498255
+        ],
+        [
+          45.962074,
+          9.497028
+        ],
+        [
+          45.962088,
+          9.496695
+        ],
+        [
+          45.962089,
+          9.496216
+        ],
+        [
+          45.96211,
+          9.495529
+        ],
+        [
+          45.962178,
+          9.494179
+        ],
+        [
+          45.962163,
+          9.49371
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793536_2",
+      "name": "Chiesetta",
+      "type": "slope",
+      "from": "node_36",
+      "to": "node_37",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          45.962151,
+          9.493457
+        ],
+        [
+          45.962146,
+          9.49323
+        ],
+        [
+          45.962101,
+          9.493024
+        ],
+        [
+          45.962061,
+          9.492913
+        ],
+        [
+          45.961634,
+          9.49216
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793536_3",
+      "name": "Chiesetta",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_32",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          45.961634,
+          9.49216
+        ],
+        [
+          45.961346,
+          9.491775
+        ],
+        [
+          45.960996,
+          9.491421
+        ],
+        [
+          45.9608,
+          9.491287
+        ],
+        [
+          45.960471,
+          9.491202
+        ],
+        [
+          45.960134,
+          9.491061
+        ],
+        [
+          45.960008,
+          9.490999
+        ],
+        [
+          45.959902,
+          9.490894
+        ],
+        [
+          45.959828,
+          9.490794
+        ],
+        [
+          45.959726,
+          9.490635
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793536_6",
+      "name": "Chiesetta",
+      "type": "slope",
+      "from": "node_32",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959645,
+          9.490334
+        ],
+        [
+          45.959667,
+          9.490137
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793876_0",
+      "name": "Fortino",
+      "type": "slope",
+      "from": "node_27",
+      "to": "node_38",
+      "distance": 0.29,
+      "duration": 1,
+      "elevation": -46,
+      "geometry": [
+        [
+          45.96136,
+          9.501608
+        ],
+        [
+          45.961415,
+          9.499066
+        ],
+        [
+          45.961479,
+          9.497873
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793876_1",
+      "name": "Fortino",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_4",
+      "distance": 0.26,
+      "duration": 1,
+      "elevation": -41,
+      "geometry": [
+        [
+          45.961479,
+          9.497873
+        ],
+        [
+          45.961695,
+          9.495264
+        ],
+        [
+          45.96178,
+          9.494572
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793965_0",
+      "name": "Skiweg Fortino",
+      "type": "slope",
+      "from": "node_39",
+      "to": "node_15",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960701,
+          9.489311
+        ],
+        [
+          45.960452,
+          9.489147
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467793965_3",
+      "name": "Skiweg Fortino",
+      "type": "slope",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960203,
+          9.489131
+        ],
+        [
+          45.960081,
+          9.489215
+        ],
+        [
+          45.95994,
+          9.489365
+        ],
+        [
+          45.959832,
+          9.489513
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_467795250_2",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_40",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          45.969287,
+          9.497497
+        ],
+        [
+          45.969449,
+          9.497771
+        ],
+        [
+          45.969489,
+          9.49797
+        ],
+        [
+          45.969484,
+          9.498183
+        ],
+        [
+          45.969419,
+          9.49834
+        ],
+        [
+          45.969138,
+          9.499083
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467795250_4",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_41",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          45.969051,
+          9.499301
+        ],
+        [
+          45.968957,
+          9.499925
+        ],
+        [
+          45.968897,
+          9.500247
+        ],
+        [
+          45.968898,
+          9.500574
+        ],
+        [
+          45.968905,
+          9.500896
+        ],
+        [
+          45.969026,
+          9.501402
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467795250_6",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_41",
+      "to": "node_42",
+      "distance": 0.36,
+      "duration": 1,
+      "elevation": -57,
+      "geometry": [
+        [
+          45.969211,
+          9.501565
+        ],
+        [
+          45.969804,
+          9.501891
+        ],
+        [
+          45.971168,
+          9.502528
+        ],
+        [
+          45.971348,
+          9.502593
+        ],
+        [
+          45.971995,
+          9.502737
+        ],
+        [
+          45.972298,
+          9.502828
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467795250_7",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_43",
+      "distance": 0.53,
+      "duration": 1,
+      "elevation": -84,
+      "geometry": [
+        [
+          45.972298,
+          9.502828
+        ],
+        [
+          45.972893,
+          9.503198
+        ],
+        [
+          45.97346,
+          9.503404
+        ],
+        [
+          45.97417,
+          9.503959
+        ],
+        [
+          45.974532,
+          9.504303
+        ],
+        [
+          45.975128,
+          9.504499
+        ],
+        [
+          45.975603,
+          9.504671
+        ],
+        [
+          45.97608,
+          9.50506
+        ],
+        [
+          45.97646,
+          9.505789
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467795250_9",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.976565,
+          9.506164
+        ],
+        [
+          45.976604,
+          9.506535
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467795250_10",
+      "name": "Tre Signori",
+      "type": "slope",
+      "from": "node_44",
+      "to": "node_6",
+      "distance": 0.25,
+      "duration": 1,
+      "elevation": -40,
+      "geometry": [
+        [
+          45.976604,
+          9.506535
+        ],
+        [
+          45.976657,
+          9.507162
+        ],
+        [
+          45.976718,
+          9.507698
+        ],
+        [
+          45.976893,
+          9.508903
+        ],
+        [
+          45.976924,
+          9.509542
+        ],
+        [
+          45.976909,
+          9.509746
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467800570_3",
+      "name": "Pesciola",
+      "type": "slope",
+      "from": "node_19",
+      "to": "node_45",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.954166,
+          9.499597
+        ],
+        [
+          45.954512,
+          9.498963
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467800570_4",
+      "name": "Pesciola",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.48,
+      "duration": 1,
+      "elevation": -76,
+      "geometry": [
+        [
+          45.954512,
+          9.498963
+        ],
+        [
+          45.954729,
+          9.498567
+        ],
+        [
+          45.955119,
+          9.49793
+        ],
+        [
+          45.95538,
+          9.497519
+        ],
+        [
+          45.955893,
+          9.496911
+        ],
+        [
+          45.956342,
+          9.496285
+        ],
+        [
+          45.956776,
+          9.49587
+        ],
+        [
+          45.957358,
+          9.49573
+        ],
+        [
+          45.957645,
+          9.495578
+        ],
+        [
+          45.957924,
+          9.495349
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467800712_0",
+      "name": "Orscellera Centrale",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_48",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          45.954171,
+          9.492799
+        ],
+        [
+          45.954202,
+          9.493273
+        ],
+        [
+          45.954494,
+          9.494003
+        ],
+        [
+          45.954885,
+          9.494733
+        ],
+        [
+          45.955232,
+          9.495275
+        ],
+        [
+          45.955477,
+          9.495528
+        ],
+        [
+          45.955641,
+          9.495621
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467801142_1",
+      "name": "Piani di Bobbio - Valtorta",
+      "type": "slope",
+      "from": "node_49",
+      "to": "node_50",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          45.963174,
+          9.498813
+        ],
+        [
+          45.963452,
+          9.498679
+        ],
+        [
+          45.963795,
+          9.49858
+        ],
+        [
+          45.96464,
+          9.498705
+        ],
+        [
+          45.965425,
+          9.498789
+        ],
+        [
+          45.966415,
+          9.498928
+        ],
+        [
+          45.966721,
+          9.498963
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467801142_4",
+      "name": "Piani di Bobbio - Valtorta",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_51",
+      "distance": 0.11,
+      "duration": 1,
+      "elevation": -17,
+      "geometry": [
+        [
+          45.967098,
+          9.499137
+        ],
+        [
+          45.967616,
+          9.499547
+        ],
+        [
+          45.967945,
+          9.49991
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467801486_1",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_52",
+      "to": "node_53",
+      "distance": 1.01,
+      "duration": 1,
+      "elevation": -161,
+      "geometry": [
+        [
+          45.966237,
+          9.500577
+        ],
+        [
+          45.965699,
+          9.50163
+        ],
+        [
+          45.96533,
+          9.501961
+        ],
+        [
+          45.965249,
+          9.502057
+        ],
+        [
+          45.965199,
+          9.502135
+        ],
+        [
+          45.965198,
+          9.502285
+        ],
+        [
+          45.965281,
+          9.502544
+        ],
+        [
+          45.965807,
+          9.503026
+        ],
+        [
+          45.966015,
+          9.503098
+        ],
+        [
+          45.966572,
+          9.503246
+        ],
+        [
+          45.967177,
+          9.503268
+        ],
+        [
+          45.967507,
+          9.503297
+        ],
+        [
+          45.96811,
+          9.503528
+        ],
+        [
+          45.969007,
+          9.503875
+        ],
+        [
+          45.96971,
+          9.504099
+        ],
+        [
+          45.970912,
+          9.504506
+        ],
+        [
+          45.971348,
+          9.504662
+        ],
+        [
+          45.971799,
+          9.504786
+        ],
+        [
+          45.972251,
+          9.504951
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467801486_2",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_53",
+      "to": "node_6",
+      "distance": 0.64,
+      "duration": 1,
+      "elevation": -102,
+      "geometry": [
+        [
+          45.972251,
+          9.504951
+        ],
+        [
+          45.972704,
+          9.505416
+        ],
+        [
+          45.973055,
+          9.505937
+        ],
+        [
+          45.973158,
+          9.506081
+        ],
+        [
+          45.973343,
+          9.506217
+        ],
+        [
+          45.973867,
+          9.506513
+        ],
+        [
+          45.974381,
+          9.506819
+        ],
+        [
+          45.974537,
+          9.507011
+        ],
+        [
+          45.97469,
+          9.507218
+        ],
+        [
+          45.975142,
+          9.507849
+        ],
+        [
+          45.97547,
+          9.50838
+        ],
+        [
+          45.975796,
+          9.508755
+        ],
+        [
+          45.976315,
+          9.509175
+        ],
+        [
+          45.976675,
+          9.509528
+        ],
+        [
+          45.976828,
+          9.509731
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467802503_0",
+      "name": "Cedrino",
+      "type": "slope",
+      "from": "node_54",
+      "to": "node_55",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          45.973766,
+          9.497203
+        ],
+        [
+          45.974031,
+          9.496755
+        ],
+        [
+          45.97415,
+          9.496658
+        ],
+        [
+          45.974358,
+          9.496591
+        ],
+        [
+          45.974438,
+          9.49662
+        ],
+        [
+          45.974896,
+          9.497164
+        ],
+        [
+          45.975254,
+          9.497829
+        ],
+        [
+          45.975493,
+          9.498378
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467802503_2",
+      "name": "Cedrino",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_9",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          45.975553,
+          9.498516
+        ],
+        [
+          45.975746,
+          9.499331
+        ],
+        [
+          45.976134,
+          9.50064
+        ],
+        [
+          45.976314,
+          9.501286
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467802503_4",
+      "name": "Cedrino",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_43",
+      "distance": 0.35,
+      "duration": 1,
+      "elevation": -56,
+      "geometry": [
+        [
+          45.976377,
+          9.501708
+        ],
+        [
+          45.976373,
+          9.502056
+        ],
+        [
+          45.976239,
+          9.503
+        ],
+        [
+          45.976148,
+          9.503836
+        ],
+        [
+          45.976173,
+          9.504119
+        ],
+        [
+          45.976424,
+          9.504984
+        ],
+        [
+          45.976473,
+          9.505216
+        ],
+        [
+          45.976565,
+          9.506164
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_467803014_0",
+      "name": "Ceresola",
+      "type": "slope",
+      "from": "node_55",
+      "to": "node_56",
+      "distance": 0.31,
+      "duration": 1,
+      "elevation": -49,
+      "geometry": [
+        [
+          45.975553,
+          9.498516
+        ],
+        [
+          45.975981,
+          9.498966
+        ],
+        [
+          45.976288,
+          9.499533
+        ],
+        [
+          45.976346,
+          9.500042
+        ],
+        [
+          45.976566,
+          9.500867
+        ],
+        [
+          45.976987,
+          9.501796
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_467803014_1",
+      "name": "Ceresola",
+      "type": "slope",
+      "from": "node_56",
+      "to": "node_57",
+      "distance": 0.52,
+      "duration": 1,
+      "elevation": -83,
+      "geometry": [
+        [
+          45.976987,
+          9.501796
+        ],
+        [
+          45.977592,
+          9.502657
+        ],
+        [
+          45.977979,
+          9.502914
+        ],
+        [
+          45.978349,
+          9.503211
+        ],
+        [
+          45.978642,
+          9.503743
+        ],
+        [
+          45.978755,
+          9.504309
+        ],
+        [
+          45.978934,
+          9.504996
+        ],
+        [
+          45.979038,
+          9.505897
+        ],
+        [
+          45.979113,
+          9.506562
+        ],
+        [
+          45.9791,
+          9.507287
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_523124339_0",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_58",
+      "to": "node_59",
+      "distance": 0.4,
+      "duration": 1,
+      "elevation": -64,
+      "geometry": [
+        [
+          45.953458,
+          9.494261
+        ],
+        [
+          45.953209,
+          9.494834
+        ],
+        [
+          45.95306,
+          9.495325
+        ],
+        [
+          45.952582,
+          9.496178
+        ],
+        [
+          45.952176,
+          9.496999
+        ],
+        [
+          45.951969,
+          9.497616
+        ],
+        [
+          45.951773,
+          9.498257
+        ],
+        [
+          45.951653,
+          9.498681
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_776818060_0",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_59",
+      "to": "node_48",
+      "distance": 0.54,
+      "duration": 1,
+      "elevation": -86,
+      "geometry": [
+        [
+          45.951747,
+          9.498997
+        ],
+        [
+          45.952027,
+          9.498877
+        ],
+        [
+          45.952568,
+          9.498185
+        ],
+        [
+          45.952808,
+          9.497906
+        ],
+        [
+          45.953093,
+          9.497773
+        ],
+        [
+          45.953665,
+          9.497622
+        ],
+        [
+          45.954056,
+          9.497469
+        ],
+        [
+          45.954433,
+          9.497191
+        ],
+        [
+          45.95494,
+          9.496605
+        ],
+        [
+          45.955275,
+          9.496284
+        ],
+        [
+          45.955433,
+          9.496144
+        ],
+        [
+          45.955908,
+          9.495704
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_776818060_1",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_48",
+      "to": "node_46",
+      "distance": 0.23,
+      "duration": 1,
+      "elevation": -36,
+      "geometry": [
+        [
+          45.955908,
+          9.495704
+        ],
+        [
+          45.956311,
+          9.495603
+        ],
+        [
+          45.956835,
+          9.495474
+        ],
+        [
+          45.957603,
+          9.495312
+        ],
+        [
+          45.957924,
+          9.495349
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_836102973_0",
+      "name": "Cedrino",
+      "type": "slope",
+      "from": "node_7",
+      "to": "node_54",
+      "distance": 0.66,
+      "duration": 1,
+      "elevation": -105,
+      "geometry": [
+        [
+          45.969074,
+          9.497244
+        ],
+        [
+          45.96965,
+          9.497703
+        ],
+        [
+          45.969745,
+          9.497762
+        ],
+        [
+          45.970098,
+          9.498168
+        ],
+        [
+          45.970322,
+          9.498425
+        ],
+        [
+          45.970424,
+          9.498575
+        ],
+        [
+          45.970678,
+          9.498949
+        ],
+        [
+          45.971125,
+          9.499307
+        ],
+        [
+          45.971278,
+          9.499372
+        ],
+        [
+          45.971646,
+          9.499079
+        ],
+        [
+          45.971905,
+          9.498904
+        ],
+        [
+          45.972174,
+          9.498721
+        ],
+        [
+          45.972283,
+          9.49874
+        ],
+        [
+          45.972495,
+          9.498778
+        ],
+        [
+          45.972722,
+          9.498664
+        ],
+        [
+          45.972907,
+          9.498714
+        ],
+        [
+          45.973126,
+          9.498773
+        ],
+        [
+          45.97336,
+          9.498897
+        ],
+        [
+          45.97342,
+          9.498864
+        ],
+        [
+          45.973475,
+          9.498788
+        ],
+        [
+          45.97349,
+          9.49856
+        ],
+        [
+          45.973478,
+          9.498333
+        ],
+        [
+          45.973464,
+          9.498044
+        ],
+        [
+          45.973501,
+          9.497858
+        ],
+        [
+          45.97353,
+          9.497689
+        ],
+        [
+          45.973624,
+          9.497528
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_847533099_1",
+      "name": "Valtorta - Piani di Bobbio",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_60",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.961198,
+          9.490294
+        ],
+        [
+          45.961252,
+          9.489996
+        ],
+        [
+          45.961315,
+          9.489725
+        ],
+        [
+          45.961368,
+          9.489497
+        ],
+        [
+          45.96139,
+          9.489382
+        ],
+        [
+          45.961392,
+          9.489287
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1021937008_0",
+      "name": "Piste 1021937008",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_41",
+      "distance": 0.17,
+      "duration": 1,
+      "elevation": -27,
+      "geometry": [
+        [
+          45.967945,
+          9.49991
+        ],
+        [
+          45.968068,
+          9.500421
+        ],
+        [
+          45.968291,
+          9.500816
+        ],
+        [
+          45.968559,
+          9.501049
+        ],
+        [
+          45.969026,
+          9.501402
+        ]
+      ],
+      "difficulty": "black"
+    },
+    {
+      "id": "piste_1021937009_0",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_40",
+      "to": "node_51",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          45.969051,
+          9.499301
+        ],
+        [
+          45.968486,
+          9.499621
+        ],
+        [
+          45.967945,
+          9.49991
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122844069_0",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_51",
+      "to": "node_61",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.967945,
+          9.49991
+        ],
+        [
+          45.967575,
+          9.500038
+        ],
+        [
+          45.9674,
+          9.500037
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122844070_2",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_61",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.967008,
+          9.499961
+        ],
+        [
+          45.966763,
+          9.499941
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122844070_5",
+      "name": "Nube Bianca",
+      "type": "slope",
+      "from": "node_62",
+      "to": "node_52",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.966592,
+          9.49997
+        ],
+        [
+          45.966507,
+          9.500124
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122844071_1",
+      "name": "Piste 1122844071",
+      "type": "slope",
+      "from": "node_50",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.966891,
+          9.499414
+        ],
+        [
+          45.966802,
+          9.499671
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122862708_1",
+      "name": "Variante Piero Busi",
+      "type": "slope",
+      "from": "node_42",
+      "to": "node_53",
+      "distance": 0.16,
+      "duration": 1,
+      "elevation": -25,
+      "geometry": [
+        [
+          45.97236,
+          9.503099
+        ],
+        [
+          45.97234,
+          9.503283
+        ],
+        [
+          45.972168,
+          9.503757
+        ],
+        [
+          45.972065,
+          9.504196
+        ],
+        [
+          45.972042,
+          9.504412
+        ],
+        [
+          45.97206,
+          9.504642
+        ],
+        [
+          45.972251,
+          9.504951
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1122865647_0",
+      "name": "Piste 1122865647",
+      "type": "slope",
+      "from": "node_9",
+      "to": "node_56",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.976527,
+          9.501513
+        ],
+        [
+          45.976806,
+          9.501573
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123076449_0",
+      "name": "Valtorta - Piani di Bobbio",
+      "type": "slope",
+      "from": "node_24",
+      "to": "node_37",
+      "distance": 0.19,
+      "duration": 1,
+      "elevation": -30,
+      "geometry": [
+        [
+          45.962789,
+          9.493871
+        ],
+        [
+          45.962583,
+          9.49357
+        ],
+        [
+          45.962458,
+          9.493399
+        ],
+        [
+          45.962056,
+          9.492734
+        ],
+        [
+          45.961661,
+          9.492097
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123076451_1",
+      "name": "Valtorta - Piani di Bobbio",
+      "type": "slope",
+      "from": "node_37",
+      "to": "node_23",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.961532,
+          9.491851
+        ],
+        [
+          45.961403,
+          9.491466
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123115396_0",
+      "name": "Piani di Bobbio - Valtorta",
+      "type": "slope",
+      "from": "node_5",
+      "to": "node_49",
+      "distance": 0.21,
+      "duration": 1,
+      "elevation": -33,
+      "geometry": [
+        [
+          45.961629,
+          9.500893
+        ],
+        [
+          45.961783,
+          9.500542
+        ],
+        [
+          45.96209,
+          9.500184
+        ],
+        [
+          45.962555,
+          9.499547
+        ],
+        [
+          45.962675,
+          9.499357
+        ],
+        [
+          45.962949,
+          9.499012
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123134895_1",
+      "name": "Piste 1123134895",
+      "type": "slope",
+      "from": "node_4",
+      "to": "node_36",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.961978,
+          9.49415
+        ],
+        [
+          45.962065,
+          9.493986
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123148575_0",
+      "name": "Piste 1123148575",
+      "type": "slope",
+      "from": "node_38",
+      "to": "node_22",
+      "distance": 0.27,
+      "duration": 1,
+      "elevation": -43,
+      "geometry": [
+        [
+          45.961479,
+          9.497873
+        ],
+        [
+          45.961399,
+          9.497385
+        ],
+        [
+          45.961279,
+          9.496701
+        ],
+        [
+          45.961121,
+          9.495857
+        ],
+        [
+          45.960932,
+          9.49513
+        ],
+        [
+          45.960705,
+          9.494581
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123148575_3",
+      "name": "Piste 1123148575",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960504,
+          9.494346
+        ],
+        [
+          45.960375,
+          9.494319
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123148575_4",
+      "name": "Piste 1123148575",
+      "type": "slope",
+      "from": "node_63",
+      "to": "node_2",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.960375,
+          9.494319
+        ],
+        [
+          45.959882,
+          9.494478
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123148578_0",
+      "name": "Piste 1123148578",
+      "type": "slope",
+      "from": "node_22",
+      "to": "node_63",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960786,
+          9.494291
+        ],
+        [
+          45.960652,
+          9.494262
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123148580_0",
+      "name": "Piste 1123148580",
+      "type": "slope",
+      "from": "node_64",
+      "to": "node_65",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.959766,
+          9.500029
+        ],
+        [
+          45.960315,
+          9.499975
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123148581_2",
+      "name": "Piste 1123148581",
+      "type": "slope",
+      "from": "node_66",
+      "to": "node_64",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.959035,
+          9.499839
+        ],
+        [
+          45.959384,
+          9.499902
+        ],
+        [
+          45.959766,
+          9.500029
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123148584_1",
+      "name": "Piste 1123148584",
+      "type": "slope",
+      "from": "node_33",
+      "to": "node_66",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.958778,
+          9.499775
+        ],
+        [
+          45.958909,
+          9.499806
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123167375_0",
+      "name": "Piste 1123167375",
+      "type": "slope",
+      "from": "node_26",
+      "to": "node_67",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.959347,
+          9.494828
+        ],
+        [
+          45.959305,
+          9.49456
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123167375_1",
+      "name": "Piste 1123167375",
+      "type": "slope",
+      "from": "node_67",
+      "to": "node_31",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.959305,
+          9.49456
+        ],
+        [
+          45.959308,
+          9.494068
+        ],
+        [
+          45.959314,
+          9.493525
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123169415_0",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_17",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.954815,
+          9.49187
+        ],
+        [
+          45.954648,
+          9.492087
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123169415_1",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_68",
+      "to": "node_47",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.954648,
+          9.492087
+        ],
+        [
+          45.954404,
+          9.492395
+        ],
+        [
+          45.954171,
+          9.492799
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123169417_0",
+      "name": "Orscellera",
+      "type": "slope",
+      "from": "node_47",
+      "to": "node_58",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": -19,
+      "geometry": [
+        [
+          45.954171,
+          9.492799
+        ],
+        [
+          45.953753,
+          9.493526
+        ],
+        [
+          45.95362,
+          9.493903
+        ],
+        [
+          45.953565,
+          9.494086
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123169419_1",
+      "name": "Piste 1123169419",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_31",
+      "distance": 0.18,
+      "duration": 1,
+      "elevation": -28,
+      "geometry": [
+        [
+          45.958089,
+          9.495086
+        ],
+        [
+          45.958369,
+          9.494745
+        ],
+        [
+          45.958664,
+          9.49443
+        ],
+        [
+          45.958892,
+          9.494162
+        ],
+        [
+          45.959057,
+          9.493952
+        ],
+        [
+          45.959314,
+          9.493525
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123172240_0",
+      "name": "Piste 1123172240",
+      "type": "slope",
+      "from": "node_21",
+      "to": "node_69",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.96119,
+          9.490418
+        ],
+        [
+          45.961162,
+          9.490022
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123172240_3",
+      "name": "Piste 1123172240",
+      "type": "slope",
+      "from": "node_69",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.961026,
+          9.489544
+        ],
+        [
+          45.960873,
+          9.489382
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123172241_2",
+      "name": "Skiweg Fortino",
+      "type": "slope",
+      "from": "node_60",
+      "to": "node_39",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.961204,
+          9.489197
+        ],
+        [
+          45.961113,
+          9.489306
+        ]
+      ],
+      "difficulty": "blue"
+    },
+    {
+      "id": "piste_1123733914_0",
+      "name": "Snow Park",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_70",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": -8,
+      "geometry": [
+        [
+          45.960929,
+          9.501774
+        ],
+        [
+          45.960737,
+          9.501742
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1123733914_1",
+      "name": "Snow Park",
+      "type": "slope",
+      "from": "node_70",
+      "to": "node_65",
+      "distance": 0.13,
+      "duration": 1,
+      "elevation": -20,
+      "geometry": [
+        [
+          45.960737,
+          9.501742
+        ],
+        [
+          45.960595,
+          9.50162
+        ],
+        [
+          45.960499,
+          9.501279
+        ],
+        [
+          45.960352,
+          9.500571
+        ],
+        [
+          45.960375,
+          9.500189
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1198818833_0",
+      "name": "Ceresola",
+      "type": "slope",
+      "from": "node_57",
+      "to": "node_8",
+      "distance": 0.28,
+      "duration": 1,
+      "elevation": -44,
+      "geometry": [
+        [
+          45.9791,
+          9.507287
+        ],
+        [
+          45.979023,
+          9.507828
+        ],
+        [
+          45.978844,
+          9.508365
+        ],
+        [
+          45.978373,
+          9.508792
+        ],
+        [
+          45.977965,
+          9.509073
+        ],
+        [
+          45.977305,
+          9.509412
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1198818833_1",
+      "name": "Ceresola",
+      "type": "slope",
+      "from": "node_8",
+      "to": "node_6",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": -12,
+      "geometry": [
+        [
+          45.977305,
+          9.509412
+        ],
+        [
+          45.976757,
+          9.50998
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1360725066_1",
+      "name": "Piste 1360725066",
+      "type": "slope",
+      "from": "node_46",
+      "to": "node_67",
+      "distance": 0.14,
+      "duration": 1,
+      "elevation": -22,
+      "geometry": [
+        [
+          45.958151,
+          9.495297
+        ],
+        [
+          45.958243,
+          9.495261
+        ],
+        [
+          45.95858,
+          9.495129
+        ],
+        [
+          45.95869,
+          9.495029
+        ],
+        [
+          45.958987,
+          9.494969
+        ],
+        [
+          45.959347,
+          9.494828
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1360725067_0",
+      "name": "Piste 1360725067",
+      "type": "slope",
+      "from": "node_34",
+      "to": "node_28",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.960149,
+          9.497785
+        ],
+        [
+          45.960383,
+          9.497078
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1360725068_0",
+      "name": "Piani di Bobbio - Valtorta",
+      "type": "slope",
+      "from": "node_1",
+      "to": "node_5",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": -9,
+      "geometry": [
+        [
+          45.96136,
+          9.501608
+        ],
+        [
+          45.961629,
+          9.500893
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "piste_1360725069_0",
+      "name": "Ongania",
+      "type": "slope",
+      "from": "node_45",
+      "to": "node_46",
+      "distance": 0.52,
+      "duration": 1,
+      "elevation": -83,
+      "geometry": [
+        [
+          45.954512,
+          9.498963
+        ],
+        [
+          45.954785,
+          9.49913
+        ],
+        [
+          45.955044,
+          9.499151
+        ],
+        [
+          45.955814,
+          9.498855
+        ],
+        [
+          45.956243,
+          9.498544
+        ],
+        [
+          45.956743,
+          9.497876
+        ],
+        [
+          45.957132,
+          9.497397
+        ],
+        [
+          45.957416,
+          9.496835
+        ],
+        [
+          45.957924,
+          9.495349
+        ]
+      ],
+      "difficulty": "red"
+    },
+    {
+      "id": "walk_node_0_node_15",
+      "name": "Walk: Fortino (Base) ↔ Area Bob e Slittino 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_15",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959862,
+          9.489905
+        ],
+        [
+          45.960324,
+          9.4891
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_16",
+      "name": "Walk: Fortino (Base) ↔ Nuova Orscellera (Base)",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_16",
+      "distance": 0.02,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959862,
+          9.489905
+        ],
+        [
+          45.959714,
+          9.489813
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_0_node_32",
+      "name": "Walk: Fortino (Base) ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_0",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959862,
+          9.489905
+        ],
+        [
+          45.959677,
+          9.490468
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_5",
+      "name": "Walk: Fortino (Summit / Top) ↔ Chiesetta (Summit / Top)",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_5",
+      "distance": 0.08,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961129,
+          9.501686
+        ],
+        [
+          45.961585,
+          9.500923
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_27",
+      "name": "Walk: Fortino (Summit / Top) ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_27",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961129,
+          9.501686
+        ],
+        [
+          45.96136,
+          9.501608
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_1_node_70",
+      "name": "Walk: Fortino (Summit / Top) ↔ Junction: Snow Park",
+      "type": "walk",
+      "from": "node_1",
+      "to": "node_70",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961129,
+          9.501686
+        ],
+        [
+          45.960737,
+          9.501742
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_26",
+      "name": "Walk: Camosci (Base) ↔ Junction: Campelli",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_26",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959695,
+          9.494481
+        ],
+        [
+          45.959261,
+          9.495136
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_29",
+      "name": "Walk: Camosci (Base) ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_29",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959695,
+          9.494481
+        ],
+        [
+          45.960012,
+          9.494583
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_2_node_67",
+      "name": "Walk: Camosci (Base) ↔ Junction #68",
+      "type": "walk",
+      "from": "node_2",
+      "to": "node_67",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959695,
+          9.494481
+        ],
+        [
+          45.959319,
+          9.494649
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_4_node_36",
+      "name": "Walk: Chiesetta (Base) ↔ Junction: Chiesetta",
+      "type": "walk",
+      "from": "node_4",
+      "to": "node_36",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961806,
+          9.494297
+        ],
+        [
+          45.962132,
+          9.493717
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_18",
+      "name": "Walk: Chiesetta (Summit / Top) ↔ Collegamento Valtorta (Base)",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_18",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961585,
+          9.500923
+        ],
+        [
+          45.960665,
+          9.499902
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_5_node_27",
+      "name": "Walk: Chiesetta (Summit / Top) ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_5",
+      "to": "node_27",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961585,
+          9.500923
+        ],
+        [
+          45.96136,
+          9.501608
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_8",
+      "name": "Walk: Chiavello (Base) ↔ Capanno (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_8",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.976819,
+          9.509849
+        ],
+        [
+          45.977305,
+          9.509412
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_6_node_12",
+      "name": "Walk: Chiavello (Base) ↔ Valtorta (Base)",
+      "type": "walk",
+      "from": "node_6",
+      "to": "node_12",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.976819,
+          9.509849
+        ],
+        [
+          45.97708,
+          9.510713
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_8_node_12",
+      "name": "Walk: Capanno (Base) ↔ Valtorta (Base)",
+      "type": "walk",
+      "from": "node_8",
+      "to": "node_12",
+      "distance": 0.1,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.977305,
+          9.509412
+        ],
+        [
+          45.97708,
+          9.510713
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_9_node_56",
+      "name": "Walk: Capanno (Summit / Top) ↔ Junction: Ceresola",
+      "type": "walk",
+      "from": "node_9",
+      "to": "node_56",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.976406,
+          9.501503
+        ],
+        [
+          45.976915,
+          9.501707
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_11_node_14",
+      "name": "Walk: Barzio - Piani di Bobbio (Summit / Top) ↔ Area Bob e Slittino 1 (Base)",
+      "type": "walk",
+      "from": "node_11",
+      "to": "node_14",
+      "distance": 0.13,
+      "duration": 2,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.96149,
+          9.488077
+        ],
+        [
+          45.960335,
+          9.488146
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_12_node_13",
+      "name": "Walk: Valtorta (Base) ↔ Valtorta (Summit / Top)",
+      "type": "walk",
+      "from": "node_12",
+      "to": "node_13",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.97708,
+          9.510713
+        ],
+        [
+          45.977231,
+          9.51185
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_15",
+      "name": "Walk: Area Bob e Slittino 1 (Base) ↔ Area Bob e Slittino 1 (Summit / Top)",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_15",
+      "distance": 0.07,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960335,
+          9.488146
+        ],
+        [
+          45.960324,
+          9.4891
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_14_node_20",
+      "name": "Walk: Area Bob e Slittino 1 (Base) ↔ Junction #21",
+      "type": "walk",
+      "from": "node_14",
+      "to": "node_20",
+      "distance": 0.12,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960335,
+          9.488146
+        ],
+        [
+          45.960063,
+          9.486702
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_15_node_16",
+      "name": "Walk: Area Bob e Slittino 1 (Summit / Top) ↔ Nuova Orscellera (Base)",
+      "type": "walk",
+      "from": "node_15",
+      "to": "node_16",
+      "distance": 0.09,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960324,
+          9.4891
+        ],
+        [
+          45.959714,
+          9.489813
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_16_node_32",
+      "name": "Walk: Nuova Orscellera (Base) ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_16",
+      "to": "node_32",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959714,
+          9.489813
+        ],
+        [
+          45.959677,
+          9.490468
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_17_node_68",
+      "name": "Walk: Nuova Orscellera (Summit / Top) ↔ Junction: Orscellera",
+      "type": "walk",
+      "from": "node_17",
+      "to": "node_68",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.95499,
+          9.491728
+        ],
+        [
+          45.954648,
+          9.492087
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_18_node_65",
+      "name": "Walk: Collegamento Valtorta (Base) ↔ Junction: Snow Park",
+      "type": "walk",
+      "from": "node_18",
+      "to": "node_65",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960665,
+          9.499902
+        ],
+        [
+          45.960405,
+          9.500033
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_21_node_69",
+      "name": "Walk: Junction: Valtorta - Piani di Bobbio ↔ Junction #70",
+      "type": "walk",
+      "from": "node_21",
+      "to": "node_69",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.96118,
+          9.490518
+        ],
+        [
+          45.961089,
+          9.489744
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_22_node_63",
+      "name": "Walk: Junction #23 ↔ Junction #64",
+      "type": "walk",
+      "from": "node_22",
+      "to": "node_63",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960754,
+          9.494391
+        ],
+        [
+          45.960501,
+          9.494288
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_23_node_37",
+      "name": "Walk: Junction: Valtorta - Piani di Bobbio ↔ Junction: Chiesetta",
+      "type": "walk",
+      "from": "node_23",
+      "to": "node_37",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961385,
+          9.491412
+        ],
+        [
+          45.961609,
+          9.492036
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_35",
+      "name": "Walk: Junction: Campelli ↔ Junction: Camosci",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_35",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959261,
+          9.495136
+        ],
+        [
+          45.959249,
+          9.49557
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_26_node_67",
+      "name": "Walk: Junction: Campelli ↔ Junction #68",
+      "type": "walk",
+      "from": "node_26",
+      "to": "node_67",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959261,
+          9.495136
+        ],
+        [
+          45.959319,
+          9.494649
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_28_node_34",
+      "name": "Walk: Junction: Baite ↔ Junction: Camosci",
+      "type": "walk",
+      "from": "node_28",
+      "to": "node_34",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960372,
+          9.496956
+        ],
+        [
+          45.960136,
+          9.497648
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_29_node_63",
+      "name": "Walk: Junction: Baite ↔ Junction #64",
+      "type": "walk",
+      "from": "node_29",
+      "to": "node_63",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960012,
+          9.494583
+        ],
+        [
+          45.960501,
+          9.494288
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_30_node_31",
+      "name": "Walk: Junction: Baite ↔ Junction: Baite",
+      "type": "walk",
+      "from": "node_30",
+      "to": "node_31",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.959362,
+          9.493666
+        ],
+        [
+          45.959299,
+          9.493329
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_33_node_66",
+      "name": "Walk: Junction: Camosci ↔ Junction #67",
+      "type": "walk",
+      "from": "node_33",
+      "to": "node_66",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.958565,
+          9.499764
+        ],
+        [
+          45.958966,
+          9.49982
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_39_node_60",
+      "name": "Walk: Junction: Skiweg Fortino ↔ Junction: Valtorta - Piani di Bobbio",
+      "type": "walk",
+      "from": "node_39",
+      "to": "node_60",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960935,
+          9.489359
+        ],
+        [
+          45.961333,
+          9.489141
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_39_node_69",
+      "name": "Walk: Junction: Skiweg Fortino ↔ Junction #70",
+      "type": "walk",
+      "from": "node_39",
+      "to": "node_69",
+      "distance": 0.03,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.960935,
+          9.489359
+        ],
+        [
+          45.961089,
+          9.489744
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_43_node_44",
+      "name": "Walk: Junction: Tre Signori ↔ Junction: Tre Signori",
+      "type": "walk",
+      "from": "node_43",
+      "to": "node_44",
+      "distance": 0.04,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.976523,
+          9.506014
+        ],
+        [
+          45.976604,
+          9.506535
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_50_node_62",
+      "name": "Walk: Junction: Piani di Bobbio - Valtorta ↔ Junction: Nube Bianca",
+      "type": "walk",
+      "from": "node_50",
+      "to": "node_62",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.966922,
+          9.499139
+        ],
+        [
+          45.966696,
+          9.499885
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_52_node_62",
+      "name": "Walk: Junction: Nube Bianca ↔ Junction: Nube Bianca",
+      "type": "walk",
+      "from": "node_52",
+      "to": "node_62",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.966384,
+          9.500318
+        ],
+        [
+          45.966696,
+          9.499885
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_60_node_69",
+      "name": "Walk: Junction: Valtorta - Piani di Bobbio ↔ Junction #70",
+      "type": "walk",
+      "from": "node_60",
+      "to": "node_69",
+      "distance": 0.05,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.961333,
+          9.489141
+        ],
+        [
+          45.961089,
+          9.489744
+        ]
+      ]
+    },
+    {
+      "id": "walk_node_61_node_62",
+      "name": "Walk: Junction: Nube Bianca ↔ Junction: Nube Bianca",
+      "type": "walk",
+      "from": "node_61",
+      "to": "node_62",
+      "distance": 0.06,
+      "duration": 1,
+      "elevation": 0,
+      "bidirectional": true,
+      "geometry": [
+        [
+          45.967196,
+          9.499993
+        ],
+        [
+          45.966696,
+          9.499885
+        ]
+      ]
+    }
+  ]
+}
