@@ -1,0 +1,110 @@
+[
+  {
+    "id": "madonna",
+    "name": "Campiglio Dolomiti di Brenta",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "stats": {
+      "slopes": "88.5 km",
+      "lifts": 39,
+      "elevation": "850m - 2504m",
+      "drop": "1654m"
+    }
+  },
+  {
+    "id": "baqueira",
+    "name": "Baqueira Beret",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "152.3 km",
+      "lifts": 33,
+      "elevation": "1500m - 2610m",
+      "drop": "1110m"
+    }
+  },
+  {
+    "id": "sierranevada",
+    "name": "Sierra Nevada",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "104.4 km",
+      "lifts": 20,
+      "elevation": "2100m - 3300m",
+      "drop": "1200m"
+    }
+  },
+  {
+    "id": "formigal",
+    "name": "Formigal-Panticosa",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "128.2 km",
+      "lifts": 23,
+      "elevation": "1500m - 2250m",
+      "drop": "750m"
+    }
+  },
+  {
+    "id": "cerler",
+    "name": "Cerler",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "126.5 km",
+      "lifts": 19,
+      "elevation": "1500m - 2630m",
+      "drop": "1130m"
+    }
+  },
+  {
+    "id": "candanchu",
+    "name": "Candanchú",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "stats": {
+      "slopes": "44.9 km",
+      "lifts": 37,
+      "elevation": "1530m - 2400m",
+      "drop": "870m"
+    }
+  },
+  {
+    "id": "alpe",
+    "name": "Alpe d'Huez",
+    "country": "France",
+    "flag": "🇫🇷",
+    "stats": {
+      "slopes": "182.3 km",
+      "lifts": 61,
+      "elevation": "1100m - 3330m",
+      "drop": "2230m"
+    }
+  },
+  {
+    "id": "les3vallees",
+    "name": "Les 3 Vallées",
+    "country": "France",
+    "flag": "🇫🇷",
+    "stats": {
+      "slopes": "638.2 km",
+      "lifts": 102,
+      "elevation": "1300m - 3230m",
+      "drop": "1930m"
+    }
+  },
+  {
+    "id": "alpine",
+    "name": "Alpine Valley Resort",
+    "country": "Demo",
+    "flag": "🏔️",
+    "stats": {
+      "slopes": "60 km",
+      "lifts": 15,
+      "elevation": "1550m - 2400m",
+      "drop": "850m"
+    }
+  }
+]

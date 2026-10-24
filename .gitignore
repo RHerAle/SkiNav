@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+vendor/leaflet/images/*.png.bak
+
+# Android SDK, Gradle and Build artifacts
+android-cmdtools.zip
+android-sdk/
+.gradle/
+**/.gradle/
+build/
+**/build/
+local.properties
+**/local.properties
+captures/
+**/captures/
+.idea/
+**/.idea/
+*.iml
+**/*.iml
+
+# Application binaries (distribute via GitHub Releases)
+*.apk
+*.aab
+*.aar
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*.log
