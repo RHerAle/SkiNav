@@ -39,15 +39,37 @@ data class SkiResort(
     val edges: List<ResortEdge>
 ) {
     @Transient private var nodeMapCache: Map<String, ResortNode>? = null
+    @Transient private var outgoingCache: Map<String, List<RouteNeighbor>>? = null
 
     // ponytail: lazy cache map lookup
     fun getNode(nodeId: String): ResortNode? =
         (nodeMapCache ?: nodes.associateBy { it.id }.also { nodeMapCache = it })[nodeId]
 
+    // ponytail: cached adjacency list per resort eliminates full-graph rebuilds in A*
+    fun getOutgoingNeighbors(nodeId: String): List<RouteNeighbor> =
+        (outgoingCache ?: buildAdjacency().also { outgoingCache = it })[nodeId] ?: emptyList()
+
+    private fun buildAdjacency(): Map<String, List<RouteNeighbor>> {
+        val map = HashMap<String, MutableList<RouteNeighbor>>(nodes.size)
+        for (node in nodes) map[node.id] = ArrayList()
+        for (edge in edges) {
+            map[edge.from]?.add(RouteNeighbor(edge.to, edge, false))
+            val rev = edge.bidirectional != false && (
+                edge.bidirectional == true || edge.type == "bus" || edge.type == "walk" ||
+                (edge.type == "lift" && edge.subtype in BIDIRECTIONAL_LIFTS)
+            )
+            if (rev) map[edge.to]?.add(RouteNeighbor(edge.from, edge, true))
+        }
+        return map
+    }
+
     fun getSelectableLocations(): List<ResortNode> =
         nodes.filter { it.type == "station" }.sortedBy { it.name } +
             nodes.filter { it.type == "intersection" && it.name.isNotBlank() && !it.name.startsWith("Junction #") }.sortedBy { it.name }
 }
+
+val BIDIRECTIONAL_LIFTS = setOf("gondola", "cable_car", "mixed_lift", "funicular")
+class RouteNeighbor(val nodeId: String, val edge: ResortEdge, val reverse: Boolean)
 
 data class RouteFilters(
     val maxDifficulty: String = "black",

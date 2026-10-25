@@ -8,9 +8,6 @@ import kotlin.math.*
 
 object ResortPathfinder {
     private val DIFFICULTY_ORDER = listOf("green", "blue", "red", "black")
-    private val BIDIRECTIONAL_LIFTS = setOf("gondola", "cable_car", "mixed_lift", "funicular")
-
-    private class Neighbor(val nodeId: String, val edge: ResortEdge, val reverse: Boolean)
     private class HeapItem(val nodeId: String, val priority: Double)
 
     // ponytail: zero-alloc ASCII time parser
@@ -106,21 +103,6 @@ object ResortPathfinder {
         return true
     }
 
-    private fun buildAdjacencyList(resort: SkiResort, filters: RouteFilters): Map<String, List<Neighbor>> {
-        val graph = HashMap<String, MutableList<Neighbor>>(resort.nodes.size)
-        for (node in resort.nodes) graph[node.id] = ArrayList()
-        for (edge in resort.edges) {
-            if (!shouldIncludeEdge(edge, filters)) continue
-            graph[edge.from]?.add(Neighbor(edge.to, edge, false))
-            val reversible = edge.bidirectional != false && (
-                edge.bidirectional == true || edge.type == "bus" || edge.type == "walk" ||
-                (edge.type == "lift" && edge.subtype in BIDIRECTIONAL_LIFTS)
-            )
-            if (reversible) graph[edge.to]?.add(Neighbor(edge.from, edge, true))
-        }
-        return graph
-    }
-
     fun haversineKm(lat1: Double, lng1: Double, lat2: Double, lng2: Double): Double {
         val dLat = Math.toRadians(lat2 - lat1)
         val dLng = Math.toRadians(lng2 - lng1)
@@ -152,7 +134,7 @@ object ResortPathfinder {
         return base + wait + penalty
     }
 
-    // ponytail: A* search using stdlib PriorityQueue
+    // ponytail: A* search using stdlib PriorityQueue and cached resort adjacency
     fun findPath(
         resort: SkiResort,
         startId: String,
@@ -161,7 +143,6 @@ object ResortPathfinder {
     ): List<RouteStep>? {
         if (startId == endId) return emptyList()
 
-        val graph = buildAdjacencyList(resort, filters)
         val openSet = PriorityQueue<HeapItem>(compareBy { it.priority })
         val closedSet = HashSet<String>(resort.nodes.size)
         val cameFrom = HashMap<String, RouteStep>(resort.nodes.size)
@@ -176,10 +157,11 @@ object ResortPathfinder {
             if (!closedSet.add(current)) continue
 
             val currentG = gScore[current] ?: Double.POSITIVE_INFINITY
-            val neighbors = graph[current] ?: continue
+            val neighbors = resort.getOutgoingNeighbors(current)
 
             for (neighbor in neighbors) {
                 if (neighbor.nodeId in closedSet) continue
+                if (!shouldIncludeEdge(neighbor.edge, filters)) continue
                 val tentativeG = currentG + calculateEdgeCost(neighbor.edge, filters)
                 if (tentativeG < (gScore[neighbor.nodeId] ?: Double.POSITIVE_INFINITY)) {
                     val wait = if (neighbor.edge.type == "bus") calculateBusWait(neighbor.edge, filters.departureTimeMinutes) else Pair(0, null)
