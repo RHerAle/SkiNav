@@ -9,6 +9,7 @@ android-sdk/
 **/.gradle/
 build/
 **/build/
+src/main/assets/
 local.properties
 **/local.properties
 captures/

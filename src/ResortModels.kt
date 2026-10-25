@@ -51,14 +51,15 @@ data class SkiResort(
 
     private fun buildAdjacency(): Map<String, List<RouteNeighbor>> {
         val map = HashMap<String, MutableList<RouteNeighbor>>(nodes.size)
+        val nodeMap = nodeMapCache ?: nodes.associateBy { it.id }.also { nodeMapCache = it }
         for (node in nodes) map[node.id] = ArrayList()
         for (edge in edges) {
-            map[edge.from]?.add(RouteNeighbor(edge.to, edge, false))
+            map[edge.from]?.add(RouteNeighbor(edge.to, edge, false, nodeMap[edge.to]))
             val rev = edge.bidirectional != false && (
                 edge.bidirectional == true || edge.type == "bus" || edge.type == "walk" ||
                 (edge.type == "lift" && edge.subtype in BIDIRECTIONAL_LIFTS)
             )
-            if (rev) map[edge.to]?.add(RouteNeighbor(edge.from, edge, true))
+            if (rev) map[edge.to]?.add(RouteNeighbor(edge.from, edge, true, nodeMap[edge.from]))
         }
         return map
     }
@@ -69,7 +70,7 @@ data class SkiResort(
 }
 
 val BIDIRECTIONAL_LIFTS = setOf("gondola", "cable_car", "mixed_lift", "funicular")
-class RouteNeighbor(val nodeId: String, val edge: ResortEdge, val reverse: Boolean)
+class RouteNeighbor(val nodeId: String, val edge: ResortEdge, val reverse: Boolean, val node: ResortNode? = null)
 
 data class RouteFilters(
     val maxDifficulty: String = "black",

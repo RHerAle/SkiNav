@@ -1,0 +1,3 @@
+## 2026-03-30 - Target Node Lookups & Trig Precomputation in A* Search
+**Learning:** In SkiNav's graph pathfinding, `heuristic()` and `getNode()` were performing repeated map lookups for the target node (`endId`) and re-evaluating trigonometric transformations (`Math.toRadians`, `cos`) per expanded neighbor edge. Pre-caching `ResortNode` references in `RouteNeighbor` during adjacency list initialization and pre-calculating target coordinates and cosine constants prior to the A* loop eliminates node lookups and trig computations during search.
+**Action:** When working on graph traversal and heuristic search engines, precompute invariant target node properties and pre-cache target node references in adjacency list structures before starting loop expansions.
