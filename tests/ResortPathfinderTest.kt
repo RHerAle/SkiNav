@@ -113,6 +113,24 @@ class ResortPathfinderTest {
     }
 
     @Test
+    fun testInputValidationAndParsingSecurity() {
+        // Test malformed and overflowing time strings
+        assertNull(ResortPathfinder.parseTimeMinutes("2147483658:00"))
+        assertNull(ResortPathfinder.parseTimeMinutes("0008:00"))
+        assertNull(ResortPathfinder.parseTimeMinutes("12:0000"))
+        assertNull(ResortPathfinder.parseTimeMinutes("25:00"))
+        assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
+        assertNull(ResortPathfinder.parseTimeMinutes(":15"))
+        assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Test non-existent node IDs fail fast returning null
+        val alpine = loadResort("alpine")
+        assertNull(ResortPathfinder.findPath(alpine, "nonexistent_start", "base"))
+        assertNull(ResortPathfinder.findPath(alpine, "base", "nonexistent_end"))
+        assertNull(ResortPathfinder.findPath(alpine, "nonexistent_start", "nonexistent_end"))
+    }
+
+    @Test
     fun testOutsideOperatingHoursExclusion() {
         val lift = ResortEdge("lift_1", "Chairlift", "lift", "A", "B", operatingHours = "08:45-16:45")
         val bus = ResortEdge("bus_1", "Bus", "bus", "A", "B", schedule = BusSchedule(startTime = "08:30", endTime = "17:30"))
