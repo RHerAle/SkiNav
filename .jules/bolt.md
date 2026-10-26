@@ -1,0 +1,4 @@
+## 2026-03-31 - A* Search Bottlenecks in SkiNav
+
+**Learning:** In `ResortPathfinder.findPath`, calling `resort.getNode(endId)` inside the heuristic for every neighbor causes repeated hash map lookups for the target destination. Pre-calculating destination coordinates (`endLatRad`, `endLngRad`, `cosEndLat`) outside the loop dramatically reduces node lookups. Additionally, `Math.pow(x, 2.0)` (`x.pow(2)`) in Haversine distance calls heavy JVM math intrinsics; replacing it with `x * x` avoids invocation overhead. Skipping `calculateBusWait` and `Pair` allocations for non-bus edges eliminated unnecessary heap allocations during graph traversal.
+**Action:** When working on graph traversal algorithms, extract fixed target node properties outside expansion loops and avoid boxing/object allocation on edge evaluations.

@@ -8,7 +8,18 @@ import kotlin.math.*
 
 object ResortPathfinder {
     private val DIFFICULTY_ORDER = listOf("green", "blue", "red", "black")
-    private class HeapItem(val nodeId: String, val priority: Double)
+
+    private class HeapItem(val nodeId: String, val priority: Double) : Comparable<HeapItem> {
+        override fun compareTo(other: HeapItem): Int = priority.compareTo(other.priority)
+    }
+
+    private fun difficultyIndex(diff: String?): Int = when (diff) {
+        "green" -> 0
+        "blue" -> 1
+        "red" -> 2
+        "black" -> 3
+        else -> 1
+    }
 
     // ponytail: zero-alloc ASCII time parser
     fun parseTimeMinutes(hhmm: String): Int? = parseTimeSlice(hhmm, 0, hhmm.length)
@@ -18,8 +29,8 @@ object ResortPathfinder {
         var end = to
         while (start < end && s[start] <= ' ') start++
         while (end > start && s[end - 1] <= ' ') end--
-        val colon = (start until end).firstOrNull { s[it] == ':' } ?: return null
-        if (colon == start || colon == end - 1) return null
+        val colon = s.indexOf(':', start)
+        if (colon == -1 || colon >= end || colon == start || colon == end - 1) return null
         var h = 0
         for (i in start until colon) {
             val c = s[i]
@@ -91,14 +102,13 @@ object ResortPathfinder {
         return if (nextMin != null) Pair(maxOf(0, nextMin - departureTimeMinutes), formatTimeMinutes(nextMin)) else Pair(0, null)
     }
 
-    private fun shouldIncludeEdge(edge: ResortEdge, filters: RouteFilters): Boolean {
-        if (edge.id in filters.closedEdgeIds) return false
+    private fun shouldIncludeEdge(edge: ResortEdge, filters: RouteFilters, maxDiffIdx: Int): Boolean {
+        if (filters.closedEdgeIds.isNotEmpty() && edge.id in filters.closedEdgeIds) return false
         if (filters.departureTimeMinutes != null && !isEdgeOperatingAt(edge, filters.departureTimeMinutes)) return false
         if (edge.type == "bus" && !filters.includeBus) return false
         if (edge.type == "slope" && filters.maxDifficulty.isNotEmpty()) {
-            val edgeIdx = DIFFICULTY_ORDER.indexOf(edge.difficulty ?: "blue").let { if (it < 0) 1 else it }
-            val maxIdx = DIFFICULTY_ORDER.indexOf(filters.maxDifficulty).let { if (it < 0) 3 else it }
-            if (edgeIdx > maxIdx) return false
+            val edgeIdx = difficultyIndex(edge.difficulty)
+            if (edgeIdx > maxDiffIdx) return false
         }
         return true
     }
@@ -106,20 +116,27 @@ object ResortPathfinder {
     fun haversineKm(lat1: Double, lng1: Double, lat2: Double, lng2: Double): Double {
         val dLat = Math.toRadians(lat2 - lat1)
         val dLng = Math.toRadians(lng2 - lng1)
-        val a = sin(dLat / 2).pow(2) + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sin(dLng / 2).pow(2)
+        val sLat = sin(dLat * 0.5)
+        val sLng = sin(dLng * 0.5)
+        val a = sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng
         return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
     }
 
-    private fun heuristic(resort: SkiResort, n1Id: String, n2Id: String): Double {
+    private fun heuristicNode(resort: SkiResort, n1Id: String, endLatRad: Double, endLngRad: Double, cosEndLat: Double): Double {
         val n1 = resort.getNode(n1Id) ?: return 0.0
-        val n2 = resort.getNode(n2Id) ?: return 0.0
-        return (haversineKm(n1.lat, n1.lng, n2.lat, n2.lng) / 20.0) * 60.0
+        val n1LatRad = Math.toRadians(n1.lat)
+        val dLat = endLatRad - n1LatRad
+        val dLng = endLngRad - Math.toRadians(n1.lng)
+        val sLat = sin(dLat * 0.5)
+        val sLng = sin(dLng * 0.5)
+        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
+        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
+        return (distKm / 20.0) * 60.0
     }
 
-    private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters): Double {
+    private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters, busWait: Int): Double {
         val base = if (edge.duration > 0) edge.duration else 2.0
-        val wait = calculateBusWait(edge, filters.departureTimeMinutes).first
-        if (filters.fastestRoute) return base + wait
+        if (filters.fastestRoute) return base + busWait
         val penalty = when (edge.type) {
             "slope" -> when (edge.difficulty) {
                 "green" -> 0.0
@@ -131,10 +148,10 @@ object ResortPathfinder {
             "walk" -> 2.0
             else -> 0.0
         }
-        return base + wait + penalty
+        return base + busWait + penalty
     }
 
-    // ponytail: A* search using stdlib PriorityQueue and cached resort adjacency
+    // ponytail: A* search using precomputed destination coordinates, direct Comparable heap, and fast edge filters
     fun findPath(
         resort: SkiResort,
         startId: String,
@@ -143,13 +160,19 @@ object ResortPathfinder {
     ): List<RouteStep>? {
         if (startId == endId) return emptyList()
 
-        val openSet = PriorityQueue<HeapItem>(compareBy { it.priority })
+        val endNode = resort.getNode(endId) ?: return null
+        val endLatRad = Math.toRadians(endNode.lat)
+        val endLngRad = Math.toRadians(endNode.lng)
+        val cosEndLat = cos(endLatRad)
+        val maxDiffIdx = if (filters.maxDifficulty.isNotEmpty()) difficultyIndex(filters.maxDifficulty) else 3
+
+        val openSet = PriorityQueue<HeapItem>()
         val closedSet = HashSet<String>(resort.nodes.size)
         val cameFrom = HashMap<String, RouteStep>(resort.nodes.size)
         val gScore = HashMap<String, Double>(resort.nodes.size)
 
         gScore[startId] = 0.0
-        openSet.add(HeapItem(startId, heuristic(resort, startId, endId)))
+        openSet.add(HeapItem(startId, heuristicNode(resort, startId, endLatRad, endLngRad, cosEndLat)))
 
         while (!openSet.isEmpty()) {
             val current = openSet.poll()?.nodeId ?: break
@@ -161,13 +184,21 @@ object ResortPathfinder {
 
             for (neighbor in neighbors) {
                 if (neighbor.nodeId in closedSet) continue
-                if (!shouldIncludeEdge(neighbor.edge, filters)) continue
-                val tentativeG = currentG + calculateEdgeCost(neighbor.edge, filters)
+                if (!shouldIncludeEdge(neighbor.edge, filters, maxDiffIdx)) continue
+
+                var busWait = 0
+                var nextDepartureTime: String? = null
+                if (neighbor.edge.type == "bus") {
+                    val waitPair = calculateBusWait(neighbor.edge, filters.departureTimeMinutes)
+                    busWait = waitPair.first
+                    nextDepartureTime = waitPair.second
+                }
+
+                val tentativeG = currentG + calculateEdgeCost(neighbor.edge, filters, busWait)
                 if (tentativeG < (gScore[neighbor.nodeId] ?: Double.POSITIVE_INFINITY)) {
-                    val wait = if (neighbor.edge.type == "bus") calculateBusWait(neighbor.edge, filters.departureTimeMinutes) else Pair(0, null)
-                    cameFrom[neighbor.nodeId] = RouteStep(current, neighbor.nodeId, neighbor.edge, neighbor.reverse, wait.first, wait.second)
+                    cameFrom[neighbor.nodeId] = RouteStep(current, neighbor.nodeId, neighbor.edge, neighbor.reverse, busWait, nextDepartureTime)
                     gScore[neighbor.nodeId] = tentativeG
-                    openSet.add(HeapItem(neighbor.nodeId, tentativeG + heuristic(resort, neighbor.nodeId, endId)))
+                    openSet.add(HeapItem(neighbor.nodeId, tentativeG + heuristicNode(resort, neighbor.nodeId, endLatRad, endLngRad, cosEndLat)))
                 }
             }
         }
@@ -262,8 +293,13 @@ object ResortPathfinder {
         return routes
     }
 
-    private fun arePathsEqual(p1: List<RouteStep>?, p2: List<RouteStep>?): Boolean =
-        p1 != null && p2 != null && p1.size == p2.size && p1.indices.all { p1[it].edge.id == p2[it].edge.id }
+    private fun arePathsEqual(p1: List<RouteStep>?, p2: List<RouteStep>?): Boolean {
+        if (p1 == null || p2 == null || p1.size != p2.size) return false
+        for (i in p1.indices) {
+            if (p1[i].edge.id != p2[i].edge.id) return false
+        }
+        return true
+    }
 
     fun formatTime(minutes: Int): String = when {
         minutes <= 0 -> "< 1 min"
