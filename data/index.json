@@ -4,983 +4,2359 @@
     "name": "Campiglio Dolomiti di Brenta",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.2279, 10.8216],
+    "bounds": [
+      [46.1585, 10.7607],
+      [46.2933, 10.9073]
+    ],
     "stats": {
       "slopes": "88.5 km",
       "lifts": 39,
       "elevation": "850m - 2504m",
       "drop": "1654m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 13,
+        "total": 13
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 26
+      }
+    ],
+    "slopeCount": 114
   },
   {
     "id": "baqueira",
     "name": "Baqueira Beret",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.699, 0.9688],
+    "bounds": [
+      [42.6439, 0.9291],
+      [42.7434, 1.008]
+    ],
     "stats": {
       "slopes": "152.3 km",
       "lifts": 33,
       "elevation": "1500m - 2610m",
       "drop": "1110m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 8,
+        "total": 32
+      }
+    ],
+    "slopeCount": 155
   },
   {
     "id": "sierranevada",
     "name": "Sierra Nevada",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [37.0723, -3.3878],
+    "bounds": [
+      [37.0447, -3.4136],
+      [37.1012, -3.3635]
+    ],
     "stats": {
       "slopes": "104.4 km",
       "lifts": 20,
       "elevation": "2100m - 3300m",
       "drop": "1200m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 3,
+        "total": 18
+      }
+    ],
+    "slopeCount": 130
   },
   {
     "id": "formigal",
     "name": "Formigal-Panticosa",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.7694, -0.4031],
+    "bounds": [
+      [42.7461, -0.4447],
+      [42.8044, -0.3645]
+    ],
     "stats": {
       "slopes": "128.2 km",
       "lifts": 23,
       "elevation": "1500m - 2250m",
       "drop": "750m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 4,
+        "total": 23
+      }
+    ],
+    "slopeCount": 108
   },
   {
     "id": "cerler",
     "name": "Cerler",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.5605, 0.5553],
+    "bounds": [
+      [42.5381, 0.5209],
+      [42.608, 0.6113]
+    ],
     "stats": {
       "slopes": "126.5 km",
       "lifts": 19,
       "elevation": "1500m - 2630m",
       "drop": "1130m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 3,
+        "total": 18
+      }
+    ],
+    "slopeCount": 124
   },
   {
     "id": "candanchu",
     "name": "Candanchú",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.7881, -0.5283],
+    "bounds": [
+      [42.7635, -0.5615],
+      [42.8196, -0.485]
+    ],
     "stats": {
       "slopes": "44.9 km",
       "lifts": 37,
       "elevation": "1530m - 2400m",
       "drop": "870m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 36
+      }
+    ],
+    "slopeCount": 87
   },
   {
     "id": "alpe",
     "name": "Alpe d'Huez",
     "country": "France",
     "flag": "🇫🇷",
+    "center": [45.0981, 6.0821],
+    "bounds": [
+      [45.0428, 6.0263],
+      [45.1442, 6.1388]
+    ],
     "stats": {
       "slopes": "182.3 km",
       "lifts": 61,
       "elevation": "1100m - 3330m",
       "drop": "2230m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 16,
+        "total": 16
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 7,
+        "total": 45
+      }
+    ],
+    "slopeCount": 204
   },
   {
     "id": "les3vallees",
     "name": "Les 3 Vallées",
     "country": "France",
     "flag": "🇫🇷",
+    "center": [45.3903, 6.6031],
+    "bounds": [
+      [45.3091, 6.5166],
+      [45.4555, 6.6716]
+    ],
     "stats": {
       "slopes": "638.2 km",
       "lifts": 102,
       "elevation": "1300m - 3230m",
       "drop": "1930m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 23,
+        "total": 23
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 10,
+        "total": 79
+      }
+    ],
+    "slopeCount": 732
   },
   {
     "id": "alpine",
     "name": "Alpine Valley Resort",
     "country": "Demo",
     "flag": "🏔️",
+    "center": [46.23, 7.44],
+    "bounds": [
+      [46.2, 7.4],
+      [46.26, 7.5]
+    ],
     "stats": {
       "slopes": "60 km",
       "lifts": 15,
       "elevation": "1550m - 2400m",
       "drop": "850m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 13
   },
   {
     "id": "altocampoo",
     "name": "Alto Campoo",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [43.0385, -4.3896],
+    "bounds": [
+      [43.0235, -4.4077],
+      [43.05, -4.369]
+    ],
     "stats": {
       "slopes": "19.7 km",
       "lifts": 11,
       "elevation": "1650m - 2125m",
       "drop": "475m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 11
+      }
+    ],
+    "slopeCount": 27
   },
   {
     "id": "javalambre",
     "name": "Aramón Javalambre",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [40.1105, -1.0253],
+    "bounds": [
+      [40.0999, -1.0393],
+      [40.1199, -1.0121]
+    ],
     "stats": {
       "slopes": "8.7 km",
       "lifts": 9,
       "elevation": "1650m - 2000m",
       "drop": "350m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 9
+      }
+    ],
+    "slopeCount": 17
   },
   {
     "id": "valdelinares",
     "name": "Aramón Valdelinares",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [40.3826, -0.6318],
+    "bounds": [
+      [40.3731, -0.642],
+      [40.3942, -0.6215]
+    ],
     "stats": {
       "slopes": "9.2 km",
       "lifts": 12,
       "elevation": "1700m - 2024m",
       "drop": "324m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 12
+      }
+    ],
+    "slopeCount": 16
   },
   {
     "id": "astun",
     "name": "Astún",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.8052, -0.4981],
+    "bounds": [
+      [42.7815, -0.5382],
+      [42.8194, -0.4784]
+    ],
     "stats": {
       "slopes": "30.9 km",
       "lifts": 17,
       "elevation": "1700m - 2300m",
       "drop": "600m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 16
+      }
+    ],
+    "slopeCount": 53
   },
   {
     "id": "boitaull",
     "name": "Boí Taüll",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.4719, 0.8748],
+    "bounds": [
+      [42.4546, 0.8555],
+      [42.4884, 0.896]
+    ],
     "stats": {
       "slopes": "33.9 km",
       "lifts": 9,
       "elevation": "2035m - 2751m",
       "drop": "716m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 9
+      }
+    ],
+    "slopeCount": 41
   },
   {
     "id": "manzaneda",
     "name": "Cabeza de Manzaneda",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.2661, -7.2978],
+    "bounds": [
+      [42.2531, -7.3073],
+      [42.2781, -7.2879]
+    ],
     "stats": {
       "slopes": "12.2 km",
       "lifts": 6,
       "elevation": "1500m - 1778m",
       "drop": "278m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 6
+      }
+    ],
+    "slopeCount": 28
   },
   {
     "id": "espot",
     "name": "Espot Esquí",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.5497, 1.0806],
+    "bounds": [
+      [42.5332, 1.0632],
+      [42.5685, 1.0988]
+    ],
     "stats": {
       "slopes": "19.4 km",
       "lifts": 6,
       "elevation": "1500m - 2500m",
       "drop": "1000m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 6
+      }
+    ],
+    "slopeCount": 22
   },
   {
     "id": "fuentesdeinvierno",
     "name": "Fuentes de Invierno",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [43.0545, -5.3993],
+    "bounds": [
+      [43.0444, -5.4116],
+      [43.0678, -5.3885]
+    ],
     "stats": {
       "slopes": "10.2 km",
       "lifts": 5,
       "elevation": "1487m - 1950m",
       "drop": "463m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 5
+      }
+    ],
+    "slopeCount": 17
   },
   {
     "id": "lamolina",
     "name": "La Molina",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.3317, 1.9235],
+    "bounds": [
+      [42.3046, 1.8885],
+      [42.3558, 1.9661]
+    ],
     "stats": {
       "slopes": "91.4 km",
       "lifts": 33,
       "elevation": "1700m - 2445m",
       "drop": "745m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 3,
+        "total": 31
+      }
+    ],
+    "slopeCount": 121
   },
   {
     "id": "lapinilla",
     "name": "La Pinilla",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [41.1928, -3.4753],
+    "bounds": [
+      [41.1803, -3.4861],
+      [41.2101, -3.4672]
+    ],
     "stats": {
       "slopes": "11.2 km",
       "lifts": 13,
       "elevation": "1500m - 2050m",
       "drop": "550m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 12
+      }
+    ],
+    "slopeCount": 26
   },
   {
     "id": "lunada",
     "name": "Lunada",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [43.1649, -3.6582],
+    "bounds": [
+      [43.1566, -3.669],
+      [43.1725, -3.646]
+    ],
     "stats": {
       "slopes": "6.1 km",
       "lifts": 5,
       "elevation": "1280m - 1445m",
       "drop": "165m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 5
+      }
+    ],
+    "slopeCount": 16
   },
   {
     "id": "masella",
     "name": "Masella",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.335, 1.9027],
+    "bounds": [
+      [42.3084, 1.8822],
+      [42.3558, 1.94]
+    ],
     "stats": {
       "slopes": "68.4 km",
       "lifts": 23,
       "elevation": "1600m - 2535m",
       "drop": "935m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 3,
+        "total": 21
+      }
+    ],
+    "slopeCount": 100
   },
   {
     "id": "panticosa",
     "name": "Panticosa",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.7019, -0.2713],
+    "bounds": [
+      [42.6855, -0.2862],
+      [42.7267, -0.2556]
+    ],
     "stats": {
       "slopes": "18.3 km",
       "lifts": 15,
       "elevation": "1145m - 2220m",
       "drop": "1075m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 14
+      }
+    ],
+    "slopeCount": 31
   },
   {
     "id": "portaine",
     "name": "Port Ainé",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.4181, 1.2121],
+    "bounds": [
+      [42.4044, 1.1952],
+      [42.4398, 1.2263]
+    ],
     "stats": {
       "slopes": "20.5 km",
       "lifts": 8,
       "elevation": "1650m - 2440m",
       "drop": "790m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 8
+      }
+    ],
+    "slopeCount": 36
   },
   {
     "id": "portdelcomte",
     "name": "Port del Comte",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.1712, 1.5501],
+    "bounds": [
+      [42.1552, 1.5266],
+      [42.205, 1.5686]
+    ],
     "stats": {
       "slopes": "30.5 km",
       "lifts": 19,
       "elevation": "1700m - 2400m",
       "drop": "700m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 19
+      }
+    ],
+    "slopeCount": 41
   },
   {
     "id": "navacerrada",
     "name": "Puerto de Navacerrada",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [40.788, -4.0042],
+    "bounds": [
+      [40.7804, -4.0211],
+      [40.7956, -3.985]
+    ],
     "stats": {
       "slopes": "2.9 km",
       "lifts": 6,
       "elevation": "1700m - 2177m",
       "drop": "477m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 6
+      }
+    ],
+    "slopeCount": 6
   },
   {
     "id": "santaines",
     "name": "Punto de Nieve Santa Inés",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.0382, -2.7836],
+    "bounds": [
+      [42.0324, -2.7909],
+      [42.0437, -2.774]
+    ],
     "stats": {
       "slopes": "1.0 km",
       "lifts": 2,
       "elevation": "1753m - 1832m",
       "drop": "79m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 2
+      }
+    ],
+    "slopeCount": 3
   },
   {
     "id": "sanisidro",
     "name": "San Isidro",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [43.0461, -5.3912],
+    "bounds": [
+      [43.0286, -5.4152],
+      [43.0701, -5.3728]
+    ],
     "stats": {
       "slopes": "23.5 km",
       "lifts": 14,
       "elevation": "1500m - 2100m",
       "drop": "600m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 14
+      }
+    ],
+    "slopeCount": 38
   },
   {
     "id": "lacovatilla",
     "name": "Sierra de Béjar - La Covatilla",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [40.3473, -5.6903],
+    "bounds": [
+      [40.3331, -5.703],
+      [40.3598, -5.6792]
+    ],
     "stats": {
       "slopes": "14.2 km",
       "lifts": 4,
       "elevation": "1990m - 2368m",
       "drop": "378m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 21
   },
   {
     "id": "tavascan",
     "name": "Tavascan",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.6719, 1.2135],
+    "bounds": [
+      [42.6612, 1.2027],
+      [42.6828, 1.2244]
+    ],
     "stats": {
       "slopes": "3.8 km",
       "lifts": 3,
       "elevation": "1750m - 2250m",
       "drop": "500m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 3
+      }
+    ],
+    "slopeCount": 9
   },
   {
     "id": "valdesqui",
     "name": "Valdesquí",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [40.798, -3.9725],
+    "bounds": [
+      [40.7836, -3.9842],
+      [40.8097, -3.9583]
+    ],
     "stats": {
       "slopes": "36.0 km",
       "lifts": 15,
       "elevation": "1860m - 2280m",
       "drop": "420m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 15
+      }
+    ],
+    "slopeCount": 48
   },
   {
     "id": "valdezcaray",
     "name": "Valdezcaray",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.2523, -2.9688],
+    "bounds": [
+      [42.2388, -2.9831],
+      [42.2618, -2.9545]
+    ],
     "stats": {
       "slopes": "15.7 km",
       "lifts": 9,
       "elevation": "1530m - 2125m",
       "drop": "595m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 9
+      }
+    ],
+    "slopeCount": 31
   },
   {
     "id": "valgrande",
     "name": "Valgrande-Pajares",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.9719, -5.7805],
+    "bounds": [
+      [42.9622, -5.7938],
+      [42.9837, -5.7678]
+    ],
     "stats": {
       "slopes": "15.3 km",
       "lifts": 6,
       "elevation": "1450m - 1890m",
       "drop": "440m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 5
+      }
+    ],
+    "slopeCount": 35
   },
   {
     "id": "valldenuria",
     "name": "Vall de Núria",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.3964, 2.157],
+    "bounds": [
+      [42.3873, 2.1431],
+      [42.4052, 2.1682]
+    ],
     "stats": {
       "slopes": "5.9 km",
       "lifts": 7,
       "elevation": "1964m - 2252m",
       "drop": "288m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 6
+      }
+    ],
+    "slopeCount": 18
   },
   {
     "id": "leitariegos",
     "name": "Valle Laciana - Leitariegos",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.9895, -6.4163],
+    "bounds": [
+      [42.9802, -6.426],
+      [42.9987, -6.4068]
+    ],
     "stats": {
       "slopes": "6.1 km",
       "lifts": 6,
       "elevation": "1513m - 1800m",
       "drop": "287m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 6
+      }
+    ],
+    "slopeCount": 13
   },
   {
     "id": "vallter2000",
     "name": "Vallter 2000",
     "country": "Spain",
     "flag": "🇪🇸",
+    "center": [42.4255, 2.2568],
+    "bounds": [
+      [42.4144, 2.239],
+      [42.438, 2.2719]
+    ],
     "stats": {
       "slopes": "13.1 km",
       "lifts": 10,
       "elevation": "1910m - 2535m",
       "drop": "625m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 10
+      }
+    ],
+    "slopeCount": 21
   },
   {
     "id": "trecime",
     "name": "3 Zinnen Dolomites (Sexten)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.7027, 12.35],
+    "bounds": [
+      [46.6491, 12.2703],
+      [46.7374, 12.4242]
+    ],
     "stats": {
       "slopes": "129.9 km",
       "lifts": 23,
       "elevation": "1130m - 2200m",
       "drop": "1070m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 16
+      }
+    ],
+    "slopeCount": 166
   },
   {
     "id": "abetone",
     "name": "Abetone - Val di Luce",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [44.1318, 10.648],
+    "bounds": [
+      [44.1041, 10.6192],
+      [44.1583, 10.6891]
+    ],
     "stats": {
       "slopes": "49.7 km",
       "lifts": 18,
       "elevation": "1240m - 1892m",
       "drop": "652m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 17
+      }
+    ],
+    "slopeCount": 65
   },
   {
     "id": "folgaria",
     "name": "Alpe Cimbra (Folgaria - Lavarone)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.8875, 11.2085],
+    "bounds": [
+      [45.8691, 11.1527],
+      [45.9231, 11.2686]
+    ],
     "stats": {
       "slopes": "46.9 km",
       "lifts": 31,
       "elevation": "1166m - 1850m",
       "drop": "684m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 30
+      }
+    ],
+    "slopeCount": 79
   },
   {
     "id": "alpelusia",
     "name": "Alpe Lusia - San Pellegrino",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.3684, 11.8066],
+    "bounds": [
+      [46.3322, 11.7762],
+      [46.404, 11.8644]
+    ],
     "stats": {
       "slopes": "68.4 km",
       "lifts": 16,
       "elevation": "1370m - 2513m",
       "drop": "1143m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 14
+      }
+    ],
+    "slopeCount": 62
   },
   {
     "id": "altabadia",
     "name": "Alta Badia",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.5542, 11.8872],
+    "bounds": [
+      [46.4999, 11.8028],
+      [46.6177, 11.9655]
+    ],
     "stats": {
       "slopes": "146.6 km",
       "lifts": 54,
       "elevation": "1324m - 2778m",
       "drop": "1454m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 10,
+        "total": 10
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 44
+      }
+    ],
+    "slopeCount": 163
   },
   {
     "id": "roccaraso",
     "name": "Alto Sangro - Roccaraso",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [41.8306, 14.0226],
+    "bounds": [
+      [41.805, 13.9876],
+      [41.8591, 14.0569]
+    ],
     "stats": {
       "slopes": "63.8 km",
       "lifts": 28,
       "elevation": "1390m - 2141m",
       "drop": "751m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 6,
+        "total": 6
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 22
+      }
+    ],
+    "slopeCount": 96
   },
   {
     "id": "aprica",
     "name": "Aprica",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.1469, 10.155],
+    "bounds": [
+      [46.1332, 10.1366],
+      [46.1597, 10.172]
+    ],
     "stats": {
       "slopes": "13.7 km",
       "lifts": 7,
       "elevation": "1180m - 2300m",
       "drop": "1120m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 6
+      }
+    ],
+    "slopeCount": 24
   },
   {
     "id": "arabba",
     "name": "Arabba - Marmolada",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4781, 11.8715],
+    "bounds": [
+      [46.4226, 11.81],
+      [46.5178, 11.9158]
+    ],
     "stats": {
       "slopes": "57.0 km",
       "lifts": 21,
       "elevation": "1446m - 3269m",
       "drop": "1823m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 6,
+        "total": 6
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 15
+      }
+    ],
+    "slopeCount": 48
   },
   {
     "id": "bardonecchia",
     "name": "Bardonecchia",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.0607, 6.7053],
+    "bounds": [
+      [45.0289, 6.6771],
+      [45.0944, 6.7592]
+    ],
     "stats": {
       "slopes": "52.8 km",
       "lifts": 19,
       "elevation": "1312m - 2800m",
       "drop": "1488m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 18
+      }
+    ],
+    "slopeCount": 66
   },
   {
     "id": "belpiano",
     "name": "Belpiano - Passo Resia (Schöneben)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.793, 10.4971],
+    "bounds": [
+      [46.7563, 10.4711],
+      [46.8267, 10.5369]
+    ],
     "stats": {
       "slopes": "26.5 km",
       "lifts": 14,
       "elevation": "1460m - 2390m",
       "drop": "930m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 4,
+        "total": 4
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 10
+      }
+    ],
+    "slopeCount": 36
   },
   {
     "id": "bormio",
     "name": "Bormio",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4412, 10.3973],
+    "bounds": [
+      [46.4158, 10.3676],
+      [46.4686, 10.4179]
+    ],
     "stats": {
       "slopes": "72.2 km",
       "lifts": 14,
       "elevation": "1225m - 3012m",
       "drop": "1787m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 12
+      }
+    ],
+    "slopeCount": 60
   },
   {
     "id": "cervinia",
     "name": "Breuil-Cervinia Valtournenche",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.9313, 7.6732],
+    "bounds": [
+      [45.8793, 7.619],
+      [45.993, 7.74]
+    ],
     "stats": {
       "slopes": "196.5 km",
       "lifts": 35,
       "elevation": "1524m - 3883m",
       "drop": "2359m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 5,
+        "total": 28
+      }
+    ],
+    "slopeCount": 166
   },
   {
     "id": "carezza",
     "name": "Carezza Dolomites",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4234, 11.5968],
+    "bounds": [
+      [46.3908, 11.5408],
+      [46.4758, 11.6195]
+    ],
     "stats": {
       "slopes": "24.2 km",
       "lifts": 13,
       "elevation": "1182m - 2337m",
       "drop": "1155m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 6,
+        "total": 6
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 7
+      }
+    ],
+    "slopeCount": 40
   },
   {
     "id": "chiesa",
     "name": "Chiesa in Valmalenco (Alpe Palù)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.2934, 9.8742],
+    "bounds": [
+      [46.2684, 9.8358],
+      [46.3133, 9.9043]
+    ],
     "stats": {
       "slopes": "49.8 km",
       "lifts": 9,
       "elevation": "1000m - 2336m",
       "drop": "1336m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 8
+      }
+    ],
+    "slopeCount": 67
   },
   {
     "id": "cortina",
     "name": "Cortina d'Ampezzo",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.5333, 12.1043],
+    "bounds": [
+      [46.4829, 12.0038],
+      [46.5735, 12.1954]
+    ],
     "stats": {
       "slopes": "90.0 km",
       "lifts": 28,
       "elevation": "1224m - 2930m",
       "drop": "1706m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 8,
+        "total": 8
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 20
+      }
+    ],
+    "slopeCount": 111
   },
   {
     "id": "courmayeur",
     "name": "Courmayeur Mont Blanc",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.7924, 6.9346],
+    "bounds": [
+      [45.7657, 6.884],
+      [45.8187, 6.9756]
+    ],
     "stats": {
       "slopes": "91.1 km",
       "lifts": 22,
       "elevation": "1210m - 2755m",
       "drop": "1545m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 15
+      }
+    ],
+    "slopeCount": 165
   },
   {
     "id": "folgarida",
     "name": "Folgarida - Marilleva",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.288, 10.8324],
+    "bounds": [
+      [46.248, 10.8034],
+      [46.3242, 10.8719]
+    ],
     "stats": {
       "slopes": "42.9 km",
       "lifts": 26,
       "elevation": "1300m - 2180m",
       "drop": "880m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 19
+      }
+    ],
+    "slopeCount": 75
   },
   {
     "id": "foppolo",
     "name": "Foppolo - Carona (Brembo Ski)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.0393, 9.7816],
+    "bounds": [
+      [46.0117, 9.7461],
+      [46.0571, 9.809]
+    ],
     "stats": {
       "slopes": "46.0 km",
       "lifts": 12,
       "elevation": "1500m - 2163m",
       "drop": "663m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 11
+      }
+    ],
+    "slopeCount": 45
   },
   {
     "id": "gitschberg",
     "name": "Gitschberg Jochtal",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.8383, 11.6705],
+    "bounds": [
+      [46.8055, 11.6174],
+      [46.8642, 11.6921]
+    ],
     "stats": {
       "slopes": "17.2 km",
       "lifts": 10,
       "elevation": "1307m - 2510m",
       "drop": "1203m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 6,
+        "total": 6
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 21
   },
   {
     "id": "kronplatz",
     "name": "Kronplatz - Plan de Corones",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.734, 11.9584],
+    "bounds": [
+      [46.6867, 11.8879],
+      [46.7952, 12.0156]
+    ],
     "stats": {
       "slopes": "88.2 km",
       "lifts": 25,
       "elevation": "935m - 2275m",
       "drop": "1340m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 21,
+        "total": 21
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 88
   },
   {
     "id": "lathuile",
     "name": "La Thuile (Espace San Bernardo)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.6943, 6.9241],
+    "bounds": [
+      [45.6566, 6.8715],
+      [45.7174, 6.9578]
+    ],
     "stats": {
       "slopes": "147.2 km",
       "lifts": 18,
       "elevation": "1440m - 2800m",
       "drop": "1360m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 17
+      }
+    ],
+    "slopeCount": 183
   },
   {
     "id": "limone",
     "name": "Limone Piemonte (Riserva Bianca)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [44.1708, 7.5777],
+    "bounds": [
+      [44.147, 7.5449],
+      [44.2033, 7.6088]
+    ],
     "stats": {
       "slopes": "40.5 km",
       "lifts": 17,
       "elevation": "1050m - 2050m",
       "drop": "1000m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 16
+      }
+    ],
+    "slopeCount": 53
   },
   {
     "id": "livigno",
     "name": "Livigno",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.5278, 10.1313],
+    "bounds": [
+      [46.5052, 10.0677],
+      [46.5532, 10.1783]
+    ],
     "stats": {
       "slopes": "125.0 km",
       "lifts": 31,
       "elevation": "1816m - 2798m",
       "drop": "982m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 6,
+        "total": 6
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 25
+      }
+    ],
+    "slopeCount": 142
   },
   {
     "id": "madesimo",
     "name": "Madesimo Valchiavenna",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4263, 9.373],
+    "bounds": [
+      [46.4093, 9.3498],
+      [46.4464, 9.4213]
+    ],
     "stats": {
       "slopes": "34.7 km",
       "lifts": 12,
       "elevation": "1550m - 2948m",
       "drop": "1398m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 10
+      }
+    ],
+    "slopeCount": 63
   },
   {
     "id": "mondole",
     "name": "Mondolè Ski (Prato Nevoso - Artesina)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [44.25, 7.7755],
+    "bounds": [
+      [44.2225, 7.7302],
+      [44.2893, 7.8198]
+    ],
     "stats": {
       "slopes": "72.2 km",
       "lifts": 24,
       "elevation": "1300m - 2085m",
       "drop": "785m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 23
+      }
+    ],
+    "slopeCount": 93
   },
   {
     "id": "cimone",
     "name": "Monte Cimone",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [44.2077, 10.7127],
+    "bounds": [
+      [44.1881, 10.6825],
+      [44.2476, 10.7373]
+    ],
     "stats": {
       "slopes": "49.0 km",
       "lifts": 21,
       "elevation": "900m - 2165m",
       "drop": "1265m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 20
+      }
+    ],
+    "slopeCount": 52
   },
   {
     "id": "zoncolan",
     "name": "Monte Zoncolan",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.5063, 12.9371],
+    "bounds": [
+      [46.4855, 12.9116],
+      [46.5265, 12.9572]
+    ],
     "stats": {
       "slopes": "23.7 km",
       "lifts": 17,
       "elevation": "950m - 1970m",
       "drop": "1020m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 16
+      }
+    ],
+    "slopeCount": 52
   },
   {
     "id": "monterosa",
     "name": "Monterosa Ski",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.8554, 7.8123],
+    "bounds": [
+      [45.8237, 7.7262],
+      [45.8955, 7.9408]
+    ],
     "stats": {
       "slopes": "66.5 km",
       "lifts": 26,
       "elevation": "1212m - 3275m",
       "drop": "2063m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 8,
+        "total": 8
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 18
+      }
+    ],
+    "slopeCount": 68
   },
   {
     "id": "ovindoli",
     "name": "Ovindoli & Campo Felice",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [42.1443, 13.4803],
+    "bounds": [
+      [42.1323, 13.4577],
+      [42.1549, 13.5013]
+    ],
     "stats": {
       "slopes": "15.4 km",
       "lifts": 12,
       "elevation": "1400m - 2220m",
       "drop": "820m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 11
+      }
+    ],
+    "slopeCount": 33
   },
   {
     "id": "paganella",
     "name": "Paganella Ski (Andalo)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.1508, 11.0219],
+    "bounds": [
+      [46.1321, 10.9913],
+      [46.1803, 11.0578]
+    ],
     "stats": {
       "slopes": "33.1 km",
       "lifts": 14,
       "elevation": "1030m - 2125m",
       "drop": "1095m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 4,
+        "total": 4
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 10
+      }
+    ],
+    "slopeCount": 52
   },
   {
     "id": "pianidibobbio",
     "name": "Piani di Bobbio - Valtorta",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.9633, 9.497],
+    "bounds": [
+      [45.9467, 9.4589],
+      [45.9841, 9.5169]
+    ],
     "stats": {
       "slopes": "17.0 km",
       "lifts": 12,
       "elevation": "1340m - 1950m",
       "drop": "610m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 11
+      }
+    ],
+    "slopeCount": 33
   },
   {
     "id": "pila",
     "name": "Pila",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [45.671, 7.3083],
+    "bounds": [
+      [45.6486, 7.2824],
+      [45.7369, 7.3311]
+    ],
     "stats": {
       "slopes": "55.0 km",
       "lifts": 16,
       "elevation": "1540m - 2750m",
       "drop": "1210m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 9
+      }
+    ],
+    "slopeCount": 61
   },
   {
     "id": "plose",
     "name": "Plose (Bressanone)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.6882, 11.7252],
+    "bounds": [
+      [46.671, 11.6779],
+      [46.7035, 11.7523]
+    ],
     "stats": {
       "slopes": "25.0 km",
       "lifts": 7,
       "elevation": "1067m - 2505m",
       "drop": "1438m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 3,
+        "total": 3
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 36
   },
   {
     "id": "pontedilegno",
     "name": "Pontedilegno-Tonale",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.256, 10.5539],
+    "bounds": [
+      [46.2151, 10.4678],
+      [46.2967, 10.5956]
+    ],
     "stats": {
       "slopes": "55.1 km",
       "lifts": 31,
       "elevation": "1121m - 3016m",
       "drop": "1895m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 7,
+        "total": 7
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 24
+      }
+    ],
+    "slopeCount": 80
   },
   {
     "id": "racines",
     "name": "Racines-Giovo (Ratschings-Jaufen)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.8486, 11.3037],
+    "bounds": [
+      [46.8353, 11.2788],
+      [46.8694, 11.3272]
+    ],
     "stats": {
       "slopes": "23.7 km",
       "lifts": 11,
       "elevation": "1300m - 2150m",
       "drop": "850m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 10
+      }
+    ],
+    "slopeCount": 28
   },
   {
     "id": "sandomenico",
     "name": "San Domenico di Varzo",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.2631, 8.2056],
+    "bounds": [
+      [46.2445, 8.1832],
+      [46.2771, 8.2265]
+    ],
     "stats": {
       "slopes": "19.9 km",
       "lifts": 7,
       "elevation": "1420m - 2550m",
       "drop": "1130m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 6
+      }
+    ],
+    "slopeCount": 35
   },
   {
     "id": "sanmartino",
     "name": "San Martino di Castrozza - Passo Rolle",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.2689, 11.7801],
+    "bounds": [
+      [46.2296, 11.75],
+      [46.3077, 11.8379]
+    ],
     "stats": {
       "slopes": "51.0 km",
       "lifts": 19,
       "elevation": "1404m - 2357m",
       "drop": "953m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 5,
+        "total": 5
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 14
+      }
+    ],
+    "slopeCount": 55
   },
   {
     "id": "santacaterina",
     "name": "Santa Caterina Valfurva",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4028, 10.4852],
+    "bounds": [
+      [46.3822, 10.4718],
+      [46.4211, 10.5022]
+    ],
     "stats": {
       "slopes": "34.9 km",
       "lifts": 6,
       "elevation": "1738m - 2880m",
       "drop": "1142m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 4
+      }
+    ],
+    "slopeCount": 25
   },
   {
     "id": "obereggen",
     "name": "Ski Center Latemar (Obereggen-Pampeago)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.3504, 11.547],
+    "bounds": [
+      [46.3227, 11.5155],
+      [46.3895, 11.607]
+    ],
     "stats": {
       "slopes": "85.5 km",
       "lifts": 20,
       "elevation": "1540m - 2388m",
       "drop": "848m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 3,
+        "total": 3
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 3,
+        "total": 17
+      }
+    ],
+    "slopeCount": 113
   },
   {
     "id": "civetta",
     "name": "Ski Civetta (Alleghe - Val di Zoldo)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4045, 12.0712],
+    "bounds": [
+      [46.3638, 12.0182],
+      [46.4412, 12.1198]
+    ],
     "stats": {
       "slopes": "57.9 km",
       "lifts": 26,
       "elevation": "1000m - 2100m",
       "drop": "1100m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 3,
+        "total": 3
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 23
+      }
+    ],
+    "slopeCount": 69
   },
   {
     "id": "solda",
     "name": "Solda all'Ortles (Sulden)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.513, 10.5973],
+    "bounds": [
+      [46.4826, 10.5582],
+      [46.5412, 10.6302]
+    ],
     "stats": {
       "slopes": "35.6 km",
       "lifts": 11,
       "elevation": "1900m - 3250m",
       "drop": "1350m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 4,
+        "total": 4
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 7
+      }
+    ],
+    "slopeCount": 37
   },
   {
     "id": "speikboden",
     "name": "Speikboden & Klausberg (Valle Aurina)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.982, 11.9852],
+    "bounds": [
+      [46.9589, 11.967],
+      [46.9989, 12.0115]
+    ],
     "stats": {
       "slopes": "24.9 km",
       "lifts": 9,
       "elevation": "950m - 2510m",
       "drop": "1560m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 4,
+        "total": 4
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 0,
+        "total": 5
+      }
+    ],
+    "slopeCount": 33
   },
   {
     "id": "tarvisio",
     "name": "Tarvisio - Monte Lussari",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.4963, 13.5522],
+    "bounds": [
+      [46.471, 13.5156],
+      [46.5116, 13.584]
+    ],
     "stats": {
       "slopes": "24.0 km",
       "lifts": 17,
       "elevation": "754m - 1760m",
       "drop": "1006m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 1,
+        "total": 1
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 16
+      }
+    ],
+    "slopeCount": 63
   },
   {
     "id": "valgardena",
     "name": "Val Gardena - Alpe di Siusi",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.5444, 11.7181],
+    "bounds": [
+      [46.4864, 11.5587],
+      [46.6055, 11.8127]
+    ],
     "stats": {
       "slopes": "239.6 km",
       "lifts": 83,
       "elevation": "1236m - 2518m",
       "drop": "1282m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 13,
+        "total": 13
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 4,
+        "total": 70
+      }
+    ],
+    "slopeCount": 302
   },
   {
     "id": "valsenales",
     "name": "Val Senales (Schnalstal)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.7739, 10.7884],
+    "bounds": [
+      [46.7476, 10.7588],
+      [46.797, 10.8142]
+    ],
     "stats": {
       "slopes": "32.3 km",
       "lifts": 12,
       "elevation": "2011m - 3212m",
       "drop": "1201m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 2,
+        "total": 2
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 2,
+        "total": 10
+      }
+    ],
+    "slopeCount": 44
   },
   {
     "id": "valdifassa",
     "name": "Val di Fassa (Belvedere - Col Rodella)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [46.469, 11.7768],
+    "bounds": [
+      [46.4149, 11.6931],
+      [46.508, 11.8493]
+    ],
     "stats": {
       "slopes": "89.2 km",
       "lifts": 27,
       "elevation": "1320m - 2485m",
       "drop": "1165m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 11,
+        "total": 11
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 1,
+        "total": 16
+      }
+    ],
+    "slopeCount": 81
   },
   {
     "id": "vialattea",
     "name": "Via Lattea (Sestriere - Sauze d'Oulx)",
     "country": "Italy",
     "flag": "🇮🇹",
+    "center": [44.9612, 6.8248],
+    "bounds": [
+      [44.8977, 6.7039],
+      [45.0349, 6.9266]
+    ],
     "stats": {
       "slopes": "479.9 km",
       "lifts": 80,
       "elevation": "1350m - 2823m",
       "drop": "1473m"
-    }
+    },
+    "liftGroups": [
+      {
+        "hours": "08:30-17:00",
+        "exposed": 8,
+        "total": 8
+      },
+      {
+        "hours": "08:45-16:45",
+        "exposed": 10,
+        "total": 72
+      }
+    ],
+    "slopeCount": 709
   }
 ]

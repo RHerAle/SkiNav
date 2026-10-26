@@ -4,7 +4,27 @@
 package com.skitracker.nav
 
 // ponytail: compact data models
-data class ResortSummary(val id: String, val name: String, val country: String, val flag: String = "🏔️", val stats: ResortStats? = null)
+/**
+ * Una estación en el índice (`scripts/indice_estaciones.py`). Además de sus cifras, lleva lo que la lista de estaciones
+ * necesita sin abrir el grafo: dónde está y el resumen de sus remontes y pistas. Lo nuevo es opcional: Gson deja a null
+ * lo que no trae el JSON aunque el tipo no lo admita.
+ */
+data class ResortSummary(
+    val id: String,
+    val name: String,
+    val country: String,
+    val flag: String = "🏔️",
+    val stats: ResortStats? = null,
+    val center: List<Double>? = null,
+    /** Esquina suroeste y esquina noreste, en latitud y longitud. */
+    val bounds: List<List<Double>>? = null,
+    val liftGroups: List<LiftGroup>? = null,
+    /** Pistas distintas por nombre, contadas como la hoja de estado. */
+    val slopeCount: Int? = null
+)
+
+/** Los remontes de una estación con el mismo horario, y cuántos de ellos para el viento. */
+data class LiftGroup(val hours: String? = null, val exposed: Int = 0, val total: Int = 0)
 data class ResortStats(val slopes: String = "", val lifts: Int = 0, val elevation: String = "", val drop: String = "")
 data class ResortNode(val id: String, val name: String, val lat: Double, val lng: Double, val type: String = "station")
 data class BusSchedule(val lineName: String? = null, val startTime: String = "08:30", val endTime: String = "17:30", val frequencyMinutes: Int = 15, val exactDepartures: List<String>? = null)

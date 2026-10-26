@@ -53,13 +53,17 @@ object ResortPathfinder {
                 timeMinutes in start..end
             }
         }
-        edge.operatingHours?.let { hours ->
-            val dash = hours.indexOf('-')
-            if (dash > 0) {
-                val start = parseTimeSlice(hours, 0, dash)
-                val end = parseTimeSlice(hours, dash + 1, hours.length)
-                if (start != null && end != null) return timeMinutes in start..end
-            }
+        return isWithinHours(edge.operatingHours, timeMinutes)
+    }
+
+    /** Si una hora cae dentro de un horario «HH:mm-HH:mm». Sin horario, o con uno que no se entiende, siempre. */
+    fun isWithinHours(hours: String?, timeMinutes: Int): Boolean {
+        if (hours == null) return true
+        val dash = hours.indexOf('-')
+        if (dash > 0) {
+            val start = parseTimeSlice(hours, 0, dash)
+            val end = parseTimeSlice(hours, dash + 1, hours.length)
+            if (start != null && end != null) return timeMinutes in start..end
         }
         return true
     }
