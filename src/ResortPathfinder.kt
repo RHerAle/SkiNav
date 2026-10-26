@@ -20,6 +20,8 @@ object ResortPathfinder {
         while (end > start && s[end - 1] <= ' ') end--
         val colon = (start until end).firstOrNull { s[it] == ':' } ?: return null
         if (colon == start || colon == end - 1) return null
+        // Security check: strictly validate HH:MM / H:MM structure to prevent integer overflow and DoS
+        if (colon - start !in 1..2 || end - (colon + 1) != 2) return null
         var h = 0
         for (i in start until colon) {
             val c = s[i]
@@ -141,6 +143,8 @@ object ResortPathfinder {
         endId: String,
         filters: RouteFilters = RouteFilters()
     ): List<RouteStep>? {
+        // Security check: validate input node existence to avoid DoS via full-graph traversal on invalid IDs
+        if (resort.getNode(startId) == null || resort.getNode(endId) == null) return null
         if (startId == endId) return emptyList()
 
         val openSet = PriorityQueue<HeapItem>(compareBy { it.priority })

@@ -11,7 +11,7 @@ import java.io.File
 
 class ResortPathfinderTest {
     private val gson = Gson()
-    private val assetsDir = File("src/main/assets/resorts")
+    private val assetsDir = File("src/main/assets/resorts").let { if (it.exists()) it else File("data") }
 
     private fun loadResort(id: String): SkiResort =
         gson.fromJson(File(assetsDir, "$id.json").readText(), SkiResort::class.java)
@@ -130,5 +130,19 @@ class ResortPathfinderTest {
         val summit = stations.firstOrNull { it.name.contains("Summit") || it.name.contains("Top") || it.name.contains("Cima") }?.id ?: stations[1].id
         val evening = ResortPathfinder.findPath(formigal, base, summit, RouteFilters(departureTimeMinutes = 1200))
         if (evening != null) assertTrue(evening.none { it.edge.type == "lift" || it.edge.type == "bus" })
+    }
+
+    @Test
+    fun testInputValidationAndSecurity() {
+        val alpine = loadResort("alpine")
+        // Non-existent start or end node IDs should safely return null
+        assertNull(ResortPathfinder.findPath(alpine, "non_existent_start", "base"))
+        assertNull(ResortPathfinder.findPath(alpine, "base", "non_existent_end"))
+        assertNull(ResortPathfinder.findPath(alpine, "invalid", "invalid"))
+
+        // Malformed or excessively long time strings should be rejected
+        assertNull(ResortPathfinder.parseTimeMinutes("12345:00"))
+        assertNull(ResortPathfinder.parseTimeMinutes("12:345"))
+        assertNull(ResortPathfinder.parseTimeMinutes("9999999999:00"))
     }
 }
