@@ -7,7 +7,7 @@ import java.util.PriorityQueue
 import kotlin.math.*
 
 object ResortPathfinder {
-    private val DIFFICULTY_ORDER = listOf("green", "blue", "red", "black")
+    // Optimization: Removed unused DIFFICULTY_ORDER allocation to avoid unnecessary Heap/List instantiation on object load.
 
     private class HeapItem(val nodeId: String, val priority: Double) : Comparable<HeapItem> {
         override fun compareTo(other: HeapItem): Int = priority.compareTo(other.priority)
