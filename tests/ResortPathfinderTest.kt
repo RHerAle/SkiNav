@@ -140,6 +140,12 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.findPath(alpine, "base", "non_existent_end"))
         assertNull(ResortPathfinder.findPath(alpine, "invalid", "invalid"))
 
+        // Invalid geographic coordinates for haversine distance calculation
+        assertEquals(0.0, ResortPathfinder.haversineKm(95.0, 0.0, 45.0, 10.0), 0.001)
+        assertEquals(0.0, ResortPathfinder.haversineKm(45.0, 200.0, 45.0, 10.0), 0.001)
+        assertEquals(0.0, ResortPathfinder.haversineKm(Double.NaN, 0.0, 45.0, 10.0), 0.001)
+        assertEquals(0.0, ResortPathfinder.haversineKm(45.0, 0.0, Double.POSITIVE_INFINITY, 10.0), 0.001)
+
         // Malformed or excessively long time strings should be rejected
         assertNull(ResortPathfinder.parseTimeMinutes("2147483658:00"))
         assertNull(ResortPathfinder.parseTimeMinutes("0008:00"))
