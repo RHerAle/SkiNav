@@ -121,6 +121,13 @@ object ResortPathfinder {
     }
 
     fun haversineKm(lat1: Double, lng1: Double, lat2: Double, lng2: Double): Double {
+        // Validate geographic coordinate bounds and check for NaN / Infinity
+        if (lat1.isNaN() || lat1 !in -90.0..90.0 ||
+            lat2.isNaN() || lat2 !in -90.0..90.0 ||
+            lng1.isNaN() || lng1 !in -180.0..180.0 ||
+            lng2.isNaN() || lng2 !in -180.0..180.0) {
+            return 0.0
+        }
         val dLat = Math.toRadians(lat2 - lat1)
         val dLng = Math.toRadians(lng2 - lng1)
         val sLat = sin(dLat * 0.5)
