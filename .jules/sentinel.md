@@ -1,0 +1,4 @@
+## 2026-03-31 - Floating Point Clamping and Time Normalization in Graph Pathfinder
+**Vulnerability:** Floating-point inaccuracy in Haversine formula calculation could produce `a > 1.0`, resulting in `sqrt(1 - a) = NaN`. `NaN` priority in A* pathfinding heap causes queue corruption / DoS. Also, unnormalized integer time inputs or overnight schedule windows (`start > end`) led to incorrect edge exclusions.
+**Learning:** Geometric/geographic calculations converting floating point lat/lng coordinates to distances must explicitly clamp domain values before inverse trigonometric or square root functions to avoid NaN corruption in priority queues.
+**Prevention:** Clamp Haversine intermediate `a` to `[0.0, 1.0]` using `coerceIn(0.0, 1.0)` and normalize time inputs to 24-hour minute ranges `0..1439`.

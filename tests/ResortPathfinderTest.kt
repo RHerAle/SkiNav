@@ -148,5 +148,23 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Haversine calculation shouldn't return NaN on extreme or identical coordinates
+        val sameDist = ResortPathfinder.haversineKm(42.5, 1.5, 42.5, 1.5)
+        assertFalse(sameDist.isNaN())
+        assertEquals(0.0, sameDist, 0.0001)
+
+        val antipodalDist = ResortPathfinder.haversineKm(90.0, 0.0, -90.0, 0.0)
+        assertFalse(antipodalDist.isNaN())
+
+        // Overnight operating hours check
+        val nightLift = ResortEdge("night_lift", "Night Lift", "lift", "A", "B", operatingHours = "20:00-02:00")
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(nightLift, 1320)) // 22:00
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(nightLift, 60))   // 01:00
+        assertFalse(ResortPathfinder.isEdgeOperatingAt(nightLift, 720))  // 12:00
+
+        // Out of range time input normalization
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(nightLift, -120))  // -120m == 22:00 (1320m)
+        assertTrue(ResortPathfinder.isEdgeOperatingAt(nightLift, 1500))  // 1500m == 01:00 (60m)
     }
 }

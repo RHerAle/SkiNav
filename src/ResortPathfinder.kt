@@ -56,18 +56,19 @@ object ResortPathfinder {
 
     // ponytail: index lookup replaces regex and string split
     fun isEdgeOperatingAt(edge: ResortEdge, timeMinutes: Int): Boolean {
+        val normTime = ((timeMinutes % 1440) + 1440) % 1440
         if (edge.type == "bus" && edge.schedule != null) {
             val sched = edge.schedule
             val start = parseTimeMinutes(sched.startTime) ?: 510
             val end = parseTimeMinutes(sched.endTime) ?: 1050
             val exact = sched.exactDepartures
             return if (!exact.isNullOrEmpty()) {
-                if (timeMinutes < start - 30) false else exact.any { (parseTimeMinutes(it) ?: -1) >= timeMinutes }
+                if (normTime < start - 30) false else exact.any { (parseTimeMinutes(it) ?: -1) >= normTime }
             } else {
-                timeMinutes in start..end
+                if (start <= end) normTime in start..end else normTime >= start || normTime <= end
             }
         }
-        return isWithinHours(edge.operatingHours, timeMinutes)
+        return isWithinHours(edge.operatingHours, normTime)
     }
 
     /** Si una hora cae dentro de un horario «HH:mm-HH:mm». Sin horario, o con uno que no se entiende, siempre. */
@@ -77,7 +78,10 @@ object ResortPathfinder {
         if (dash > 0) {
             val start = parseTimeSlice(hours, 0, dash)
             val end = parseTimeSlice(hours, dash + 1, hours.length)
-            if (start != null && end != null) return timeMinutes in start..end
+            if (start != null && end != null) {
+                val normTime = ((timeMinutes % 1440) + 1440) % 1440
+                return if (start <= end) normTime in start..end else normTime >= start || normTime <= end
+            }
         }
         return true
     }
@@ -89,6 +93,7 @@ object ResortPathfinder {
         val freq = if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15
         if (departureTimeMinutes == null) return Pair(maxOf(1, freq / 2), null)
 
+        val depTime = ((departureTimeMinutes % 1440) + 1440) % 1440
         val start = parseTimeMinutes(sched.startTime) ?: 510
         val end = parseTimeMinutes(sched.endTime) ?: 1050
         val exact = sched.exactDepartures
@@ -97,16 +102,16 @@ object ResortPathfinder {
             var candidate: Int? = null
             for (dep in exact) {
                 val t = parseTimeMinutes(dep) ?: continue
-                if (t >= departureTimeMinutes && (candidate == null || t < candidate)) candidate = t
+                if (t >= depTime && (candidate == null || t < candidate)) candidate = t
             }
             candidate
         } else {
-            val target = if (departureTimeMinutes <= start) start else {
-                start + ceil((departureTimeMinutes - start).toDouble() / freq).toInt() * freq
+            val target = if (depTime <= start) start else {
+                start + ceil((depTime - start).toDouble() / freq).toInt() * freq
             }
             if (target <= end) target else null
         }
-        return if (nextMin != null) Pair(maxOf(0, nextMin - departureTimeMinutes), formatTimeMinutes(nextMin)) else Pair(0, null)
+        return if (nextMin != null) Pair(maxOf(0, nextMin - depTime), formatTimeMinutes(nextMin)) else Pair(0, null)
     }
 
     private fun shouldIncludeEdge(edge: ResortEdge, filters: RouteFilters, maxDiffIdx: Int): Boolean {
@@ -125,7 +130,8 @@ object ResortPathfinder {
         val dLng = Math.toRadians(lng2 - lng1)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng
+        // Clamp 'a' to [0.0, 1.0] to prevent sqrt(1 - a) resulting in NaN due to floating point inaccuracies
+        val a = (sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng).coerceIn(0.0, 1.0)
         return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
     }
 
@@ -136,7 +142,8 @@ object ResortPathfinder {
         val dLng = endLngRad - Math.toRadians(n1.lng)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
+        // Clamp 'a' to [0.0, 1.0] to prevent sqrt(1 - a) resulting in NaN due to floating point inaccuracies
+        val a = (sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng).coerceIn(0.0, 1.0)
         val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
         return (distKm / 20.0) * 60.0
     }
