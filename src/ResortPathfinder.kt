@@ -129,16 +129,14 @@ object ResortPathfinder {
         return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
     }
 
+    // equirectangular distance heuristic replaces expensive Haversine trigonometric calls
     private fun heuristicNode(resort: SkiResort, n1Id: String, endLatRad: Double, endLngRad: Double, cosEndLat: Double): Double {
         val n1 = resort.getNode(n1Id) ?: return 0.0
         val n1LatRad = Math.toRadians(n1.lat)
-        val dLat = endLatRad - n1LatRad
-        val dLng = endLngRad - Math.toRadians(n1.lng)
-        val sLat = sin(dLat * 0.5)
-        val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
-        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
-        return (distKm / 20.0) * 60.0
+        val x = (endLngRad - Math.toRadians(n1.lng)) * cosEndLat
+        val y = endLatRad - n1LatRad
+        // 19113.0 = Earth radius (6371 km) * (60 min / 20 km/h)
+        return 19113.0 * sqrt(x * x + y * y)
     }
 
     private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters, busWait: Int): Double {
