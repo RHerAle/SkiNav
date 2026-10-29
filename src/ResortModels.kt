@@ -60,6 +60,7 @@ data class SkiResort(
 ) {
     @Transient private var nodeMapCache: Map<String, ResortNode>? = null
     @Transient private var outgoingCache: Map<String, List<RouteNeighbor>>? = null
+    @Transient private var selectableLocationsCache: List<ResortNode>? = null
 
     // ponytail: lazy cache map lookup
     fun getNode(nodeId: String): ResortNode? =
@@ -83,9 +84,12 @@ data class SkiResort(
         return map
     }
 
+    // ponytail: lazy cache selectable locations per resort to eliminate repeated filtering and sorting
     fun getSelectableLocations(): List<ResortNode> =
-        nodes.filter { it.type == "station" }.sortedBy { it.name } +
+        selectableLocationsCache ?: (
+            nodes.filter { it.type == "station" }.sortedBy { it.name } +
             nodes.filter { it.type == "intersection" && it.name.isNotBlank() && !it.name.startsWith("Junction #") }.sortedBy { it.name }
+        ).also { selectableLocationsCache = it }
 }
 
 val BIDIRECTIONAL_LIFTS = setOf("gondola", "cable_car", "mixed_lift", "funicular")
