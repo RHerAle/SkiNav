@@ -25,6 +25,7 @@ object ResortPathfinder {
     fun parseTimeMinutes(hhmm: String): Int? = parseTimeSlice(hhmm, 0, hhmm.length)
 
     private fun parseTimeSlice(s: String, from: Int, to: Int): Int? {
+        if (to - from > 32) return null
         var start = from
         var end = to
         while (start < end && s[start] <= ' ') start++
@@ -125,7 +126,7 @@ object ResortPathfinder {
         val dLng = Math.toRadians(lng2 - lng1)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng
+        val a = (sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng).coerceIn(0.0, 1.0)
         return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
     }
 
@@ -136,7 +137,7 @@ object ResortPathfinder {
         val dLng = endLngRad - Math.toRadians(n1.lng)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
+        val a = (sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng).coerceIn(0.0, 1.0)
         val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
         return (distKm / 20.0) * 60.0
     }

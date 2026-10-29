@@ -148,5 +148,14 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+        assertNull(ResortPathfinder.parseTimeMinutes("1".repeat(50) + ":00"))
+
+        // Numerical safety check for Haversine calculation
+        val sameDist = ResortPathfinder.haversineKm(45.0, 7.0, 45.0, 7.0)
+        assertEquals(0.0, sameDist, 1e-6)
+        assertFalse(sameDist.isNaN())
+
+        val poleToPole = ResortPathfinder.haversineKm(90.0, 0.0, -90.0, 0.0)
+        assertFalse(poleToPole.isNaN())
     }
 }
