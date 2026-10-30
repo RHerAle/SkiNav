@@ -148,5 +148,26 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Haversine distance with extreme or antipodal coordinates must not return NaN or Infinite
+        val extremeDist = ResortPathfinder.haversineKm(90.0, 0.0, -90.0, 0.0)
+        assertFalse(extremeDist.isNaN())
+        assertFalse(extremeDist.isInfinite())
+
+        val antipodalDist = ResortPathfinder.haversineKm(0.0, 0.0, 0.0, 180.0)
+        assertFalse(antipodalDist.isNaN())
+        assertFalse(antipodalDist.isInfinite())
+
+        // Out-of-bounds departure times should be normalized (e.g. -900 and 1980 normalize to 540 / 09:00)
+        val pathNormTime = ResortPathfinder.findPath(alpine, "base", "summit_main", RouteFilters(departureTimeMinutes = 540))
+        assertNotNull(pathNormTime)
+
+        val pathNegTime = ResortPathfinder.findPath(alpine, "base", "summit_main", RouteFilters(departureTimeMinutes = -900))
+        assertNotNull(pathNegTime)
+        assertEquals(pathNormTime!!.size, pathNegTime!!.size)
+
+        val pathLargeTime = ResortPathfinder.findPath(alpine, "base", "summit_main", RouteFilters(departureTimeMinutes = 1980))
+        assertNotNull(pathLargeTime)
+        assertEquals(pathNormTime.size, pathLargeTime!!.size)
     }
 }

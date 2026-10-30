@@ -25,6 +25,7 @@ object ResortPathfinder {
     fun parseTimeMinutes(hhmm: String): Int? = parseTimeSlice(hhmm, 0, hhmm.length)
 
     private fun parseTimeSlice(s: String, from: Int, to: Int): Int? {
+        if (from < 0 || to > s.length || from >= to) return null
         var start = from
         var end = to
         while (start < end && s[start] <= ' ') start++
@@ -125,8 +126,8 @@ object ResortPathfinder {
         val dLng = Math.toRadians(lng2 - lng1)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng
-        return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
+        val a = (sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng).coerceIn(0.0, 1.0)
+        return 6371.0 * (2 * atan2(sqrt(a), sqrt(1.0 - a)))
     }
 
     private fun heuristicNode(resort: SkiResort, n1Id: String, endLatRad: Double, endLngRad: Double, cosEndLat: Double): Double {
@@ -136,8 +137,8 @@ object ResortPathfinder {
         val dLng = endLngRad - Math.toRadians(n1.lng)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
-        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
+        val a = (sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng).coerceIn(0.0, 1.0)
+        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1.0 - a)))
         return (distKm / 20.0) * 60.0
     }
 
@@ -168,11 +169,17 @@ object ResortPathfinder {
         if (resort.getNode(startId) == null || resort.getNode(endId) == null) return null
         if (startId == endId) return emptyList()
 
+        // Normalize departure time to range 0..1439 minutes to prevent overflow or negative wait times
+        val normalizedFilters = if (filters.departureTimeMinutes != null) {
+            val normDep = ((filters.departureTimeMinutes % 1440) + 1440) % 1440
+            filters.copy(departureTimeMinutes = normDep)
+        } else filters
+
         val endNode = resort.getNode(endId) ?: return null
         val endLatRad = Math.toRadians(endNode.lat)
         val endLngRad = Math.toRadians(endNode.lng)
         val cosEndLat = cos(endLatRad)
-        val maxDiffIdx = if (filters.maxDifficulty.isNotEmpty()) difficultyIndex(filters.maxDifficulty) else 3
+        val maxDiffIdx = if (normalizedFilters.maxDifficulty.isNotEmpty()) difficultyIndex(normalizedFilters.maxDifficulty) else 3
 
         val openSet = PriorityQueue<HeapItem>()
         val closedSet = HashSet<String>(resort.nodes.size)
@@ -192,17 +199,17 @@ object ResortPathfinder {
 
             for (neighbor in neighbors) {
                 if (neighbor.nodeId in closedSet) continue
-                if (!shouldIncludeEdge(neighbor.edge, filters, maxDiffIdx)) continue
+                if (!shouldIncludeEdge(neighbor.edge, normalizedFilters, maxDiffIdx)) continue
 
                 var busWait = 0
                 var nextDepartureTime: String? = null
                 if (neighbor.edge.type == "bus") {
-                    val waitPair = calculateBusWait(neighbor.edge, filters.departureTimeMinutes)
+                    val waitPair = calculateBusWait(neighbor.edge, normalizedFilters.departureTimeMinutes)
                     busWait = waitPair.first
                     nextDepartureTime = waitPair.second
                 }
 
-                val tentativeG = currentG + calculateEdgeCost(neighbor.edge, filters, busWait)
+                val tentativeG = currentG + calculateEdgeCost(neighbor.edge, normalizedFilters, busWait)
                 if (tentativeG < (gScore[neighbor.nodeId] ?: Double.POSITIVE_INFINITY)) {
                     cameFrom[neighbor.nodeId] = RouteStep(current, neighbor.nodeId, neighbor.edge, neighbor.reverse, busWait, nextDepartureTime)
                     gScore[neighbor.nodeId] = tentativeG
