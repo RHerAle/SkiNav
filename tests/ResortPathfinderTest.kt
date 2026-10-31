@@ -148,5 +148,24 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Sentinel security tests: bus wait calculations with negative, out-of-bounds or invalid schedules
+        val busZeroFreq = ResortEdge("bus_zero", "Zero Freq", "bus", "A", "B",
+            schedule = BusSchedule(frequencyMinutes = 0))
+        val waitDefault = ResortPathfinder.calculateBusWait(busZeroFreq, null)
+        assertEquals(7, waitDefault.first)
+
+        val busNegativeDep = ResortEdge("bus_neg", "Bus", "bus", "A", "B",
+            schedule = BusSchedule(startTime = "08:30", endTime = "17:30", frequencyMinutes = 15))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(busNegativeDep, -100))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(busNegativeDep, 20000))
+
+        // Negative duration edge should not cause infinite or negative loops
+        val corruptedAlpine = alpine.copy(
+            edges = alpine.edges.map { if (it.id == "lift_base_mid") it.copy(duration = -50.0) else it }
+        )
+        val path = ResortPathfinder.findPath(corruptedAlpine, "base", "mid_central")
+        assertNotNull(path)
+        assertTrue(path!!.isNotEmpty())
     }
 }

@@ -83,11 +83,13 @@ object ResortPathfinder {
     }
 
     // ponytail: single-pass departure search without list allocation
+    // Sentinel: validate bus schedule parameters and departure times against underflow/overflow
     fun calculateBusWait(edge: ResortEdge, departureTimeMinutes: Int?): Pair<Int, String?> {
         val sched = edge.schedule ?: return Pair(0, null)
         if (edge.type != "bus") return Pair(0, null)
-        val freq = if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15
+        val freq = if (sched.frequencyMinutes in 1..1440) sched.frequencyMinutes else 15
         if (departureTimeMinutes == null) return Pair(maxOf(1, freq / 2), null)
+        if (departureTimeMinutes < 0 || departureTimeMinutes > 10080) return Pair(0, null)
 
         val start = parseTimeMinutes(sched.startTime) ?: 510
         val end = parseTimeMinutes(sched.endTime) ?: 1050
@@ -141,9 +143,12 @@ object ResortPathfinder {
         return (distKm / 20.0) * 60.0
     }
 
+    // Sentinel: Ensure edge duration and calculated costs are non-negative, finite numbers
     private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters, busWait: Int): Double {
-        val base = if (edge.duration > 0) edge.duration else 2.0
-        if (filters.fastestRoute) return base + busWait
+        val safeBusWait = maxOf(0, busWait)
+        val rawDuration = if (edge.duration.isFinite() && edge.duration > 0.0) edge.duration else 2.0
+        val base = maxOf(0.1, rawDuration)
+        if (filters.fastestRoute) return base + safeBusWait
         val penalty = when (edge.type) {
             "slope" -> when (edge.difficulty) {
                 "green" -> 0.0
@@ -155,7 +160,7 @@ object ResortPathfinder {
             "walk" -> 2.0
             else -> 0.0
         }
-        return base + busWait + penalty
+        return base + safeBusWait + penalty
     }
 
     // ponytail: A* search using precomputed destination coordinates, direct Comparable heap, and fast edge filters
