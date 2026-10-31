@@ -60,6 +60,7 @@ data class SkiResort(
 ) {
     @Transient private var nodeMapCache: Map<String, ResortNode>? = null
     @Transient private var outgoingCache: Map<String, List<RouteNeighbor>>? = null
+    @Transient private var selectableLocationsCache: List<ResortNode>? = null
 
     // ponytail: lazy cache map lookup
     fun getNode(nodeId: String): ResortNode? =
@@ -83,7 +84,11 @@ data class SkiResort(
         return map
     }
 
+    // ⚡ Bolt: memoize selectable locations to avoid redundant O(N log N) filtering and sorting on immutable resort data
     fun getSelectableLocations(): List<ResortNode> =
+        selectableLocationsCache ?: buildSelectableLocations().also { selectableLocationsCache = it }
+
+    private fun buildSelectableLocations(): List<ResortNode> =
         nodes.filter { it.type == "station" }.sortedBy { it.name } +
             nodes.filter { it.type == "intersection" && it.name.isNotBlank() && !it.name.startsWith("Junction #") }.sortedBy { it.name }
 }
