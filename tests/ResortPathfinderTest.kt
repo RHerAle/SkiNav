@@ -149,4 +149,18 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
     }
+
+    @Test
+    fun testGetSelectableLocationsCaching() {
+        val alpine = loadResort("alpine")
+        val firstCall = alpine.getSelectableLocations()
+        val secondCall = alpine.getSelectableLocations()
+
+        // Verify identical cached instance reference
+        assertSame(firstCall, secondCall)
+
+        // Verify content correctness
+        assertTrue(firstCall.isNotEmpty())
+        assertTrue(firstCall.all { it.type == "station" || (it.type == "intersection" && it.name.isNotBlank() && !it.name.startsWith("Junction #")) })
+    }
 }
