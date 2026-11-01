@@ -1,0 +1,3 @@
+## 2026-03-30 - Lazy Caching on SkiResort Data Models
+**Learning:** SkiResort models use `@Transient private var` fields (`nodeMapCache`, `outgoingCache`) to memoize index and adjacency lookups without bloating serialized JSON payloads. Functions like `getSelectableLocations` are called frequently by callers (e.g. station pickers, route generators) and involve multiple passes of list filtering and string sorting over all nodes ($O(N \log N)$), causing significant CPU time and garbage allocation if uncached.
+**Action:** When adding helper queries or accessors on immutable resort data structures, back them with `@Transient` memoized cache variables to avoid repeated filtering and sorting.
