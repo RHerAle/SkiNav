@@ -148,5 +148,31 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Numerical stability: Antipodal and extreme coordinates must not yield NaN or crash A*
+        val antipodalDist = ResortPathfinder.haversineKm(0.0, 0.0, 0.0, 180.00000000000003)
+        assertFalse("Antipodal distance should not be NaN", antipodalDist.isNaN())
+        assertTrue("Antipodal distance should be positive", antipodalDist > 0.0)
+
+        // Synthetic resort with antipodal nodes to verify A* heuristic robustness
+        val antipodalResort = SkiResort(
+            id = "antipodal_test",
+            name = "Antipodal Test",
+            country = "Test",
+            bounds = listOf(listOf(-90.0, -180.0), listOf(90.0, 180.0)),
+            center = listOf(0.0, 0.0),
+            stats = ResortStats(),
+            nodes = listOf(
+                ResortNode("n1", "Start", 0.0, 0.0),
+                ResortNode("n2", "Antipodal Target", 0.0, 180.00000000000003)
+            ),
+            edges = listOf(
+                ResortEdge("e1", "Run", "slope", "n1", "n2", distance = 1.0, duration = 5.0)
+            )
+        )
+        val path = ResortPathfinder.findPath(antipodalResort, "n1", "n2")
+        assertNotNull("Pathfinding should succeed without NaN", path)
+        val stats = ResortPathfinder.calculateRouteStats(path!!)
+        assertEquals(5, stats.timeMinutes)
     }
 }
