@@ -13,12 +13,13 @@ object ResortPathfinder {
         override fun compareTo(other: HeapItem): Int = priority.compareTo(other.priority)
     }
 
-    private fun difficultyIndex(diff: String?): Int = when (diff) {
+    // Security: Fail securely by assigning unknown or missing slope difficulties to the highest risk tier (black/3)
+    private fun difficultyIndex(diff: String?): Int = when (diff?.lowercase()) {
         "green" -> 0
         "blue" -> 1
         "red" -> 2
         "black" -> 3
-        else -> 1
+        else -> 3
     }
 
     // ponytail: zero-alloc ASCII time parser
@@ -145,11 +146,12 @@ object ResortPathfinder {
         val base = if (edge.duration > 0) edge.duration else 2.0
         if (filters.fastestRoute) return base + busWait
         val penalty = when (edge.type) {
-            "slope" -> when (edge.difficulty) {
+            "slope" -> when (edge.difficulty?.lowercase()) {
                 "green" -> 0.0
+                "blue" -> 2.0
                 "red" -> 7.0
                 "black" -> 18.0
-                else -> 2.0
+                else -> 18.0
             }
             "bus" -> 6.0
             "walk" -> 2.0
@@ -172,7 +174,13 @@ object ResortPathfinder {
         val endLatRad = Math.toRadians(endNode.lat)
         val endLngRad = Math.toRadians(endNode.lng)
         val cosEndLat = cos(endLatRad)
-        val maxDiffIdx = if (filters.maxDifficulty.isNotEmpty()) difficultyIndex(filters.maxDifficulty) else 3
+        val maxDiffIdx = when (filters.maxDifficulty.lowercase()) {
+            "green" -> 0
+            "blue" -> 1
+            "red" -> 2
+            "black", "" -> 3
+            else -> 0 // Fail securely for unrecognized user input: restrict to easiest difficulty
+        }
 
         val openSet = PriorityQueue<HeapItem>()
         val closedSet = HashSet<String>(resort.nodes.size)

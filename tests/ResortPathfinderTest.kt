@@ -148,5 +148,23 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Security: Unknown difficulty on slopes must not be treated as easy (blue)
+        val alpineWithUnknownSlope = alpine.copy(
+            edges = alpine.edges.map { edge ->
+                if (edge.id == "s_main_mid") edge.copy(difficulty = "unknown_extreme") else edge
+            }
+        )
+        // With green or blue filter, the unknown difficulty slope must be excluded
+        val filteredPath = ResortPathfinder.findPath(alpineWithUnknownSlope, "summit_main", "base", RouteFilters(maxDifficulty = "blue"))
+        if (filteredPath != null) {
+            assertTrue(filteredPath.none { it.edge.id == "s_main_mid" })
+        }
+
+        // Unrecognized maxDifficulty filter value should fail securely (restrict to easiest/green)
+        val invalidFilterPath = ResortPathfinder.findPath(alpine, "summit_main", "base", RouteFilters(maxDifficulty = "invalid_bypass"))
+        if (invalidFilterPath != null) {
+            assertTrue(invalidFilterPath.filter { it.edge.type == "slope" }.all { it.edge.difficulty == "green" })
+        }
     }
 }
