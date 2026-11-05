@@ -148,5 +148,16 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Security: Out-of-bounds departure minutes should be safely rejected
+        assertNull(ResortPathfinder.findPath(alpine, "base", "summit_main", RouteFilters(departureTimeMinutes = -1)))
+        assertNull(ResortPathfinder.findPath(alpine, "base", "summit_main", RouteFilters(departureTimeMinutes = 1500)))
+
+        // Security: NaN or infinite edge duration should default safely and not cause PriorityQueue heap corruption
+        val nanEdge = ResortEdge("nan_edge", "Corrupt Slope", "slope", "base", "summit_main", duration = Double.NaN)
+        val nanResort = alpine.copy(edges = listOf(nanEdge))
+        val path = ResortPathfinder.findPath(nanResort, "base", "summit_main")
+        assertNotNull(path)
+        assertEquals(1, path!!.size)
     }
 }
