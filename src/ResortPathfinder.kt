@@ -109,9 +109,14 @@ object ResortPathfinder {
         return if (nextMin != null) Pair(maxOf(0, nextMin - departureTimeMinutes), formatTimeMinutes(nextMin)) else Pair(0, null)
     }
 
+    private fun sanitizeDepartureMinutes(minutes: Int?): Int? =
+        // Security: Bound departure minutes to valid daily range [0, 1439] to prevent integer overflow
+        if (minutes != null && minutes in 0..1439) minutes else null
+
     private fun shouldIncludeEdge(edge: ResortEdge, filters: RouteFilters, maxDiffIdx: Int): Boolean {
         if (filters.closedEdgeIds.isNotEmpty() && edge.id in filters.closedEdgeIds) return false
-        if (filters.departureTimeMinutes != null && !isEdgeOperatingAt(edge, filters.departureTimeMinutes)) return false
+        val validDept = sanitizeDepartureMinutes(filters.departureTimeMinutes)
+        if (filters.departureTimeMinutes != null && (validDept == null || !isEdgeOperatingAt(edge, validDept))) return false
         if (edge.type == "bus" && !filters.includeBus) return false
         if (edge.type == "slope" && filters.maxDifficulty.isNotEmpty()) {
             val edgeIdx = difficultyIndex(edge.difficulty)
@@ -142,7 +147,8 @@ object ResortPathfinder {
     }
 
     private fun calculateEdgeCost(edge: ResortEdge, filters: RouteFilters, busWait: Int): Double {
-        val base = if (edge.duration > 0) edge.duration else 2.0
+        // Security: Guard against non-finite (NaN, Infinity) or non-positive durations to prevent heap corruption and DoS
+        val base = if (edge.duration > 0.0 && edge.duration.isFinite()) edge.duration else 2.0
         if (filters.fastestRoute) return base + busWait
         val penalty = when (edge.type) {
             "slope" -> when (edge.difficulty) {
@@ -197,7 +203,7 @@ object ResortPathfinder {
                 var busWait = 0
                 var nextDepartureTime: String? = null
                 if (neighbor.edge.type == "bus") {
-                    val waitPair = calculateBusWait(neighbor.edge, filters.departureTimeMinutes)
+                    val waitPair = calculateBusWait(neighbor.edge, sanitizeDepartureMinutes(filters.departureTimeMinutes))
                     busWait = waitPair.first
                     nextDepartureTime = waitPair.second
                 }
