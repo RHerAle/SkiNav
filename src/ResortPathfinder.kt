@@ -88,6 +88,8 @@ object ResortPathfinder {
         if (edge.type != "bus") return Pair(0, null)
         val freq = if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15
         if (departureTimeMinutes == null) return Pair(maxOf(1, freq / 2), null)
+        // Sentinel: defense-in-depth - validate time bounds (0..1439) to prevent arithmetic overflow or erratic wait times
+        if (departureTimeMinutes !in 0..1439) return Pair(0, null)
 
         val start = parseTimeMinutes(sched.startTime) ?: 510
         val end = parseTimeMinutes(sched.endTime) ?: 1050
@@ -169,6 +171,9 @@ object ResortPathfinder {
         if (startId == endId) return emptyList()
 
         val endNode = resort.getNode(endId) ?: return null
+        // Sentinel: reject invalid departure time inputs outside valid daily minutes [0..1439]
+        if (filters.departureTimeMinutes != null && filters.departureTimeMinutes !in 0..1439) return null
+
         val endLatRad = Math.toRadians(endNode.lat)
         val endLngRad = Math.toRadians(endNode.lng)
         val cosEndLat = cos(endLatRad)
