@@ -113,6 +113,16 @@ class ResortPathfinderTest {
     }
 
     @Test
+    fun testSelectableLocationsCaching() {
+        val alpine = loadResort("alpine")
+        val locationsFirst = alpine.getSelectableLocations()
+        val locationsSecond = alpine.getSelectableLocations()
+        assertSame(locationsFirst, locationsSecond)
+        assertTrue(locationsFirst.isNotEmpty())
+        assertTrue(locationsFirst.all { it.type == "station" || (it.type == "intersection" && it.name.isNotBlank() && !it.name.startsWith("Junction #")) })
+    }
+
+    @Test
     fun testOutsideOperatingHoursExclusion() {
         val lift = ResortEdge("lift_1", "Chairlift", "lift", "A", "B", operatingHours = "08:45-16:45")
         val bus = ResortEdge("bus_1", "Bus", "bus", "A", "B", schedule = BusSchedule(startTime = "08:30", endTime = "17:30"))
