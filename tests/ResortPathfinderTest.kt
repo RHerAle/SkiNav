@@ -148,5 +148,17 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Out-of-bounds departure time filtering and wait calculation
+        assertNull(ResortPathfinder.findPath(alpine, "summit_main", "base", RouteFilters(departureTimeMinutes = -1)))
+        assertNull(ResortPathfinder.findPath(alpine, "summit_main", "base", RouteFilters(departureTimeMinutes = 1440)))
+        assertNull(ResortPathfinder.findPath(alpine, "summit_main", "base", RouteFilters(departureTimeMinutes = Int.MIN_VALUE)))
+        assertNull(ResortPathfinder.findPath(alpine, "summit_main", "base", RouteFilters(departureTimeMinutes = Int.MAX_VALUE)))
+
+        val bus = ResortEdge("bus_test", "Test Shuttle", "bus", "A", "B", 4.0, 10.0,
+            schedule = BusSchedule("Line", "08:30", "17:30", 15))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(bus, -100))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(bus, 1500))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(bus, Int.MIN_VALUE))
     }
 }
