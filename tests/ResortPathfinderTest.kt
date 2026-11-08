@@ -148,5 +148,14 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Schedule boundary & invalid values defense
+        val edgeZeroFreq = ResortEdge("bus_zero", "Zero Freq", "bus", "A", "B", schedule = BusSchedule(frequencyMinutes = 0))
+        val waitZero = ResortPathfinder.calculateBusWait(edgeZeroFreq, 520)
+        assertEquals(Pair(5, "08:45"), waitZero)
+        assertEquals(Pair(7, null), ResortPathfinder.calculateBusWait(edgeZeroFreq, null))
+
+        val edgeInverted = ResortEdge("bus_inv", "Inverted", "bus", "A", "B", schedule = BusSchedule(startTime = "18:00", endTime = "08:00"))
+        assertEquals(Pair(0, null), ResortPathfinder.calculateBusWait(edgeInverted, 600))
     }
 }
