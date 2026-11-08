@@ -86,11 +86,14 @@ object ResortPathfinder {
     fun calculateBusWait(edge: ResortEdge, departureTimeMinutes: Int?): Pair<Int, String?> {
         val sched = edge.schedule ?: return Pair(0, null)
         if (edge.type != "bus") return Pair(0, null)
-        val freq = if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15
+        // Security: Default non-positive frequency to 15, and bound in [1, 1440] against divide-by-zero or DoS
+        val freq = (if (sched.frequencyMinutes > 0) sched.frequencyMinutes else 15).coerceIn(1, 1440)
         if (departureTimeMinutes == null) return Pair(maxOf(1, freq / 2), null)
 
         val start = parseTimeMinutes(sched.startTime) ?: 510
         val end = parseTimeMinutes(sched.endTime) ?: 1050
+        // Security: Fail securely if daytime schedule window is inverted or malformed
+        if (start > end) return Pair(0, null)
         val exact = sched.exactDepartures
 
         val nextMin = if (!exact.isNullOrEmpty()) {
