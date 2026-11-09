@@ -73,11 +73,15 @@ object ResortPathfinder {
     /** Si una hora cae dentro de un horario «HH:mm-HH:mm». Sin horario, o con uno que no se entiende, siempre. */
     fun isWithinHours(hours: String?, timeMinutes: Int): Boolean {
         if (hours == null) return true
+        // Security: enforce input length limit and validate single dash to prevent malformed spans
+        if (hours.length > 32) return false
         val dash = hours.indexOf('-')
         if (dash > 0) {
+            if (hours.indexOf('-', dash + 1) != -1) return false
             val start = parseTimeSlice(hours, 0, dash)
             val end = parseTimeSlice(hours, dash + 1, hours.length)
-            if (start != null && end != null) return timeMinutes in start..end
+            if (start != null && end != null && start <= end) return timeMinutes in start..end
+            if (start != null || end != null) return false
         }
         return true
     }

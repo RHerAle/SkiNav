@@ -148,5 +148,11 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Operating hours security validation
+        assertFalse(ResortPathfinder.isWithinHours("18:00-08:00", 600)) // inverted range
+        assertFalse(ResortPathfinder.isWithinHours("08:00-12:00-16:00", 600)) // multiple dashes
+        assertFalse(ResortPathfinder.isWithinHours("08:00-invalid", 600)) // half invalid
+        assertFalse(ResortPathfinder.isWithinHours("A".repeat(35), 600)) // excessively long string
     }
 }
