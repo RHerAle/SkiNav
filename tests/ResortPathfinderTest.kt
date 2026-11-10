@@ -148,5 +148,14 @@ class ResortPathfinderTest {
         assertNull(ResortPathfinder.parseTimeMinutes("12:60"))
         assertNull(ResortPathfinder.parseTimeMinutes(":15"))
         assertNull(ResortPathfinder.parseTimeMinutes("12:"))
+
+        // Haversine boundary and antipodal distance checks should never produce NaN
+        val antipodal = ResortPathfinder.haversineKm(0.0, 0.0, 0.0, 180.0)
+        assertFalse(antipodal.isNaN())
+        assertTrue(antipodal > 20000.0)
+
+        val identical = ResortPathfinder.haversineKm(45.0, 6.0, 45.0, 6.0)
+        assertFalse(identical.isNaN())
+        assertEquals(0.0, identical, 0.001)
     }
 }
