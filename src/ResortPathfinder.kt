@@ -120,15 +120,18 @@ object ResortPathfinder {
         return true
     }
 
+    // Security: clamp `a` to [0.0, 1.0] to prevent IEEE-754 precision inaccuracies
+    // from causing sqrt(1 - a) to produce Double.NaN, which corrupts priority queues.
     fun haversineKm(lat1: Double, lng1: Double, lat2: Double, lng2: Double): Double {
         val dLat = Math.toRadians(lat2 - lat1)
         val dLng = Math.toRadians(lng2 - lng1)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng
-        return 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
+        val a = (sLat * sLat + cos(Math.toRadians(lat1)) * cos(Math.toRadians(lat2)) * sLng * sLng).coerceIn(0.0, 1.0)
+        return 6371.0 * (2 * atan2(sqrt(a), sqrt(1.0 - a)))
     }
 
+    // Security: clamp `a` to prevent NaN heuristics that disrupt A* priority queue invariants.
     private fun heuristicNode(resort: SkiResort, n1Id: String, endLatRad: Double, endLngRad: Double, cosEndLat: Double): Double {
         val n1 = resort.getNode(n1Id) ?: return 0.0
         val n1LatRad = Math.toRadians(n1.lat)
@@ -136,8 +139,8 @@ object ResortPathfinder {
         val dLng = endLngRad - Math.toRadians(n1.lng)
         val sLat = sin(dLat * 0.5)
         val sLng = sin(dLng * 0.5)
-        val a = sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng
-        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1 - a)))
+        val a = (sLat * sLat + cos(n1LatRad) * cosEndLat * sLng * sLng).coerceIn(0.0, 1.0)
+        val distKm = 6371.0 * (2 * atan2(sqrt(a), sqrt(1.0 - a)))
         return (distKm / 20.0) * 60.0
     }
 
